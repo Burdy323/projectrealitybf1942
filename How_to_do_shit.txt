@@ -1,0 +1,41 @@
+Unpack objects.rfa located in: Battlefield 1942\Mods\wwiireality\archives
+
+When unpacked it will soort all stuff by catagories.
+Structure:
+	-Objects
+		-Added
+		-Buildings
+		-Common
+		-Effects
+		-HandWeapons
+		-Items
+		-MOVE_FILES
+		-Soldiers
+		-Stationary_Weapons
+		-Vegetation
+		-Vehicles
+
+Changing kit:
+Go into the Items folder Choose the faction and edit the Objects.con
+In the folder HandWeapons are all the weapons listed that can be used in the kits.
+
+Editing vehcile parms:
+Go into the folder "Vehicles:"
+			-Air
+			-Common
+			-Land
+			-Sea
+
+Choose any catagorie.
+Objects.con has all the common parms in it.
+Weapons.con consists of all the weapon parms.
+To change amount of ammo edit "ObjectTemplate.magSize 400"
+The amount of reloads is "ObjectTemplate.numOfMag 5" set to five so five reloads.
+To change the velocity go too "ObjectTemplate.velocity 832" and change the value.
+
+For planes "(PlaneName)BombDummy" is the Bomb ammo and parms.
+
+Important Locations:
+http://www.bfmods.com/viewforum.php?f=3
+http://battlefieldmodding.com/ssm/phpBB3/viewforum.php?f=3&sid=4a2e9c4fe9ab796036312a43ef3a4a41
+http://bfmods.com/mdt/Tutorials/Overview/Overview.html
