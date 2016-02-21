@@ -175,22 +175,24 @@ ObjectTemplate.setPosition 6.685/18.605/-8.397
 ObjectTemplate.setRotation 87/0/0
 ObjectTemplate.addTemplate Ammobox
 ObjectTemplate.setPosition 11.7/18.605/-118.999
+
+rem -------------------------------------------
+rem -------------------------------------------
+rem -------------------------------------------
+rem ---- ***   Repair  and  Resuply   *** -----
+rem -------------------------------------------
+rem -------------------------------------------
+rem -------------------------------------------
 ObjectTemplate.addTemplate EnterpriseAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/15/-100
+ObjectTemplate.setPosition -3/18.605/-103.999
 ObjectTemplate.addTemplate EnterpriseAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/15/-70
+ObjectTemplate.setPosition 2/18.605/-103.999
 ObjectTemplate.addTemplate EnterpriseAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/15/-40
+ObjectTemplate.setPosition -3/18.605/-98.999
 ObjectTemplate.addTemplate EnterpriseAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/15/-10
-ObjectTemplate.addTemplate EnterpriseAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/15/20
-ObjectTemplate.addTemplate EnterpriseAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/15/50
-ObjectTemplate.addTemplate EnterpriseAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/15/70
-ObjectTemplate.addTemplate EnterpriseAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/15/100
+ObjectTemplate.setPosition 2/18.605/-98.999
+
+
 ObjectTemplate.addTemplate ShipLadder02
 ObjectTemplate.setPosition -15.489/15.935/-51.694
 ObjectTemplate.setRotation -90/4/0
@@ -203,14 +205,26 @@ rem -------------------------------------
 
 rem *** EnterpriseAirplaneSupplyDepot ***
 ObjectTemplate.create SupplyDepot EnterpriseAirplaneSupplyDepot
-ObjectTemplate.radius 20
-ObjectTemplate.team 0
-ObjectTemplate.setHealth 0 0 0
+ObjectTemplate.radius 5
+ObjectTemplate.team 2
+ObjectTemplate.addVehicleType corsair -1 4 0
+ObjectTemplate.addVehicleType sbd -1 4 0
+ObjectTemplate.addVehicleType sbd-t -1 4 0
+ObjectTemplate.addVehicleType mustang -1 4 0
+ObjectTemplate.addVehicleType spitfire -1 4 0
+ObjectTemplate.addVehicleType bf109 -1 4 0
+ObjectTemplate.addVehicleType stuka -1 4 0
+ObjectTemplate.addVehicleType aichival -1 4 0
+ObjectTemplate.addVehicleType aichival-t -1 4 0
+ObjectTemplate.addVehicleType zero -1 4 0
+ObjectTemplate.addVehicleType yak9 -1 4 0
+ObjectTemplate.addVehicleType BF110 -1 4 0
+ObjectTemplate.addVehicleType Mosquito -1 4 0
+
 ObjectTemplate.addAmmoType 10 -1 20 0
-ObjectTemplate.addAmmoType 9 -1 0.02 0
+ObjectTemplate.addAmmoType 9 -1 0.002 0
 ObjectTemplate.workOnVehicles 1
 ObjectTemplate.workOnSoldiers 0
-
 
 rem *** Enterprise_DriverSoldierSpawn ***
 ObjectTemplate.create SpawnPoint Enterprise_DriverSoldierSpawn
