@@ -17,3 +17,5 @@ http://www.bfmods.com/viewtopic.php?f=6&t=770 (damage bubble effect on child obj
 http://www.bfmods.com/viewtopic.php?f=9&t=13 (View Distance and LOD Distance Change info)
 
 http://bfmods.com/mdt/scripting/ObjectTemplate/Properties/CullRadiusScale.html (Also for LOD ^^)
+
+http://bfmods.com/mdt/scripting/Intro.html (All scripting commands)
