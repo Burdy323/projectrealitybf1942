@@ -1,0 +1,40 @@
+rem ControlPoints.con created by Battlecraft 1942
+rem (D:\Battlefield 1942\Mods\bf1942\bf1942\levels\Hawaii/ctf/ControlPoints.con)
+
+rem ----------------------------------------- 
+rem ---  Maui  ---
+rem ----------------------------------------- 
+Object.create Maui
+Object.absolutePosition 2421.98/35.37/2136.54
+
+rem ----------------------------------------- 
+rem ---  Hawaii  ---
+rem ----------------------------------------- 
+Object.create Hawaii
+Object.absolutePosition 2732.80/35.46/1660.07
+
+rem ----------------------------------------- 
+rem ---  Oahu  ---
+rem ----------------------------------------- 
+Object.create Oahu
+Object.absolutePosition 1891.54/35.51/2361.80
+
+rem ----------------------------------------- 
+rem ---  Kauai  ---
+rem ----------------------------------------- 
+Object.create Kauai
+Object.absolutePosition 1395.95/39.62/2525.15
+
+rem ----------------------------------------- 
+rem ---  Pearl_Harbor  ---
+rem ----------------------------------------- 
+Object.create Pearl_Harbor
+Object.absolutePosition 2585.34/35.57/1790.22
+
+rem ----------------------------------------- 
+rem ---  Mauna_Loa  ---
+rem ----------------------------------------- 
+Object.create Mauna_Loa
+Object.absolutePosition 2667.10/70.61/1803.66
+
+rem EndOfFile

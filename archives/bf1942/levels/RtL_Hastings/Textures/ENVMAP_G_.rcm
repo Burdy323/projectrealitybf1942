@@ -1,0 +1,7 @@
+[CubeMap]
+PositiveX = bf1942\levels\RtL_Hastings\Textures\env_RtL_Hastings_04.dds
+NegativeX = bf1942\levels\RtL_Hastings\Textures\env_RtL_Hastings_02.dds
+PositiveY = bf1942\levels\RtL_Hastings\Textures\env_RtL_Hastings_05.dds
+NegativeY = bf1942\levels\RtL_Hastings\Textures\env_RtL_Hastings_06.dds
+PositiveZ = bf1942\levels\RtL_Hastings\Textures\env_RtL_Hastings_03.dds
+NegativeZ = bf1942\levels\RtL_Hastings\Textures\env_RtL_Hastings_01.dds

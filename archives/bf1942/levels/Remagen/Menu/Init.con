@@ -1,0 +1,11 @@
+rem *********************************************
+rem Created by Battlecraft 1942.  Copyright (c)2003,2004 Digital Illusions CE
+rem *********************************************
+Game.setLocalized 1
+
+game.setLoadPicture ../../bf1942/levels/Remagen/Menu/Loadscreen/Remagen.tga
+Load/Eastern.tga
+
+game.setMultiplayerBriefingObjectives "This is a Conquest: Assault map. The Allied team will quickly reduce the Axis tickets by capturing all the control point. The Axis team can gradually reduce the Allied tickets by holding all control points."
+
+game.setMapId "DRK42"

@@ -1,0 +1,67 @@
+rem ---  AlliedBase_Spawn1  ---
+ObjectTemplate.create SpawnPoint AlliedBase_Spawn1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 2
+
+rem ---  AlliedBase_Spawn2  ---
+ObjectTemplate.create SpawnPoint AlliedBase_Spawn2
+ObjectTemplate.setSpawnId 5
+ObjectTemplate.setGroup 2
+
+rem ---  AlliedBase_Spawn3  ---
+ObjectTemplate.create SpawnPoint AlliedBase_Spawn3
+ObjectTemplate.setSpawnId 6
+ObjectTemplate.setGroup 2
+
+rem ---  AlliedBase_Spawn4  ---
+ObjectTemplate.create SpawnPoint AlliedBase_Spawn4
+ObjectTemplate.setSpawnId 27
+ObjectTemplate.setGroup 2
+
+rem ---  The_Ferry_dock_Spawn1  ---
+ObjectTemplate.create SpawnPoint The_Ferry_dock_Spawn1
+ObjectTemplate.setSpawnId 7
+ObjectTemplate.setGroup 4
+
+rem ---  The_Ferry_dock_Spawn2  ---
+ObjectTemplate.create SpawnPoint The_Ferry_dock_Spawn2
+ObjectTemplate.setSpawnId 9
+ObjectTemplate.setGroup 4
+
+rem ---  The_Ferry_dock_Spawn3  ---
+ObjectTemplate.create SpawnPoint The_Ferry_dock_Spawn3
+ObjectTemplate.setSpawnId 10
+ObjectTemplate.setGroup 4
+ObjectTemplate.setAIEnterOnSpawn 1
+
+rem ---  The_Ferry_dock_Spawn4  ---
+ObjectTemplate.create SpawnPoint The_Ferry_dock_Spawn4
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 4
+
+rem ---  Remagen_Park_Spawn1  ---
+ObjectTemplate.create SpawnPoint Remagen_Park_Spawn1
+ObjectTemplate.setSpawnId 15
+ObjectTemplate.setGroup 6
+
+rem ---  Remagen_Park_Spawn2  ---
+ObjectTemplate.create SpawnPoint Remagen_Park_Spawn2
+ObjectTemplate.setSpawnId 16
+ObjectTemplate.setGroup 6
+
+rem ---  Remagen_Park_Spawn3  ---
+ObjectTemplate.create SpawnPoint Remagen_Park_Spawn3
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 6
+
+rem ---  Remagen_Park_Spawn4  ---
+ObjectTemplate.create SpawnPoint Remagen_Park_Spawn4
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 6
+
+rem ---  Remagen_Park_Spawn5  ---
+ObjectTemplate.create SpawnPoint Remagen_Park_Spawn5
+ObjectTemplate.setSpawnId 19
+ObjectTemplate.setGroup 6
+
+

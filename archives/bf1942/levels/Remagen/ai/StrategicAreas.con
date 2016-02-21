@@ -1,0 +1,42 @@
+if v_arg1 == host
+rem ----- Host 
+rem ---------------------------------------------------------------------------- 
+
+rem *** Create vehicle groups ***
+
+rem *** Create strategic areas ***
+aiStrategicArea.create AlliedBase             688/1388  692/1392  20
+aiStrategicArea.create The_Ferry_dock         888/1197  899/1208 100
+aiStrategicArea.create Remagen_Park           758/1122  772/1136 100
+
+aiStrategicArea.setActive AlliedBase
+aiStrategicArea.addNeighbour The_Ferry_dock
+aiStrategicArea.addNeighbour Remagen_Park 
+aiStrategicArea.addObjectTypeFlag West
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.setOrderPosition Tank 704/1398
+aiStrategicArea.setOrderPosition Infantry 704/1398
+aiStrategicArea.setSide 2
+aiStrategicArea.isTakeable 0
+
+aiStrategicArea.setActive The_Ferry_dock
+aiStrategicArea.addNeighbour AlliedBase
+aiStrategicArea.addNeighbour Remagen_Park 
+aiStrategicArea.addObjectTypeFlag West
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.setOrderPosition Tank 883/1204
+aiStrategicArea.setOrderPosition Infantry 883/1204
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive Remagen_Park
+aiStrategicArea.addNeighbour AlliedBase
+aiStrategicArea.addNeighbour The_Ferry_dock
+aiStrategicArea.addObjectTypeFlag West
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.setOrderPosition Tank 818/1135
+aiStrategicArea.setOrderPosition Infantry 818/1135
+aiStrategicArea.setSide 1
+
+
+rem ----------------------------------------------------------------------------
+endIf

@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject copyOfCityMesh1Closed_m1
+ObjectTemplate.geometry copyOfCityMesh1Closed_m1
+ObjectTemplate.setHasCollisionPhysics 1

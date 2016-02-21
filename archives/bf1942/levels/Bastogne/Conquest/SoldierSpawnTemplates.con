@@ -1,0 +1,388 @@
+rem 
+rem setup spawnpoints templates
+rem 
+
+rem*****************************************
+rem ****          AXIS BASE           *****
+rem ****************************************
+
+ObjectTemplate.create SpawnPoint AxisSpawnPoint_1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 1
+
+ObjectTemplate.create SpawnPoint AxisSpawnPoint_2
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+
+ObjectTemplate.create SpawnPoint AxisSpawnPoint_3
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+
+ObjectTemplate.create SpawnPoint AxisSpawnPoint_4
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 1
+
+ObjectTemplate.create SpawnPoint AxisSpawnPoint_5
+ObjectTemplate.setSpawnId 5
+ObjectTemplate.setGroup 1
+
+ObjectTemplate.create SpawnPoint AxisSpawnPoint_6
+ObjectTemplate.setSpawnId 6
+ObjectTemplate.setGroup 1
+
+ObjectTemplate.create SpawnPoint AxisSpawnPoint_7
+ObjectTemplate.setSpawnId 7
+ObjectTemplate.setGroup 1
+
+rem*****************************************
+rem ****        Second Axis Base       *****
+rem ****************************************
+
+ObjectTemplate.create SpawnPoint volkSpawnPoint_1 
+ObjectTemplate.setSpawnId 8
+ObjectTemplate.setGroup 2
+
+ObjectTemplate.create SpawnPoint volkSpawnPoint_2 
+ObjectTemplate.setSpawnId 9
+ObjectTemplate.setGroup 2
+
+ObjectTemplate.create SpawnPoint volkSpawnPoint_3
+ObjectTemplate.setSpawnId 10
+ObjectTemplate.setGroup 2
+
+ObjectTemplate.create SpawnPoint volkSpawnPoint_4 
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 2
+
+ObjectTemplate.create SpawnPoint volkSpawnPoint_5 
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 2
+
+ObjectTemplate.create SpawnPoint volkSpawnPoint_6 
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 2
+
+ObjectTemplate.create SpawnPoint volkSpawnPoint_7
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 2
+
+
+rem*****************************************
+rem **** 	bastogne    	*****
+rem ****************************************
+
+
+ObjectTemplate.create SpawnPoint bastogne_1
+ObjectTemplate.setSpawnId 15
+ObjectTemplate.setGroup 3
+
+ObjectTemplate.create SpawnPoint bastogne_2
+ObjectTemplate.setSpawnId 16
+ObjectTemplate.setGroup 3
+
+ObjectTemplate.create SpawnPoint bastogne_3
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 3
+
+ObjectTemplate.create SpawnPoint bastogne_4
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 3
+
+ObjectTemplate.create SpawnPoint bastogne_5
+ObjectTemplate.setSpawnId 19
+ObjectTemplate.setGroup 3
+
+ObjectTemplate.create SpawnPoint bastogne_6
+ObjectTemplate.setSpawnId 20
+ObjectTemplate.setGroup 3
+
+ObjectTemplate.create SpawnPoint bastogne_7
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 3
+
+rem ****************************************
+rem ****	mageret 		****
+rem ****************************************
+
+ObjectTemplate.create SpawnPoint mageret_1
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 4
+
+ObjectTemplate.create SpawnPoint mageret_2
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 4
+
+ObjectTemplate.create SpawnPoint mageret_3
+ObjectTemplate.setSpawnId 24
+ObjectTemplate.setGroup 4
+
+ObjectTemplate.create SpawnPoint mageret_4
+ObjectTemplate.setSpawnId 25
+ObjectTemplate.setGroup 4
+
+ObjectTemplate.create SpawnPoint mageret_5
+ObjectTemplate.setSpawnId 26
+ObjectTemplate.setGroup 4
+
+ObjectTemplate.create SpawnPoint mageret_6
+ObjectTemplate.setSpawnId 27
+ObjectTemplate.setGroup 4
+
+ObjectTemplate.create SpawnPoint mageret_7
+ObjectTemplate.setSpawnId 28
+ObjectTemplate.setGroup 4
+
+rem*****************************************
+rem ****       mont bastogne           *****
+rem ****************************************
+
+ObjectTemplate.create SpawnPoint mont_1
+ObjectTemplate.setSpawnId 29
+ObjectTemplate.setGroup 5
+
+ObjectTemplate.create SpawnPoint mont_2
+ObjectTemplate.setSpawnId 30
+ObjectTemplate.setGroup 5
+
+ObjectTemplate.create SpawnPoint mont_3
+ObjectTemplate.setSpawnId 31
+ObjectTemplate.setGroup 5
+
+ObjectTemplate.create SpawnPoint mont_4
+ObjectTemplate.setSpawnId 32
+ObjectTemplate.setGroup 5
+
+ObjectTemplate.create SpawnPoint mont_5
+ObjectTemplate.setSpawnId 33
+ObjectTemplate.setGroup 5
+
+ObjectTemplate.create SpawnPoint mont_6
+ObjectTemplate.setSpawnId 34
+ObjectTemplate.setGroup 5
+
+ObjectTemplate.create SpawnPoint mont_7
+ObjectTemplate.setSpawnId 35
+ObjectTemplate.setGroup 5
+
+
+rem*****************************************
+rem ****       villeroux           *****
+rem ****************************************
+
+ObjectTemplate.create SpawnPoint villeroux_1
+ObjectTemplate.setSpawnId 36
+ObjectTemplate.setGroup 6
+
+ObjectTemplate.create SpawnPoint villeroux_2
+ObjectTemplate.setSpawnId 37
+ObjectTemplate.setGroup 6
+
+ObjectTemplate.create SpawnPoint villeroux_3
+ObjectTemplate.setSpawnId 38
+ObjectTemplate.setGroup 6
+
+ObjectTemplate.create SpawnPoint villeroux_4
+ObjectTemplate.setSpawnId 39
+ObjectTemplate.setGroup 6
+
+ObjectTemplate.create SpawnPoint villeroux_5
+ObjectTemplate.setSpawnId 40
+ObjectTemplate.setGroup 6
+
+ObjectTemplate.create SpawnPoint villeroux_6
+ObjectTemplate.setSpawnId 41
+ObjectTemplate.setGroup 6
+
+ObjectTemplate.create SpawnPoint villeroux_7
+ObjectTemplate.setSpawnId 42
+ObjectTemplate.setGroup 6
+
+rem*****************************************
+rem ****       champs                 *****
+rem ****************************************
+
+ObjectTemplate.create SpawnPoint champs_1
+ObjectTemplate.setSpawnId 43
+ObjectTemplate.setGroup 7
+
+ObjectTemplate.create SpawnPoint champs_2
+ObjectTemplate.setSpawnId 44
+ObjectTemplate.setGroup 7
+
+ObjectTemplate.create SpawnPoint champs_3
+ObjectTemplate.setSpawnId 45
+ObjectTemplate.setGroup 7
+
+ObjectTemplate.create SpawnPoint champs_4
+ObjectTemplate.setSpawnId 46
+ObjectTemplate.setGroup 7
+
+ObjectTemplate.create SpawnPoint champs_5
+ObjectTemplate.setSpawnId 47
+ObjectTemplate.setGroup 7
+
+ObjectTemplate.create SpawnPoint champs_6
+ObjectTemplate.setSpawnId 48
+ObjectTemplate.setGroup 7
+
+ObjectTemplate.create SpawnPoint champs_7
+ObjectTemplate.setSpawnId 49
+ObjectTemplate.setGroup 7
+
+
+rem*****************************************
+rem ****       airborne                *****
+rem ****************************************
+
+ObjectTemplate.create SpawnPoint ParashutSpawnPoint_1
+ObjectTemplate.setSpawnId 50
+ObjectTemplate.setGroup 8
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint ParashutSpawnPoint_1
+ObjectTemplate.setSpawnId 51
+ObjectTemplate.setGroup 8
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint ParashutSpawnPoint_2
+ObjectTemplate.setSpawnId 52
+ObjectTemplate.setGroup 8
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint ParashutSpawnPoint_3
+ObjectTemplate.setSpawnId 53
+ObjectTemplate.setGroup 8
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint ParashutSpawnPoint_4
+ObjectTemplate.setSpawnId 54
+ObjectTemplate.setGroup 8
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint ParashutSpawnPoint_5
+ObjectTemplate.setSpawnId 55
+ObjectTemplate.setGroup 8
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint ParashutSpawnPoint_6
+ObjectTemplate.setSpawnId 56
+ObjectTemplate.setGroup 8
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint ParashutSpawnPoint_7
+ObjectTemplate.setSpawnId 57
+ObjectTemplate.setGroup 8
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint ParashutSpawnPoint_8
+ObjectTemplate.setSpawnId 58
+ObjectTemplate.setGroup 8
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint ParashutSpawnPoint_9
+ObjectTemplate.setSpawnId 59
+ObjectTemplate.setGroup 8
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint ParashutSpawnPoint_10
+ObjectTemplate.setSpawnId 60
+ObjectTemplate.setGroup 8
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+rem*****************************************
+rem ****       fallschirmjager         *****
+rem ****************************************
+
+ObjectTemplate.create SpawnPoint fallschirm_1
+ObjectTemplate.setSpawnId 61
+ObjectTemplate.setGroup 9
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint fallschirm_2
+ObjectTemplate.setSpawnId 62
+ObjectTemplate.setGroup 9
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint fallschirm_3
+ObjectTemplate.setSpawnId 63
+ObjectTemplate.setGroup 9
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint fallschirm_4
+ObjectTemplate.setSpawnId 64
+ObjectTemplate.setGroup 9
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint fallschirm_5
+ObjectTemplate.setSpawnId 65
+ObjectTemplate.setGroup 9
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint fallschirm_6
+ObjectTemplate.setSpawnId 66
+ObjectTemplate.setGroup 9
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint fallschirm_7
+ObjectTemplate.setSpawnId 67
+ObjectTemplate.setGroup 9
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint fallschirm_8
+ObjectTemplate.setSpawnId 68
+ObjectTemplate.setGroup 9
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint fallschirm_9
+ObjectTemplate.setSpawnId 69
+ObjectTemplate.setGroup 9
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+ObjectTemplate.create SpawnPoint fallschirm_10
+ObjectTemplate.setSpawnId 70
+ObjectTemplate.setGroup 9
+ObjectTemplate.setSpawnAsParaTroper 1
+rem
+rem ***  ***
+rem
+rem EndOfFile

@@ -1,0 +1,29 @@
+ObjectTemplate.create Kit 0USMarine_Officer
+ObjectTemplate.setType Assault
+ObjectTemplate.setKitTeam 2
+ObjectTemplate.geometry Kit_Allies_Assault
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate UsMarine_Helmet
+ObjectTemplate.addTemplate UsMarine_Backpack
+ObjectTemplate.addTemplate USMarine_Hip_Pack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_at_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_at_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_alliesKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_thompson.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_binoculars.tga"
+
+ObjectTemplate.setKitIcon 0 "kits/Icon_medic_allies_selected.tga"
+ObjectTemplate.setKitName 0 "OFFICER"
+ObjectTemplate.setKitActiveName 0 "ACTIVE OFFICERS"
+
+
+ObjectTemplate.addTemplate Thompson
+ObjectTemplate.addTemplate KnifeAllies
+ObjectTemplate.addTemplate Binoculars
+
+ObjectTemplate.aitemplate Assault

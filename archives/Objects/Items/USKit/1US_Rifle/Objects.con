@@ -1,0 +1,26 @@
+ObjectTemplate.create Kit 1US_Rifle
+ObjectTemplate.setType Assault
+ObjectTemplate.setKitTeam 2
+ObjectTemplate.geometry Kit_Allies_Assault
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Us_Helmet
+ObjectTemplate.addTemplate Us_Assault_BackPack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_engineer_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_engineer_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_alliesKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_m1_garand.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_grenadeallies.tga"
+
+ObjectTemplate.setKitIcon 1 "kits/icon_engineer_usmarines_selected.tga"
+ObjectTemplate.setKitName 1 "RIFLEMAN"
+ObjectTemplate.setKitActiveName 1 "ACTIVE RIFLEMEN"
+
+ObjectTemplate.addTemplate M1Garand
+ObjectTemplate.addTemplate KnifeAllies
+
+ObjectTemplate.addTemplate GrenadeAllies
+ObjectTemplate.aitemplate Assault

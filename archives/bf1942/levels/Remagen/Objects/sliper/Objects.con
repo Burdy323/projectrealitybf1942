@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject sliper
+ObjectTemplate.geometry sliper
+ObjectTemplate.setHasCollisionPhysics 1
+

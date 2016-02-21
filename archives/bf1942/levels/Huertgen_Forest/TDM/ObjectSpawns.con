@@ -1,0 +1,238 @@
+rem ObjectSpawns.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Huertgen_Forest/tdm/ObjectSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  Jeep  ---
+rem ----------------------------------------- 
+Object.create Jeep
+Object.absolutePosition 925.037170/75.824997/148.000000
+Object.rotation 0.000000/0.000000/0.000000
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  halftrack  ---
+rem ----------------------------------------- 
+Object.create halftrack
+Object.absolutePosition 959.147522/75.825005/160.298676
+Object.rotation 270.000000/0.000000/0.000000
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Jeep  ---
+rem ----------------------------------------- 
+Object.create Jeep
+Object.absolutePosition 930.000000/75.809402/148.000000
+Object.rotation 0.000000/0.000000/0.000000
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Hvy_Tank  ---
+rem ----------------------------------------- 
+Object.create Hvy_Tank
+Object.absolutePosition 940.000000/75.805603/185.000000
+Object.rotation 180.000000/0.000000/0.000000
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Med_Tank  ---
+rem ----------------------------------------- 
+Object.create Med_Tank
+Object.absolutePosition 946.193481/75.805603/185.000000
+Object.rotation 180.000000/0.000000/0.000000
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Jeep  ---
+rem ----------------------------------------- 
+Object.create Jeep
+Object.absolutePosition 639.465942/57.740578/581.858948
+Object.rotation -89.000000/0.000000/0.000000
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jeep  ---
+rem ----------------------------------------- 
+Object.create Jeep
+Object.absolutePosition 439.276672/65.950035/575.301758
+Object.rotation 0.000000/0.000000/0.000000
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Med_Tank  ---
+rem ----------------------------------------- 
+Object.create Med_Tank
+Object.absolutePosition 487.210449/76.148438/805.132935
+Object.rotation -246.500000/0.000000/0.000000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  halftrack  ---
+rem ----------------------------------------- 
+Object.create halftrack
+Object.absolutePosition 538.052490/76.148438/822.689636
+Object.rotation 180.000000/0.000000/0.000000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jeep  ---
+rem ----------------------------------------- 
+Object.create Jeep
+Object.absolutePosition 547.908325/76.154404/796.447327
+Object.rotation 270.000000/0.000000/0.000000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  defgun  ---
+rem ----------------------------------------- 
+Object.create defgun
+Object.absolutePosition 896.981628/78.114098/138.778198
+Object.rotation -37.000000/0.000000/0.000000
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Hvy_Tank  ---
+rem ----------------------------------------- 
+Object.create Hvy_Tank
+Object.absolutePosition 164.002808/86.023697/670.342529
+Object.rotation 180.000000/0.000000/0.000000
+Object.setOSId 6
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  halftrack  ---
+rem ----------------------------------------- 
+Object.create halftrack
+Object.absolutePosition 191.263901/86.019096/620.000000
+Object.rotation 0.000000/0.000000/0.000000
+Object.setOSId 6
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jeep  ---
+rem ----------------------------------------- 
+Object.create Jeep
+Object.absolutePosition 183.094604/86.018303/621.500000
+Object.rotation 0.000000/0.000000/0.000000
+Object.setOSId 6
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HMG  ---
+rem ----------------------------------------- 
+Object.create HMG
+Object.absolutePosition 464.220001/67.507004/604.364990
+Object.rotation 111.500000/0.000000/0.000000
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HMG  ---
+rem ----------------------------------------- 
+Object.create HMG
+Object.absolutePosition 553.930420/87.940002/648.450012
+Object.rotation -205.500000/0.000000/0.000000
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HMG  ---
+rem ----------------------------------------- 
+Object.create HMG
+Object.absolutePosition 872.504211/86.690796/222.554916
+Object.rotation -36.500000/0.000000/0.000000
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  HMG  ---
+rem ----------------------------------------- 
+Object.create HMG
+Object.absolutePosition 778.005005/87.550003/411.750000
+Object.rotation -181.000000/0.000000/0.000000
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HMG  ---
+rem ----------------------------------------- 
+Object.create HMG
+Object.absolutePosition 748.900024/80.044998/394.950012
+Object.rotation -213.500000/0.000000/0.000000
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HMG  ---
+rem ----------------------------------------- 
+Object.create HMG
+Object.absolutePosition 638.099976/58.630001/572.077881
+Object.rotation -178.500000/0.000000/0.000000
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HMG  ---
+rem ----------------------------------------- 
+Object.create HMG
+Object.absolutePosition 454.700012/67.456902/572.799988
+Object.rotation 80.500000/0.000000/0.000000
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HMG  ---
+rem ----------------------------------------- 
+Object.create HMG
+Object.absolutePosition 441.432587/79.686600/708.869812
+Object.rotation -196.000000/0.000000/0.000000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HMG  ---
+rem ----------------------------------------- 
+Object.create HMG
+Object.absolutePosition 234.300003/87.330017/634.098206
+Object.rotation 59.000000/0.000000/0.000000
+Object.setOSId 6
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HMG  ---
+rem ----------------------------------------- 
+Object.create HMG
+Object.absolutePosition 337.172913/81.212502/629.644775
+Object.rotation 9.500000/0.000000/0.000000
+Object.setOSId 6
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  defgun  ---
+rem ----------------------------------------- 
+Object.create defgun
+Object.absolutePosition 223.500000/84.500000/673.500000
+Object.rotation 90.000000/0.000000/0.000000
+Object.setOSId 6
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HMG  ---
+rem ----------------------------------------- 
+Object.create HMG
+Object.absolutePosition 612.619995/43.099201/507.980011
+Object.rotation -227.000000/0.000000/0.000000
+Object.setOSId 3
+Object.setTeam 1
+
+rem EndOfFile

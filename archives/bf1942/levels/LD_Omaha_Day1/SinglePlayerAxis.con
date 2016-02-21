@@ -1,0 +1,25 @@
+run singleplayer/ControlPointTemplates
+run singleplayer/SpawnpointManagerSettings
+run singleplayer/SoldierSpawnTemplates
+run singleplayer/SoldierSpawns
+run singleplayer/ObjectSpawnTemplates
+
+
+
+
+Game.setNumberOfTickets 1 50
+Game.setNumberOfTickets 2 120
+Game.setTicketLostPerMin 1 50
+Game.setTicketLostPerMin 2 8
+game.maxNrofPlayers 18
+
+if v_arg1 == host
+rem ----- Host 
+rem ---------------------------------------------------------------------------- 
+run ai
+
+run SinglePlayer/ObjectSpawns
+run singleplayer/ControlPoints
+rem *** Always spawn immediatly in singleplayer missions!
+game.timeToNextWave 20
+endIf

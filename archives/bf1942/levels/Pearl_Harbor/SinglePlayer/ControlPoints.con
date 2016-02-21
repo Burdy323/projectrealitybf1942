@@ -1,0 +1,28 @@
+rem *** pearlharbor_halfisle ***
+Object.create pearlharbor_halfisle
+Object.absolutePosition 1718.931/34.8/2355.054
+
+rem *** pearlharbor_isle ***
+Object.create pearlharbor_isle
+Object.absolutePosition 2505.258/53.2/2865.674
+
+rem *** pearlharbor_beach_right ***
+Object.create pearlharbor_beach_right
+Object.absolutePosition 3434.128/30.8/1878.222
+
+rem *** pearlharbor_beach_left ***
+Object.create pearlharbor_beach_left
+Object.absolutePosition 697.8019/29.92188/1127.578
+
+rem *** pearlharbor_city ***
+Object.create pearlharbor_city
+Object.absolutePosition 1826.312/30.50312/3398.646
+
+rem *** controlpoint2 ***
+Object.create controlpoint2
+Object.absolutePosition 180.6052/30.8/2232.69
+
+rem *** controlpoint_hafen ***
+Object.create controlpoint_hafen
+Object.absolutePosition 2516.405/32.22187/2216.535
+

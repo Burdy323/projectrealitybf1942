@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject StaticZero
+ObjectTemplate.geometry StaticZero
+ObjectTemplate.setHasCollisionPhysics 1
+ 

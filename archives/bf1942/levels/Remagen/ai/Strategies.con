@@ -1,0 +1,81 @@
+if v_arg1 == host
+
+aiStrategy.createStrategy axisHoldGround
+aiStrategy.Aggression 0.8
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 1
+aiStrategy.setPrerequisite axisHoldGroundPrereq
+aiStrategy.setStrategicObjectsModifier ControlPoint   2.0  Hostile
+aiStrategy.setStrategicObjectsModifier ControlPoint   7.0  Neutral
+aiStrategy.setStrategicObjectsModifier ControlPoint   5.0  Owned
+aiStrategy.setStrategicObjectsModifier West           2.0  Hostile
+aiStrategy.setStrategicObjectsModifier West           4.0  Neutral
+aiStrategy.setStrategicObjectsModifier West           6.0  Owned
+aiStrategy.setStrategicObjectsModifier Front          2.0  Hostile
+aiStrategy.setStrategicObjectsModifier Front         10.0  Neutral
+aiStrategy.setStrategicObjectsModifier Front         14.0  Owned
+aiStrategy.setStrategicObjectsModifier Safe           0.01 Owned
+aiStrategy.setTreeModifier TTNControlPoint            4.0
+aiStrategy.setTreeModifier TTNFriendGroundFixed      12.0
+aiStrategy.setTreeModifier TTNDefensivePos           10.0
+
+aiStrategy.createStrategy axisBreakOut
+aiStrategy.Aggression 1.0
+aiStrategy.NumberOfAttacks 2
+aiStrategy.NumberOfDefences 0
+aiStrategy.setPrerequisite axisBreakOutPrereq
+aiStrategy.setStrategicObjectsModifier ControlPoint  12.0  Hostile
+aiStrategy.setStrategicObjectsModifier ControlPoint  14.0  Neutral
+aiStrategy.setStrategicObjectsModifier ControlPoint   0.3  Owned
+aiStrategy.setStrategicObjectsModifier West           6.0  Hostile
+aiStrategy.setStrategicObjectsModifier West           8.0  Neutral
+aiStrategy.setStrategicObjectsModifier West           0.2  Owned
+aiStrategy.setStrategicObjectsModifier Front         12.0  Hostile
+aiStrategy.setStrategicObjectsModifier Front         14.0  Neutral
+aiStrategy.setStrategicObjectsModifier Safe           0.01 Owned
+aiStrategy.setTreeModifier TTNControlPoint           10.0
+aiStrategy.setTreeModifier TTNDefensivePos            0.1
+aiStrategy.setTreeModifier TTNFriendGroundMoble       8.0
+aiStrategy.setTreeModifier TTNFriendGroundFixed       0.1
+
+aiStrategy.createStrategy alliedHoldGround
+aiStrategy.Aggression 0.8
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 1
+aiStrategy.setPrerequisite alliedHoldGroundPrereq
+aiStrategy.setStrategicObjectsModifier ControlPoint   2.0  Hostile
+aiStrategy.setStrategicObjectsModifier ControlPoint   7.0  Neutral
+aiStrategy.setStrategicObjectsModifier ControlPoint   5.0  Owned
+aiStrategy.setStrategicObjectsModifier West          12.0  Hostile
+aiStrategy.setStrategicObjectsModifier West          14.0  Neutral
+aiStrategy.setStrategicObjectsModifier West           0.2  Owned
+aiStrategy.setStrategicObjectsModifier Front         12.0  Hostile
+aiStrategy.setStrategicObjectsModifier Front         14.0  Neutral
+aiStrategy.setStrategicObjectsModifier Front          2.0  Owned
+aiStrategy.setStrategicObjectsModifier Safe           0.01
+aiStrategy.setTreeModifier TTNControlPoint            4.0
+aiStrategy.setTreeModifier TTNFriendGroundFixed      12.0
+aiStrategy.setTreeModifier TTNDefensivePos           10.0
+
+aiStrategy.createStrategy alliedBreakOut
+aiStrategy.Aggression 1.0
+aiStrategy.NumberOfAttacks 2
+aiStrategy.NumberOfDefences 0
+aiStrategy.setPrerequisite alliedBreakOutPrereq
+aiStrategy.setStrategicObjectsModifier ControlPoint   6.0  Hostile
+aiStrategy.setStrategicObjectsModifier ControlPoint   8.0  Neutral
+aiStrategy.setStrategicObjectsModifier ControlPoint   0.3  Owned
+aiStrategy.setStrategicObjectsModifier West          12.0  Hostile
+aiStrategy.setStrategicObjectsModifier West          14.0  Neutral
+aiStrategy.setStrategicObjectsModifier West           0.2  Owned
+aiStrategy.setStrategicObjectsModifier Front         12.0  Hostile
+aiStrategy.setStrategicObjectsModifier Front         14.0  Neutral
+aiStrategy.setStrategicObjectsModifier Front          2.0  Owned
+aiStrategy.setStrategicObjectsModifier Safe           0.01
+aiStrategy.setTreeModifier TTNControlPoint           10.0
+aiStrategy.setTreeModifier TTNDefensivePos            0.1
+aiStrategy.setTreeModifier TTNFriendGroundMoble       8.0
+aiStrategy.setTreeModifier TTNFriendGroundFixed       0.1
+
+
+endIf

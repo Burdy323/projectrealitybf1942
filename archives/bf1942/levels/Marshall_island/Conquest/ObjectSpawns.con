@@ -1,0 +1,335 @@
+rem ObjectSpawns.con created by Battlecraft 1942
+rem (D:\Battlefield 1942\Mods\bf1942\bf1942\levels\Marshall_island/conquest/ObjectSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  FighterSpawner  ---
+rem ----------------------------------------- 
+Object.create FighterSpawner
+Object.absolutePosition 835.60/104.80/784.39
+Object.rotation 91.25/-11.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  DiveBomberSpawner  ---
+rem ----------------------------------------- 
+Object.create DiveBomberSpawner
+Object.absolutePosition 832.48/104.80/772.38
+Object.rotation 87.50/-11.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  FighterSpawner  ---
+rem ----------------------------------------- 
+Object.create FighterSpawner
+Object.absolutePosition 860.23/105.17/808.97
+Object.rotation 134.50/-11.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  HeavyTankSpawner  ---
+rem ----------------------------------------- 
+Object.create HeavyTankSpawner
+Object.absolutePosition 872.22/106.00/842.01
+Object.rotation -180.50/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  APCSpawner  ---
+rem ----------------------------------------- 
+Object.create APCSpawner
+Object.absolutePosition 887.51/104.17/828.68
+Object.rotation -268.50/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  ScoutCarSpawner  ---
+rem ----------------------------------------- 
+Object.create ScoutCarSpawner
+Object.absolutePosition 892.00/104.17/796.00
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  ScoutCarSpawner  ---
+rem ----------------------------------------- 
+Object.create ScoutCarSpawner
+Object.absolutePosition 919.03/104.17/803.49
+Object.rotation -1.75/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  AAGunSpawner  ---
+rem ----------------------------------------- 
+Object.create AAGunSpawner
+Object.absolutePosition 965.73/104.10/825.40
+Object.rotation 59.75/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  MachinegunSpawner  ---
+rem ----------------------------------------- 
+Object.create MachinegunSpawner
+Object.absolutePosition 940.83/115.00/848.72
+Object.rotation 43.25/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  DefgunSpawner  ---
+rem ----------------------------------------- 
+Object.create DefgunSpawner
+Object.absolutePosition 782.77/101.07/748.87
+Object.rotation -172.50/0.00/0.00
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  torpedoBomberSpawner  ---
+rem ----------------------------------------- 
+Object.create torpedoBomberSpawner
+Object.absolutePosition 1036.75/111.00/1147.89
+Object.rotation 2.50/-11.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  HeavyTankSpawner  ---
+rem ----------------------------------------- 
+Object.create HeavyTankSpawner
+Object.absolutePosition 1011.32/104.60/1165.34
+Object.rotation -88.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  ScoutCarSpawner  ---
+rem ----------------------------------------- 
+Object.create ScoutCarSpawner
+Object.absolutePosition 1061.56/109.45/1190.99
+Object.rotation -231.75/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  ScoutCarSpawner  ---
+rem ----------------------------------------- 
+Object.create ScoutCarSpawner
+Object.absolutePosition 962.12/104.14/1144.12
+Object.rotation -183.75/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  AAGunSpawner  ---
+rem ----------------------------------------- 
+Object.create AAGunSpawner
+Object.absolutePosition 1120.41/108.20/1162.02
+Object.rotation -175.25/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  MachinegunSpawner  ---
+rem ----------------------------------------- 
+Object.create MachinegunSpawner
+Object.absolutePosition 1081.67/110.50/1127.85
+Object.rotation 130.25/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  DefgunSpawner  ---
+rem ----------------------------------------- 
+Object.create DefgunSpawner
+Object.absolutePosition 1067.88/106.00/1268.03
+Object.rotation 0.00/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  AAGunSpawner  ---
+rem ----------------------------------------- 
+Object.create AAGunSpawner
+Object.absolutePosition 921.10/103.99/1163.47
+Object.rotation -117.25/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  APCSpawner  ---
+rem ----------------------------------------- 
+Object.create APCSpawner
+Object.absolutePosition 1064.15/110.00/1228.77
+Object.rotation 87.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  DefgunSpawner  ---
+rem ----------------------------------------- 
+Object.create DefgunSpawner
+Object.absolutePosition 912.23/101.22/1023.51
+Object.rotation -66.50/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  ScoutCarSpawner  ---
+rem ----------------------------------------- 
+Object.create ScoutCarSpawner
+Object.absolutePosition 1091.49/104.14/1044.70
+Object.rotation -209.75/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  DefgunSpawner  ---
+rem ----------------------------------------- 
+Object.create DefgunSpawner
+Object.absolutePosition 1294.86/106.00/1106.07
+Object.rotation 41.00/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  DefgunSpawner  ---
+rem ----------------------------------------- 
+Object.create DefgunSpawner
+Object.absolutePosition 1277.40/106.00/953.24
+Object.rotation -229.75/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  ScoutCarSpawner  ---
+rem ----------------------------------------- 
+Object.create ScoutCarSpawner
+Object.absolutePosition 1267.30/110.00/1069.77
+Object.rotation -198.00/0.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  AAGunSpawner  ---
+rem ----------------------------------------- 
+Object.create AAGunSpawner
+Object.absolutePosition 1303.31/109.20/1096.46
+Object.rotation 70.00/0.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  MachinegunSpawner  ---
+rem ----------------------------------------- 
+Object.create MachinegunSpawner
+Object.absolutePosition 1210.68/111.20/1035.87
+Object.rotation -183.50/0.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  LightTankSpawner_jap  ---
+rem ----------------------------------------- 
+Object.create LightTankSpawner_jap
+Object.absolutePosition 1274.36/110.55/1020.27
+Object.rotation 30.25/0.00/0.00
+Object.setOSId 4
+Object.setTeam 0
+
+rem ----------------------------------------- 
+rem ---  LightTankSpawner_jap  ---
+rem ----------------------------------------- 
+Object.create LightTankSpawner_jap
+Object.absolutePosition 1279.85/110.55/1016.63
+Object.rotation 15.50/0.00/0.00
+Object.setOSId 4
+Object.setTeam 0
+
+rem ----------------------------------------- 
+rem ---  carrierSpawner  ---
+rem ----------------------------------------- 
+Object.create carrierSpawner
+Object.absolutePosition 1681.56/95.00/657.30
+Object.rotation -29.25/0.00/0.00
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  DestroyerSpawner  ---
+rem ----------------------------------------- 
+Object.create DestroyerSpawner
+Object.absolutePosition 1632.76/95.00/619.56
+Object.rotation -32.25/0.00/0.00
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  AAGunSpawner  ---
+rem ----------------------------------------- 
+Object.create AAGunSpawner
+Object.absolutePosition 759.55/105.55/1287.13
+Object.rotation 57.25/0.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  MachinegunSpawner  ---
+rem ----------------------------------------- 
+Object.create MachinegunSpawner
+Object.absolutePosition 1011.01/108.44/1103.02
+Object.rotation -154.50/0.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  AAGunSpawner  ---
+rem ----------------------------------------- 
+Object.create AAGunSpawner
+Object.absolutePosition 973.41/103.87/1235.99
+Object.rotation -2.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  AAGunSpawner  ---
+rem ----------------------------------------- 
+Object.create AAGunSpawner
+Object.absolutePosition 1124.00/103.93/1000.00
+Object.rotation 111.00/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  AAGunSpawner  ---
+rem ----------------------------------------- 
+Object.create AAGunSpawner
+Object.absolutePosition 1202.78/109.00/1080.76
+Object.rotation -76.25/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  AAGunSpawner  ---
+rem ----------------------------------------- 
+Object.create AAGunSpawner
+Object.absolutePosition 1108.38/109.60/1242.80
+Object.rotation 38.25/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  AAGunSpawner  ---
+rem ----------------------------------------- 
+Object.create AAGunSpawner
+Object.absolutePosition 858.39/104.42/761.26
+Object.rotation -181.75/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  AAGunSpawner  ---
+rem ----------------------------------------- 
+Object.create AAGunSpawner
+Object.absolutePosition 858.11/104.43/872.49
+Object.rotation -76.50/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem EndOfFile

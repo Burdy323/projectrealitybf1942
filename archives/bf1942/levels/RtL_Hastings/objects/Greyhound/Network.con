@@ -1,0 +1,16 @@
+NetworkableInfo.createNewInfo GreyhoundEngineInfo
+NetworkableInfo.setPredictionMode PMLinear
+
+NetworkableInfo.createNewInfo GreyhoundSteeringInfo
+NetworkableInfo.setPredictionMode PMLinear
+
+NetworkableInfo.createNewInfo GreyhoundBodyInfo
+NetworkableInfo.setPredictionMode PMLinear
+
+NetworkableInfo.createNewInfo GreyhoundSpringInfo
+NetworkableInfo.setPredictionMode PMLinear
+
+NetworkableInfo.createNewInfo GreyhoundTurretInfo
+NetworkableInfo.setPredictionMode PMLinear
+
+

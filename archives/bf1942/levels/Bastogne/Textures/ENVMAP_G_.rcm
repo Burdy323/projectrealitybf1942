@@ -1,0 +1,8 @@
+[CubeMap]
+PositiveX = bf1942\levels\Battle_of_the_Bulge\Textures\env_Bulge_02.dds
+NegativeX = bf1942\levels\Battle_of_the_Bulge\Textures\env_Bulge_04.dds
+PositiveY = bf1942\levels\Battle_of_the_Bulge\Textures\env_Bulge_05.dds
+NegativeY = bf1942\levels\Battle_of_the_Bulge\Textures\env_Bulge_06.dds
+PositiveZ = bf1942\levels\Battle_of_the_Bulge\Textures\env_Bulge_01.dds
+NegativeZ = bf1942\levels\Battle_of_the_Bulge\Textures\env_Bulge_03.dds
+

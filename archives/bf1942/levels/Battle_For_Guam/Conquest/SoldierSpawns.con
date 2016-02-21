@@ -1,0 +1,76 @@
+rem ***********
+rem Axis Airfield, Ritidian
+rem ***********
+Object.create Axis_Main1
+Object.absolutePosition 2479/61.44/2831
+Object.rotation 171.4/0/0
+
+Object.create Axis_Main2
+Object.absolutePosition 2555/61.44/2794
+Object.rotation 245.97/0/0
+
+Object.create Axis_Main3
+Object.absolutePosition 2521/61.44/2745
+Object.rotation 27.67/0/0
+
+rem ***********
+rem Allies Main Base
+rem ***********
+Object.create Allies_Base1
+Object.absolutePosition 1496.48/51.00/1820.81
+Object.rotation 276/0/0
+
+Object.create Allies_Base2
+Object.absolutePosition 1574.14/51.0/1790.55
+Object.rotation 252/0/0
+
+Object.create Allies_Base3
+Object.absolutePosition 1511.97/51.0/1709.40
+Object.rotation 22.6/0/0
+
+rem ***********
+rem Axis Mountain Top, Santa Rosa
+rem ***********
+Object.create Axis_MountainTop1
+Object.absolutePosition 2681/90.09/2492
+Object.rotation 247/0/0
+
+rem ***********
+rem Allies Hill Top, Barrigada
+rem ***********
+Object.create Allies_MountainTop1
+Object.absolutePosition 2232/97.5/2110
+Object.rotation 70.87/0/0
+
+Object.create Allies_MountainTop2
+Object.absolutePosition 2264/101.4/2097
+Object.rotation 333.8/0/0
+
+rem ***********
+rem Village Outpost, Agana
+rem ***********
+Object.create Agana_Spawn1
+Object.absolutePosition 1795/51/2111
+Object.rotation 109.83/0/0
+
+Object.create Agana_Spawn2
+Object.absolutePosition 1851/51/2093
+Object.rotation 287.62/0/0
+
+rem ***********
+rem Small Village, Pago
+rem ***********
+Object.create Pago_Spawn1
+Object.absolutePosition 1965/83/1430
+Object.rotation 236.4/0/0
+
+Object.create Pago_Spawn2
+Object.absolutePosition 1949/83/1430
+Object.rotation 331.34/0/0
+
+rem ***********
+rem Beach Base Yanaok
+rem ***********
+Object.create Yanaok_Spawn1
+Object.absolutePosition 2059/56.71/1882
+Object.rotation 292.55/0/0

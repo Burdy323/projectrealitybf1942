@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject metalBridge_m1
+ObjectTemplate.geometry metalBridge_m1
+ObjectTemplate.setHasCollisionPhysics 1

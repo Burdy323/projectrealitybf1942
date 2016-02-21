@@ -1,0 +1,184 @@
+
+
+
+rem *** Fletcher ***
+ObjectTemplate.create PlayerControlObject Fletcher_2
+ObjectTemplate.setNetworkableInfo FletcherBodyInfo
+ObjectTemplate.saveInSeparateFile 1
+objectTemplate.cullRadiusScale 5
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.drag 3
+ObjectTemplate.mass 2500000
+ObjectTemplate.hasArmor 1
+ObjectTemplate.hitpoints 300
+ObjectTemplate.maxhitpoints 300
+ObjectTemplate.material 55
+ObjectTemplate.criticalDamage 50
+ObjectTemplate.hpLostWhileCriticalDamage 5
+ObjectTemplate.explosionForceMod 10
+ObjectTemplate.dontClearTeamOnExit 1
+ObjectTemplate.addArmorEffect 200 em_ExFumePOW 0/17/-9
+ObjectTemplate.addArmorEffect 200 em_ExFumePOW 0/17/6
+ObjectTemplate.addArmorEffect 150 em_ExFumePOW 0/17/6
+ObjectTemplate.addArmorEffect 150 em_ExFumePOW 0/17/-9
+ObjectTemplate.addArmorEffect 150 em_FletcherDamage 0/0/0
+ObjectTemplate.addArmorEffect 150 em_FletcherDamage 0/0/20
+ObjectTemplate.addArmorEffect 150 em_FletcherDamage 0/0/-30
+ObjectTemplate.addArmorEffect 100 em_ExFumePOW 0/17/-9
+ObjectTemplate.addArmorEffect 100 em_FletcherDamage 0/0/0
+ObjectTemplate.addArmorEffect 100 em_FletcherDamage 0/0/20
+ObjectTemplate.addArmorEffect 100 em_FletcherDamage 0/0/-30
+ObjectTemplate.addArmorEffect 100 e_waterBoatSink 0/0/0
+ObjectTemplate.addArmorEffect 50 em_FletcherDamage 0/0/0
+ObjectTemplate.addArmorEffect 50 em_FletcherDamage 0/0/20
+ObjectTemplate.addArmorEffect 50 em_FletcherDamage 0/0/-30
+ObjectTemplate.addArmorEffect 50 e_waterBoatSink 0/5/0
+ObjectTemplate.addArmorEffect 50 e_waterBoatSinkEf 0/-2/-5
+ObjectTemplate.addArmorEffect 50 e_waterBoatSinkEf 0/-2/25
+ObjectTemplate.addArmorEffect 50 e_waterBoatSinkEf 0/-2/-35
+ObjectTemplate.aiTemplate FletcherAI
+rem -------------------------------------
+ObjectTemplate.addTemplate lodFletcher
+ObjectTemplate.addTemplate Fletcher_Floater
+ObjectTemplate.setPosition -1.999/7.5/50
+ObjectTemplate.addTemplate Fletcher_Floater
+ObjectTemplate.setPosition 2/7.5/50
+ObjectTemplate.addTemplate Fletcher_Floater
+ObjectTemplate.setPosition -4.999/7.5/17
+ObjectTemplate.addTemplate Fletcher_Floater
+ObjectTemplate.setPosition 5/7.5/17
+ObjectTemplate.addTemplate Fletcher_Floater
+ObjectTemplate.setPosition -4.999/7.5/-16.999
+ObjectTemplate.addTemplate Fletcher_Floater
+ObjectTemplate.setPosition 5/7.5/-16.999
+ObjectTemplate.addTemplate Fletcher_Floater
+ObjectTemplate.setPosition -1.999/7.5/-49.999
+ObjectTemplate.addTemplate Fletcher_Floater
+ObjectTemplate.setPosition 2/7.5/-49.999
+ObjectTemplate.addTemplate FletcherDriverSoldierSpawn
+ObjectTemplate.setPosition 0/5/32.5
+ObjectTemplate.addTemplate FletcherSoldierSpawn
+ObjectTemplate.setPosition 3/5/-43.699
+ObjectTemplate.addTemplate FletcherSoldierSpawn
+ObjectTemplate.setPosition -2.999/5/-43.699
+ObjectTemplate.addTemplate FletcherLcvpSpawner
+ObjectTemplate.setPosition 7.2/0.3/-43.699
+ObjectTemplate.setRotation 6/0/0
+rem -------------------------------------
+ObjectTemplate.setPcoId 0
+ObjectTemplate.addPcoPosId 1
+rem ObjectTemplate.addPcoPosId 2
+ObjectTemplate.sonarPos 1
+ObjectTemplate.setSoldierExitLocation -0.2/7.5/20 0/0/0
+ObjectTemplate.GUIIndex 40
+ObjectTemplate.setVehicleIcon "Vehicle/Icon_fletcher.tga"
+ObjectTemplate.setVehicleIconPos 95/95
+ObjectTemplate.setNumberOfWeaponIcons 2
+ObjectTemplate.setPrimaryAmmoIcon "Ammo/Icon_cannon.tga"
+ObjectTemplate.setPrimaryAmmoBar ABReloadBarOnly
+ObjectTemplate.setSecondaryAmmoIcon "Ammo/Icon_depthcharge.tga"
+ObjectTemplate.setSecondaryAmmoBar ABAmmoBarReloadBar
+ObjectTemplate.setCrossHairType CHTIcon
+ObjectTemplate.setVehicleCategory VCSea
+ObjectTemplate.setVehicleType VTDestroyer
+ObjectTemplate.setToolTipType  TTDestroyer
+
+rem *** lodFletcher ***
+ObjectTemplate.create LodObject lodFletcher
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+rem -------------------------------------
+ObjectTemplate.addTemplate FletcherComplex2
+ObjectTemplate.addTemplate FletcherSimple
+rem -------------------------------------
+ObjectTemplate.lodSelector FletcherLodSelector
+
+rem *** FletcherComplex ***
+ObjectTemplate.create Bundle FletcherComplex2
+rem ObjectTemplate.setNetworkableInfo FletcherBodyInfo
+ObjectTemplate.geometry Fletch_hull_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+rem -------------------------------------
+ObjectTemplate.addTemplate DestroyerSonar
+ObjectTemplate.addTemplate Fletcher_Radar2
+ObjectTemplate.setPosition -0.092/15.795/17.519
+ObjectTemplate.addTemplate Fletcher_propeller
+ObjectTemplate.setPosition 2.01/-2.63/-50.252
+ObjectTemplate.setRotation 0/-1.999/0
+ObjectTemplate.addTemplate Fletcher_propeller
+ObjectTemplate.setPosition -2.424/-2.63/-50.252
+ObjectTemplate.setRotation 0/-1.999/0
+ObjectTemplate.addTemplate Fletcher_HullWing
+ObjectTemplate.setPosition 0/-5/55
+ObjectTemplate.setRotation 0/0/-90
+ObjectTemplate.addTemplate Fletcher_rudder
+ObjectTemplate.setPosition 0/-5/-55
+ObjectTemplate.setRotation 0/0/-90
+ObjectTemplate.addTemplate Fletcher_Engine
+ObjectTemplate.setPosition 0/-4/-40
+ObjectTemplate.addTemplate Fletcher_cannon
+ObjectTemplate.setPosition -0.114/4.391/36.508
+ObjectTemplate.addTemplate Fletcher_cannon_Front
+ObjectTemplate.setPosition -0.114/7.037/29.477
+ObjectTemplate.addTemplate Fletcher_Back_Canons_PCO
+ObjectTemplate.setPosition 0/0/-10
+ObjectTemplate.addTemplate Fletcher_Entry
+ObjectTemplate.setPosition -0.114/7.037/32
+ObjectTemplate.addTemplate Fletcher_EntrySmall
+ObjectTemplate.setPosition -0.2/7.5/20
+ObjectTemplate.addTemplate ClimbingNet_3mx4m
+ObjectTemplate.setPosition -5.6/1.549/-3.834
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate ClimbingNet_3mx4m
+ObjectTemplate.setPosition -5.6/1.539/-9.748
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate ClimbingNet_3mx4m
+ObjectTemplate.setPosition 5.8/1.549/-3.834
+ObjectTemplate.setRotation -90/0/0
+ObjectTemplate.addTemplate ClimbingNet_3mx4m
+ObjectTemplate.setPosition 5.8/1.539/-9.748
+ObjectTemplate.setRotation -90/0/0
+ObjectTemplate.addTemplate DepthChargeLauncher
+ObjectTemplate.setPosition -1.35/4.45/-57.908
+ObjectTemplate.setRotation -179.999/0/-89.999
+ObjectTemplate.addTemplate DepthChargeLauncher
+ObjectTemplate.setPosition 1.35/4.45/-57.908
+ObjectTemplate.setRotation -179.999/0/90
+ObjectTemplate.addTemplate FletcherDeckBrowningPCO
+ObjectTemplate.setPosition 6.19/8.22/-6.999
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate FletcherDeckBrowningPCO
+ObjectTemplate.setPosition -5.959/8.22/-6.999
+ObjectTemplate.setRotation -89.999/0/0
+ObjectTemplate.addTemplate e_waterfrontBig
+ObjectTemplate.setPosition 0/-2/55
+ObjectTemplate.addTemplate e_waterBoatSvallNarrow
+ObjectTemplate.setPosition 0/-2/55
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate e_waterBoatSvallNarrow
+ObjectTemplate.setPosition 0/-2/-58
+ObjectTemplate.setRotation 270/0/0
+ObjectTemplate.addTemplate e_waterBackBig
+ObjectTemplate.setPosition 0/-0.499/-49.999
+ObjectTemplate.addTemplate ShipLadder03
+ObjectTemplate.setPosition 3.045/5.2/-11.947
+ObjectTemplate.setRotation -90/0/0
+ObjectTemplate.addTemplate ShipLadder03
+ObjectTemplate.setPosition -2.84/5.27/-11.423
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate Ammobox
+ObjectTemplate.setPosition -0.169/4.06/15.872
+
+
+
+rem *** Fletcher_Radar ***
+ObjectTemplate.create SimpleObject Fletcher_Radar2
+ObjectTemplate.geometry fletch_radar_m1
+
+
+

@@ -1,0 +1,30 @@
+ObjectTemplate.create KitPart brit_Assault_BackPack
+ObjectTemplate.geometry brit_Assult_Bacpac
+ObjectTemplate.setBoneName backpack
+ObjectTemplate.setCopyLinksCount 0
+
+ObjectTemplate.create Kit 2BRIT_Support
+ObjectTemplate.setType Assault
+ObjectTemplate.geometry Kit_Allies_Assault
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate brit_Helmet
+ObjectTemplate.addTemplate brit_Assault_BackPack
+ObjectTemplate.addTemplate British_hippack
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_assault_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_assault_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_alliesKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_bar1918.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_grenadeallies.tga"
+
+ObjectTemplate.setKitIcon 2 "kits/Icon_assault_allies_selected.tga"
+ObjectTemplate.setKitName 2 "SUPPORT"
+ObjectTemplate.setKitActiveName 2 "ACTIVE SUPPORT"
+
+ObjectTemplate.addTemplate Bar1918
+ObjectTemplate.addTemplate KnifeAllies
+
+ObjectTemplate.addTemplate GrenadeAllies
+ObjectTemplate.aiTemplate  Assault

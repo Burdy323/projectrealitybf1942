@@ -1,0 +1,298 @@
+rem ObjectSpawns.con created by Battlecraft 1942
+rem (C:\Games\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Konagi/ctf/ObjectSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Tank  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_Tank
+Object.absolutePosition 1392.620117/146.784805/540.271545
+Object.rotation -166.000000/0.000000/0.000000
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Apc  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_Apc
+Object.absolutePosition 1371.883057/147.079254/533.413757
+Object.rotation 160.000000/0.000000/0.000000
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Jeep  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_Jeep
+Object.absolutePosition 1357.755127/147.064835/517.780518
+Object.rotation -184.000000/0.000000/0.000000
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_AA  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_AA
+Object.absolutePosition 1359.363770/146.433426/488.644775
+Object.rotation -122.500000/7.000000/3.500000
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_MGs
+Object.absolutePosition 1346.874512/147.978363/506.258209
+Object.rotation -122.500000/0.000000/0.000000
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_MGs
+Object.absolutePosition 1345.866943/148.001968/509.214844
+Object.rotation -90.000000/0.000000/0.000000
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_MGs
+Object.absolutePosition 1253.012451/111.922195/479.707489
+Object.rotation -133.500000/0.000000/0.000000
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_MGs
+Object.absolutePosition 1251.531860/112.003517/485.722290
+Object.rotation -61.500000/0.000000/0.000000
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Apc  ---
+rem ----------------------------------------- 
+Object.create Konagi_Jungle_Apc
+Object.absolutePosition 534.927368/102.455940/704.693176
+Object.rotation 131.500000/0.000000/0.000000
+Object.setOSId 2
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Jeep  ---
+rem ----------------------------------------- 
+Object.create Konagi_Jungle_Jeep
+Object.absolutePosition 551.390869/102.362038/685.940002
+Object.rotation 0.000000/0.000000/0.000000
+Object.setOSId 2
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Jungle_MGs
+Object.absolutePosition 561.900635/103.394073/685.768250
+Object.rotation 53.000000/0.000000/0.000000
+Object.setOSId 2
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Jungle_MGs
+Object.absolutePosition 535.329590/103.334145/712.985046
+Object.rotation -62.500000/0.000000/0.000000
+Object.setOSId 2
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Tank  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_Tank
+Object.absolutePosition 966.851318/97.921455/676.235413
+Object.rotation 0.000000/0.000000/0.000000
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Apc  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_Apc
+Object.absolutePosition 969.820923/98.020721/700.555420
+Object.rotation -65.000000/0.000000/0.000000
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Jeep  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_Jeep
+Object.absolutePosition 936.865356/98.050171/690.403992
+Object.rotation 0.000000/0.000000/0.000000
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_AA  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_AA
+Object.absolutePosition 1011.793945/97.917221/750.815002
+Object.rotation 112.500000/0.000000/0.000000
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_MGs
+Object.absolutePosition 1023.401855/99.097687/696.219238
+Object.rotation -270.500000/0.000000/0.000000
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_MGs
+Object.absolutePosition 1023.027283/98.990700/728.772278
+Object.rotation 90.000000/0.000000/0.000000
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_MGs
+Object.absolutePosition 911.627319/108.514000/720.959717
+Object.rotation -90.000000/0.000000/0.000000
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_MGs
+Object.absolutePosition 911.637207/108.513397/695.153015
+Object.rotation -90.000000/0.000000/0.000000
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Tank  ---
+rem ----------------------------------------- 
+Object.create Konagi_Beach_Tank
+Object.absolutePosition 1137.443115/87.641136/973.898376
+Object.rotation 149.000000/0.000000/0.000000
+Object.setOSId 4
+Object.setTeam 0
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Apc  ---
+rem ----------------------------------------- 
+Object.create Konagi_Beach_Apc
+Object.absolutePosition 1013.908447/88.557220/1110.263428
+Object.rotation 0.000000/0.000000/0.000000
+Object.setOSId 4
+Object.setTeam 0
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Tank  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_Tank
+Object.absolutePosition 788.232727/109.149696/1321.082886
+Object.rotation 90.000000/0.000000/0.000000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Apc  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_Apc
+Object.absolutePosition 788.999817/108.590103/1344.990967
+Object.rotation 90.000000/0.000000/0.000000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Jeep  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_Jeep
+Object.absolutePosition 766.327271/108.671959/1328.452759
+Object.rotation 0.000000/0.000000/0.000000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Fighter  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_Fighter
+Object.absolutePosition 803.019165/108.658203/1372.050537
+Object.rotation -90.000000/0.000000/0.000000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Bomber  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_Bomber
+Object.absolutePosition 802.895508/108.602501/1387.952271
+Object.rotation -90.000000/0.000000/0.000000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_AA  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_AA
+Object.absolutePosition 826.395752/106.712967/1360.215088
+Object.rotation 0.000000/6.500000/5.500000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_MGs
+Object.absolutePosition 812.956177/118.839127/1295.502930
+Object.rotation 128.500000/0.000000/0.000000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_MGs  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_MGs
+Object.absolutePosition 823.364990/107.478043/1296.994385
+Object.rotation 126.500000/0.000000/0.000000
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Allied_Destroyer  ---
+rem ----------------------------------------- 
+Object.create Allied_Destroyer
+Object.absolutePosition 1085.907593/85.908699/1757.555786
+Object.rotation 95.500000/0.000000/0.000000
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Allied_Submarine  ---
+rem ----------------------------------------- 
+Object.create Allied_Submarine
+Object.absolutePosition 141.935303/86.177597/1605.674805
+Object.rotation -172.500000/0.000000/0.000000
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Allied_Carrier  ---
+rem ----------------------------------------- 
+Object.create Allied_Carrier
+Object.absolutePosition 1595.667603/85.977501/1716.132080
+Object.rotation 143.500000/0.000000/0.000000
+Object.setTeam 2
+
+rem EndOfFile

@@ -1,0 +1,5 @@
+objectTemplate.create simpleObject Fletch_Canon_M1
+objectTemplate.geometry Fletch_Canon_M1
+objectTemplate.setHasCollisionPhysics 1
+objectTemplate.cullRadiusScale 3.0
+objectTemplate.aiTemplate Fletch_Canon_M1

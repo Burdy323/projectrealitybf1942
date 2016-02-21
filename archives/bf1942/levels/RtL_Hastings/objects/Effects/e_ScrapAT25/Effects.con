@@ -1,0 +1,84 @@
+
+
+rem *** e_ScrapAT25 ***
+ObjectTemplate.create EffectBundle e_ScrapAT25
+ObjectTemplate.saveInSeparateFile 1
+rem -------------------------------------
+ObjectTemplate.addTemplate Em_ScrapAT25_1
+ObjectTemplate.addTemplate Em_ScrapAT25_2
+ObjectTemplate.addTemplate Em_ScrapAT25_3
+ObjectTemplate.addTemplate Em_ScrapAT25_4
+ObjectTemplate.addTemplate Em_ScrapAT25_5
+ObjectTemplate.timeToLive CRD_NONE/1.8/0/0
+rem -------------------------------------
+
+
+rem *** Em_ScrapAT25_1 ***
+ObjectTemplate.create Emitter Em_ScrapAT25_1
+ObjectTemplate.template AT25_Bottom_Toss
+ObjectTemplate.addEmitterSpeed 1
+ObjectTemplate.emitterSpeedScale 1
+ObjectTemplate.lodDistance 375
+ObjectTemplate.timeToLive CRD_NONE/1/0/0
+ObjectTemplate.intensity CRD_NONE/1/0/0
+ObjectTemplate.relativePositionInDof CRD_NONE/0.1/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/10/0/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/8/2/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/10/0/1
+ObjectTemplate.startRotation CRD_UNIFORM/1/100/0
+
+rem *** Em_ScrapAT25_2 ***
+ObjectTemplate.create Emitter Em_ScrapAT25_2
+ObjectTemplate.template AT25_Cannon_Toss
+ObjectTemplate.addEmitterSpeed 1
+ObjectTemplate.emitterSpeedScale 1
+ObjectTemplate.lodDistance 375
+ObjectTemplate.timeToLive CRD_NONE/1/0/0
+ObjectTemplate.intensity CRD_NONE/1/0/0
+ObjectTemplate.relativePositionInDof CRD_NONE/0.1/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/10/0/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/10/15/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/10/0/1
+ObjectTemplate.startRotation CRD_NONE/1/0/0
+
+rem *** Em_ScrapAT25_3 ***
+ObjectTemplate.create Emitter Em_ScrapAT25_3
+ObjectTemplate.template AT25_Frame_Toss
+ObjectTemplate.addEmitterSpeed 1
+ObjectTemplate.emitterSpeedScale 1
+ObjectTemplate.lodDistance 375
+ObjectTemplate.timeToLive CRD_NONE/1/0/0
+ObjectTemplate.intensity CRD_NONE/1/0/0
+ObjectTemplate.relativePositionInDof CRD_NONE/0.1/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/10/0/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/10/5/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/10/0/1
+ObjectTemplate.startRotation CRD_NONE/1/0/0
+
+rem *** Em_ScrapAT25_4 ***
+ObjectTemplate.create Emitter Em_ScrapAT25_4
+ObjectTemplate.template AT25_Slider_Toss
+ObjectTemplate.addEmitterSpeed 1
+ObjectTemplate.emitterSpeedScale 1
+ObjectTemplate.lodDistance 375
+ObjectTemplate.timeToLive CRD_NONE/1/0/0
+ObjectTemplate.intensity CRD_NONE/1/0/0
+ObjectTemplate.relativePositionInDof CRD_NONE/0.1/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/10/0/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/10/5/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/10/0/1
+ObjectTemplate.startRotation CRD_NONE/1/0/0
+
+rem *** Em_ScrapAT25_5 ***
+ObjectTemplate.create Emitter Em_ScrapAT25_5
+ObjectTemplate.template AT25_Wheel1_Toss
+ObjectTemplate.addEmitterSpeed 1
+ObjectTemplate.emitterSpeedScale 1
+ObjectTemplate.lodDistance 375
+ObjectTemplate.timeToLive CRD_NONE/1/0/0
+ObjectTemplate.intensity CRD_NONE/1/0/0
+ObjectTemplate.relativePositionInDof CRD_NONE/0.1/0/0
+ObjectTemplate.positionalSpeedInDof CRD_UNIFORM/10/0/1
+ObjectTemplate.positionalSpeedInUp CRD_UNIFORM/20/15/0
+ObjectTemplate.positionalSpeedInRight CRD_UNIFORM/10/0/1
+ObjectTemplate.startRotation CRD_NONE/1/0/0

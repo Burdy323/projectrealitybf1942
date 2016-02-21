@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject shortPlanks
+ObjectTemplate.geometry shortPlanks
+ObjectTemplate.setHasCollisionPhysics 1
+

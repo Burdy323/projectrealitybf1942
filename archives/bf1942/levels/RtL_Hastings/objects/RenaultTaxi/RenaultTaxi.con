@@ -1,0 +1,6 @@
+run ai/objects
+run objects
+run geometries
+run network
+run physics
+run weapons

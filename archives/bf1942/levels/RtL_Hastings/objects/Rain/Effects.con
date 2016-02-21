@@ -1,0 +1,40 @@
+rem Rain FX by BunnySnot
+rem Speed edited by USAF 777
+rem -------------------------------------
+rem Effect: e_Rain
+rem -------------------------------------
+ObjectTemplate.create EffectBundle e_Rain
+ObjectTemplate.saveInSeparateFile 1
+rem -------------------------------------
+ObjectTemplate.addTemplate Em_Rain
+ObjectTemplate.timeToLive CRD_NONE/-1/0/0
+rem -------------------------------------
+
+
+rem -------------------------------------
+rem Em_Rain
+rem -------------------------------------
+ObjectTemplate.create Emitter Em_Rain
+ObjectTemplate.template Fx_Rain
+ObjectTemplate.looping 1
+ObjectTemplate.startAtCreation 1
+ObjectTemplate.lodDistance 60
+ObjectTemplate.cullRadiusScale 2
+ObjectTemplate.timeToLive CRD_NONE/1/0/0
+ObjectTemplate.intensity CRD_NONE/25/0/0
+ObjectTemplate.relativePositionInDof CRD_UNIFORM/-30/-45/0
+ObjectTemplate.relativePositionInUp CRD_UNIFORM/-20/20/0
+ObjectTemplate.relativePositionInRight CRD_UNIFORM/-20/20/0
+ObjectTemplate.PositionalSpeedInDof CRD_UNIFORM/40/50/0
+ObjectTemplate.startRotation CRD_UNIFORM/1/180/0
+rem -------------------------------------
+rem Fx_Rain
+rem -------------------------------------
+ObjectTemplate.create Particle Fx_Rain
+ObjectTemplate.EndEffectTemplate e_RichoWater
+ObjectTemplate.geometry Rain
+ObjectTemplate.timeToLive CRD_NONE/0.7/0/0
+ObjectTemplate.Size CRD_UNIFORM/1/1/0
+ObjectTemplate.DestBlendMode BMInvSourceAlpha
+ObjectTemplate.SizeModifier 2/2/2
+ObjectTemplate.gravityModifier CRD_NONE/0/0/0

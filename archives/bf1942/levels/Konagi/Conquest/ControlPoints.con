@@ -1,0 +1,34 @@
+rem ControlPoints.con created by Battlecraft 1942
+rem (C:\Games\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Konagi/conquest/ControlPoints.con)
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill
+Object.absolutePosition 1422.709595/153.238297/534.391724
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle  ---
+rem ----------------------------------------- 
+Object.create Konagi_Jungle
+Object.absolutePosition 544.245789/107.235901/688.063293
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village
+Object.absolutePosition 956.706482/98.001297/690.912476
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach  ---
+rem ----------------------------------------- 
+Object.create Konagi_Beach
+Object.absolutePosition 1120.164429/87.688164/1005.712708
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield
+Object.absolutePosition 743.914307/113.594879/1343.974365
+
+rem EndOfFile

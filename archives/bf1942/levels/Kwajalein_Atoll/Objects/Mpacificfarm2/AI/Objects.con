@@ -1,0 +1,17 @@
+aiTemplatePlugIn.create Cover Mpacificfarm2Cover
+aiTemplatePlugIn.coverValue 60.0
+
+aiTemplatePlugIn.create Physical Mpacificfarm2Physical
+
+rem *** AITemplate ***
+aiTemplate.create Mpacificfarm2
+
+aiTemplate.addType ITStructure
+aiTemplate.addType ITNoTemperature
+aiTemplate.degeneration 1
+aiTemplate.allowedTimeDiff -1
+aiTemplate.basicTemp 1
+aiTemplate.commonKnowledge 1
+rem aiTemplate.addPlugIn Mpacificfarm2Unit
+aiTemplate.addPlugIn Mpacificfarm2Cover
+aiTemplate.addPlugIn Mpacificfarm2Physical

@@ -1,0 +1,104 @@
+rem ControlPointTemplates.con created by Battlecraft 1942
+rem (D:\Battlefield 1942\Mods\bf1942\bf1942\levels\Marshall_island/conquest/ControlPointTemplates.con)
+
+NetworkableInfo.createNewInfo ControlPointInfo
+NetworkableInfo.setPredictionMode PMNone
+NetworkableInfo.setBasePriority c_NIGhostAlways
+
+rem ----------------------------------------- 
+rem ---  ALLIES_South_Airfield  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ControlPoint ALLIES_South_Airfield
+ObjectTemplate.networkableInfo ControlPointInfo
+ObjectTemplate.setControlPointName South_Airfield
+ObjectTemplate.radius 55
+ObjectTemplate.team 2
+ObjectTemplate.spawnGroupId 1
+ObjectTemplate.objectSpawnerId 1
+ObjectTemplate.areaValue 40
+ObjectTemplate.timeToGetControl 10
+ObjectTemplate.timeToLoseControl 10
+ObjectTemplate.disableIfEnemyInsideRadius 0
+ObjectTemplate.disableWhenLosingControl 0
+ObjectTemplate.loseControlWhenEnemyClose 1
+ObjectTemplate.loseControlWhenNotClose 0
+ObjectTemplate.geometry flagbase_m1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.addTemplate AnimatedFlag
+ObjectTemplate.setPosition 0.000000/8.200000/0.000000
+ObjectTemplate.setTeamGeometry 1 flagJp_m1
+ObjectTemplate.setTeamGeometry 2 flagus_m1
+
+rem ----------------------------------------- 
+rem ---  ALLIES_Medic_Airfield  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ControlPoint ALLIES_Medic_Airfield
+ObjectTemplate.networkableInfo ControlPointInfo
+ObjectTemplate.setControlPointName Medic_Airfield
+ObjectTemplate.radius 50
+ObjectTemplate.team 2
+ObjectTemplate.spawnGroupId 2
+ObjectTemplate.objectSpawnerId 2
+ObjectTemplate.areaValue 40
+ObjectTemplate.timeToGetControl 10
+ObjectTemplate.timeToLoseControl 10
+ObjectTemplate.disableIfEnemyInsideRadius 0
+ObjectTemplate.disableWhenLosingControl 0
+ObjectTemplate.loseControlWhenEnemyClose 1
+ObjectTemplate.loseControlWhenNotClose 0
+ObjectTemplate.geometry flagbase_m1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.addTemplate AnimatedFlag
+ObjectTemplate.setPosition 0.000000/8.200000/0.000000
+ObjectTemplate.setTeamGeometry 1 flagJp_m1
+ObjectTemplate.setTeamGeometry 2 flagus_m1
+
+rem ----------------------------------------- 
+rem ---  ALLIES_Middle_village  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ControlPoint ALLIES_Middle_village
+ObjectTemplate.networkableInfo ControlPointInfo
+ObjectTemplate.setControlPointName Middle_village
+ObjectTemplate.radius 24
+ObjectTemplate.team 2
+ObjectTemplate.spawnGroupId 3
+ObjectTemplate.objectSpawnerId 3
+ObjectTemplate.areaValue 10
+ObjectTemplate.timeToGetControl 7
+ObjectTemplate.timeToLoseControl 7
+ObjectTemplate.disableIfEnemyInsideRadius 0
+ObjectTemplate.disableWhenLosingControl 0
+ObjectTemplate.loseControlWhenEnemyClose 1
+ObjectTemplate.loseControlWhenNotClose 0
+ObjectTemplate.geometry flagbase_m1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.addTemplate AnimatedFlag
+ObjectTemplate.setPosition 0.000000/8.200000/0.000000
+ObjectTemplate.setTeamGeometry 1 flagJp_m1
+ObjectTemplate.setTeamGeometry 2 flagus_m1
+
+rem ----------------------------------------- 
+rem ---  ALLIES_East_village  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ControlPoint ALLIES_East_village
+ObjectTemplate.networkableInfo ControlPointInfo
+ObjectTemplate.setControlPointName East_Village
+ObjectTemplate.radius 45
+ObjectTemplate.team 2
+ObjectTemplate.spawnGroupId 4
+ObjectTemplate.objectSpawnerId 4
+ObjectTemplate.areaValue 20
+ObjectTemplate.timeToGetControl 10
+ObjectTemplate.timeToLoseControl 10
+ObjectTemplate.disableIfEnemyInsideRadius 0
+ObjectTemplate.disableWhenLosingControl 0
+ObjectTemplate.loseControlWhenEnemyClose 1
+ObjectTemplate.loseControlWhenNotClose 0
+ObjectTemplate.geometry flagbase_m1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.addTemplate AnimatedFlag
+ObjectTemplate.setPosition 0.000000/8.200000/0.000000
+ObjectTemplate.setTeamGeometry 1 flagJp_m1
+ObjectTemplate.setTeamGeometry 2 flagus_m1
+
+rem EndOfFile

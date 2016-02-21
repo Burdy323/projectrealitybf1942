@@ -1,0 +1,286 @@
+REM *** Buildings & Objects ***
+
+Objecttemplate.active hangar1_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active landrep1_supply
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active hospital_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active barack_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active pacificfarm1_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagi_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagl_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active guardtow_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagu_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stones_pacif_l_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active axisairplaneammo
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active bunker2_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active bunker2_des1_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stecrate2_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active ammobox
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stebarbwire_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active bunker2_des2_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active mediclocker
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active alliedairplaneammo
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active pacificfarm2_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active tankobs_ste_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active repaircist_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stebarrel1_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active bunker1_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stones_russia_l_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stones_africa_l_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active defgun_bunker_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active pacific_palm_large_1_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active pacific_palm_2_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active palmhigh_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active pacific_palm_large_2_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active jungle_plantball_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active jungle_plant1_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active jungle_plant20_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active cabledrm_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stecrate1_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active jungle_plant10_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active afri_bush11_m1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active afri_bush1_m1
+objectTemplate.cullRadiusScale 5
+
+REM *** Vehicles & Spawn Objects ***
+
+Objecttemplate.active fighterspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active torpedobomberspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active divebomberspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active machinegunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aagunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active lighttankspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active lighttankspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active lighttankspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active lighttankspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active scoutcarspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active scoutcarspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aagunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active machinegunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active machinegunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active machinegunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active machinegunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aagunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active machinegunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active torpedobomberspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active divebomberspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active fighterspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aagunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active lighttankspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active lighttankspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active scoutcarspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active lighttankspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active machinegunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active machinegunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active scoutcarspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active machinegunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active battleshipspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active destroyerspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active destroyerspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active battleshipspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active lighttankspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active scoutcarspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active machinegunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active machinegunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aagunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aagunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aagunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active scoutcarspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aagunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active scoutcarspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aagunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aagunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active defgunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active defgunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active defgunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active defgunspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active apcspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active apcspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active lighttankspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active scoutcarspawner
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active ScoutCarSpawner
+objectTemplate.cullRadiusScale 5
+

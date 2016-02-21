@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject redbridge_m1
+ObjectTemplate.geometry redbridge_m1
+ObjectTemplate.setHasCollisionPhysics 1

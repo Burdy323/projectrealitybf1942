@@ -1,0 +1,77 @@
+rem ---  HeavyTank_Spawner  ---
+Object.create HeavyTank_Spawner
+Object.absolutePosition 686/127.70/1388.17
+Object.rotation -178.72/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ---  APC_Spawner  ---
+Object.create APC_Spawner
+Object.absolutePosition 671.94/128.34/1406.78
+Object.rotation 91.16/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ---  LightTank_Spawner  ---
+Object.create LightTank_Spawner
+Object.absolutePosition 686.50/127.31/1372
+Object.rotation 88.65/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ---  APC_Spawner  ---
+Object.create APC_Spawner
+Object.absolutePosition 873/127.23/1194.65
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ---  AA_Gun_Spawner  ---
+Object.create AA_Gun_Spawner
+Object.absolutePosition 904.91/126.68/1214.06
+Object.rotation 46.33/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ---  MachineGun_Spawner  ---
+Object.create MachineGun_Spawner
+Object.absolutePosition 775.23/132.34/1124.07
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 6
+Object.setTeam 1
+
+rem ---  ScoutCar_Spawner  ---
+Object.create ScoutCar_Spawner
+Object.absolutePosition 706.81/127.19/1370.37
+Object.rotation -90.05/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ---  MachineGun_Spawner  ---
+Object.create MachineGun_Spawner
+Object.absolutePosition 876.90/127.92/1205.34
+Object.rotation -91.78/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ---  AA_Gun_Spawner  ---
+Object.create AA_Gun_Spawner
+Object.absolutePosition 669.37/127.43/1359.76
+Object.rotation -161.07/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ---  AA_Gun_Spawner  ---
+Object.create AA_Gun_Spawner
+Object.absolutePosition 652.31/128.61/1423.74
+Object.rotation -47.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem --- HeavyTank_Spawner ---
+Object.create HeavyTank_Spawner
+Object.absolutePosition 770.74/127/1154.2
+Object.rotation 0.0/0.00/0.00
+Object.setOSId 6
+Object.setTeam 1
+

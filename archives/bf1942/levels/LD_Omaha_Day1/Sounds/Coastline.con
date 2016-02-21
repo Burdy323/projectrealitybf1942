@@ -1,0 +1,41 @@
+
+
+rem *** Coastline ***
+ObjectTemplate.create AreaObject Coastline
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.loadSoundScript Coastline.ssc
+ObjectTemplate.triggerRadius 50
+ObjectTemplate.addLinePoint 0.00622559/-0.00439453
+ObjectTemplate.addLinePoint -65.254/-14.0163
+ObjectTemplate.addLinePoint -166.308/-23.0293
+ObjectTemplate.addLinePoint -214.704/-25.9379
+ObjectTemplate.addLinePoint -236.017/-38.8595
+ObjectTemplate.addLinePoint -275.585/-51.1863
+ObjectTemplate.addLinePoint -292.619/-47.4042
+ObjectTemplate.addLinePoint -312.318/-33.3867
+ObjectTemplate.addLinePoint -321.007/-25.207
+ObjectTemplate.addLinePoint -333.421/-5.87115
+ObjectTemplate.addLinePoint -340.636/-2.79004
+ObjectTemplate.addLinePoint -358.848/-5.56616
+ObjectTemplate.addLinePoint -381.293/-5.73578
+ObjectTemplate.addLinePoint -413.322/12.9663
+ObjectTemplate.addLinePoint -436.473/14.0997
+ObjectTemplate.addLinePoint -439.651/9.82739
+ObjectTemplate.addLinePoint -453.053/9.86182
+ObjectTemplate.addLinePoint -456.851/6.36932
+ObjectTemplate.addLinePoint -475.664/5.77368
+ObjectTemplate.addLinePoint -476.116/-3.19653
+ObjectTemplate.addLinePoint -494.35/-31.0647
+ObjectTemplate.addLinePoint -506.185/-38.4819
+ObjectTemplate.addLinePoint -534.96/-40.3572
+ObjectTemplate.addLinePoint -563.045/-35.8607
+ObjectTemplate.addLinePoint -600.403/-9.24237
+ObjectTemplate.addLinePoint -657.476/-6.73694
+ObjectTemplate.addLinePoint -768.125/-25.4907
+ObjectTemplate.addLinePoint -797.654/-23.7022
+ObjectTemplate.addLinePoint -812.121/-13.9684
+ObjectTemplate.addLinePoint -829.505/-16.6033
+ObjectTemplate.addLinePoint -855.73/-16.855
+ObjectTemplate.addLinePoint -1051.45/-785.863
+ObjectTemplate.addLinePoint 57.9376/-934.476
+ObjectTemplate.addLinePoint 41.7974/-6.1665

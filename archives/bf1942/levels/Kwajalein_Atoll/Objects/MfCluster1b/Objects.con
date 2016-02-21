@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject MfCluster1b
+ObjectTemplate.geometry MfCluster1b
+ObjectTemplate.setHasCollisionPhysics 0

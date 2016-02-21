@@ -1,0 +1,16 @@
+GeometryTemplate.create StandardMesh fire_control_bunker2
+GeometryTemplate.file ../bf1942/levels/LD_Omaha_Day1/objects/fire_control_bunker2/fire_control_bunker
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 30
+GeometryTemplate.setLodDistance 3 40
+
+GeometryTemplate.create StandardMesh fire_control_bunker2a
+GeometryTemplate.file ../bf1942/levels/LD_Omaha_Day1/objects/fire_control_bunker2/fire_control_bunker2
+GeometryTemplate.textureFadeMaxDist 70
+GeometryTemplate.setLodDistance 0 70
+GeometryTemplate.setLodDistance 1 100
+GeometryTemplate.setLodDistance 2 150
+GeometryTemplate.setLodDistance 3 200
+GeometryTemplate.setLodDistance 4 450
+GeometryTemplate.setLodDistance 5 600

@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject Mtype38
+ObjectTemplate.geometry Mtype38
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.aiTemplate Mtype38

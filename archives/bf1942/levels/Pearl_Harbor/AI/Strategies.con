@@ -1,0 +1,96 @@
+rem *** Create Strategies ***
+
+
+rem *** Iwo Jima ***
+
+
+rem ** American **
+
+aiStrategy.createStrategy land
+aiStrategy.Aggression 1
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 0
+aiStrategy.setPrerequisite landPrereq
+aiStrategy.setStrategicObjectsModifier West         10.0 Hostile
+aiStrategy.setStrategicObjectsModifier West         10.0 Neutral
+aiStrategy.setStrategicObjectsModifier ControlPoint  2.0
+
+aiStrategy.createStrategy defendBeachHead
+aiStrategy.Aggression 0.0
+aiStrategy.NumberOfAttacks 0
+aiStrategy.NumberOfDefences 1
+aiStrategy.setPrerequisite defendPrereq
+aiStrategy.setStrategicObjectsModifier West         10.0 Owned
+
+aiStrategy.createStrategy singleAttack
+aiStrategy.Aggression 1.0
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 0
+aiStrategy.setPrerequisite singlePrereq
+aiStrategy.setStrategicObjectsModifier Front         2.0 Hostile
+aiStrategy.setStrategicObjectsModifier Base          3.0 Hostile
+aiStrategy.setStrategicObjectsModifier Front         2.0 Neutral
+aiStrategy.setStrategicObjectsModifier Base          3.0 Neutral
+aiStrategy.setStrategicObjectsModifier ControlPoint  2.0
+
+aiStrategy.createStrategy doubleAttack
+aiStrategy.Aggression 1.0
+aiStrategy.NumberOfAttacks 2
+aiStrategy.NumberOfDefences 0
+aiStrategy.setPrerequisite doublePrereq
+aiStrategy.setStrategicObjectsModifier Front         2.0 Hostile
+aiStrategy.setStrategicObjectsModifier Base          3.0 Hostile
+aiStrategy.setStrategicObjectsModifier Front         2.0 Neutral
+aiStrategy.setStrategicObjectsModifier Base          3.0 Neutral
+aiStrategy.setStrategicObjectsModifier ControlPoint  2.0
+
+aiStrategy.createStrategy cleanUp
+aiStrategy.Aggression 1
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 0
+aiStrategy.setPrerequisite cleanUpPrereq
+aiStrategy.setStrategicObjectsModifier ControlPoint  2.0
+
+rem ** Japanesee **
+
+aiStrategy.createStrategy beachDefence
+aiStrategy.Aggression 0.5
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 2
+aiStrategy.setPrerequisite beachDefencePrereq
+aiStrategy.setStrategicObjectsModifier Safe  0.2  Owned
+aiStrategy.setStrategicObjectsModifier Base  2.0  Owned
+aiStrategy.setStrategicObjectsModifier Front 4.0  Owned
+
+aiStrategy.createStrategy onePointRepulse
+aiStrategy.Aggression 0.5
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 2
+aiStrategy.setPrerequisite onePointRepulsePrereq
+aiStrategy.setStrategicObjectsModifier Safe         0.2  Owned
+aiStrategy.setStrategicObjectsModifier ControlPoint 4.0  Hostile
+aiStrategy.setStrategicObjectsModifier Front        4.0  Hostile
+aiStrategy.setStrategicObjectsModifier ControlPoint 4.0  Neutral
+aiStrategy.setStrategicObjectsModifier Front        4.0  Neutral
+
+aiStrategy.createStrategy twoPointsRepulse
+aiStrategy.Aggression 0.9
+aiStrategy.NumberOfAttacks 2
+aiStrategy.NumberOfDefences 1
+aiStrategy.setPrerequisite twoPointRepulsePrereq
+aiStrategy.setStrategicObjectsModifier Safe         0.2  Owned
+aiStrategy.setStrategicObjectsModifier ControlPoint 4.0  Hostile
+aiStrategy.setStrategicObjectsModifier Front        4.0  Hostile
+aiStrategy.setStrategicObjectsModifier ControlPoint 4.0  Neutral
+aiStrategy.setStrategicObjectsModifier Front        4.0  Neutral
+
+beginrem
+aiStrategy.createStrategy threePointsRepulse
+aiStrategy.Aggression 1.0
+aiStrategy.NumberOfAttacks 3
+aiStrategy.NumberOfDefences 0
+aiStrategy.setPrerequisite threePointsRepulsePrereq
+aiStrategy.setStrategicObjectsModifier Safe         0.2  Owned
+aiStrategy.setStrategicObjectsModifier ControlPoint 4.0  Hostile
+aiStrategy.setStrategicObjectsModifier Front        4.0  Hostile
+endrem

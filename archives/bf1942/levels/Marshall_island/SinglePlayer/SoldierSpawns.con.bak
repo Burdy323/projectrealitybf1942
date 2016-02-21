@@ -1,0 +1,219 @@
+rem *** allies_southbase_1 ***
+Object.create allies_southbase_1
+Object.absolutePosition 808.7306/105/783.6426
+Object.rotation 91/0/0
+
+rem *** Axis_southbase_1 ***
+Object.create Axis_southbase_1
+Object.absolutePosition 808.6055/105/783.6469
+Object.rotation 85/0/0
+
+rem *** allies_southbase_2 ***
+Object.create allies_southbase_2
+Object.absolutePosition 864.4387/105/842.6498
+Object.rotation 93.75/0/0
+
+rem *** Axis_southbase_2 ***
+Object.create Axis_southbase_2
+Object.absolutePosition 863.9719/105/842.4706
+Object.rotation 83.25/0/0
+
+rem *** allies_southbase_3 ***
+Object.create allies_southbase_3
+Object.absolutePosition 897.4974/104.1703/796.4172
+Object.rotation -15.75/0/0
+
+rem *** Axis_southbase_3 ***
+Object.create Axis_southbase_3
+Object.absolutePosition 897.2287/104.1703/796.3399
+Object.rotation -10/0/0
+
+rem *** allies_southbase_4 ***
+Object.create allies_southbase_4
+Object.absolutePosition 928.4193/104.1844/851.6859
+Object.rotation -136.5/0/0
+
+rem *** Axis_southbase_4 ***
+Object.create Axis_southbase_4
+Object.absolutePosition 928.4633/104.1797/851.7058
+Object.rotation -142.25/0/0
+
+rem *** allies_southbase_5 ***
+Object.create allies_southbase_5
+Object.absolutePosition 939.6246/114/847.5473
+Object.rotation 42.5/0/0
+
+rem *** Axis_southbase_5 ***
+Object.create Axis_southbase_5
+Object.absolutePosition 940.1039/114/847.5369
+Object.rotation 42.25/0/0
+
+rem *** allies_southbase_6 ***
+Object.create allies_southbase_6
+Object.absolutePosition 940.2255/104.1703/814.2377
+Object.rotation -62.75/0/0
+
+rem *** Axis_southbase_6 ***
+Object.create Axis_southbase_6
+Object.absolutePosition 939.8691/104.1703/814.1718
+Object.rotation -75.25/0/0
+
+rem *** allies_southbase_7 ***
+Object.create allies_southbase_7
+Object.absolutePosition 891.249/104.4234/815.4174
+Object.rotation -126.5/0/0
+
+rem *** Axis_southbase_7 ***
+Object.create Axis_southbase_7
+Object.absolutePosition 891.5284/104.4234/815.4153
+Object.rotation -130/0/0
+
+rem *** allies_southbase_8 ***
+Object.create allies_southbase_8
+Object.absolutePosition 810.1725/107/812.6187
+Object.rotation 57/0/0
+
+rem *** Axis_southbase_8 ***
+Object.create Axis_southbase_8
+Object.absolutePosition 810.2127/107/812.6793
+Object.rotation 63.75/0/0
+
+rem *** allies_Hospital_1 ***
+Object.create allies_Hospital_1
+Object.absolutePosition 946.4992/104.1656/1121.677
+
+rem *** Axis_Hospital_1 ***
+Object.create Axis_Hospital_1
+Object.absolutePosition 948.0438/104.1539/1121.873
+Object.rotation -182/0/0
+
+rem *** allies_Hospital_2 ***
+Object.create allies_Hospital_2
+Object.absolutePosition 1003.081/104.0766/1112.201
+Object.rotation -125.5/0/0
+
+rem *** Axis_hospital_2 ***
+Object.create Axis_hospital_2
+Object.absolutePosition 1003.107/104.0766/1112.075
+Object.rotation -126.5/0/0
+
+rem *** allies_Hospital_3 ***
+Object.create allies_Hospital_3
+Object.absolutePosition 961.0335/104.1703/1159.424
+Object.rotation -168/0/0
+
+rem *** Axis_Hospital_3 ***
+Object.create Axis_Hospital_3
+Object.absolutePosition 961.0509/104.1656/1159.524
+Object.rotation -176.5/0/0
+
+rem *** allies_Hospital_4 ***
+Object.create allies_Hospital_4
+Object.absolutePosition 983.1243/104.2711/1166.639
+Object.rotation 85.25/0/0
+
+rem *** Axis_Hospital_4 ***
+Object.create Axis_Hospital_4
+Object.absolutePosition 983.221/104.2711/1166.755
+Object.rotation 82.75/0/0
+
+rem *** allies_Hospital_5 ***
+Object.create allies_Hospital_5
+Object.absolutePosition 1020.992/109/1212.378
+Object.rotation 89/0/0
+
+rem *** Axis_Hospital_5 ***
+Object.create Axis_Hospital_5
+Object.absolutePosition 1021.117/109/1212.38
+Object.rotation 109/0/0
+
+rem *** allies_Hospital_6 ***
+Object.create allies_Hospital_6
+Object.absolutePosition 1069.538/111/1196.665
+Object.rotation -169/0/0
+
+rem *** Axis_Hospital_6 ***
+Object.create Axis_Hospital_6
+Object.absolutePosition 1069.405/111/1196.668
+Object.rotation -177.5/0/0
+
+rem *** allies_Hospital_7 ***
+Object.create allies_Hospital_7
+Object.absolutePosition 1069.021/109.5539/1237.573
+Object.rotation -129.5/0/0
+
+rem *** Axis_Hospital_7 ***
+Object.create Axis_Hospital_7
+Object.absolutePosition 1068.934/109.5539/1237.307
+Object.rotation -120.5/0/0
+
+rem *** allies_Hospital_8 ***
+Object.create allies_Hospital_8
+Object.absolutePosition 990.278/104.2336/1202.333
+Object.rotation -137.5/0/0
+
+rem *** Axis_Hospital_8 ***
+Object.create Axis_Hospital_8
+Object.absolutePosition 990.2698/104.2336/1202.473
+Object.rotation -151.5/0/0
+
+rem *** allies_Middle_1 ***
+Object.create allies_Middle_1
+Object.absolutePosition 1111.665/104.1703/1023.632
+Object.rotation -48/0/0
+
+rem *** Axis_Middle_1 ***
+Object.create Axis_Middle_1
+Object.absolutePosition 1111.606/104.1703/1023.607
+Object.rotation -52.75/0/0
+
+rem *** allies_Middle_2 ***
+Object.create allies_Middle_2
+Object.absolutePosition 1068.574/104.175/1005.887
+Object.rotation 51.75/0/0
+
+rem *** Axis_Middle_2 ***
+Object.create Axis_Middle_2
+Object.absolutePosition 1068.597/104.175/1005.561
+Object.rotation 50.5/0/0
+
+rem *** allies_Middle_3 ***
+Object.create allies_Middle_3
+Object.absolutePosition 1093.114/104.1703/1010.646
+Object.rotation -32.75/0/0
+
+rem *** Axis_Middle_3 ***
+Object.create Axis_Middle_3
+Object.absolutePosition 1093.207/104.1703/1010.262
+Object.rotation -39.75/0/0
+
+rem *** allies_EastVillage_1 ***
+Object.create allies_EastVillage_1
+Object.absolutePosition 1242.614/109.5/1059.66
+Object.rotation 99.75/0/0
+
+rem *** Axis_EastVillage_1 ***
+Object.create Axis_EastVillage_1
+Object.absolutePosition 1242.735/109.5/1059.789
+Object.rotation 106.75/0/0
+
+rem *** allies_EastVillage_2 ***
+Object.create allies_EastVillage_2
+Object.absolutePosition 1210.654/109.493/1040.124
+Object.rotation 180.25/0/0
+
+rem *** Axis_EastVillage_2 ***
+Object.create Axis_EastVillage_2
+Object.absolutePosition 1210.713/109.4391/1040.024
+Object.rotation -189/0/0
+
+rem *** allies_EastVillage_3 ***
+Object.create allies_EastVillage_3
+Object.absolutePosition 1293.436/109.3922/1047.346
+Object.rotation -266.5/0/0
+
+rem *** Axis_EastVillage_3 ***
+Object.create Axis_EastVillage_3
+Object.absolutePosition 1286.813/109.4344/1048.449
+Object.rotation -74.75/0/0
+

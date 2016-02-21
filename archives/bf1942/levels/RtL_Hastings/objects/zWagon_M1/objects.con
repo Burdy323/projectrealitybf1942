@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject zWagon_M1
+ObjectTemplate.geometry zWagon_M1
+ObjectTemplate.setHasCollisionPhysics 1

@@ -1,0 +1,12 @@
+NetworkableInfo.createNewInfo Zero_wing_info
+NetworkableInfo.setPredictionMode PMLinear
+
+NetworkableInfo.createNewInfo Zero_engine_info
+NetworkableInfo.setPredictionMode PMLinear
+
+NetworkableInfo.createNewInfo Zero_body_info
+NetworkableInfo.setPredictionMode PMLinear
+
+NetworkableInfo.createNewInfo Zero_flap_info
+NetworkableInfo.setPredictionMode PMUsePhysics
+NetworkableInfo.setForceNetworkableId 1

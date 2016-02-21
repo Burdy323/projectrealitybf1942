@@ -1,0 +1,33 @@
+rem *********************************************
+rem Created by Battlecraft 1942.  Copyright (c)2003,2004 Digital Illusions CE
+rem *********************************************
+GeometryTemplate.create PatchTerrain patchGeometry
+GeometryTemplate.file bf1942\levels\Remagen\Heightmap
+GeometryTemplate.materialMap bf1942\levels\Remagen\Materialmap
+GeometryTemplate.materialSize 512
+GeometryTemplate.targetTriCount 5000
+GeometryTemplate.worldSize 2048
+GeometryTemplate.yScale 1.000000
+GeometryTemplate.texBaseName bf1942\levels\Remagen\Textures\Tx
+GeometryTemplate.texOffsetX 0
+GeometryTemplate.texOffsetY 0
+GeometryTemplate.detailTexName bf1942\levels\Remagen\Textures\Detail
+GeometryTemplate.waterLevel 124.000000
+GeometryTemplate.seaFloorLevel 0
+GeometryTemplate.lodDistance 300
+
+ObjectTemplate.create SimpleObject terrainObject
+ObjectTemplate.geometry patchGeometry
+objectTemplate.createNotInGrid 1
+
+Object.create terrainObject
+Object.setName track
+Object.absolutePosition 0/0/0
+Object.rotation 0/0/0
+
+Console.worldSize 2048
+
+Terrain.ShadowAmbient 120/120/120
+Terrain.ShadowBorderFadeTime 0.075
+Terrain.ShadowSamplingCullY 15
+

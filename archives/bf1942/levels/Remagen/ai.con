@@ -1,0 +1,41 @@
+if v_arg1 == host
+
+aiSettings.setWorldMapSize 2048 2048
+aiSettings.setViewDistance 240
+aiSettings.setInformationGridDimension 32
+
+ai.init 2
+
+AIBotManager.setLodLevelTicks 6 6 6
+AIBotManager.setLodLevelPriority 3 3 3
+AIBotManager.setPlannedDecisionMakingThreshold 0.5 0.5 0.5
+AIBotManager.setUnplannedDecisionMakingThreshold 0.3 0.4 0.4
+AIBotManager.setDecisionMakingInterleave 2 2
+AIBotManager.setSensingQuotient 1 1
+AIBotManager.setSystemQuotient 40 40 20
+
+ai.saiMapXDimension 64
+ai.saiMapYDimension 64
+
+ai.createSAI
+ai.saiEnable 1
+game.showAIstats 0
+ai.botStatisticUpdateSpeed 3
+
+endIf
+
+run AIPathFinding.con v_arg1
+run ai/StrategicAreas v_arg1
+run ai/conditions.con v_arg1
+run ai/prerequisites.con v_arg1
+run ai/Strategies.con v_arg1
+
+if v_arg1 == host
+
+ai.addSAIStrategy 1 axisHoldGround
+ai.addSAIStrategy 1 axisBreakOut
+
+ai.addSAIStrategy 2 alliedHoldGround
+ai.addSAIStrategy 2 alliedBreakOut
+
+endIf

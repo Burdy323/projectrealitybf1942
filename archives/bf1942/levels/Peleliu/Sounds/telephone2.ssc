@@ -1,0 +1,22 @@
+#templateLevel HIGH
+
+newPatch
+
+##############
+### tele1  ###
+##############
+load @ROOT/bf1942/levels/Peleliu/Sound/telephone1.wav
+minDistance 5
+loop
+volume .4
+priority -6
+*** Distance Volume ***
+beginEffect
+	controlDestination Volume
+	controlSource Distance
+	envelope Ramp
+	param 5
+	param 35
+	param 1
+	param -1	
+endEffect

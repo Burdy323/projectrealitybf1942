@@ -1,0 +1,7 @@
+[CubeMap]
+PositiveX = bf1942\levels\Kwajalein_Atoll\Textures\env_Kwajalein_Atoll_04.dds
+NegativeX = bf1942\levels\Kwajalein_Atoll\Textures\env_Kwajalein_Atoll_02.dds
+PositiveY = bf1942\levels\Kwajalein_Atoll\Textures\env_Kwajalein_Atoll_05.dds
+NegativeY = bf1942\levels\Kwajalein_Atoll\Textures\env_Kwajalein_Atoll_06.dds
+PositiveZ = bf1942\levels\Kwajalein_Atoll\Textures\env_Kwajalein_Atoll_03.dds
+NegativeZ = bf1942\levels\Kwajalein_Atoll\Textures\env_Kwajalein_Atoll_01.dds

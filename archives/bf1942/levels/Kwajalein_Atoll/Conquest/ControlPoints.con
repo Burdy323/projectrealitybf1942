@@ -1,0 +1,22 @@
+rem ControlPoints.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Kwajalein_Atoll/conquest/ControlPoints.con)
+
+rem ----------------------------------------- 
+rem ---  AxisBase  ---
+rem ----------------------------------------- 
+Object.create AxisBase
+Object.absolutePosition 336.41/56.34/856.12
+
+rem ----------------------------------------- 
+rem ---  AlliedBase  ---
+rem ----------------------------------------- 
+Object.create AlliedBase
+Object.absolutePosition 633.08/56.49/647.21
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point1  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point1
+Object.absolutePosition 539.64/54.34/878.01
+
+rem EndOfFile

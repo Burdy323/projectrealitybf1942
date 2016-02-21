@@ -1,0 +1,48 @@
+rem *** Create Conditions ***
+
+rem *** German ***
+
+rem ** common **
+aiStrategy.createConstantCondition timeCond Fuzzy EqualSmaller Friendly StartTime 120
+aiStrategy.setConditionStrength AdvisoryNegative
+aiStrategy.setIsAbortCondition 1
+
+
+rem ** west **
+aiStrategy.createConstantCondition westCond Crisp EqualGreater Enemy Remote 1
+aiStrategy.setConditionStrength Required
+
+rem ** east **
+aiStrategy.createConstantCondition eastCond Crisp EqualGreater Enemy Route 1
+aiStrategy.setConditionStrength Required
+
+rem ** bridge ** 
+aiStrategy.createConstantCondition bridgeCond Crisp EqualGreater Enemy Bridge 1
+aiStrategy.setConditionStrength Required
+
+rem ** doubleFlank ** 
+aiStrategy.createConstantCondition doubleFrontCond Crisp EqualGreater Enemy Front 2
+aiStrategy.setConditionStrength Required
+
+rem ** finalPush **
+aiStrategy.createConstantCondition singleFrontCond Crisp Equal Enemy Front 1
+aiStrategy.setConditionStrength Required
+
+
+
+rem *** American ***
+
+rem ** front3 **
+aiStrategy.createConstantCondition front3Cond Crisp EqualGreater Friendly Front 3
+aiStrategy.setConditionStrength Required
+
+rem ** retake **
+aiStrategy.createConstantCondition retakeCond Crisp EqualSmaller Friendly ControlPoint 4
+aiStrategy.setConditionStrength Advisory
+
+rem ** breakOut **
+aiStrategy.createConstantCondition oneCPLeftCond Crisp Equal Friendly ControlPoint 1
+aiStrategy.setConditionStrength AdvisoryPositive
+
+aiStrategy.createConstantCondition noCPLeftCond Crisp Equal Friendly ControlPoint 0
+aiStrategy.setConditionStrength AdvisoryPositive

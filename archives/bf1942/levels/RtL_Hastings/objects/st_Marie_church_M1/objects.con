@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject st_Marie_church_M1
+ObjectTemplate.geometry st_Marie_church_M1
+ObjectTemplate.setHasCollisionPhysics 1

@@ -1,0 +1,66 @@
+renderer.beginGlobalCluster RenaultTaxi
+GeometryTemplate.create StandardMesh RenaultTaxi_Hull_M1
+GeometryTemplate.file RenaultTaxi_fus
+GeometryTemplate.hasDynamicShadow 1
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 10
+GeometryTemplate.setLodDistance 2 15
+GeometryTemplate.setLodDistance 3 30
+GeometryTemplate.setLodDistance 4 50
+GeometryTemplate.setLodDistance 5 100
+
+GeometryTemplate.create StandardMesh RenaultTaxi_WheelR_M1
+GeometryTemplate.file RenaultTaxi_wheelR
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 10
+GeometryTemplate.setLodDistance 2 15
+GeometryTemplate.setLodDistance 3 30
+GeometryTemplate.setLodDistance 4 50
+GeometryTemplate.setLodDistance 5 100
+
+GeometryTemplate.create StandardMesh RenaultTaxi_WheelL_M1
+GeometryTemplate.file RenaultTaxi_wheelL
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 10
+GeometryTemplate.setLodDistance 2 15
+GeometryTemplate.setLodDistance 3 30
+GeometryTemplate.setLodDistance 4 50
+GeometryTemplate.setLodDistance 5 100
+
+GeometryTemplate.create StandardMesh RenaultTaxi_Steering_M1
+GeometryTemplate.file RenaultTaxi_steerWheel
+geometryTemplate.cullFactor 0.4
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 10
+GeometryTemplate.setLodDistance 2 15
+GeometryTemplate.setLodDistance 3 30
+GeometryTemplate.setLodDistance 4 50
+GeometryTemplate.setLodDistance 5 100
+
+GeometryTemplate.create StandardMesh 1P_RenaultTaxi_Hul_M1
+GeometryTemplate.file RenaultTaxi_Fus
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 10
+GeometryTemplate.setLodDistance 2 15
+GeometryTemplate.setLodDistance 3 30
+GeometryTemplate.setLodDistance 4 50
+GeometryTemplate.setLodDistance 5 100
+
+GeometryTemplate.create StandardMesh 1P_RenaultTaxi_str_M1
+GeometryTemplate.file RenaultTaxi_SteerWheel
+GeometryTemplate.cullFactor 2
+renderer.endGlobalCluster
+
+GeometryTemplate.create StandardMesh RenaultTaxi_Hull_L1
+GeometryTemplate.file RenaultTaxi_Fus
+GeometryTemplate.hasDynamicShadow 1
+
+GeometryTemplate.create StandardMesh Wreck_RenaultTaxi_M1
+GeometryTemplate.file RenaultTaxi_Fus
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 10
+GeometryTemplate.setLodDistance 2 15
+GeometryTemplate.setLodDistance 3 30
+GeometryTemplate.setLodDistance 4 50
+GeometryTemplate.setLodDistance 5 100
+

@@ -1,0 +1,36 @@
+rem 
+rem **** Initialize Terrain *****
+rem
+GeometryTemplate.create PatchTerrain terrainGeometry
+GeometryTemplate.file bf1942\levels\Battle_For_Guam\Heightmap
+GeometryTemplate.materialMap bf1942\levels\Battle_For_Guam\Materialmap
+GeometryTemplate.materialSize 1024
+GeometryTemplate.targetTriCount 5000
+GeometryTemplate.worldSize 4096
+GeometryTemplate.yScale 0.6
+GeometryTemplate.texBaseName bf1942\levels\Battle_For_Guam\Textures\Tx
+GeometryTemplate.texOffsetX 4
+GeometryTemplate.texOffsetY 4
+GeometryTemplate.detailTexName bf1942\levels\Battle_For_Guam\Textures\Detail
+GeometryTemplate.waterLevel 42
+GeometryTemplate.seaFloorLevel 0
+GeometryTemplate.lodDistance 500
+
+Water.baseTex texture/Water
+
+ObjectTemplate.create SimpleObject terrainObject
+ObjectTemplate.geometry terrainGeometry
+objectTemplate.createNotInGrid 1
+
+Object.create terrainObject
+Object.setName track
+Object.absolutePosition 0/0/0
+Object.rotation 0/0/0
+
+Console.worldSize 4096
+
+Terrain.ShadowAmbient 70/70/70
+Terrain.ShadowBorderFadeTime 0.075
+Terrain.ShadowSamplingCullY 10
+
+

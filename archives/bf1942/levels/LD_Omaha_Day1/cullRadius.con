@@ -1,0 +1,165 @@
+REM *** Buildings & Objects ***
+
+Objecttemplate.active BuildingSmokeIdleDark 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagu_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sea_obs_M1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active tankobs_ste_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active lcvp_static 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stecrate2_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active EU_asp1_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active EU_asp2_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active EU_asp3_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active EU_Birtch2_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active EU_Birtch1_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Stones_Euro_L_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active eu_fence_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagi_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagl_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Supplyde_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active o_bunker_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active smlfrenchfarm_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active SuburbHouse_2_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active SuburbHouse_4_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active SuburbHouse_3_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active wdfence1_fen1_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active wdfence1_pol1_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active repport_tan1_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Milifence_large_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Milifence_pole_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active eu_cart_2wheel_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Eu_Strtlight_M1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active eu_cart_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active telepole_M1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stebarbwire_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stebarbwire2_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stecrate1_M1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stebarrel1_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active greencammo_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active plough_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active cabledrm_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active repaircist_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active rh_tsp_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Oma_conc_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Ammobox 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active mediclocker 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active ruin_suburbhouse_1_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Plank_10m_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Plank_6m_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active SuburbHouse_4_closed_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active SuburbHouse_2_closed_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active SuburbHouse_1_closed_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active SuburbHouse_3_closed_M1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Defgun_bunker_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbag_2m_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Fire_control_bunker
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active LCT 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Casemate
+objectTemplate.cullRadiusScale 5
+
+REM *** Vehicles ***

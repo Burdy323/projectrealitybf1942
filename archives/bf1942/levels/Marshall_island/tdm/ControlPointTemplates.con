@@ -1,0 +1,8 @@
+rem ControlPointTemplates.con created by Battlecraft 1942
+rem (D:\Battlefield 1942\Mods\bf1942\bf1942\levels\Marshall_island/tdm/ControlPointTemplates.con)
+
+NetworkableInfo.createNewInfo ControlPointInfo
+NetworkableInfo.setPredictionMode PMNone
+NetworkableInfo.setBasePriority c_NIGhostAlways
+
+rem EndOfFile

@@ -1,0 +1,17 @@
+Game.setNumberOfTickets 1 90
+Game.setNumberOfTickets 2 110
+Game.setTicketLostPerMin 1 5
+Game.setTicketLostPerMin 2 5
+
+run ai_fixes
+run ai_tweaks
+run SinglePlayer/SpawnpointManagerSettings
+run SinglePlayer/SoldierSpawnTemplates
+run SinglePlayer/SoldierSpawns
+run SinglePlayer/ObjectSpawnTemplates
+run SinglePlayer/ControlPointTemplates
+
+run ai v_arg1
+run SinglePlayer/ObjectSpawns v_arg1
+run SinglePlayer/ControlPoints v_arg1
+rem console.bindKeyToConsoleScript 1 follow.con

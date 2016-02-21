@@ -1,0 +1,11 @@
+#templateLevel HIGH
+
+	#include High/Cannon.ssc
+	
+#templateLevel MEDIUM
+
+	#include Mid/Cannon.ssc
+	
+#templateLevel LOW
+
+	#include Low/Cannon.ssc

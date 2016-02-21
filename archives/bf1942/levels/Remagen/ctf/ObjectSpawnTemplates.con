@@ -1,0 +1,138 @@
+rem ObjectSpawnTemplates.con created by Battlecraft 1942
+rem (D:\Battlefield 1942\Mods\bf1942\bf1942\levels\Remagen/conquest/ObjectSpawnTemplates.con)
+
+rem ----------------------------------------- 
+rem ---  LightTank_Spawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner LightTank_Spawner
+ObjectTemplate.setObjectTemplate 1 panzeriv
+ObjectTemplate.setObjectTemplate 2 sherman
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  MachineGun_Spawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner MachineGun_Spawner
+ObjectTemplate.setObjectTemplate 1 stationary_mg42
+ObjectTemplate.setObjectTemplate 2 stationary_browning
+ObjectTemplate.MinSpawnDelay 20
+ObjectTemplate.MaxSpawnDelay 40
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  HeavyTank_Spawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner HeavyTank_Spawner
+ObjectTemplate.setObjectTemplate 1 tiger
+ObjectTemplate.setObjectTemplate 2 m10
+ObjectTemplate.MinSpawnDelay 70
+ObjectTemplate.MaxSpawnDelay 110
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  Fighter_Plane_Spawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Fighter_Plane_Spawner
+ObjectTemplate.setObjectTemplate 1 bf109
+ObjectTemplate.setObjectTemplate 2 mustang
+ObjectTemplate.MinSpawnDelay 80
+ObjectTemplate.MaxSpawnDelay 120
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  APC_Spawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner APC_Spawner
+ObjectTemplate.setObjectTemplate 1 hanomag
+ObjectTemplate.setObjectTemplate 2 m3a1
+ObjectTemplate.MinSpawnDelay 35
+ObjectTemplate.MaxSpawnDelay 55
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  Raft_Spawner_Ferry  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Raft_Spawner_Ferry
+ObjectTemplate.setObjectTemplate 2 cdnraft
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  AA_Gun_Spawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner AA_Gun_Spawner
+ObjectTemplate.setObjectTemplate 1 flak38
+ObjectTemplate.setObjectTemplate 2 aa_allies
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  ScoutCar_Spawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner ScoutCar_Spawner
+ObjectTemplate.setObjectTemplate 1 kubelwagen
+ObjectTemplate.setObjectTemplate 2 willy
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  Raft_Spawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Raft_Spawner
+ObjectTemplate.setObjectTemplate 1 cdnraft
+ObjectTemplate.setObjectTemplate 2 cdnraft
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem EndOfFile

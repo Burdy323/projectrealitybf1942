@@ -1,0 +1,129 @@
+GeometryTemplate.create StandardMesh Remagen_IronBridge_Middle_M1
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_IronBridge_Middle_M1
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 35
+GeometryTemplate.setLodDistance 3 60
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300
+
+GeometryTemplate.create StandardMesh Remagen_IronBridge_End_M1
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_IronBridge_End_M1
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 35
+GeometryTemplate.setLodDistance 3 60
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300
+
+GeometryTemplate.create StandardMesh Remagen_IronBridge_Base_M1
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_IronBridge_Base_M1
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 35
+GeometryTemplate.setLodDistance 3 60
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300
+
+GeometryTemplate.create StandardMesh Remagen_IronBridge_SidePathS_M1
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_IronBridge_SidePathS_M1
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 35
+GeometryTemplate.setLodDistance 3 60
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300
+
+GeometryTemplate.create StandardMesh Remagen_StoneBridge_M1
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_StoneBridge_M1
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 35
+GeometryTemplate.setLodDistance 3 60
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300
+
+GeometryTemplate.create StandardMesh Remagen_Stairs_M1
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_Stairs_M1
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 5
+GeometryTemplate.setLodDistance 2 10
+GeometryTemplate.setLodDistance 3 15
+GeometryTemplate.setLodDistance 4 25
+GeometryTemplate.setLodDistance 5 30
+
+GeometryTemplate.create StandardMesh Remagen_StairsHigh_M1
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_StairsHigh_M1
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 5
+GeometryTemplate.setLodDistance 2 10
+GeometryTemplate.setLodDistance 3 15
+GeometryTemplate.setLodDistance 4 25
+GeometryTemplate.setLodDistance 5 30
+
+GeometryTemplate.create StandardMesh Remagen_Towers_Windows_right_bottom
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_Towers_Windows_right_bottom
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 35
+GeometryTemplate.setLodDistance 3 60
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300
+
+GeometryTemplate.create StandardMesh Remagen_Towers_Windows_right_top
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_Towers_Windows_right_top
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 35
+GeometryTemplate.setLodDistance 3 60
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300
+
+
+GeometryTemplate.create StandardMesh Remagen_Towers_Windows_left_bottom
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_Towers_Windows_left_bottom
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 35
+GeometryTemplate.setLodDistance 3 60
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300
+
+
+GeometryTemplate.create StandardMesh Remagen_Towers_Windows_left_top
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_Towers_Windows_left_top
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 35
+GeometryTemplate.setLodDistance 3 60
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300
+
+
+GeometryTemplate.create StandardMesh Remagen_Towers_Interior
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_Towers_Interior
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 35
+GeometryTemplate.setLodDistance 3 50
+GeometryTemplate.setLodDistance 4 60
+GeometryTemplate.setLodDistance 5 300
+
+GeometryTemplate.create StandardMesh Remagen_Towers_Exterior
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_Towers_Exterior
+GeometryTemplate.textureFadeMaxDist 90
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 35
+GeometryTemplate.setLodDistance 3 70
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300
+
+GeometryTemplate.create StandardMesh Remagen_Towers_Stairhouse
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/Remagen_Towers_Stairhouse
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 10
+GeometryTemplate.setLodDistance 2 20
+GeometryTemplate.setLodDistance 3 35
+GeometryTemplate.setLodDistance 4 60
+GeometryTemplate.setLodDistance 5 300

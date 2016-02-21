@@ -1,0 +1,35 @@
+ObjectTemplate.create KitPart US_Britt_Bacpac
+ObjectTemplate.geometry US_Britt_Bacpac
+ObjectTemplate.setBoneName backpack
+ObjectTemplate.setCopyLinksCount 0
+
+
+
+ObjectTemplate.create Kit 1BRIT_Rifle
+ObjectTemplate.setType Assault
+ObjectTemplate.geometry Kit_Allies_Assault
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Brit_Helmet
+ObjectTemplate.addTemplate US_Britt_Bacpac
+ObjectTemplate.addTemplate British_hippack
+ObjectTemplate.addTemplate Chutedisabler
+
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_engineer_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_engineer_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_alliesKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_no4.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_grenadeallies.tga"
+
+ObjectTemplate.setKitIcon 1 "kits/Icon_engineer_allies_selected.tga"
+ObjectTemplate.setKitName 1 "RIFLEMAN"
+ObjectTemplate.setKitActiveName 1 "ACTIVE RIFLEMEN"	
+
+ObjectTemplate.addTemplate No4
+ObjectTemplate.addTemplate KnifeAllies
+
+
+ObjectTemplate.addTemplate GrenadeAllies
+ObjectTemplate.aiTemplate  Assault

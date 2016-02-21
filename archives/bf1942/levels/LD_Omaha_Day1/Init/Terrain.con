@@ -1,0 +1,36 @@
+rem 
+rem **** Initialize Terrain *****
+rem
+GeometryTemplate.create patchTerrain patchGeometry
+GeometryTemplate.file bf1942\levels\LD_Omaha_Day1\Heightmap
+GeometryTemplate.materialMap bf1942\levels\LD_Omaha_Day1\Materialmap
+GeometryTemplate.materialSize 512
+GeometryTemplate.targetTriCount 5000
+GeometryTemplate.worldSize 2048
+GeometryTemplate.yScale 0.350000
+GeometryTemplate.texBaseName bf1942\levels\LD_Omaha_Day1\Textures\Tx
+GeometryTemplate.texOffsetX 0
+GeometryTemplate.texOffsetY 0
+GeometryTemplate.detailTexName bf1942\levels\LD_omaha_Day1\Textures\Detail
+GeometryTemplate.waterLevel 7.1
+GeometryTemplate.waveHeight 10.1
+GeometryTemplate.seaFloorLevel -20
+GeometryTemplate.waveScale 1
+GeometryTemplate.lodDistance 300
+
+Water.baseTex texture/Water
+
+ObjectTemplate.create SimpleObject terrainObject
+ObjectTemplate.geometry patchGeometry
+objectTemplate.createNotInGrid 1
+
+Object.create terrainObject
+Object.setName track
+Object.absolutePosition 0/0/0
+Object.rotation 0/0/0
+
+Console.worldSize 2048
+
+Terrain.ShadowAmbient 50/50/50
+Terrain.ShadowBorderFadeTime 0.075
+Terrain.ShadowSamplingCullY 5

@@ -1,0 +1,63 @@
+if v_arg1 == host
+
+rem *** Pathfinding debug mode
+rem game.aiPathfindingDebuggingActive 1
+
+rem *** Set number of maps ***
+rem ai.setNSearchMaps 2 *** DEPRICATED ***
+rem ai.setNSearchTypes 2 *** DEPRICATED ***
+
+rem *** Set number of AStar resources ***
+rem ai.numAStarResources 12
+
+rem *** Setup map parameters ***
+rem *** searchMap name/waterHeight/waterDepth/maxSlope/brush/lowClipLevel/hiClipLevel/considerAITypes
+rem *** searchType name/mapNum/minSearchLevel
+
+
+rem *** Tank ***
+ai.addSearchMap Tank0 0 0 25 3.0 0.3 2.5 0
+ai.addSearchType Tank 0 0
+rem ai.setMapSpawnPoints 0 872/842
+ai.setSmoothing 0 20
+rem 872/842, 872/842, 888/829, 888/829, 892/796, 892/796, 919/803, 919/803, 1011/1165, 1011/1165, 1062/1191, 1062/1191, 962/1144, 962/1144, 1064/1229, 1064/1229, 1091/1045, 1091/1045, 1267/1070, 1267/1070, 1274/1020, 1280/1017
+
+rem *** Infantry ***
+ai.addSearchMap Infantry1 0 1.5 30 1.0 0.4 2.0 1
+ai.addSearchType Infantry 1 0 
+rem ai.setMapSpawnPoints 1 809/784
+ai.setSmoothing 1 10
+rem 809/784, 809/784, 864/843, 864/842, 898/796, 897/796, 928/852, 928/852, 940/848, 940/848, 940/814, 940/814, 891/815, 892/815, 810/813, 810/813, 946/1122, 948/1122, 1003/1112, 1003/1112, 961/1159, 961/1160, 983/1167, 983/1167, 1021/1212, 1021/1212, 1070/1197, 1069/1197, 1069/1238, 1069/1237, 990/1202, 990/1202, 1112/1024, 1112/1024, 1069/1006, 1069/1006, 1093/1011, 1093/1010, 1243/1060, 1243/1060, 1211/1040, 1211/1040, 1293/1047, 1287/1048
+
+
+rem *** Boat ***
+ai.addSearchMap Boat2 1 8 30 4.0 0.3 2.5 0 2 5
+ai.addSearchType Boat 2 2
+rem ai.setMapSpawnPoints 2 1682/657
+ai.setSmoothing 2 20
+rem 1682/657, 1682/657, 1633/620, 1633/620
+
+
+rem *** LandingCraft ***
+ai.addSearchMap LandingCraft3 1 1.4 30 4.0 0.3 2.5 0 2 5
+ai.addSearchType LandingCraft 3 2
+rem ai.setMapSpawnPoints 3 0/0
+ai.setSmoothing 3 20
+rem 0/0, 
+
+beginrem
+rem *** Amphibius ***
+ai.addSearchMap Amphibius4 0 1000 30 4.0 0.3 2.5 0
+ai.addSearchType Amphibius 4 0
+ai.setMapSpawnPoints 4 0/0
+ai.setSmoothing 4 20
+ai.setWaterCutOffDepth 1
+endrem
+
+rem *** Load maps ***
+ai.loadMaps
+run StaticObjects.con
+ai.createAllMaps
+
+endIf
+

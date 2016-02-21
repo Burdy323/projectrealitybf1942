@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject Mpacificfarm2
+ObjectTemplate.geometry Mpacificfarm2
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.aiTemplate Mpacificfarm2

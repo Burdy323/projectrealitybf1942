@@ -1,0 +1,6867 @@
+rem StaticObjects created by Battlecraft 1942
+rem
+rem ***  ***
+rem
+Object.create hangar1_m1
+Object.absolutePosition 827.51/104.00/815.91
+Object.rotation 89.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create landrep1_supply
+Object.absolutePosition 863.47/104.16/842.41
+Object.rotation 89.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 920.36/104.00/868.27
+Object.rotation 11.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 965.82/104.15/825.51
+Object.rotation 48.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 992.10/104.40/925.25
+Object.rotation 25.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 1078.93/108.92/1130.72
+Object.rotation 133.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 1120.28/108.21/1161.65
+Object.rotation -178.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 1201.67/109.10/1081.06
+Object.rotation -72.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create woodbrdg_m1
+Object.absolutePosition 1024.73/103.50/960.25
+Object.rotation 57.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create guardtow_m1
+Object.absolutePosition 939.89/103.00/847.60
+Object.rotation -139.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 869.23/103.49/884.18
+Object.rotation -100.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 880.41/103.63/883.66
+Object.rotation -67.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 936.78/104.21/865.14
+Object.rotation -43.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 966.49/104.17/834.88
+Object.rotation -22.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create planeeng_m1
+Object.absolutePosition 832.30/104.17/792.18
+Object.rotation 10.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 869.80/104.22/763.90
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 1298.59/109.06/1059.81
+Object.rotation -54.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm1_m1
+Object.absolutePosition 1248.52/109.40/1078.49
+Object.rotation -90.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 1283.53/109.40/1069.08
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create bunker1_m1
+Object.absolutePosition 1210.46/109.55/1039.40
+Object.rotation 174.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 1229.69/109.60/1101.75
+Object.rotation -53.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1282.22/98.79/1134.34
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1266.97/97.35/1134.52
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1253.97/97.35/1134.21
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1183.47/97.09/1097.78
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1175.24/97.31/1094.05
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1133.68/96.37/1104.58
+Object.rotation -37.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1123.24/96.88/1115.34
+Object.rotation -189.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1121.24/97.41/1133.24
+Object.rotation 219.50/22.00/0.00
+rem
+rem ***  ***
+rem
+Object.create defgun_bunker_m1
+Object.absolutePosition 1295.00/106.00/1106.06
+Object.rotation 45.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 967.54/104.21/1184.03
+Object.rotation -93.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1152.49/99.82/1229.04
+Object.rotation -174.00/0.00/22.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1145.19/99.40/1243.50
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1105.49/109.20/1251.03
+Object.rotation -231.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1117.41/109.20/1241.38
+Object.rotation -139.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1040.10/104.20/984.51
+Object.rotation -299.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1096.00/104.17/1024.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1096.13/104.17/1022.83
+Object.rotation -59.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1096.77/104.17/1024.60
+Object.rotation -154.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1103.54/104.23/1056.83
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 930.66/104.17/836.66
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1217.45/97.20/970.62
+Object.rotation 46.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 866.76/104.17/834.72
+Object.rotation 33.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 865.57/104.17/833.82
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 893.56/104.17/808.83
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 962.47/104.36/829.48
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create bunker1_m1
+Object.absolutePosition 950.45/103.92/755.59
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 950.09/103.92/751.49
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 940.56/113.60/848.45
+Object.rotation -138.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1202.03/109.47/1070.93
+Object.rotation -188.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 920.21/104.50/853.30
+Object.rotation -315.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 923.70/104.50/849.89
+Object.rotation 40.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create defgun_bunker_m1
+Object.absolutePosition 1067.90/106.00/1267.98
+Object.rotation 7.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 980.94/104.08/1112.72
+Object.rotation 19.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ladder_10m_m1
+Object.absolutePosition 844.88/107.20/794.18
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create defgun_bunker_m1
+Object.absolutePosition 1277.21/105.88/953.25
+Object.rotation 128.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 969.78/104.22/814.11
+Object.rotation 61.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 977.16/104.00/800.80
+Object.rotation -119.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 959.22/104.00/840.28
+Object.rotation -185.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 942.94/104.00/855.05
+Object.rotation -183.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1298.44/108.00/1001.13
+Object.rotation -49.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 1246.12/109.40/1039.94
+Object.rotation -271.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1267.86/109.59/1017.41
+Object.rotation 31.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 1304.34/109.40/1082.26
+Object.rotation -2.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1210.27/109.43/1086.55
+Object.rotation -125.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repaircist_m1
+Object.absolutePosition 834.68/104.17/793.62
+Object.rotation -181.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create radarbun_m1
+Object.absolutePosition 1168.97/115.50/792.58
+Object.rotation 0.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1164.68/115.36/800.81
+Object.rotation -270.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 1169.78/115.70/795.24
+Object.rotation -176.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1044.63/104.20/978.06
+Object.rotation -59.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1137.37/104.37/1019.18
+Object.rotation 140.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1241.44/109.32/1016.74
+Object.rotation -42.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1251.24/109.49/1005.12
+Object.rotation -2.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 1243.70/108.90/984.29
+Object.rotation -262.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 1292.70/109.80/1017.73
+Object.rotation 76.25/90.00/22.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1294.19/109.50/1019.47
+Object.rotation -113.00/4.00/11.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1095.96/106.66/1266.04
+Object.rotation -252.25/4.00/15.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1104.60/106.66/1260.57
+Object.rotation -230.00/0.00/11.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 1107.70/109.35/1199.81
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 1108.57/109.35/1200.23
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 1107.97/110.63/1200.22
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1107.71/109.35/1200.79
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 985.32/104.20/1163.35
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 963.99/104.23/1168.26
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repaircist_m1
+Object.absolutePosition 830.31/104.20/793.48
+Object.rotation 180.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 911.70/103.69/872.63
+Object.rotation -60.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 966.29/103.88/758.23
+Object.rotation -135.25/0.00/6.00
+rem
+rem ***  ***
+rem
+Object.create stones_pacif_l_m1
+Object.absolutePosition 936.80/104.17/1069.88
+Object.rotation -197.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1009.70/104.08/1100.97
+Object.rotation 115.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1256.25/105.00/1115.38
+Object.rotation 83.25/11.00/11.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1270.50/103.73/1115.25
+Object.rotation -86.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1145.11/101.87/1082.96
+Object.rotation -76.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 1095.62/104.18/1011.49
+Object.rotation 55.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 759.61/105.55/1287.13
+Object.rotation 52.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 965.09/104.00/1114.67
+Object.rotation -90.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm1_m1
+Object.absolutePosition 1112.63/104.18/1027.28
+Object.rotation -299.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm1_m1
+Object.absolutePosition 1073.21/104.17/1005.15
+Object.rotation -212.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 1108.55/104.04/996.82
+Object.rotation 53.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 1244.01/109.60/1062.35
+Object.rotation -93.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 1238.77/109.60/1057.84
+Object.rotation -91.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1280.72/109.59/1009.43
+Object.rotation -56.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create bunker2_m1
+Object.absolutePosition 1135.59/107.40/1211.43
+Object.rotation -42.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create supplyde_m1
+Object.absolutePosition 926.44/104.33/853.53
+Object.rotation -140.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm1_m1
+Object.absolutePosition 900.25/104.00/798.07
+Object.rotation 86.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 914.21/104.00/833.56
+Object.rotation -115.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 931.37/104.00/801.63
+Object.rotation -312.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 889.06/104.00/820.34
+Object.rotation -88.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm1_m1
+Object.absolutePosition 941.84/104.00/817.14
+Object.rotation 47.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create airrep1_m1
+Object.absolutePosition 806.26/104.16/783.76
+Object.rotation 89.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create militable_m1
+Object.absolutePosition 841.86/104.60/800.06
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 840.00/104.60/800.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 840.09/104.60/801.89
+Object.rotation 104.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 843.44/104.60/799.42
+Object.rotation -57.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 842.90/104.60/802.27
+Object.rotation -148.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1140.48/104.49/1009.95
+Object.rotation 186.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 1124.25/104.16/1034.81
+Object.rotation -119.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1110.75/104.16/1060.92
+Object.rotation -203.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 953.35/104.44/1123.74
+Object.rotation -91.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 948.73/104.46/1115.56
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create bunker2_m1
+Object.absolutePosition 1010.63/104.00/1108.09
+Object.rotation 44.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 1018.55/109.20/1208.70
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create steplank1_m1
+Object.absolutePosition 930.74/104.55/835.98
+Object.rotation 262.75/0.00/66.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 808.59/105.10/788.29
+Object.rotation 89.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 885.14/104.10/875.58
+Object.rotation -0.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 959.65/103.92/748.46
+Object.rotation -42.25/5.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repaircist_m1
+Object.absolutePosition 1019.23/108.22/1205.17
+Object.rotation 90.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 987.28/104.23/1205.05
+Object.rotation -90.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 966.67/104.27/1204.27
+Object.rotation -91.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create supplyde_m1
+Object.absolutePosition 948.34/104.27/1120.67
+Object.rotation -1.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create airrep1_m1
+Object.absolutePosition 1017.74/108.26/1212.23
+Object.rotation 90.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create hospital_m1
+Object.absolutePosition 1065.72/109.50/1206.95
+Object.rotation -1.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create barack_m1
+Object.absolutePosition 1084.81/109.55/1205.31
+Object.rotation -182.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 1063.23/110.40/1194.48
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 1094.22/110.44/1240.06
+Object.rotation -90.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire2_m1
+Object.absolutePosition 932.00/103.00/1204.00
+Object.rotation -38.00/7.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire2_m1
+Object.absolutePosition 922.95/103.66/1154.06
+Object.rotation -83.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create greencammo_m1
+Object.absolutePosition 1011.77/103.55/1165.32
+Object.rotation -92.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 878.73/92.45/994.10
+Object.rotation -277.50/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1173.67/91.00/1149.76
+Object.rotation -139.75/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 1304.01/109.10/1096.79
+Object.rotation 65.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 976.73/103.88/777.70
+Object.rotation 190.75/4.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 972.38/104.00/766.39
+Object.rotation 204.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create defgun_bunker_m1
+Object.absolutePosition 782.76/101.07/748.86
+Object.rotation -171.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create defgun_bunker_m1
+Object.absolutePosition 912.38/101.19/1023.49
+Object.rotation -63.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 1081.20/109.00/1128.20
+Object.rotation -47.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 890.76/104.03/880.30
+Object.rotation -281.25/3.00/5.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 929.16/104.00/859.47
+Object.rotation 39.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 836.62/104.60/796.36
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 835.27/104.60/796.43
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 833.89/104.60/797.56
+Object.rotation -91.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 831.13/104.60/796.18
+Object.rotation -9.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 833.93/104.60/796.18
+Object.rotation -183.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 835.26/105.90/796.43
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 832.55/105.90/796.27
+Object.rotation -2.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 832.56/104.60/797.52
+Object.rotation -92.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 833.93/104.60/798.91
+Object.rotation 6.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 979.18/104.11/790.12
+Object.rotation 179.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 829.88/104.17/799.13
+Object.rotation -89.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 831.39/104.60/797.70
+Object.rotation -89.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 828.66/104.17/799.15
+Object.rotation -89.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 832.57/104.60/796.19
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 835.25/104.60/797.83
+Object.rotation -92.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 832.52/104.60/799.07
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 835.19/106.00/797.88
+Object.rotation -131.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 836.26/105.04/808.92
+Object.rotation -22.00/90.00/22.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 836.61/105.90/796.48
+Object.rotation -77.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 837.76/104.60/796.41
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 837.41/104.60/797.58
+Object.rotation 74.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 867.75/92.46/958.91
+Object.rotation -262.00/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 856.67/92.46/927.08
+Object.rotation -262.00/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 863.81/92.46/949.32
+Object.rotation -262.00/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 872.51/93.20/967.35
+Object.rotation -241.25/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 860.09/93.07/937.38
+Object.rotation -262.00/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 874.79/92.82/975.65
+Object.rotation -262.00/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 876.90/93.19/984.25
+Object.rotation -262.00/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1183.72/90.98/1142.17
+Object.rotation -139.75/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1193.64/90.98/1140.28
+Object.rotation -139.75/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1199.93/90.98/1131.94
+Object.rotation -139.75/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1167.01/90.98/1155.19
+Object.rotation -139.75/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1069.87/110.41/1224.27
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1168.71/115.40/799.90
+Object.rotation 8.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 948.22/104.10/758.39
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 836.99/104.16/780.69
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 836.95/104.16/780.62
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 852.00/104.15/780.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 864.01/104.16/779.38
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 876.03/104.12/778.50
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 892.19/104.17/777.88
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 900.00/103.98/768.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 912.00/103.92/760.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 924.00/103.92/748.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 924.43/104.22/774.39
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 911.84/104.22/777.14
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 939.81/104.09/774.37
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 864.00/104.17/804.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 847.22/104.17/819.39
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 876.00/104.17/792.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 852.00/104.15/780.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 852.09/104.13/780.02
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 864.01/104.15/779.25
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 876.21/104.17/778.38
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 876.08/104.17/792.01
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 863.91/104.17/803.97
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 892.35/104.03/777.79
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 911.86/104.22/777.35
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 924.32/104.22/774.51
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 900.10/104.00/767.88
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 911.92/103.92/759.99
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 923.92/103.92/747.99
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 939.95/104.27/774.24
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 846.99/104.17/819.44
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 1036.00/110.34/1144.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 1036.00/109.45/1164.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 1036.00/109.42/1188.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 1036.00/108.99/1204.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 1036.00/108.75/1228.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 1036.00/108.90/1244.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 1059.71/109.48/1182.51
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 1071.85/109.54/1183.00
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 1087.85/109.52/1182.88
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 1107.96/109.14/1182.63
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create alliedairplaneammo
+Object.absolutePosition 1127.97/108.48/1182.75
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 1036.11/110.44/1143.86
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 1036.25/109.44/1163.84
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 1036.13/109.43/1187.59
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 1036.11/109.27/1203.60
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 1036.12/109.11/1227.41
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 1036.12/109.19/1243.53
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 1059.69/109.48/1182.38
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 1071.82/109.54/1182.76
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 1087.70/109.51/1182.76
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 1108.07/109.11/1182.50
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create axisairplaneammo
+Object.absolutePosition 1127.94/108.49/1182.63
+Object.rotation 88.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 1133.06/107.60/1208.56
+Object.rotation 48.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1070.55/110.41/1222.19
+Object.rotation -56.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm1_m1
+Object.absolutePosition 976.38/104.27/1163.40
+Object.rotation -270.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create bunker2_m1
+Object.absolutePosition 897.50/103.90/873.51
+Object.rotation -132.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 1168.91/115.60/796.69
+Object.rotation 2.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create militable_m1
+Object.absolutePosition 1170.09/115.70/790.39
+Object.rotation -87.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 752.00/105.55/1292.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 1166.00/115.80/795.19
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create hospital_m1
+Object.absolutePosition 1081.80/109.55/1241.38
+Object.rotation -90.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 1072.36/110.43/1218.92
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1075.94/109.55/1207.34
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1074.26/109.55/1204.04
+Object.rotation 38.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm1_m1
+Object.absolutePosition 956.50/104.00/1163.72
+Object.rotation -181.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm1_m1
+Object.absolutePosition 995.62/104.21/1184.12
+Object.rotation -2.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 935.50/104.00/1114.05
+Object.rotation -181.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create guardtow_m1
+Object.absolutePosition 960.00/103.00/1120.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 923.34/104.00/1113.05
+Object.rotation -177.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 920.16/103.80/1124.57
+Object.rotation -92.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 920.01/103.80/1140.54
+Object.rotation 91.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 920.34/104.00/1162.92
+Object.rotation -119.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 922.52/104.00/1175.26
+Object.rotation -81.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 924.84/104.00/1190.55
+Object.rotation 98.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 955.33/104.17/1110.59
+Object.rotation 85.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 932.06/104.17/1109.44
+Object.rotation 82.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 997.73/104.00/1251.12
+Object.rotation -97.75/3.00/2.00
+rem
+rem ***  ***
+rem
+Object.create guardtow_m1
+Object.absolutePosition 988.15/103.00/1116.34
+Object.rotation 23.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1148.31/99.15/1099.91
+Object.rotation 0.00/22.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repaircist_m1
+Object.absolutePosition 1017.56/108.26/1205.11
+Object.rotation 90.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 950.50/104.00/1114.35
+Object.rotation -181.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 995.96/104.00/1109.11
+Object.rotation -173.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 991.97/104.08/1106.46
+Object.rotation 98.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire2_m1
+Object.absolutePosition 938.67/102.80/1210.82
+Object.rotation -46.00/9.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1110.62/109.70/1200.43
+Object.rotation 0.00/0.00/90.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 856.00/93.20/916.00
+Object.rotation -262.00/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 852.00/93.07/904.00
+Object.rotation -262.00/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 881.30/92.93/1002.36
+Object.rotation -241.25/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 883.38/92.73/1007.84
+Object.rotation -262.00/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 870.02/104.10/875.37
+Object.rotation -0.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create guardtow_m1
+Object.absolutePosition 952.16/103.00/835.71
+Object.rotation -139.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 960.00/104.28/832.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 961.77/104.28/830.06
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 961.60/104.59/831.28
+Object.rotation 26.25/0.00/90.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 948.71/103.92/751.47
+Object.rotation -1.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 978.56/104.14/800.56
+Object.rotation -22.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 828.00/104.17/800.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 804.00/105.10/788.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 1171.31/115.70/790.04
+Object.rotation -64.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1170.05/115.40/800.12
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 1171.11/115.60/799.98
+Object.rotation -97.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 1241.30/109.40/1056.77
+Object.rotation -183.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1084.11/104.30/1048.96
+Object.rotation -293.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1091.93/104.30/1035.52
+Object.rotation -127.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 1114.72/103.77/991.36
+Object.rotation -42.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 1124.00/103.80/1000.00
+Object.rotation -267.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1117.12/104.16/1047.44
+Object.rotation -115.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1133.73/103.88/1004.62
+Object.rotation 245.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1093.44/104.14/987.31
+Object.rotation 110.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1103.26/103.98/985.69
+Object.rotation 87.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1095.14/104.13/1061.52
+Object.rotation 245.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1124.57/103.03/1078.53
+Object.rotation -249.00/7.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1112.00/103.60/1092.00
+Object.rotation -40.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1172.00/104.26/1080.00
+Object.rotation -76.50/7.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1156.16/102.10/1079.52
+Object.rotation -84.75/9.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1205.47/109.48/1061.66
+Object.rotation -163.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1217.68/109.44/1089.03
+Object.rotation -175.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1220.88/109.52/1093.38
+Object.rotation -125.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmhigh_m1
+Object.absolutePosition 1176.00/115.49/800.00
+Object.rotation 63.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmhigh_m1
+Object.absolutePosition 1188.00/114.19/808.00
+Object.rotation 63.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmhigh_m1
+Object.absolutePosition 1184.00/122.38/780.00
+Object.rotation 63.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmhigh_m1
+Object.absolutePosition 1164.00/110.20/836.00
+Object.rotation 63.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1192.00/105.64/824.00
+Object.rotation 63.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1152.00/112.53/816.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1144.00/116.21/796.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_4_m1
+Object.absolutePosition 1116.00/117.79/764.00
+Object.rotation -207.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1108.00/115.63/760.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1096.00/105.14/756.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1144.00/114.55/744.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1140.00/120.03/760.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1160.00/121.89/760.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1180.00/123.12/752.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1152.00/119.43/756.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1120.00/117.61/760.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1124.00/118.66/772.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1124.00/112.44/748.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant1_m1
+Object.absolutePosition 1112.00/116.30/760.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1164.00/119.37/744.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1152.00/114.11/744.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1168.00/121.40/756.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1148.00/121.31/772.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1176.00/120.02/780.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1184.00/125.93/760.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant1_m1
+Object.absolutePosition 1180.00/116.76/736.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant2_m1
+Object.absolutePosition 1172.00/120.19/744.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1144.00/110.77/828.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1152.00/121.18/764.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1128.00/118.59/760.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1140.00/120.92/764.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1160.00/119.89/748.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1156.00/117.52/748.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1148.00/116.41/748.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1168.00/122.14/768.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1156.00/115.50/788.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1160.00/115.50/784.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1168.00/115.50/788.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant2_m1
+Object.absolutePosition 1184.00/119.33/788.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1188.00/119.62/792.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1184.00/117.83/796.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1192.00/115.22/804.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1168.00/111.31/820.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1160.00/112.64/828.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1148.00/114.66/836.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1152.00/114.53/836.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1148.00/115.28/844.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1152.00/112.80/824.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1140.00/120.54/784.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1136.00/122.88/776.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant10_m1
+Object.absolutePosition 1148.00/118.72/784.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant10_m1
+Object.absolutePosition 1132.00/118.78/784.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1140.00/121.94/780.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_4_m1
+Object.absolutePosition 988.00/104.16/932.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 996.00/104.54/952.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 988.00/103.88/944.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 988.00/104.13/960.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 980.00/104.11/980.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 972.00/104.16/992.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 980.00/104.15/968.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 972.00/104.16/1016.00
+Object.rotation -37.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 960.00/104.17/1028.00
+Object.rotation -59.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 972.00/105.03/1052.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 980.00/104.08/1092.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 980.00/104.62/1048.00
+Object.rotation 79.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 948.00/103.54/1004.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 952.00/104.06/988.00
+Object.rotation 90.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 960.00/104.15/976.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 968.00/104.15/960.00
+Object.rotation -55.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 988.00/103.99/972.00
+Object.rotation 33.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 976.00/104.15/976.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 984.00/103.98/952.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 968.00/104.12/952.00
+Object.rotation 44.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 952.00/103.90/972.00
+Object.rotation -87.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 944.00/104.16/1024.00
+Object.rotation 152.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 972.00/102.58/1040.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 968.00/105.97/1000.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 980.00/104.08/992.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 980.00/104.12/1036.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 980.00/104.16/960.00
+Object.rotation -90.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 960.00/104.08/964.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 940.00/104.13/1016.00
+Object.rotation 60.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 944.00/104.17/1032.00
+Object.rotation -96.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 976.00/104.02/932.00
+Object.rotation 35.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1008.00/104.01/936.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1004.00/104.09/936.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1004.00/104.10/932.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 992.00/103.87/948.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 984.00/104.13/928.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 975.18/104.12/932.71
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 972.00/104.16/956.00
+Object.rotation 58.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 971.78/104.15/955.29
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 968.00/104.15/992.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 972.00/104.16/984.00
+Object.rotation -23.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 980.00/104.10/984.00
+Object.rotation 28.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 984.00/104.06/976.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 984.00/104.12/968.00
+Object.rotation 64.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 984.00/104.15/960.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 988.00/103.88/952.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 976.00/104.63/1048.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 976.00/104.10/1072.00
+Object.rotation 130.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 988.00/103.76/1076.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 964.00/103.38/1044.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 972.00/104.11/944.00
+Object.rotation -51.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 960.00/103.96/956.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 976.00/104.15/976.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 962.05/104.15/1004.13
+Object.rotation -66.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 976.00/105.45/1008.00
+Object.rotation 49.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 976.00/104.74/1000.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 964.00/104.17/1012.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 980.00/104.12/1020.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 976.00/104.12/1060.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 968.00/104.15/1072.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 988.00/104.60/1056.00
+Object.rotation 7.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 940.00/104.17/1076.00
+Object.rotation -111.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 940.00/104.17/1084.00
+Object.rotation 104.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 944.00/104.17/1104.00
+Object.rotation 123.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 996.00/104.08/1088.00
+Object.rotation 50.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_4_m1
+Object.absolutePosition 1019.17/99.68/1113.44
+Object.rotation 323.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1018.00/103.95/1131.96
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1064.00/109.42/1148.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1068.00/109.22/1136.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1072.00/109.43/1148.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1068.00/110.08/1160.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1072.00/109.45/1124.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1092.00/104.75/1096.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1092.00/104.17/1088.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1100.00/104.03/1084.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1092.00/104.09/1076.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1100.00/104.09/1076.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1092.00/104.13/1084.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1108.00/103.74/1092.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1104.00/103.85/1100.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1116.00/103.77/1080.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1108.00/103.81/1088.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1100.00/104.06/1080.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1096.00/104.09/1092.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1100.00/104.58/1068.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1140.00/103.91/1052.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1152.00/104.25/1040.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1168.00/104.55/1036.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1160.00/103.60/1064.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1120.00/103.90/1072.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1128.00/103.80/1060.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1152.00/104.68/1016.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1144.00/104.40/1020.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1152.00/104.45/1024.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1084.00/102.85/1056.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1092.00/104.05/1068.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1088.00/103.99/1036.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1048.00/104.18/996.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant10_m1
+Object.absolutePosition 1052.00/104.18/1000.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant1_m1
+Object.absolutePosition 1140.00/100.92/1068.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1164.00/104.38/1056.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1124.00/113.36/784.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1128.00/110.92/792.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1112.00/107.43/780.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1112.00/113.28/772.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_4_m1
+Object.absolutePosition 1217.40/106.96/795.78
+Object.rotation -58.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1200.00/118.42/788.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1200.00/124.10/764.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1200.00/124.40/752.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1192.00/124.51/772.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant2_m1
+Object.absolutePosition 1204.00/109.55/808.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant3b_m1
+Object.absolutePosition 1104.00/112.24/760.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1004.00/104.08/904.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 992.00/104.15/900.00
+Object.rotation -19.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 972.00/103.72/928.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 968.00/102.48/904.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 968.00/102.63/916.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 992.00/104.15/884.00
+Object.rotation -31.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1004.00/104.05/884.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 988.00/104.55/872.00
+Object.rotation 34.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1000.00/104.43/876.00
+Object.rotation -72.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 988.00/105.13/852.00
+Object.rotation 69.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 976.00/104.17/852.00
+Object.rotation -188.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 992.00/104.37/832.00
+Object.rotation 55.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 988.00/104.05/812.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 944.00/104.16/868.00
+Object.rotation -47.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 956.00/102.63/888.00
+Object.rotation -80.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 968.00/103.52/888.00
+Object.rotation -192.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 960.00/104.08/872.00
+Object.rotation 54.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 996.00/107.02/864.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1004.00/104.52/848.00
+Object.rotation -95.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 984.00/104.14/836.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1012.00/103.86/896.00
+Object.rotation -42.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1008.00/104.57/868.00
+Object.rotation 14.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 996.00/104.15/916.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1012.00/103.96/920.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 960.00/101.87/924.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 960.00/101.38/900.00
+Object.rotation -47.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 952.00/103.50/880.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 956.00/100.22/916.00
+Object.rotation 71.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 936.00/104.50/1028.00
+Object.rotation -63.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1068.00/104.07/976.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1084.00/104.02/976.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1004.00/104.07/892.00
+Object.rotation -33.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 944.00/103.77/876.00
+Object.rotation 78.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1032.00/98.49/864.00
+Object.rotation -279.25/11.00/6.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1015.96/101.85/841.12
+Object.rotation -64.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 932.00/103.92/756.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 953.94/104.16/793.84
+Object.rotation -40.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 952.00/104.47/792.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 967.84/104.24/820.25
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 864.00/104.17/860.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 856.00/104.16/856.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 864.00/104.30/760.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 876.00/104.29/760.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 852.00/104.08/760.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 800.00/104.12/772.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 796.00/104.17/800.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 828.00/104.17/852.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 860.00/104.08/868.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 952.00/100.24/900.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 972.00/103.22/900.00
+Object.rotation 27.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 944.00/97.35/920.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 944.00/101.64/968.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1108.00/109.16/1160.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1144.17/107.44/1201.19
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1120.00/109.24/1224.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1120.00/109.12/1216.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1080.64/109.65/1267.91
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1084.00/109.67/1260.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1012.00/106.05/1236.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 992.00/103.12/1228.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 992.00/103.87/1240.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 962.96/102.70/1226.37
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1004.00/103.38/1244.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 968.00/100.81/1260.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 968.00/99.96/1264.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1024.00/104.19/1272.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1023.92/102.21/1275.84
+Object.rotation 0.00/22.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1096.00/107.20/1264.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1124.00/108.52/1228.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_4_m1
+Object.absolutePosition 1061.10/109.00/1127.09
+Object.rotation 75.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1081.79/109.14/1135.37
+Object.rotation -156.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant5_m1
+Object.absolutePosition 1080.00/109.41/1152.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 1056.00/109.46/1152.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1064.00/109.50/1168.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1248.00/111.54/952.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1236.00/110.47/956.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1252.00/110.51/960.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1272.00/109.88/976.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1288.00/109.83/988.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1228.00/107.66/1020.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1224.00/114.16/940.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1236.00/116.65/940.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1252.00/112.95/940.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1264.00/113.20/948.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1284.00/111.64/972.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1276.00/109.48/1004.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1280.00/110.16/980.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1280.00/109.74/992.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1248.00/109.28/988.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1256.00/112.09/948.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1244.00/112.39/948.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1232.00/120.90/928.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1228.00/112.31/948.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_4_m1
+Object.absolutePosition 1244.00/119.19/924.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant10_m1
+Object.absolutePosition 1372.00/97.10/1032.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1372.00/97.12/1040.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1380.00/95.58/1036.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant3b_m1
+Object.absolutePosition 1308.00/108.57/996.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1308.00/107.91/972.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1312.00/107.76/980.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1296.00/110.44/972.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1300.00/108.28/960.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1304.00/109.08/984.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant10_m1
+Object.absolutePosition 1300.00/109.30/988.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant1_m1
+Object.absolutePosition 1288.00/109.39/1044.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant3_m1
+Object.absolutePosition 1296.00/109.12/1016.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1247.77/109.52/1034.51
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant10_m1
+Object.absolutePosition 1260.00/109.50/1040.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1244.00/109.50/1020.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 1264.00/109.52/992.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1260.00/106.57/1100.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1252.00/108.97/1100.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1240.00/109.48/1096.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1272.00/108.05/1092.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1276.00/105.53/1108.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant10_m1
+Object.absolutePosition 1268.00/103.73/1116.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1284.81/107.22/1115.67
+Object.rotation 0.00/22.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant2_m1
+Object.absolutePosition 1252.00/107.71/1108.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1256.00/108.50/1096.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant5_m1
+Object.absolutePosition 1272.00/107.03/1096.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1256.00/109.48/1076.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1264.00/109.07/1084.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1216.00/109.48/1056.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1224.00/109.48/1052.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1208.00/109.48/1068.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1228.00/109.48/1064.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1212.00/109.35/1092.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant10_m1
+Object.absolutePosition 1224.00/109.48/1084.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant3_m1
+Object.absolutePosition 1196.00/109.34/1064.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1216.00/109.48/1048.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant2_m1
+Object.absolutePosition 1312.00/109.39/1088.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1208.00/109.55/1088.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1184.00/106.65/1076.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1164.00/105.18/1012.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1196.00/108.72/1036.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1180.00/106.06/1036.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1176.00/105.81/1044.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 920.00/100.72/1004.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 928.00/101.96/996.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 968.00/104.17/1028.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 914.75/104.04/1161.14
+Object.rotation 56.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 772.00/103.60/1276.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 760.00/101.97/1268.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_4_m1
+Object.absolutePosition 776.00/103.60/1284.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 768.00/101.69/1268.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant3b_m1
+Object.absolutePosition 764.00/104.69/1276.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant3_m1
+Object.absolutePosition 760.00/99.57/1260.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 776.00/100.10/1268.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 768.00/105.55/1292.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 780.00/102.71/1292.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 760.00/102.42/1304.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant1_m1
+Object.absolutePosition 772.00/104.95/1288.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant3b_m1
+Object.absolutePosition 768.00/103.53/1300.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 792.00/97.37/1280.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 964.00/100.33/1260.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1023.31/103.80/1272.41
+Object.rotation 79.25/0.00/22.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant5_m1
+Object.absolutePosition 988.00/103.87/1236.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1000.00/103.64/1244.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 1016.00/101.85/840.00
+Object.rotation -174.25/22.00/22.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1008.00/105.20/856.00
+Object.rotation -49.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1004.00/104.08/900.00
+Object.rotation 79.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 968.00/104.17/1016.00
+Object.rotation -71.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 988.00/104.08/1088.00
+Object.rotation 125.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 940.00/104.22/864.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 988.00/104.08/1108.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 996.00/104.08/1100.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1000.00/103.34/1124.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 996.00/103.18/1068.00
+Object.rotation -44.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 960.00/103.72/1036.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 940.00/104.17/1060.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 980.78/105.49/1010.16
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 952.92/104.04/986.82
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 976.00/104.16/972.00
+Object.rotation -49.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 960.00/104.17/1020.00
+Object.rotation 5.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 972.00/103.63/1088.00
+Object.rotation -187.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 964.00/104.16/1080.00
+Object.rotation 154.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 936.00/102.67/1100.00
+Object.rotation -70.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 988.00/104.11/1064.00
+Object.rotation -54.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 960.00/104.17/1064.00
+Object.rotation -121.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 992.00/102.84/1036.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant2_m1
+Object.absolutePosition 944.00/104.07/1012.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 931.78/104.03/1139.02
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant10_m1
+Object.absolutePosition 932.80/104.09/1152.03
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant3b_m1
+Object.absolutePosition 932.00/104.09/1172.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 926.51/104.09/1158.27
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 942.69/103.60/1200.57
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 973.02/103.70/1236.57
+Object.rotation -343.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 964.73/103.87/1228.98
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 956.00/104.17/1148.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 972.00/104.27/1148.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 996.00/104.27/1140.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 956.00/104.17/1120.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant2_m1
+Object.absolutePosition 964.00/104.17/1112.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 957.78/104.27/1181.40
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant3_m1
+Object.absolutePosition 976.00/104.27/1180.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant8_m1
+Object.absolutePosition 956.00/103.69/1204.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant5_m1
+Object.absolutePosition 964.00/104.27/1188.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 968.00/104.27/1188.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 976.75/104.27/1184.19
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 975.37/104.27/1184.11
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 975.37/105.60/1184.17
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 986.32/104.27/1185.78
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 975.64/104.27/1182.53
+Object.rotation 64.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 986.40/105.60/1185.67
+Object.rotation -3.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 985.19/104.27/1186.55
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 972.76/103.87/1229.52
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 942.34/104.10/1120.79
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 941.44/104.10/1120.56
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 941.74/104.20/1122.12
+Object.rotation 119.75/44.00/0.00
+rem
+rem ***  ***
+rem
+Object.create plank_6m_m1
+Object.absolutePosition 940.99/104.30/1121.41
+Object.rotation 25.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create plank_8m_m1
+Object.absolutePosition 940.93/104.40/1122.98
+Object.rotation 5.00/2.00/0.00
+rem
+rem ***  ***
+rem
+Object.create plank_10m_m1
+Object.absolutePosition 938.37/106.50/1120.56
+Object.rotation -95.50/18.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 944.45/104.48/1123.25
+Object.rotation 95.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 943.73/104.48/1119.51
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 943.70/104.48/1121.95
+Object.rotation -290.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 943.71/104.48/1123.80
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 947.56/104.48/1125.11
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 944.56/104.48/1122.29
+Object.rotation 11.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 943.62/104.48/1122.87
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 943.97/105.77/1122.57
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create plank_6m_m1
+Object.absolutePosition 952.10/104.50/1118.60
+Object.rotation 24.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 952.05/107.32/1119.62
+Object.rotation 0.00/0.00/0.00
+Object.geometry.scale 1.16/1.00/1.00
+rem
+rem ***  ***
+rem
+Object.create pipe_brack_m1
+Object.absolutePosition 832.52/105.11/835.53
+Object.rotation -90.75/90.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pipe_srack_m1
+Object.absolutePosition 823.27/104.70/835.10
+Object.rotation 84.00/78.00/0.00
+rem
+rem ***  ***
+rem
+Object.create weldtube_m1
+Object.absolutePosition 840.00/104.59/836.00
+Object.rotation -116.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 956.00/104.17/832.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 932.00/104.18/844.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 912.00/104.17/804.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 924.00/104.17/792.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 972.00/104.16/784.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 988.00/103.43/784.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 964.76/104.28/830.73
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 800.00/104.93/764.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 788.00/103.37/780.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 808.00/104.58/764.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant10_m1
+Object.absolutePosition 792.00/103.67/748.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_4_m1
+Object.absolutePosition 796.00/104.17/808.00
+Object.rotation -165.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 800.00/104.96/796.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant5_m1
+Object.absolutePosition 800.00/104.15/784.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 842.79/104.51/794.47
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 836.00/104.17/792.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 976.00/103.41/1080.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1000.00/104.08/1100.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 988.00/103.96/1028.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 972.00/105.28/1004.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 952.00/103.97/976.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 984.00/104.14/964.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1004.00/104.10/916.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1012.00/103.74/872.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 952.00/103.84/876.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 976.00/104.35/816.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 980.00/104.17/864.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 892.00/104.14/868.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 832.00/104.64/844.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 796.00/104.07/784.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 904.00/104.17/856.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 928.00/104.10/868.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 948.00/102.89/884.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 964.00/102.40/896.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 972.00/103.09/912.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 964.00/102.58/924.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 964.00/103.07/936.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 952.00/104.17/1100.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 936.00/102.45/1092.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 948.00/104.17/1080.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 956.00/104.17/1056.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 941.66/104.17/1060.78
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 924.00/103.73/1104.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 980.00/104.30/1072.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 964.00/104.56/1052.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 988.00/103.42/1044.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 948.00/104.17/1092.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 956.00/103.38/1044.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 976.00/104.15/1032.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 968.00/104.17/1032.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 960.00/104.17/1016.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 976.00/104.56/1012.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 988.00/106.53/1020.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 948.00/103.92/992.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 940.00/105.15/992.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 960.12/104.02/962.38
+Object.rotation 86.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 980.00/104.14/972.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1000.00/104.12/908.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 992.00/104.15/888.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 984.00/104.16/876.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 984.00/104.64/860.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 972.00/104.17/840.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 964.00/104.17/848.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 948.00/104.21/856.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 952.00/101.68/892.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 960.00/103.36/884.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1020.00/103.32/904.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1020.00/103.10/880.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1076.00/104.13/980.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1088.00/104.15/984.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1092.00/104.17/992.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1108.00/103.71/980.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 1140.00/101.91/1060.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1152.00/103.98/1056.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1164.00/103.77/1044.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1180.00/107.64/1056.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1192.00/108.90/1068.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1240.00/107.61/1004.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1232.00/109.49/1040.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1236.00/109.49/1056.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1228.00/109.47/1104.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1272.00/105.48/1104.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1268.00/105.33/1100.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1300.00/107.48/1004.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1304.00/109.02/996.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1268.00/110.30/968.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1248.00/112.93/944.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1244.00/116.14/936.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1232.00/122.21/924.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1228.00/115.75/940.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1224.00/113.96/944.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1232.00/113.34/948.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1112.00/111.64/752.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1132.00/118.71/756.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1132.00/121.26/768.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1144.00/113.51/808.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1160.00/111.49/812.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1144.00/118.00/752.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1156.00/119.49/752.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1192.00/127.45/748.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1196.00/122.56/780.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1184.00/114.36/808.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1166.04/115.50/798.29
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1171.75/115.08/802.25
+Object.rotation -86.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1156.00/112.69/820.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant1_m1
+Object.absolutePosition 1124.00/116.70/756.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 1089.07/104.40/1010.15
+Object.rotation 58.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_4_m1
+Object.absolutePosition 1208.00/116.69/776.00
+Object.rotation 90.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 1061.51/110.40/1194.48
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 1073.85/110.44/1241.45
+Object.rotation 90.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1062.83/109.55/1242.44
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1066.86/110.44/1245.94
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1065.54/110.44/1246.03
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1067.01/110.44/1244.53
+Object.rotation -87.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1072.62/110.44/1247.99
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create weldtube_m1
+Object.absolutePosition 1023.77/109.20/1216.47
+Object.rotation -266.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create plank_6m_m1
+Object.absolutePosition 1107.15/109.42/1202.51
+Object.rotation 12.25/0.00/0.00
+Object.geometry.scale 0.99/1.00/1.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 959.21/104.17/1114.98
+Object.rotation 0.00/0.00/0.00
+Object.geometry.scale 1.16/1.00/1.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 952.04/107.32/1117.71
+Object.rotation 0.00/0.00/0.00
+Object.geometry.scale 1.16/1.00/1.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 952.04/107.32/1119.00
+Object.rotation 0.00/0.00/0.00
+Object.geometry.scale 1.16/1.00/1.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 952.04/107.32/1118.35
+Object.rotation 0.00/0.00/0.00
+Object.geometry.scale 1.16/1.00/1.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1054.65/109.38/1259.77
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1053.86/109.48/1204.36
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1056.51/109.50/1201.22
+Object.rotation 96.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1056.83/109.47/1200.23
+Object.rotation -152.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create plank_8m_m1
+Object.absolutePosition 1056.59/110.42/1203.74
+Object.rotation 0.00/12.00/0.00
+rem
+rem ***  ***
+rem
+Object.create plank_6m_m1
+Object.absolutePosition 1056.94/109.47/1210.78
+Object.rotation -178.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 1011.47/107.00/1103.49
+Object.rotation 22.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1081.62/109.54/1193.71
+Object.rotation -102.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1081.27/109.54/1192.89
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1082.01/109.54/1192.26
+Object.rotation -165.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1082.94/109.54/1192.20
+Object.rotation -98.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1140.00/100.96/1248.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1148.00/100.06/1236.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1118.30/101.75/1268.52
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1101.87/104.48/1280.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 986.99/105.13/852.34
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 991.65/104.15/832.39
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 984.00/104.15/840.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 982.93/104.16/837.98
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 972.00/104.17/852.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 997.19/106.70/865.25
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 996.00/107.02/864.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 994.76/106.70/864.43
+Object.rotation 84.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1006.45/104.42/870.26
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1003.87/104.11/892.61
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 1002.17/104.12/902.96
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 991.70/104.15/900.94
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 973.86/104.15/892.61
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 969.54/103.10/903.06
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 972.51/103.65/902.43
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 961.37/103.97/956.43
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 956.00/102.82/964.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 948.00/104.18/972.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 944.00/101.64/968.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 960.24/104.16/977.76
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 958.75/104.12/977.44
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 947.94/104.12/1006.10
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacificfarm2_m1
+Object.absolutePosition 939.17/103.90/1192.49
+Object.rotation -145.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 936.00/103.51/1200.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 928.00/104.09/1192.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire2_m1
+Object.absolutePosition 920.00/103.63/1144.00
+Object.rotation -83.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire2_m1
+Object.absolutePosition 960.12/103.87/1224.63
+Object.rotation -43.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire2_m1
+Object.absolutePosition 953.30/103.87/1218.33
+Object.rotation -43.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire2_m1
+Object.absolutePosition 926.80/103.40/1196.00
+Object.rotation -256.75/0.00/5.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 920.83/102.08/1202.91
+Object.rotation -97.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 929.46/101.50/1214.02
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 932.00/101.02/1220.00
+Object.rotation -86.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 940.00/101.27/1220.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 942.01/101.30/1226.41
+Object.rotation -80.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 947.65/102.46/1226.25
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 957.15/103.87/1229.83
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 951.12/102.85/1231.04
+Object.rotation -123.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 928.00/102.34/1208.00
+Object.rotation -86.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 924.00/103.22/1196.00
+Object.rotation -86.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1108.00/103.96/1272.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1124.00/102.15/1260.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1133.06/102.11/1255.32
+Object.rotation 63.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1152.00/102.35/1220.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1124.00/118.89/764.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1210.19/92.00/1129.00
+Object.rotation -139.75/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1158.13/91.69/1157.71
+Object.rotation -136.50/-11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1156.00/99.12/1092.00
+Object.rotation 11.00/11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1140.00/96.35/1104.00
+Object.rotation 11.00/11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1131.54/96.97/1112.02
+Object.rotation 11.00/11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1124.00/96.08/1124.00
+Object.rotation 11.00/11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1165.74/98.93/1094.78
+Object.rotation 11.00/11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1191.19/107.13/1086.40
+Object.rotation -330.75/0.00/11.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1239.62/109.48/1077.37
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1230.18/109.48/1100.81
+Object.rotation -53.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1252.58/109.52/1046.73
+Object.rotation -53.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1256.00/109.51/1044.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1240.00/109.48/1068.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1252.00/109.29/1096.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1260.00/106.51/1104.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1272.00/105.90/1100.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1288.00/108.72/1040.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1292.00/109.16/1024.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1280.00/109.89/1008.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1296.00/110.44/972.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1288.00/110.95/976.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1272.00/109.75/992.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1272.00/109.75/1000.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1266.95/109.48/1055.06
+Object.rotation -89.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1267.04/109.48/1056.43
+Object.rotation -87.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1268.19/109.48/1054.73
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1265.43/109.55/1024.11
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 1265.64/109.50/1025.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 1265.20/109.51/1023.24
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_4_m1
+Object.absolutePosition 1208.28/108.32/1016.83
+Object.rotation 98.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 1185.70/107.00/1019.28
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 1188.00/107.02/1020.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1245.32/109.21/991.32
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1264.00/109.52/984.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1262.78/109.52/983.91
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 1056.40/110.73/1200.28
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1054.30/109.46/1194.38
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create plank_6m_m1
+Object.absolutePosition 1054.32/109.50/1205.55
+Object.rotation -98.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1087.22/109.55/1216.98
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 1080.47/109.19/1136.33
+Object.rotation -142.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tan1_m1
+Object.absolutePosition 1016.24/104.27/1145.97
+Object.rotation 129.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pipe_tube_aicol_m1
+Object.absolutePosition 1020.28/104.80/1167.75
+Object.rotation 0.00/0.00/-90.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant8_m1
+Object.absolutePosition 1016.00/108.45/1192.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1016.00/108.26/1204.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 1012.00/104.60/1172.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1018.72/104.60/1156.38
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1105.17/109.55/1226.33
+Object.rotation -50.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1106.97/109.55/1231.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1107.83/109.55/1230.69
+Object.rotation -88.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1107.69/109.43/1231.63
+Object.rotation -170.00/0.00/48.00
+rem
+rem ***  ***
+rem
+Object.create repport_box1_m1
+Object.absolutePosition 1097.14/109.55/1235.21
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_box1_m1
+Object.absolutePosition 1096.29/109.55/1238.94
+Object.rotation -90.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1098.53/109.55/1237.25
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 1098.48/109.55/1239.55
+Object.rotation 0.00/0.00/0.00
+Object.geometry.scale 1.20/1.00/1.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1098.55/109.55/1238.57
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 1098.41/110.86/1236.96
+Object.rotation 0.00/0.00/0.00
+Object.geometry.scale 1.20/1.00/1.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 988.00/104.23/1212.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 989.45/104.23/1213.04
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 964.00/104.32/1220.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 960.00/103.87/1216.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 964.00/104.23/1208.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 996.82/97.20/736.40
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 995.44/98.20/740.39
+Object.rotation -78.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 1008.00/96.56/736.00
+Object.rotation -124.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 915.65/103.73/1131.36
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 968.00/99.32/1276.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 969.01/99.00/1277.01
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1148.00/107.04/1208.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 851.15/104.27/759.13
+Object.rotation 153.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 882.86/103.96/764.17
+Object.rotation -91.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 892.72/103.92/760.79
+Object.rotation -228.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 897.69/103.92/752.54
+Object.rotation -182.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 912.00/103.92/740.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 810.54/104.10/777.59
+Object.rotation -89.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 809.80/104.10/776.33
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 809.16/104.14/777.65
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 809.80/105.44/776.37
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 862.61/104.29/765.01
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 900.27/104.17/789.39
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 938.61/104.17/802.77
+Object.rotation -39.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 956.00/104.17/804.00
+Object.rotation -39.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 956.99/104.17/802.92
+Object.rotation -39.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 956.44/105.52/803.41
+Object.rotation -39.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 956.52/104.17/801.12
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 970.60/104.17/797.91
+Object.rotation -100.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 965.51/104.15/820.04
+Object.rotation -307.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 1210.67/109.90/1036.06
+Object.rotation -6.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create weldtube_m1
+Object.absolutePosition 859.87/105.05/837.57
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mililocker_m1
+Object.absolutePosition 855.06/105.03/841.91
+Object.rotation 90.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create weldtube_m1
+Object.absolutePosition 860.50/105.05/837.73
+Object.rotation 75.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 859.86/105.07/841.66
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 858.75/105.07/837.77
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create militable_m1
+Object.absolutePosition 809.94/107.10/808.34
+Object.rotation -92.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 809.01/107.10/807.90
+Object.rotation 82.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 808.84/107.10/808.94
+Object.rotation 87.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 810.98/107.10/809.13
+Object.rotation -163.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create militable_m1
+Object.absolutePosition 816.10/107.10/819.08
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 816.55/107.10/820.17
+Object.rotation -181.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 814.48/107.10/819.46
+Object.rotation 101.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 815.81/107.10/820.52
+Object.rotation -178.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 816.50/107.10/818.22
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 810.97/107.10/807.93
+Object.rotation -70.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 813.45/107.10/808.96
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1357.79/91.33/1016.53
+Object.rotation -53.50/-15.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1351.08/91.32/1013.41
+Object.rotation -53.50/-15.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1316.73/101.00/1013.35
+Object.rotation 90.75/25.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1324.00/97.61/1008.00
+Object.rotation 90.75/25.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1314.33/101.90/1018.06
+Object.rotation 90.75/25.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1312.00/102.65/1024.00
+Object.rotation 90.75/25.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1312.26/101.98/1033.88
+Object.rotation 81.00/25.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1309.22/102.54/1038.40
+Object.rotation 90.75/25.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1304.33/104.83/1043.41
+Object.rotation 90.75/25.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1320.34/99.42/1010.07
+Object.rotation 90.75/25.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1348.27/92.03/1007.54
+Object.rotation -53.50/-15.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1352.00/91.91/1064.00
+Object.rotation -126.25/-15.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1356.73/91.79/1058.53
+Object.rotation -125.25/-15.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sea_obs_m1
+Object.absolutePosition 1364.52/91.99/1057.18
+Object.rotation -126.25/-15.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagi_m1
+Object.absolutePosition 1206.32/109.48/1050.48
+Object.rotation -96.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1220.00/99.68/984.00
+Object.rotation -117.00/33.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1220.66/100.32/988.88
+Object.rotation -90.00/33.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1220.54/101.66/1000.01
+Object.rotation -108.00/22.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1216.00/100.55/1008.00
+Object.rotation 46.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 1219.17/98.70/977.79
+Object.rotation -127.25/22.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagl_m1
+Object.absolutePosition 1241.65/109.20/968.64
+Object.rotation 8.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1247.69/109.69/968.72
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1244.07/109.35/979.77
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 1245.73/109.31/979.50
+Object.rotation -84.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1289.63/108.33/1038.84
+Object.rotation -182.00/5.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1298.01/108.30/1021.65
+Object.rotation -196.50/-1.00/11.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 1309.19/108.60/992.68
+Object.rotation -49.75/-4.00/3.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel2_m1
+Object.absolutePosition 1306.83/108.38/980.11
+Object.rotation -214.00/5.00/5.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 933.25/104.09/1187.34
+Object.rotation -122.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 936.71/104.09/1184.70
+Object.rotation -53.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 936.67/104.77/1184.67
+Object.rotation -53.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 937.29/104.36/1184.32
+Object.rotation -53.50/90.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate2_m1
+Object.absolutePosition 936.74/104.44/1184.69
+Object.rotation -53.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 932.00/104.09/1184.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create militable_m1
+Object.absolutePosition 981.79/104.27/1146.97
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 984.00/104.27/1148.00
+Object.rotation -140.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 982.41/104.50/1147.83
+Object.rotation -153.50/-90.00/0.00
+rem
+rem ***  ***
+rem
+Object.create milichair_m1
+Object.absolutePosition 983.09/104.58/1144.82
+Object.rotation 45.50/-180.00/90.00
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 816.87/107.10/813.21
+Object.rotation -89.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mililocker_m1
+Object.absolutePosition 811.83/107.10/810.15
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 816.66/107.10/817.25
+Object.rotation -271.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mililocker_m1
+Object.absolutePosition 807.15/107.10/831.79
+Object.rotation 89.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 812.00/107.10/828.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 986.95/104.06/926.20
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 985.98/104.06/926.48
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 994.39/104.46/922.25
+Object.rotation -43.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 858.38/104.33/760.13
+Object.rotation -180.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1112.28/104.17/1027.38
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1111.26/104.17/1047.94
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1111.20/104.19/1046.42
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1116.00/103.87/1076.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1114.93/103.87/1076.98
+Object.rotation -110.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 1093.00/104.32/1089.26
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1095.33/104.09/1092.91
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 1100.00/104.14/1064.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 1101.08/104.58/1068.86
+Object.rotation -31.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1096.00/104.33/1076.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1098.39/104.08/1084.23
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1112.00/103.78/1084.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1108.00/103.67/1100.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1106.92/103.84/1098.83
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1111.23/103.78/1083.34
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1076.24/109.54/1195.47
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1075.82/109.55/1208.95
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1018.75/104.27/1154.91
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1017.42/104.27/1155.36
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create plank_6m_m1
+Object.absolutePosition 1024.80/110.32/1145.98
+Object.rotation -268.50/4.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1011.78/109.27/1143.23
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1021.44/108.23/1206.38
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1020.60/108.23/1206.26
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1010.86/104.27/1149.02
+Object.rotation -158.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1010.22/104.27/1149.67
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1008.67/104.27/1152.56
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1008.00/104.27/1152.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1007.82/104.27/1152.93
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1010.48/105.49/1149.29
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 808.00/95.69/724.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 812.00/96.33/732.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 804.00/95.85/720.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 798.33/95.52/719.86
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 792.00/97.77/720.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 768.00/96.25/700.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 764.00/96.09/704.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 760.22/96.28/709.71
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 756.00/96.17/716.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 752.81/96.53/722.85
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 752.00/96.11/732.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 752.00/95.93/740.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 752.50/94.77/748.25
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 760.00/95.60/756.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 788.00/98.01/724.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create tankobs_ste_m1
+Object.absolutePosition 784.00/98.82/728.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 811.54/99.76/743.68
+Object.rotation -89.00/-3.00/22.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 801.64/102.00/746.83
+Object.rotation -61.75/-19.00/6.00
+rem
+rem ***  ***
+rem
+Object.create stebarbwire_m1
+Object.absolutePosition 822.04/101.57/746.07
+Object.rotation -286.25/-15.00/-24.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 876.00/104.31/880.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 878.34/104.44/877.76
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_3_m1
+Object.absolutePosition 956.00/104.17/792.00
+Object.rotation -40.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 954.11/104.17/792.08
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant7_m1
+Object.absolutePosition 955.95/104.16/793.77
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create palmshort_m1
+Object.absolutePosition 1008.10/96.22/736.63
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 995.97/97.57/739.28
+Object.rotation -196.50/22.00/11.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 997.31/97.16/737.59
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 997.75/97.16/735.88
+Object.rotation -111.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 995.08/98.34/741.32
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 901.85/104.22/789.38
+Object.rotation -48.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 956.00/103.92/748.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 952.00/103.92/748.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant6_m1
+Object.absolutePosition 951.09/103.92/747.18
+Object.rotation -71.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1098.98/104.09/1076.76
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 985.08/104.15/927.28
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 996.00/104.15/920.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1003.25/104.04/932.60
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1006.95/104.06/935.42
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1004.00/104.09/936.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 968.00/104.16/808.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 967.14/99.71/1263.19
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 964.00/100.33/1260.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 967.11/99.71/1265.38
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stecrate1_m1
+Object.absolutePosition 976.00/104.42/1144.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1060.00/109.46/1156.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1068.00/109.39/1144.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1056.00/109.61/1144.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 1064.00/109.49/1156.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create bunker2_m1
+Object.absolutePosition 1293.16/109.30/1049.10
+Object.rotation 21.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create repport_tun1_m1
+Object.absolutePosition 1300.82/109.10/1064.05
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create bunker1_m1
+Object.absolutePosition 1238.31/109.64/1114.40
+Object.rotation 248.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create bunker1_m1
+Object.absolutePosition 967.56/103.87/1230.39
+Object.rotation -136.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create sandbagu_m1
+Object.absolutePosition 858.03/104.10/872.65
+Object.rotation -82.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1087.55/104.06/1084.81
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1107.40/103.74/1090.62
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1167.05/104.93/1056.01
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1164.00/104.38/1056.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1164.00/104.26/1052.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1148.00/104.57/1016.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1148.00/104.47/1020.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1176.00/106.31/1016.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1160.00/105.08/1012.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1082.67/104.16/983.58
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1084.00/104.16/984.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1052.00/104.18/996.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1050.67/104.32/995.85
+Object.rotation -108.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 971.97/104.11/942.58
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 936.00/104.09/1016.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 972.00/105.41/1000.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 968.00/104.17/1008.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 974.80/104.44/1048.53
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 970.66/104.44/1051.74
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 962.99/104.16/1050.82
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1005.40/104.58/1241.51
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1085.15/108.25/1269.14
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1092.00/107.69/1264.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1081.99/109.55/1249.97
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1120.58/109.54/1217.36
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1120.00/109.24/1224.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1124.00/109.18/1220.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 1018.11/104.27/1138.33
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_1_m1
+Object.absolutePosition 1104.00/104.36/1112.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_large_2_m1
+Object.absolutePosition 1104.06/104.36/1106.52
+Object.rotation -65.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_2_m1
+Object.absolutePosition 1100.00/106.48/1120.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1100.00/106.17/1116.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 1104.00/104.10/1108.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plantball_m1
+Object.absolutePosition 876.25/105.03/1089.88
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_4_m1
+Object.absolutePosition 869.50/104.21/1085.83
+Object.rotation 44.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant20_m1
+Object.absolutePosition 875.38/105.03/1091.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create pacific_palm_1_m1
+Object.absolutePosition 870.11/105.03/1094.14
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant22_m1
+Object.absolutePosition 870.45/105.03/1090.26
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant3c_m1
+Object.absolutePosition 882.51/99.00/1102.62
+Object.rotation 94.75/22.00/0.00
+rem
+rem ***  ***
+rem
+Object.create jungle_plant3b_m1
+Object.absolutePosition 873.37/102.93/1103.23
+Object.rotation 0.00/11.00/0.00
+rem
+rem ***  ***
+rem
+Object.create stebarrel1_m1
+Object.absolutePosition 1055.90/109.47/1200.32
+Object.rotation -55.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ladder_10m_m1
+Object.absolutePosition 1090.19/111.00/1216.95
+Object.rotation -181.25/0.00/0.00

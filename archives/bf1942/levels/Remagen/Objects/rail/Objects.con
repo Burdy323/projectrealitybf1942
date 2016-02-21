@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject rail
+ObjectTemplate.geometry rail
+ObjectTemplate.setHasCollisionPhysics 1
+

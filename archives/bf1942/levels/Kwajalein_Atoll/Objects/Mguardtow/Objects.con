@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject Mguardtow
+ObjectTemplate.geometry Mguardtow
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.aiTemplate Mguardtow

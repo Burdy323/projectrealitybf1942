@@ -1,0 +1,123 @@
+rem SoldierSpawns.con created by Battlecraft 1942
+rem (E:\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Rabaul/ctf/SoldierSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  Jap_FOP_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Jap_FOP_Spawn1
+Object.absolutePosition 1136.39/63.48/944.07
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Jap_FOP_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Jap_FOP_Spawn2
+Object.absolutePosition 1060.04/63.48/1016.85
+Object.rotation 122.79/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  US_FOP_Spawn1  ---
+rem ----------------------------------------- 
+Object.create US_FOP_Spawn1
+Object.absolutePosition 366.45/63.46/958.35
+Object.rotation 67.07/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  US_FOP_Spawn2  ---
+rem ----------------------------------------- 
+Object.create US_FOP_Spawn2
+Object.absolutePosition 351.35/63.45/898.67
+Object.rotation -160.61/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Base_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Base_Spawn1
+Object.absolutePosition 1632.73/63.49/1474.65
+Object.rotation -74.79/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Japanese_Army_HQ_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Japanese_Army_HQ_Spawn1
+Object.absolutePosition 1124.91/63.44/1421.56
+Object.rotation -93.36/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Japanese_Army_HQ_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Japanese_Army_HQ_Spawn2
+Object.absolutePosition 1128.00/63.51/1438.36
+Object.rotation -91.40/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  US_Army_HQ_Spawn1  ---
+rem ----------------------------------------- 
+Object.create US_Army_HQ_Spawn1
+Object.absolutePosition 877.35/63.48/334.20
+Object.rotation -174.76/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  US_Army_HQ_Spawn2  ---
+rem ----------------------------------------- 
+Object.create US_Army_HQ_Spawn2
+Object.absolutePosition 908.63/72.05/315.74
+Object.rotation 73.17/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  US_Army_HQ_Spawn3  ---
+rem ----------------------------------------- 
+Object.create US_Army_HQ_Spawn3
+Object.absolutePosition 961.00/63.18/274.27
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  US_Army_HQ_Spawn4  ---
+rem ----------------------------------------- 
+Object.create US_Army_HQ_Spawn4
+Object.absolutePosition 925.97/66.21/273.08
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  US_Island_Spawn1  ---
+rem ----------------------------------------- 
+Object.create US_Island_Spawn1
+Object.absolutePosition 308.45/63.47/650.46
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  US_Island_Spawn2  ---
+rem ----------------------------------------- 
+Object.create US_Island_Spawn2
+Object.absolutePosition 353.00/63.45/626.19
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  US_Island_Spawn3  ---
+rem ----------------------------------------- 
+Object.create US_Island_Spawn3
+Object.absolutePosition 368.96/63.13/619.49
+Object.rotation 22.13/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  US_Island_Spawn4  ---
+rem ----------------------------------------- 
+Object.create US_Island_Spawn4
+Object.absolutePosition 302.32/63.45/598.85
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Base_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Base_Spawn2
+Object.absolutePosition 1599.14/63.45/1583.15
+Object.rotation -116.29/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Base_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Base_Spawn3
+Object.absolutePosition 1633.27/69.27/1456.12
+Object.rotation -176.90/0.00/0.00
+
+rem EndOfFile

@@ -1,0 +1,226 @@
+rem *** Create vehicle groups ***
+
+aiSettings.createVehicleGroup land
+aiSettings.createVehicleGroup any
+aiSettings.createVehicleGroup sea
+
+rem * add vehicles to the groups *
+
+aiSettings.addVehicleToVehicleGroup 0  land
+aiSettings.addVehicleToVehicleGroup 1  any
+aiSettings.addVehicleToVehicleGroup 2  sea
+aiSettings.addVehicleToVehicleGroup 3  land
+aiSettings.addVehicleToVehicleGroup 4  any
+aiSettings.addVehicleToVehicleGroup 5  land
+aiSettings.addVehicleToVehicleGroup 6  land
+aiSettings.addVehicleToVehicleGroup 7  any
+aiSettings.addVehicleToVehicleGroup 8  any
+aiSettings.addVehicleToVehicleGroup 9  sea
+aiSettings.addVehicleToVehicleGroup 10 any
+aiSettings.addVehicleToVehicleGroup 11 any
+aiSettings.addVehicleToVehicleGroup 12 sea
+aiSettings.addVehicleToVehicleGroup 13 any
+aiSettings.addVehicleToVehicleGroup 14 land
+
+
+rem *** Create categories ***
+
+aiStrategicArea.createNewCategory land
+aiStrategicArea.createNewCategory sea
+
+rem *** Create strategic areas ***
+aiStrategicArea.create SeaEast 1355.5/1251.5 1456/1352 2 sea
+
+aiStrategicArea.create SeaWest 299.5/721.5 450/872 2 sea
+
+aiStrategicArea.create SeaNorth 277.5/1561.5 378/1662 2 sea
+
+aiStrategicArea.create SeaSouth 1163/237.5 1264/338 2 sea
+
+aiStrategicArea.create TopBaseEntry 687/1331 718/1362.5 100 land
+
+aiStrategicArea.create MainBaseEntry 937.5/950 952/976 100 land
+
+aiStrategicArea.create FirstLine 867/1118.5 882/1134 200 land
+
+aiStrategicArea.create MainBase 1081/876.5 1111/917 200 land
+
+aiStrategicArea.create WestBeachExit 877.5/954.5 891/976 100 land
+
+aiStrategicArea.create SecondLine 846.5/1202.5 861.5/1218 200 land
+
+aiStrategicArea.create TopBase 620/1387 654/1420 250 land
+
+aiStrategicArea.create WestBeach 670/1134 771/1131 200 land
+
+AILandingZone.createLandingZone EastLanding 3417/1268 3431/1749 LZZMax
+
+AILandingZone.createLandingZone WestLanding 630/592 689/1056 LZXMax
+
+aiStrategicArea.setActive TopBaseEntry
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addExpelledUnit LandingCraft
+AIStrategicArea.addNeighbour TopBase
+AIStrategicArea.addNeighbour SecondLine
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addObjectTypeFlag North
+AIStrategicArea.setOrderPosition Tank 710/1370
+AIStrategicArea.setOrderPosition Infantry 710/1370
+AIStrategicArea.setOrderPosition Boat 416/1174
+AIStrategicArea.setOrderPosition LandingCraft 478/1254
+aiStrategicArea.setSide 2
+
+aiStrategicArea.setActive MainBaseEntry
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addExpelledUnit LandingCraft
+AIStrategicArea.addNeighbour WestBeachExit
+AIStrategicArea.addNeighbour MainBase
+AIStrategicArea.addNeighbour FirstLine
+aiStrategicArea.addObjectTypeFlag Close
+aiStrategicArea.addObjectTypeFlag East
+AIStrategicArea.setOrderPosition Tank 964/972
+AIStrategicArea.setOrderPosition Infantry 952/983
+AIStrategicArea.setOrderPosition Boat 517/993
+AIStrategicArea.setOrderPosition LandingCraft 505/990
+aiStrategicArea.setSide 2
+
+aiStrategicArea.setActive FirstLine
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addExpelledUnit LandingCraft
+AIStrategicArea.addNeighbour MainBase
+AIStrategicArea.addNeighbour SecondLine
+AIStrategicArea.addNeighbour WestBeachExit
+aiStrategicArea.addObjectTypeFlag Centre
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.setOrderPosition Tank 894/1126
+AIStrategicArea.setOrderPosition Infantry 891/1132
+AIStrategicArea.setOrderPosition Boat 460/1056
+AIStrategicArea.setOrderPosition LandingCraft 504/1132
+aiStrategicArea.setSide 2
+
+aiStrategicArea.setActive MainBase
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addLandingZoneUnit LandingCraft
+AIStrategicArea.attachLandingZone EastLanding
+AIStrategicArea.addNeighbour FirstLine
+AIStrategicArea.addNeighbour MainBaseEntry
+AIStrategicArea.addNeighbour SeaEast
+aiStrategicArea.addObjectTypeFlag East
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addObjectTypeFlag Base
+AIStrategicArea.setOrderPosition Tank 1102/935
+AIStrategicArea.setOrderPosition Infantry 1096/934
+AIStrategicArea.setOrderPosition Boat 529/934
+AIStrategicArea.setOrderPosition LandingCraft 733/844
+aiStrategicArea.setSide 2
+aiStrategicArea.vehicleSearchRadius 115.0
+
+aiStrategicArea.setActive WestBeachExit
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addExpelledUnit LandingCraft
+AIStrategicArea.addNeighbour WestBeach
+AIStrategicArea.addNeighbour MainBaseEntry
+AIStrategicArea.addNeighbour FirstLine
+aiStrategicArea.addObjectTypeFlag Flank
+aiStrategicArea.addObjectTypeFlag West
+AIStrategicArea.setOrderPosition Tank 883/984
+AIStrategicArea.setOrderPosition Infantry 886/963
+AIStrategicArea.setOrderPosition Boat 506/970
+AIStrategicArea.setOrderPosition LandingCraft 531/972
+aiStrategicArea.setSide 2
+
+aiStrategicArea.setActive SecondLine
+AIStrategicArea.addNeighbour FirstLine
+AIStrategicArea.addNeighbour TopBaseEntry
+AIStrategicArea.addExpelledUnit LandingCraft
+aiStrategicArea.addObjectTypeFlag Centre
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.setOrderPosition Tank 857/1218
+AIStrategicArea.setOrderPosition Infantry 861/1218
+AIStrategicArea.setOrderPosition Boat 1220/1396
+AIStrategicArea.setOrderPosition LandingCraft 1233/1389
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive TopBase
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addExpelledUnit LandingCraft
+AIStrategicArea.addNeighbour TopBaseEntry
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addObjectTypeFlag StrongPoint
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addObjectTypeFlag North
+AIStrategicArea.setOrderPosition Tank 657/1424
+AIStrategicArea.setOrderPosition Infantry 653/1419
+AIStrategicArea.setOrderPosition Boat 670/1702
+AIStrategicArea.setOrderPosition LandingCraft 658/1848
+aiStrategicArea.setSide 2
+
+aiStrategicArea.setActive WestBeach
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addLandingZoneUnit LandingCraft
+AIStrategicArea.attachLandingZone WestLanding
+AIStrategicArea.addNeighbour SeaWest
+AIStrategicArea.addNeighbour WestBeachExit
+aiStrategicArea.addObjectTypeFlag Remote
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addObjectTypeFlag West
+AIStrategicArea.setOrderPosition Tank 831/1078
+AIStrategicArea.setOrderPosition Infantry 826/1077
+AIStrategicArea.setOrderPosition Boat 486/1015
+AIStrategicArea.setOrderPosition LandingCraft 419/1077
+aiStrategicArea.setSide 2
+aiStrategicArea.vehicleSearchRadius 30.0
+
+aiStrategicArea.setActive SeaWest
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup sea
+AIStrategicArea.addNeighbour SeaSouth
+AIStrategicArea.addNeighbour SeaNorth
+AIStrategicArea.setOrderPosition Tank 996/960
+AIStrategicArea.setOrderPosition Infantry 1011/960
+AIStrategicArea.setOrderPosition Boat 424/960
+AIStrategicArea.setOrderPosition LandingCraft 490/962
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive SeaNorth
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup sea
+AIStrategicArea.addNeighbour BOTotherSide
+AIStrategicArea.addNeighbour SeaEast
+AIStrategicArea.addNeighbour SeaWest
+AIStrategicArea.setOrderPosition Tank 643/1419
+AIStrategicArea.setOrderPosition Infantry 661/1462
+AIStrategicArea.setOrderPosition Boat 378/1662
+AIStrategicArea.setOrderPosition LandingCraft 418/1512
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive SeaSouth
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addNeighbour SeaWest
+AIStrategicArea.addNeighbour SeaEast
+AIStrategicArea.setOrderPosition Tank 1224/759
+AIStrategicArea.setOrderPosition Infantry 1230/759
+AIStrategicArea.setOrderPosition Boat 1274/336
+AIStrategicArea.setOrderPosition LandingCraft 1224/512
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive SeaEast
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup sea
+AIStrategicArea.addNeighbour BotSouth
+AIStrategicArea.addNeighbour BotNorth
+AIStrategicArea.setOrderPosition Tank 783/1348
+AIStrategicArea.setOrderPosition Infantry 785/1348
+AIStrategicArea.setOrderPosition Boat 1450/1348
+AIStrategicArea.setOrderPosition LandingCraft 1450/1348
+aiStrategicArea.setSide 1
+
+

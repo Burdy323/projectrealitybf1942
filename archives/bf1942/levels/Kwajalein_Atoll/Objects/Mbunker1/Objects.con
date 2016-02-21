@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject Mbunker1
+ObjectTemplate.geometry Mbunker1
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.aiTemplate Mbunker1

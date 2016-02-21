@@ -1,0 +1,16 @@
+rem *** beach_base1 ***
+Object.create beach_base1
+Object.absolutePosition 1469.79/7/1280.47
+
+rem *** beach_base2 ***
+Object.create beach_base2
+Object.absolutePosition 1221.32/12.54/1095.54
+
+rem *** axiscliffseast ***
+Object.create axiscliffseast
+Object.absolutePosition 1717.29/68.27/962.39
+
+rem *** axiscliffswest ***
+Object.create axiscliffswest
+Object.absolutePosition 1293.44/46/995.17
+

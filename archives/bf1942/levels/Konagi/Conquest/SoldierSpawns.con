@@ -1,0 +1,186 @@
+rem SoldierSpawns.con created by Battlecraft 1942
+rem (C:\Games\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Konagi/conquest/SoldierSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_Spawn1
+Object.absolutePosition 1401.565918/147.616821/542.778748
+Object.rotation -150.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_Spawn2
+Object.absolutePosition 1418.037354/148.337448/531.598877
+Object.rotation -178.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_Spawn3
+Object.absolutePosition 1437.855957/146.384796/531.930725
+Object.rotation -103.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_Spawn4
+Object.absolutePosition 1429.745605/146.363159/521.512878
+Object.rotation 0.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_Spawn5
+Object.absolutePosition 1408.926025/146.370911/519.560730
+Object.rotation 0.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn6  ---
+rem ----------------------------------------- 
+Object.create Konagi_Hill_Spawn6
+Object.absolutePosition 1270.431885/110.921402/481.036560
+Object.rotation -177.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Konagi_Jungle_Spawn1
+Object.absolutePosition 545.874512/102.387840/685.026062
+Object.rotation 92.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Konagi_Jungle_Spawn2
+Object.absolutePosition 527.778076/102.387764/699.320251
+Object.rotation 43.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Konagi_Jungle_Spawn3
+Object.absolutePosition 552.996582/102.360764/708.473328
+Object.rotation 188.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Konagi_Jungle_Spawn4
+Object.absolutePosition 550.963745/102.393311/674.498230
+Object.rotation -168.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Konagi_Jungle_Spawn5
+Object.absolutePosition 539.368408/102.289299/709.587769
+Object.rotation -179.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_Spawn1
+Object.absolutePosition 975.389282/97.968002/696.900818
+Object.rotation -66.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_Spawn2
+Object.absolutePosition 966.890930/97.990402/670.734619
+Object.rotation 0.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_Spawn3
+Object.absolutePosition 945.741028/98.035400/675.473328
+Object.rotation 28.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_Spawn4
+Object.absolutePosition 932.364685/97.997200/693.629578
+Object.rotation 89.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Konagi_Village_Spawn5
+Object.absolutePosition 944.625427/97.969002/709.777588
+Object.rotation -14.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Konagi_Beach_Spawn1
+Object.absolutePosition 1111.845703/88.423897/1014.356567
+Object.rotation -68.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Konagi_Beach_Spawn2
+Object.absolutePosition 1116.404785/88.106148/993.479187
+Object.rotation -132.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Konagi_Beach_Spawn3
+Object.absolutePosition 1092.820557/91.047852/1065.333984
+Object.rotation -130.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Konagi_Beach_Spawn4
+Object.absolutePosition 1134.924805/88.137077/954.376648
+Object.rotation -64.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Konagi_Beach_Spawn5
+Object.absolutePosition 1096.959106/89.932411/883.224426
+Object.rotation -34.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_Spawn1
+Object.absolutePosition 766.444580/108.662399/1354.968018
+Object.rotation -182.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_Spawn2
+Object.absolutePosition 757.274902/108.662621/1325.512939
+Object.rotation -92.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_Spawn3
+Object.absolutePosition 736.215454/108.657692/1333.459351
+Object.rotation 0.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_Spawn4
+Object.absolutePosition 745.771362/108.694496/1353.249268
+Object.rotation 88.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Konagi_Airfield_Spawn5
+Object.absolutePosition 756.743408/108.668434/1348.900513
+Object.rotation -90.000000/0.000000/0.000000
+
+rem EndOfFile

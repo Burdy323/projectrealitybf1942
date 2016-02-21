@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject pollermesh
+ObjectTemplate.geometry pollermesh
+ObjectTemplate.setHasCollisionPhysics 1

@@ -1,0 +1,72 @@
+rem **********************************************************************
+rem map template ai
+rem **********************************************************************
+
+aiTemplatePlugIn.create Physical repport_M1Physical
+
+aiTemplate.create repport_M1
+aiTemplate.addType ITScaleRender
+aiTemplate.addType ITStructure
+aiTemplate.degeneration 1
+aiTemplate.allowedTimeDiff -1
+aiTemplate.basicTemp 1
+aiTemplate.commonKnowledge 1
+aiTemplate.addPlugIn repport_M1Physical
+
+objectTemplate.active repport_M1
+objectTemplate.aiTemplate repport_M1
+
+
+aiTemplatePlugIn.create Physical longPlanks_m1Physical
+
+aiTemplate.create longPlanks_m1
+aiTemplate.addType ITScaleRender
+aiTemplate.addType ITStructure
+aiTemplate.degeneration 1
+aiTemplate.allowedTimeDiff -1
+aiTemplate.basicTemp 1
+aiTemplate.commonKnowledge 1
+aiTemplate.addPlugIn longPlanks_m1Physical
+
+objectTemplate.active longPlanks_m1
+objectTemplate.aiTemplate longPlanks_m1
+
+aiTemplatePlugIn.create Physical shortPlanksPhysical
+
+aiTemplate.create shortPlanks
+aiTemplate.addType ITScaleRender
+aiTemplate.addType ITStructure
+aiTemplate.degeneration 1
+aiTemplate.allowedTimeDiff -1
+aiTemplate.basicTemp 1
+aiTemplate.commonKnowledge 1
+aiTemplate.addPlugIn shortPlanksPhysical
+
+objectTemplate.active shortPlanks
+objectTemplate.aiTemplate shortPlanks
+
+aiTemplatePlugIn.create Physical bridgebarsPhysical
+
+aiTemplate.create bridgebars
+aiTemplate.addType ITScaleRender
+aiTemplate.addType ITStructure
+aiTemplate.degeneration 1
+aiTemplate.allowedTimeDiff -1
+aiTemplate.basicTemp 1
+aiTemplate.commonKnowledge 1
+aiTemplate.addPlugIn bridgebarsPhysical
+
+objectTemplate.active remagen_towers_comp_M1
+objectTemplate.aiTemplate remagen_towers_comp_M1
+
+aiTemplatePlugIn.create Physical remagen_towers_comp_M1Physical
+aiTemplatePlugin.active Stationary_BrowningUnit
+aiTemplatePlugin.setUseNoPathfindingToGetToObject 0
+
+aiTemplatePlugin.active Stationary_mg42Unit
+aiTemplatePlugin.setUseNoPathfindingToGetToObject 0
+
+rem *** Hanomag Plugin fix ***
+aiTemplatePlugIn.active HanomagMobile
+aiTemplatePlugIn.maxSpeed 15.0
+

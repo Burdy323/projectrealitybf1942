@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject citymesh2_roof_m1
+ObjectTemplate.geometry citymesh2_roof_m1
+ObjectTemplate.setHasCollisionPhysics 1
+

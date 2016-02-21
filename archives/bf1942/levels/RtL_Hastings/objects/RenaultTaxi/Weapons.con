@@ -1,0 +1,14 @@
+rem *** RenaultTaxi Horn ***
+ObjectTemplate.create FireArms RenaultTaxiHorn
+ObjectTemplate.setNetworkableInfo PlaneFireArmInfo
+ObjectTemplate.loadSoundScript Sounds/Horn.ssc
+rem ObjectTemplate.projectileTemplate MG42_Projectile
+ObjectTemplate.projectilePosition 0/0/0
+ObjectTemplate.magSize -1
+ObjectTemplate.numOfMag 1
+ObjectTemplate.magType 0
+ObjectTemplate.fireOnce 1
+ObjectTemplate.reloadtime 1
+ObjectTemplate.roundOfFire 1
+ObjectTemplate.AmmoType	6
+ObjectTemplate.velocity 0

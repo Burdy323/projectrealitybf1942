@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject sLights
+ObjectTemplate.geometry sLights
+ObjectTemplate.setHasCollisionPhysics 1
+

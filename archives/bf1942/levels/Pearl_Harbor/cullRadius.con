@@ -1,0 +1,81 @@
+REM *** Buildings & Objects ***
+
+Objecttemplate.active Afri_bush10_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Afri_bush9_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active BuildingSmoke 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active AxisAirplaneAmmo
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Defgun_bunker_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active rh_Pacfac_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active barack_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active landrep1_supply 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagu_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagi_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active bunker2_des1_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagl_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active bunker2_des2_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active bunker2_des1_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active tankobs_ste_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stebarbwire_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stecrate1_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stebarrel2_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stecrate2_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Stones_Pacif_L_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active o_bunker_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active PALMHIGH_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active mediclocker 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Ammobox 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbag_2m_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Pacific_Palm_large_1_M1 
+objectTemplate.cullRadiusScale 5
+
+REM *** Vehicles ***

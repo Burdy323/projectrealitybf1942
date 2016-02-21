@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject bridgebars
+ObjectTemplate.geometry bridgebars
+ObjectTemplate.setHasCollisionPhysics 1
+

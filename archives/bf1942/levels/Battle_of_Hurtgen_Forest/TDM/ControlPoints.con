@@ -1,0 +1,34 @@
+rem ControlPoints.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Battle_of_Hurtgen_Forest/tdm/ControlPoints.con)
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm
+Object.absolutePosition 957.73/64.65/339.73
+
+rem ----------------------------------------- 
+rem ---  German_Barracks  ---
+rem ----------------------------------------- 
+Object.create German_Barracks
+Object.absolutePosition 1024.39/63.97/1040.12
+
+rem ----------------------------------------- 
+rem ---  Western_Hill_Top  ---
+rem ----------------------------------------- 
+Object.create Western_Hill_Top
+Object.absolutePosition 860.04/85.88/621.07
+
+rem ----------------------------------------- 
+rem ---  Eastern_Forest_Encampment  ---
+rem ----------------------------------------- 
+Object.create Eastern_Forest_Encampment
+Object.absolutePosition 1096.94/64.46/565.00
+
+rem ----------------------------------------- 
+rem ---  Bloody_Bucket  ---
+rem ----------------------------------------- 
+Object.create Bloody_Bucket
+Object.absolutePosition 989.48/64.10/799.77
+
+rem EndOfFile

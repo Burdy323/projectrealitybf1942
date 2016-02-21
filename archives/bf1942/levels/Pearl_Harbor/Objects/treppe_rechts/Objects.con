@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject treppe_rechts
+ObjectTemplate.geometry treppe_rechts
+ObjectTemplate.setHasCollisionPhysics 1

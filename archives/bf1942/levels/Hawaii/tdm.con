@@ -1,0 +1,16 @@
+rem *********************************************
+rem Created by Battlecraft 1942.  Copyright (c)2003 Digital Illusions CE
+rem *********************************************
+
+run TDM/SpawnpointManagerSettings
+run TDM/SoldierSpawnTemplates
+run TDM/SoldierSpawns
+run TDM/ObjectSpawnTemplates
+run TDM/ControlPointTemplates
+
+if v_arg1 == host
+run ai
+run TDM/ObjectSpawns
+run TDM/ControlPoints
+else
+endIf

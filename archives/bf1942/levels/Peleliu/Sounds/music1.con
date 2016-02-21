@@ -1,0 +1,5 @@
+rem *** music1 ***
+ObjectTemplate.create SimpleObject music1
+ObjectTemplate.saveInSeparateFile 1
+objectTemplate.loadSoundScript music1.ssc
+ObjectTemplate.triggerRadius 15

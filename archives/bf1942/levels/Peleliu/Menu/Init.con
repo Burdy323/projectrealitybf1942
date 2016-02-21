@@ -1,0 +1,36 @@
+rem *********************************************
+rem Created by Battlecraft 1942.  Copyright (c)2003,2004 Digital Illusions CE
+rem *********************************************
+Game.setLocalized 1
+
+rem ** Allied Briefing **
+game.setAlliedCampaign BRIEFING_ALLIED_CAMPAIGN_Peleliu
+game.setAlliedHints BRIEFING_ALLIED_HINTS_Peleliu
+game.setAlliedObjectives BRIEFING_ALLIED_OBJECTIVES_Peleliu
+game.setAlliedSkirmish BRIEFING_ALLIED_SKIRMISH_Peleliu
+
+rem ** Axis Briefing **
+game.setAxisCampaign BRIEFING_AXIS_CAMPAIGN_Peleliu
+game.setAxisHints BRIEFING_AXIS_HINTS_Peleliu
+game.setAxisObjectives BRIEFING_AXIS_OBJECTIVES_Peleliu
+game.setAxisSkirmish BRIEFING_AXIS_SKIRMISH_Peleliu
+
+rem ** Allied Debriefing **
+game.setAlliedDebriefingMajorVictory DEBRIEFING_ALLIED_MAJOR_VICTORY_Peleliu
+game.setAlliedDebriefingMinorVictory DEBRIEFING_ALLIED_MINOR_VICTORY_Peleliu
+game.setAlliedDebriefingMajorDefeat DEBRIEFING_ALLIED_MAJOR_DEFEAT_Peleliu
+game.setAlliedDebriefingMinorDefeat DEBRIEFING_ALLIED_MINOR_DEFEAT_Peleliu
+
+rem ** Axis Debriefing **
+game.setAxisDebriefingMajorVictory DEBRIEFING_AXIS_MAJOR_VICTORY_Peleliu
+game.setAxisDebriefingMinorVictory DEBRIEFING_AXIS_MINOR_VICTORY_Peleliu
+game.setAxisDebriefingMajorDefeat DEBRIEFING_AXIS_MAJOR_DEFEAT_Peleliu
+game.setAxisDebriefingMinorDefeat DEBRIEFING_AXIS_MINOR_DEFEAT_Peleliu
+
+game.setMultiplayerBriefingObjectives "On the morning of September 15th, 1944, a storm is brewing even though there are few clouds in the sky.  As members of the legendary First Marine Division gather in their landing craft, the voice of their commander's assurances that the coming battle will last at most three days ring through their ears.  The Higgins boats and Amtrak's begin to mass at their rally point, the big guns from the cruisers let loose with thunderous explosions filling the steamy air... thousands of brave Marines begin their slow trek toward their landing zone as tracers and artillery shells shower upon the landing craft mercilessly.  The Battle of Peleliu has begun."
+
+game.setMultiplayerBriefingMapType "Peleliu"
+
+game.setLoadPicture ../../bf1942/levels/Peleliu/textures/Peleliu/Corsair.tga
+
+game.setMapId "DRK42"

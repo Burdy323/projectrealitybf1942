@@ -1,0 +1,116 @@
+Rem
+Rem PreCache Objects
+Rem
+
+Object.active __BF_NONE__
+Object.create Bar1918
+Object.delete
+Object.create Bazooka
+Object.delete
+Object.create BinocularsProjectile
+Object.delete
+Object.create Casemate
+Object.delete
+Object.create Colt
+Object.delete
+Object.create ExpPack
+Object.delete
+Object.create ExpPackProjectile
+Object.delete
+Object.create Fire_Control_Bunker2
+Object.delete
+Object.create GrenadeAllies
+Object.delete
+Object.create GrenadeAlliesProjectile
+Object.delete
+Object.create GrenadeAxis
+Object.delete
+Object.create GrenadeAxisProjectile
+Object.delete
+Object.create K98
+Object.delete
+Object.create K98Sniper
+Object.delete
+Object.create LCT
+object.delete
+Object.create Landmine
+Object.delete
+Object.create LandmineProjectile
+Object.delete
+Object.create MedPack
+Object.delete
+Object.create Mp40
+Object.delete
+Object.create No4
+Object.delete
+Object.create No4Sniper
+Object.delete
+Object.create Pak40
+Object.delete
+Object.create Panzershreck
+Object.delete
+Object.create RepairPack
+Object.delete
+Object.create Sg44
+Object.delete
+Object.create Thompson
+Object.delete
+Object.create WalterP38
+Object.delete
+Object.create German_AT
+Object.delete
+Object.create German_Assault
+Object.delete
+Object.create German_Engineer
+Object.delete
+Object.create German_Medic
+Object.delete
+Object.create German_Scout
+Object.delete
+Object.create Us_AT
+Object.delete
+Object.create Us_Assault
+Object.delete
+Object.create US_Engineer
+Object.delete
+Object.create US_Medic
+Object.delete
+Object.create US_Scout
+Object.delete
+Object.create GermanSoldier
+Object.delete
+Object.create GermanSoldier
+Object.delete
+Object.create GermanSoldier
+Object.delete
+Object.create USSoldier
+Object.delete
+Object.create USSoldier
+Object.delete
+Object.create USSoldier
+Object.delete
+Object.create Stationary_Browning
+Object.delete
+Object.create Stationary_mg42
+Object.delete
+Object.create Defgun
+Object.delete
+Object.create Hanomag
+Object.delete
+Object.create M10
+Object.delete
+Object.create M3A1
+Object.delete
+Object.create PanzerIV
+Object.delete
+Object.create Sherman
+Object.delete
+Object.create Tiger
+Object.delete
+Object.create Willy
+Object.delete
+Object.create Fletcher
+Object.delete
+Object.create Lcvp
+Object.delete
+Object.active __BF_NONE__

@@ -1,0 +1,41 @@
+rem *** Create Prerequisites ***
+
+
+rem *** Omaha Beach ***
+
+rem ** American **
+
+aiStrategy.createPrerequisite landPrereq
+aiStrategy.addCondition noCPCond    10.0
+
+aiStrategy.createPrerequisite westWallPrereq
+aiStrategy.addCondition minTwoEnemyCentreCond  8.0
+rem aiStrategy.addCondition timeCond               0.1
+
+aiStrategy.createPrerequisite eastWallPrereq
+aiStrategy.addCondition minTwoEnemyCentreCond 20.0
+rem aiStrategy.addCondition timeCond               0.1
+
+aiStrategy.createPrerequisite wallPrereq
+aiStrategy.addCondition maxThreeEnemyCentreCond    15.0
+rem aiStrategy.addCondition oneEnemyStrongPointCond    5.0
+
+aiStrategy.createPrerequisite cityPrereq
+aiStrategy.addCondition minTwoFriendlyCPCond   10.0
+
+
+rem ** German **
+
+aiStrategy.createPrerequisite beachDefencePrereq
+aiStrategy.addCondition maxTwoEnemyAreasCond  10.0
+
+aiStrategy.createPrerequisite wallRepulsePrereq
+aiStrategy.addCondition maxSixEnemyAreasCond  5.0
+aiStrategy.addCondition noEnemyCloseCond        2.0
+aiStrategy.addCondition noEnemyBaseCond         2.0
+aiStrategy.addCondition minFourEnemyAreasCond   1.0
+
+aiStrategy.createPrerequisite retakePrereq
+aiStrategy.addCondition maxTwoCPCond  4.0
+
+

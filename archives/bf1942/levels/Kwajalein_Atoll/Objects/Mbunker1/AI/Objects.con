@@ -1,0 +1,17 @@
+aiTemplatePlugIn.create Cover Mbunker1Cover
+aiTemplatePlugIn.coverValue 60.0
+
+aiTemplatePlugIn.create Physical Mbunker1Physical
+
+rem *** AITemplate ***
+aiTemplate.create Mbunker1
+
+aiTemplate.addType ITStructure
+aiTemplate.addType ITNoTemperature
+aiTemplate.degeneration 1
+aiTemplate.allowedTimeDiff -1
+aiTemplate.basicTemp 1
+aiTemplate.commonKnowledge 1
+rem aiTemplate.addPlugIn Mbunker1Unit
+aiTemplate.addPlugIn Mbunker1Cover
+aiTemplate.addPlugIn Mbunker1Physical

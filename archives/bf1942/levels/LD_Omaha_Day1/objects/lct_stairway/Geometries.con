@@ -1,0 +1,8 @@
+GeometryTemplate.create StandardMesh lct_stairway
+GeometryTemplate.file ../bf1942/levels/LD_Omaha_Day1/objects/lct_stairway/lct_stairway
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 20
+GeometryTemplate.setLodDistance 2 30
+GeometryTemplate.setLodDistance 3 40
+GeometryTemplate.setLodDistance 4 60
+GeometryTemplate.setLodDistance 5 100

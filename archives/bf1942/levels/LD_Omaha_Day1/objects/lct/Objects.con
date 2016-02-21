@@ -1,0 +1,32 @@
+ObjectTemplate.create Bundle lct
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.aiTemplate lct
+ObjectTemplate.addTemplate lodlct
+
+LodSelectorTemplate.create DistanceSelector lctSelector
+LodSelectorTemplate.addLodDistance 70
+ObjectTemplate.create LodObject lodlct
+ObjectTemplate.lodselector lctSelector
+ObjectTemplate.addTemplate lctInterior
+ObjectTemplate.addTemplate lctExterior
+
+ObjectTemplate.create bundle lctInterior
+ObjectTemplate.geometry lct2
+
+
+rem ------ bundled objects --------
+
+objectTemplate.addTemplate lct_stairway
+objectTemplate.setPosition -7/0/-15.7837
+objectTemplate.setRotation 0/0/0
+
+objectTemplate.addTemplate lct_stairway
+objectTemplate.setPosition -17.23/0/-15.7837
+objectTemplate.setRotation 0/0/0/
+
+objectTemplate.addTemplate ladder_5m_m1
+objectTemplate.setPosition 1.4833/1.6508/-17.255
+objectTemplate.setRotation 0/0/0
+
+ObjectTemplate.create simpleObject lctExterior
+ObjectTemplate.geometry lct

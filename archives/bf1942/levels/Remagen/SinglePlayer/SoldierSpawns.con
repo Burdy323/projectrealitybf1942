@@ -1,0 +1,61 @@
+rem ---  AlliedBase_Spawn1  ---
+Object.create AlliedBase_Spawn1
+Object.absolutePosition 704.47/126.87/1388.52
+Object.rotation -448.78/0.00/0.00
+
+rem ---  AlliedBase_Spawn2  ---
+Object.create AlliedBase_Spawn2
+Object.absolutePosition 703.15/126.99/1408.35
+Object.rotation -62.22/0.00/0.00
+
+rem ---  AlliedBase_Spawn3  ---
+Object.create AlliedBase_Spawn3
+Object.absolutePosition 673.15/127.02/1390.77
+Object.rotation 0.00/0.00/0.00
+
+rem ---  AlliedBase_Spawn4  ---
+Object.create AlliedBase_Spawn4
+Object.absolutePosition 653.63/128.66/1421.27
+Object.rotation -169.92/0.00/0.00
+
+rem ---  The_Ferry_dock_Spawn1  ---
+Object.create The_Ferry_dock_Spawn1
+Object.absolutePosition 861/127.5/1189
+Object.rotation -24.22/0.00/0.00
+
+rem ---  The_Ferry_dock_Spawn2  ---
+Object.create The_Ferry_dock_Spawn2
+Object.absolutePosition 873/127/1213.25
+Object.rotation -16.64/0.00/0.00
+
+rem ---  The_Ferry_dock_Spawn3  ---
+Object.create The_Ferry_dock_Spawn3
+Object.absolutePosition 854.2/127/1200
+Object.rotation -55.36/0.00/0.00
+
+rem ---  The_Ferry_dock_Spawn4  ---
+Object.create The_Ferry_dock_Spawn4
+Object.absolutePosition 881/127/1204
+Object.rotation -55.36/0.00/0.00
+
+rem ---  Remagen_Park_Spawn1  ---
+Object.create Remagen_Park_Spawn1
+Object.absolutePosition 777.51/131.35/1119.86
+Object.rotation 0.00/0.00/0.00
+
+rem ---  Remagen_Park_Spawn2  ---
+Object.create Remagen_Park_Spawn2
+Object.absolutePosition 775/131.35/1118
+Object.rotation -42.31/0.00/0.00
+
+rem ---  Remagen_Park_Spawn3  ---
+Object.create Remagen_Park_Spawn3
+Object.absolutePosition 768.82/127.16/1097.53
+Object.rotation -19.90/0.00/0.00
+
+rem ---  Remagen_Park_Spawn4  ---
+Object.create Remagen_Park_Spawn4
+Object.absolutePosition 757.64/127.25/1140.98
+Object.rotation 79.14/0.00/0.00
+
+

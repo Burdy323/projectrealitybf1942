@@ -1,0 +1,7 @@
+[CubeMap]
+PositiveX = bf1942\levels\Marshall_island\Textures\env_Marshall_island_04.dds
+NegativeX = bf1942\levels\Marshall_island\Textures\env_Marshall_island_02.dds
+PositiveY = bf1942\levels\Marshall_island\Textures\env_Marshall_island_05.dds
+NegativeY = bf1942\levels\Marshall_island\Textures\env_Marshall_island_06.dds
+PositiveZ = bf1942\levels\Marshall_island\Textures\env_Marshall_island_03.dds
+NegativeZ = bf1942\levels\Marshall_island\Textures\env_Marshall_island_01.dds

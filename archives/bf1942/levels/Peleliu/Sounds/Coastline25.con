@@ -1,0 +1,6 @@
+
+rem *** river 1 ***
+ObjectTemplate.create SimpleObject coastline25
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.loadSoundScript coastline25.ssc
+ObjectTemplate.triggerRadius 200

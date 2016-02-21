@@ -1,0 +1,128 @@
+rem ObjectSpawnTemplates.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\LD_Omaha_Day1/conquest/ObjectSpawnTemplates.con)
+
+rem ----------------------------------------- 
+rem ---  apcspawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner apcspawner
+ObjectTemplate.setObjectTemplate 1 hanomag
+ObjectTemplate.setObjectTemplate 2 m3a1
+ObjectTemplate.MinSpawnDelay 35
+ObjectTemplate.MaxSpawnDelay 55
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  artilleryspawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner artilleryspawner
+ObjectTemplate.setObjectTemplate 1 pak40
+ObjectTemplate.setObjectTemplate 2 pak40
+ObjectTemplate.MinSpawnDelay 30
+ObjectTemplate.MaxSpawnDelay 60
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  machinegunspawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner machinegunspawner
+ObjectTemplate.setObjectTemplate 1 stationary_mg42
+ObjectTemplate.setObjectTemplate 2 stationary_browning
+ObjectTemplate.MinSpawnDelay 35
+ObjectTemplate.MaxSpawnDelay 55
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  willyspawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner willyspawner
+ObjectTemplate.setObjectTemplate 1 kubelwagen
+ObjectTemplate.setObjectTemplate 2 willy
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 30
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 90
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  defgunspawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner defgunspawner
+ObjectTemplate.setObjectTemplate 1 defgun
+ObjectTemplate.setObjectTemplate 2 defgun
+ObjectTemplate.MinSpawnDelay 240
+ObjectTemplate.MaxSpawnDelay 240
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  scoutcarspawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner scoutcarspawner
+ObjectTemplate.setObjectTemplate 1 kubelwagen
+ObjectTemplate.setObjectTemplate 2 willy
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 30
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 90
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  lighttankspawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner lighttankspawner
+ObjectTemplate.setObjectTemplate 1 panzeriv
+ObjectTemplate.setObjectTemplate 2 sherman
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  destroyerspawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner destroyerspawner
+ObjectTemplate.setObjectTemplate 2 fletcher
+ObjectTemplate.MinSpawnDelay 240
+ObjectTemplate.MaxSpawnDelay 240
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 120
+ObjectTemplate.Distance 200
+ObjectTemplate.DamageWhenLost 0
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  destroyerspawner2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner destroyerspawner2
+ObjectTemplate.setObjectTemplate 2 fletcher2
+ObjectTemplate.MinSpawnDelay 240
+ObjectTemplate.MaxSpawnDelay 240
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 120
+ObjectTemplate.Distance 200
+ObjectTemplate.DamageWhenLost 0
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem EndOfFile

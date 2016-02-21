@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject Mdaihatsu
+ObjectTemplate.geometry Mdaihatsu
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.aiTemplate Mdaihatsu

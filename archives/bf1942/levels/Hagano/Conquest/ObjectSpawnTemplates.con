@@ -1,0 +1,158 @@
+rem ObjectSpawnTemplates.con created by Battlecraft 1942
+rem (E:\Battlefield 1942\Mods\bf1942\bf1942\levels\Hagano/conquest/ObjectSpawnTemplates.con)
+
+rem ----------------------------------------- 
+rem ---  Zerstoerer  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Zerstoerer
+ObjectTemplate.setObjectTemplate 1 fletcher
+ObjectTemplate.setObjectTemplate 2 fletcher
+ObjectTemplate.MinSpawnDelay 200
+ObjectTemplate.MaxSpawnDelay 201
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  Traeger  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Traeger
+ObjectTemplate.setObjectTemplate 1 enterprise
+ObjectTemplate.setObjectTemplate 2 enterprise
+ObjectTemplate.MinSpawnDelay 300
+ObjectTemplate.MaxSpawnDelay 301
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  Geschuetz  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Geschuetz
+ObjectTemplate.setObjectTemplate 1 defgun
+ObjectTemplate.setObjectTemplate 2 defgun
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 60
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  Mgewehr  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Mgewehr
+ObjectTemplate.setObjectTemplate 1 stationary_mg42
+ObjectTemplate.setObjectTemplate 2 stationary_browning
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  Flak  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Flak
+ObjectTemplate.setObjectTemplate 1 flak38
+ObjectTemplate.setObjectTemplate 2 aa_allies
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 70
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  Flieger  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Flieger
+ObjectTemplate.setObjectTemplate 1 zero
+ObjectTemplate.setObjectTemplate 2 corsair
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  Flieger_T  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Flieger_T
+ObjectTemplate.setObjectTemplate 1 aichival-t
+ObjectTemplate.setObjectTemplate 2 sbd-t
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 70
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  Tank  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Tank
+ObjectTemplate.setObjectTemplate 1 m10
+ObjectTemplate.setObjectTemplate 2 m10
+ObjectTemplate.MinSpawnDelay 70
+ObjectTemplate.MaxSpawnDelay 110
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  Lighttank  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Lighttank
+ObjectTemplate.setObjectTemplate 1 chi-ha
+ObjectTemplate.setObjectTemplate 2 sherman
+ObjectTemplate.MinSpawnDelay 50
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  APC  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner APC
+ObjectTemplate.setObjectTemplate 1 hanomag
+ObjectTemplate.setObjectTemplate 2 m3a1
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  Jeep  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Jeep
+ObjectTemplate.setObjectTemplate 1 kubelwagen
+ObjectTemplate.setObjectTemplate 2 willy
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem EndOfFile

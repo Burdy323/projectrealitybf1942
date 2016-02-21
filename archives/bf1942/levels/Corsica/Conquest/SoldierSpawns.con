@@ -1,0 +1,85 @@
+rem *** axisspawnpoint_beach1 ***
+Object.create axisspawnpoint_beach1
+Object.absolutePosition 1250.13/101.456/529.247
+Object.rotation 0/0/1.52588E-05
+
+rem *** axisspawnpoint_beach2 ***
+Object.create axisspawnpoint_beach2
+Object.absolutePosition 1183.94/110.119/634.627
+Object.rotation 163.75/0/1.52588E-05
+
+rem *** axisspawnpoint_beach3 ***
+Object.create axisspawnpoint_beach3
+Object.absolutePosition 1137.13/108.311/538.392
+Object.rotation 44.5/0/1.52588E-05
+
+rem *** alliesspawnpoint_1 ***
+Object.create alliesspawnpoint_1
+Object.absolutePosition 830.745/129.101/1022.07
+Object.rotation 214.463/0/0.0395813
+
+rem *** alliesspawnpoint_2 ***
+Object.create alliesspawnpoint_2
+Object.absolutePosition 878.476/129.114/963.932
+Object.rotation 204.606/0/0.0279846
+
+rem *** alliesspawnpoint_3 ***
+Object.create alliesspawnpoint_3
+Object.absolutePosition 931.099/129.146/927.116
+Object.rotation 209.606/0/0.0279846
+
+rem *** alliesspawnpoint_4 ***
+Object.create alliesspawnpoint_4
+Object.absolutePosition 955.531/120.161/1000.49
+Object.rotation 348.213/0/0.0395813
+
+rem *** alliesspawnpoint_5 ***
+Object.create alliesspawnpoint_5
+Object.absolutePosition 910.546/129.867/987.224
+Object.rotation 187.713/0/0.0395813
+
+rem *** alliesspawnpoint_southbase_1 ***
+Object.create alliesspawnpoint_southbase_1
+Object.absolutePosition 454.737/100.264/1559.76
+Object.rotation -74.918/0/0.0342712
+
+rem *** alliesspawnpoint_southbase_2 ***
+Object.create alliesspawnpoint_southbase_2
+Object.absolutePosition 597.416/109.99/1463.84
+Object.rotation 328.963/0/0.0395813
+
+rem *** alliesspawnpoint_southbase_3 ***
+Object.create alliesspawnpoint_southbase_3
+Object.absolutePosition 557.266/110.008/1470.38
+Object.rotation 312.3/0/0.0395813
+
+rem *** alliesspawnpoint_northbase_1 ***
+Object.create alliesspawnpoint_northbase_1
+Object.absolutePosition 1288.91/92.097/1054.55
+Object.rotation 179.713/0/0.0395813
+
+rem *** alliesspawnpoint_northbase_2 ***
+Object.create alliesspawnpoint_northbase_2
+Object.absolutePosition 1408.61/103.256/1070.84
+Object.rotation 198.713/0/0.0395813
+
+rem *** alliesspawnpoint_northbase_3 ***
+Object.create alliesspawnpoint_northbase_3
+Object.absolutePosition 1356.89/96.6926/999.587
+Object.rotation 305.713/0/0.0395813
+
+rem *** alliesspawnpoint_northvillage_1 ***
+Object.create alliesspawnpoint_northvillage_1
+Object.absolutePosition 1595.84/103.915/815.406
+Object.rotation -135.72/0/0.0395813
+
+rem *** alliesspawnpoint_northvillage_2 ***
+Object.create alliesspawnpoint_northvillage_2
+Object.absolutePosition 1564.3/102.849/790.916
+Object.rotation 68.25/0/1.52588E-05
+
+rem *** alliesspawnpoint_northvillage_3 ***
+Object.create alliesspawnpoint_northvillage_3
+Object.absolutePosition 1637.15/103.949/770.267
+Object.rotation -115/0/1.52588E-05
+

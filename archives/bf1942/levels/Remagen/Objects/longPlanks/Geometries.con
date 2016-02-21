@@ -1,0 +1,17 @@
+GeometryTemplate.create StandardMesh longPlanks_m1
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/longPlanks_m1
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 30
+GeometryTemplate.setLodDistance 3 50
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300
+
+GeometryTemplate.create StandardMesh longPlanks_m2
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/longPlanks_m2
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 30
+GeometryTemplate.setLodDistance 3 50
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300

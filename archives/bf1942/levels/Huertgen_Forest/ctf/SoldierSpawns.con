@@ -1,0 +1,200 @@
+rem SoldierSpawns.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Huertgen_Forest/ctf/SoldierSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  Kall_River_Gorge_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Kall_River_Gorge_Spawn1
+Object.absolutePosition 637.549377/57.704685/575.934326
+Object.rotation -184.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Kall_River_Gorge_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Kall_River_Gorge_Spawn2
+Object.absolutePosition 637.577515/57.445847/587.341370
+Object.rotation -126.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Kall_River_Gorge_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Kall_River_Gorge_Spawn3
+Object.absolutePosition 608.214233/41.711487/512.646240
+Object.rotation -213.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Kall_River_Gorge_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Kall_River_Gorge_Spawn4
+Object.absolutePosition 630.917297/41.486721/523.923889
+Object.rotation 48.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Scharnhorst_Line_Spawn1
+Object.absolutePosition 778.220398/86.183502/418.266510
+Object.rotation -192.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Scharnhorst_Line_Spawn2
+Object.absolutePosition 746.498230/78.678902/399.011505
+Object.rotation -222.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Scharnhorst_Line_Spawn3
+Object.absolutePosition 804.030762/86.081276/419.846741
+Object.rotation -526.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Scharnhorst_Line_Spawn4
+Object.absolutePosition 700.971985/81.338402/309.670593
+Object.rotation -217.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Scharnhorst_Line_Spawn5
+Object.absolutePosition 756.019226/83.149498/428.043091
+Object.rotation -192.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn6  ---
+rem ----------------------------------------- 
+Object.create Scharnhorst_Line_Spawn6
+Object.absolutePosition 794.272705/85.938904/425.028015
+Object.rotation -173.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Lammersdorf_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Lammersdorf_Spawn1
+Object.absolutePosition 924.158630/75.794998/161.177704
+Object.rotation -86.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Lammersdorf_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Lammersdorf_Spawn2
+Object.absolutePosition 922.342224/75.792297/176.915695
+Object.rotation -127.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Lammersdorf_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Lammersdorf_Spawn3
+Object.absolutePosition 941.929077/75.799301/170.083801
+Object.rotation -82.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Lammersdorf_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Lammersdorf_Spawn5
+Object.absolutePosition 952.695435/75.825005/187.178864
+Object.rotation -90.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Schill_Line_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Schill_Line_Spawn1
+Object.absolutePosition 446.450073/65.929802/609.731567
+Object.rotation 41.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Schill_Line_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Schill_Line_Spawn2
+Object.absolutePosition 460.813293/66.186852/605.484680
+Object.rotation -250.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Schill_Line_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Schill_Line_Spawn3
+Object.absolutePosition 433.856201/65.977394/576.404968
+Object.rotation 46.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Schill_Line_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Schill_Line_Spawn4
+Object.absolutePosition 451.597107/66.116310/571.761780
+Object.rotation -283.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Schill_Line_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Schill_Line_Spawn5
+Object.absolutePosition 487.712646/65.958267/641.156982
+Object.rotation -208.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Raffelsbrand_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Raffelsbrand_Spawn1
+Object.absolutePosition 530.344971/76.148438/813.323853
+Object.rotation -123.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Raffelsbrand_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Raffelsbrand_Spawn2
+Object.absolutePosition 519.769287/76.082657/777.360229
+Object.rotation -51.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Raffelsbrand_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Raffelsbrand_Spawn3
+Object.absolutePosition 517.904175/76.118973/806.193726
+Object.rotation 27.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Raffelsbrand_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Raffelsbrand_Spawn4
+Object.absolutePosition 482.726013/76.148438/770.089478
+Object.rotation -174.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Richelskaul_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Richelskaul_Spawn1
+Object.absolutePosition 201.324768/85.998070/649.800293
+Object.rotation -199.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Richelskaul_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Richelskaul_Spawn2
+Object.absolutePosition 230.255737/85.979187/631.149780
+Object.rotation 34.500000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Richelskaul_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Richelskaul_Spawn3
+Object.absolutePosition 163.026367/86.013588/640.125549
+Object.rotation 36.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Richelskaul_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Richelskaul_Spawn4
+Object.absolutePosition 178.037964/87.291206/665.378540
+Object.rotation 93.000000/0.000000/0.000000
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn7  ---
+rem ----------------------------------------- 
+Object.create Scharnhorst_Line_Spawn7
+Object.absolutePosition 699.776245/81.382034/312.060547
+Object.rotation 46.000000/0.000000/0.000000
+
+rem EndOfFile

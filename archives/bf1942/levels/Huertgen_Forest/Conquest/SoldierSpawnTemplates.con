@@ -1,0 +1,200 @@
+rem SoldierSpawnTemplates.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Huertgen_Forest/conquest/SoldierSpawnTemplates.con)
+
+rem ----------------------------------------- 
+rem ---  Kall_River_Gorge_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Kall_River_Gorge_Spawn1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Kall_River_Gorge_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Kall_River_Gorge_Spawn2
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Kall_River_Gorge_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Kall_River_Gorge_Spawn3
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Kall_River_Gorge_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Kall_River_Gorge_Spawn4
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Scharnhorst_Line_Spawn1
+ObjectTemplate.setSpawnId 6
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Scharnhorst_Line_Spawn2
+ObjectTemplate.setSpawnId 7
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Scharnhorst_Line_Spawn3
+ObjectTemplate.setSpawnId 8
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Scharnhorst_Line_Spawn4
+ObjectTemplate.setSpawnId 9
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Scharnhorst_Line_Spawn5
+ObjectTemplate.setSpawnId 10
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Scharnhorst_Line_Spawn6
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Lammersdorf_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Lammersdorf_Spawn1
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Lammersdorf_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Lammersdorf_Spawn2
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Lammersdorf_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Lammersdorf_Spawn3
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Lammersdorf_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Lammersdorf_Spawn5
+ObjectTemplate.setSpawnId 16
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Schill_Line_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Schill_Line_Spawn1
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Schill_Line_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Schill_Line_Spawn2
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Schill_Line_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Schill_Line_Spawn3
+ObjectTemplate.setSpawnId 19
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Schill_Line_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Schill_Line_Spawn4
+ObjectTemplate.setSpawnId 20
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Schill_Line_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Schill_Line_Spawn5
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Raffelsbrand_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Raffelsbrand_Spawn1
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Raffelsbrand_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Raffelsbrand_Spawn2
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Raffelsbrand_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Raffelsbrand_Spawn3
+ObjectTemplate.setSpawnId 24
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Raffelsbrand_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Raffelsbrand_Spawn4
+ObjectTemplate.setSpawnId 25
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Richelskaul_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Richelskaul_Spawn1
+ObjectTemplate.setSpawnId 26
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  Richelskaul_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Richelskaul_Spawn2
+ObjectTemplate.setSpawnId 27
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  Richelskaul_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Richelskaul_Spawn3
+ObjectTemplate.setSpawnId 28
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  Richelskaul_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Richelskaul_Spawn4
+ObjectTemplate.setSpawnId 29
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line_Spawn7  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Scharnhorst_Line_Spawn7
+ObjectTemplate.setSpawnId 30
+ObjectTemplate.setGroup 1
+
+rem EndOfFile

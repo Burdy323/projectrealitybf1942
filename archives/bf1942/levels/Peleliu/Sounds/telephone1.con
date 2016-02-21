@@ -1,0 +1,5 @@
+rem *** telephone1 ***
+ObjectTemplate.create SimpleObject telephone1
+ObjectTemplate.saveInSeparateFile 1
+objectTemplate.loadSoundScript telephone1.ssc
+ObjectTemplate.triggerRadius 25

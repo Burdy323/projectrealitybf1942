@@ -1,0 +1,5 @@
+ObjectTemplate.create SimpleObject leander1_m1
+ObjectTemplate.geometry leander1_m1
+ObjectTemplate.addToCollisionGroup c_CGLadders
+ObjectTemplate.addToCollisionGroup c_CGProjectiles
+ObjectTemplate.setHasCollisionPhysics 1

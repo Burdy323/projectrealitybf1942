@@ -1,0 +1,312 @@
+rem *** bastogne_1 ***
+Object.create bastogne_1
+Object.absolutePosition 1018.879/167.1601/1009.586
+Object.rotation -46.25/0/0
+
+rem *** bastogne_2 ***
+Object.create bastogne_2
+Object.absolutePosition 1040.021/167.1445/949.8453
+
+rem *** bastogne_3 ***
+Object.create bastogne_3
+Object.absolutePosition 1002.494/166.6445/969.8702
+
+rem *** bastogne_4 ***
+Object.create bastogne_4
+Object.absolutePosition 964.748/166.6445/917.8145
+
+rem *** bastogne_5 ***
+Object.create bastogne_5
+Object.absolutePosition 1021.507/167.1445/1001.748
+Object.rotation -96.25/0/0
+
+rem *** bastogne_6 ***
+Object.create bastogne_6
+Object.absolutePosition 1059.243/166.6445/930.7702
+Object.rotation 70.5/0/0
+
+rem *** bastogne_7 ***
+Object.create bastogne_7
+Object.absolutePosition 1082.016/170.3789/931.8716
+Object.rotation -73.03125/0/0
+
+rem *** AxisSpawnPoint_1 ***
+Object.create AxisSpawnPoint_1
+Object.absolutePosition 408/81.32031/1624
+Object.rotation 86.25/0/0
+
+rem *** AxisSpawnPoint_2 ***
+Object.create AxisSpawnPoint_2
+Object.absolutePosition 412/81.32031/1604
+Object.rotation 86.25/0/0
+
+rem *** AxisSpawnPoint_3 ***
+Object.create AxisSpawnPoint_3
+Object.absolutePosition 420/81.32031/1632
+Object.rotation 86.25/0/0
+
+rem *** AxisSpawnPoint_4 ***
+Object.create AxisSpawnPoint_4
+Object.absolutePosition 412/81.32031/1580
+Object.rotation 86.25/0/0
+
+rem *** AxisSpawnPoint_5 ***
+Object.create AxisSpawnPoint_5
+Object.absolutePosition 447.9491/82.96094/1614.367
+Object.rotation 88/0/0
+
+rem *** AxisSpawnPoint_6 ***
+Object.create AxisSpawnPoint_6
+Object.absolutePosition 470.3761/81.32031/1573.272
+Object.rotation 88/0/0
+
+rem *** AxisSpawnPoint_7 ***
+Object.create AxisSpawnPoint_7
+Object.absolutePosition 437.3918/82.85156/1583.68
+Object.rotation 88/0/0
+
+rem *** ParashutSpawnPoint_1 ***
+Object.create ParashutSpawnPoint_1
+Object.absolutePosition 1283.687/273.1445/776.5827
+Object.rotation 123/0/0
+
+rem *** ParashutSpawnPoint_2 ***
+Object.create ParashutSpawnPoint_2
+Object.absolutePosition 1255.293/200/1042.438
+
+rem *** ParashutSpawnPoint_3 ***
+Object.create ParashutSpawnPoint_3
+Object.absolutePosition 1127.048/210/679.0088
+Object.rotation 157.5/0/0
+
+rem *** ParashutSpawnPoint_4 ***
+Object.create ParashutSpawnPoint_4
+Object.absolutePosition 1489.291/272.2031/884.2299
+Object.rotation 212.5/0/0
+
+rem *** ParashutSpawnPoint_5 ***
+Object.create ParashutSpawnPoint_5
+Object.absolutePosition 745.4822/205/858.4862
+
+rem *** ParashutSpawnPoint_6 ***
+Object.create ParashutSpawnPoint_6
+Object.absolutePosition 1481.291/230/896.2285
+Object.rotation 212.5/0/0
+
+rem *** ParashutSpawnPoint_7 ***
+Object.create ParashutSpawnPoint_7
+Object.absolutePosition 1115.949/200/674.5378
+Object.rotation 157.5/0/0
+
+rem *** ParashutSpawnPoint_8 ***
+Object.create ParashutSpawnPoint_8
+Object.absolutePosition 709.976/260.6211/884.6806
+Object.rotation 130/0/0
+
+rem *** ParashutSpawnPoint_9 ***
+Object.create ParashutSpawnPoint_9
+Object.absolutePosition 1465.291/250/904.228
+Object.rotation 202/0/0
+
+rem *** volkSpawnPoint_1 ***
+Object.create volkSpawnPoint_1
+Object.absolutePosition 1388/168.1875/296
+Object.rotation -173.75/0/0
+
+rem *** volkSpawnPoint_2 ***
+Object.create volkSpawnPoint_2
+Object.absolutePosition 1368/168.1875/240
+
+rem *** volkSpawnPoint_3 ***
+Object.create volkSpawnPoint_3
+Object.absolutePosition 1419.34/168.1875/264.1859
+Object.rotation -85.75/0/0
+
+rem *** volkSpawnPoint_4 ***
+Object.create volkSpawnPoint_4
+Object.absolutePosition 1417.481/169.4844/269.9836
+Object.rotation -79.5/0/0
+
+rem *** volkSpawnPoint_5 ***
+Object.create volkSpawnPoint_5
+Object.absolutePosition 1435.193/168.1875/273.3029
+Object.rotation -93.25/0/0
+
+rem *** volkSpawnPoint_6 ***
+Object.create volkSpawnPoint_6
+Object.absolutePosition 1392.774/168.4219/307.2885
+
+rem *** volkSpawnPoint_7 ***
+Object.create volkSpawnPoint_7
+Object.absolutePosition 1385.923/169.3281/233.3707
+
+rem *** villeroux_1 ***
+Object.create villeroux_1
+Object.absolutePosition 551.5295/176.6602/679.1822
+Object.rotation 111.5/0/0
+
+rem *** villeroux_2 ***
+Object.create villeroux_2
+Object.absolutePosition 554.3729/172.2891/690.9084
+Object.rotation -62.25/0/0
+
+rem *** villeroux_3 ***
+Object.create villeroux_3
+Object.absolutePosition 380/152.1641/700
+Object.rotation 185.75/0/0
+
+rem *** villeroux_4 ***
+Object.create villeroux_4
+Object.absolutePosition 328/153.7539/684
+Object.rotation -183/0/0
+
+rem *** villeroux_5 ***
+Object.create villeroux_5
+Object.absolutePosition 334.3905/153.7539/681.89
+Object.rotation -93.75/0/0
+
+rem *** villeroux_6 ***
+Object.create villeroux_6
+Object.absolutePosition 404.2253/156.6453/656.4055
+
+rem *** villeroux_7 ***
+Object.create villeroux_7
+Object.absolutePosition 623.7636/170.6602/569.4157
+
+rem *** fallschirm_1 ***
+Object.create fallschirm_1
+Object.absolutePosition 1661.842/300/448.8523
+
+rem *** fallschirm_2 ***
+Object.create fallschirm_2
+Object.absolutePosition 1692/290/392
+
+rem *** fallschirm_3 ***
+Object.create fallschirm_3
+Object.absolutePosition 1572/240/576
+Object.rotation -106.75/0/0
+
+rem *** fallschirm_4 ***
+Object.create fallschirm_4
+Object.absolutePosition 1536/232.3086/572
+
+rem *** fallschirm_5 ***
+Object.create fallschirm_5
+Object.absolutePosition 1580/207/596
+Object.rotation -106.75/0/0
+
+rem *** fallschirm_6 ***
+Object.create fallschirm_6
+Object.absolutePosition 1452/229.5117/436
+
+rem *** fallschirm_7 ***
+Object.create fallschirm_7
+Object.absolutePosition 1460/225/416
+
+rem *** fallschirm_8 ***
+Object.create fallschirm_8
+Object.absolutePosition 1432/250/412
+
+rem *** fallschirm_9 ***
+Object.create fallschirm_9
+Object.absolutePosition 1580/227.6563/572
+Object.rotation -106.75/0/0
+
+rem *** fallschirm_10 ***
+Object.create fallschirm_10
+Object.absolutePosition 1568/250/496
+
+rem *** mageret_1 ***
+Object.create mageret_1
+Object.absolutePosition 1728/150.3477/1060
+
+rem *** mageret_2 ***
+Object.create mageret_2
+Object.absolutePosition 1776/153.6523/1068
+Object.rotation -170/0/0
+
+rem *** mageret_3 ***
+Object.create mageret_3
+Object.absolutePosition 1720/151.0508/1020
+Object.rotation -86.25/0/0
+
+rem *** mageret_4 ***
+Object.create mageret_4
+Object.absolutePosition 1736/150.3477/1056
+
+rem *** mageret_6 ***
+Object.create mageret_6
+Object.absolutePosition 1736/151/1028
+
+rem *** mageret_7 ***
+Object.create mageret_7
+Object.absolutePosition 1714.463/151.0508/1008.026
+
+rem *** mont_1 ***
+Object.create mont_1
+Object.absolutePosition 1293.561/166.643/581.0054
+
+rem *** mont_2 ***
+Object.create mont_2
+Object.absolutePosition 1300.433/165.9141/590.4982
+Object.rotation 23.25/0/0
+
+rem *** mont_3 ***
+Object.create mont_3
+Object.absolutePosition 1356/168.9609/660
+Object.rotation 176.25/0/0
+
+rem *** mont_3 ***
+Object.create mont_3
+Object.absolutePosition 1356.715/168.6563/651.8481
+Object.rotation 152.5/0/0
+
+rem *** mont_5 ***
+Object.create mont_5
+Object.absolutePosition 1448.567/165.7969/718.4213
+Object.rotation 132.5/0/0
+
+rem *** mont_6 ***
+Object.create mont_6
+Object.absolutePosition 1409.082/170.5359/741.6328
+Object.rotation 146.25/0/0
+
+rem *** mont_7 ***
+Object.create mont_7
+Object.absolutePosition 1370.631/168.9727/706.2355
+Object.rotation 145.5/0/0
+
+rem *** champs_1 ***
+Object.create champs_1
+Object.absolutePosition 722.1094/126.8789/1220.446
+Object.rotation 93.75/0/0
+
+rem *** champs_2 ***
+Object.create champs_2
+Object.absolutePosition 696/126.8828/1200
+Object.rotation 78/0/0
+
+rem *** champs_3 ***
+Object.create champs_3
+Object.absolutePosition 714.4758/126.8789/1212.165
+Object.rotation -88.75/0/0
+
+rem *** champs_4 ***
+Object.create champs_4
+Object.absolutePosition 716.1477/132.5039/1218.354
+
+rem *** champs_5 ***
+Object.create champs_5
+Object.absolutePosition 756/145.1641/1200
+Object.rotation -25/0/0
+
+rem *** champs_6 ***
+Object.create champs_6
+Object.absolutePosition 792.0337/148.1758/1223.82
+Object.rotation -90/0/0
+
+rem *** champs_7 ***
+Object.create champs_7
+Object.absolutePosition 800/153.9844/1180
+Object.rotation -56.25/0/0
+

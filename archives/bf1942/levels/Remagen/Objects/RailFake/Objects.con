@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject RailFake
+ObjectTemplate.geometry RailFake
+ObjectTemplate.setHasCollisionPhysics 0
+

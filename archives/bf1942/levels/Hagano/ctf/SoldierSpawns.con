@@ -1,0 +1,95 @@
+rem SoldierSpawns.con created by Battlecraft 1942
+rem (E:\Battlefield 1942\Mods\bf1942\bf1942\levels\Hagano/ctf/SoldierSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  Airfield_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Airfield_Spawn1
+Object.absolutePosition 1330.13/52.24/1243.56
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Mountain_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Mountain_Spawn1
+Object.absolutePosition 1340.95/51.29/936.53
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Klippe_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Klippe_Spawn1
+Object.absolutePosition 1029.78/60.80/595.28
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Klippe_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Klippe_Spawn2
+Object.absolutePosition 989.53/60.80/646.32
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Klippe_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Klippe_Spawn3
+Object.absolutePosition 1043.33/60.78/638.26
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Bruecke_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Bruecke_Spawn2
+Object.absolutePosition 940.01/51.29/970.60
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Bruecke_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Bruecke_Spawn3
+Object.absolutePosition 893.33/52.37/968.92
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Strand_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Strand_Spawn2
+Object.absolutePosition 854.44/51.29/1462.53
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Strand_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Strand_Spawn3
+Object.absolutePosition 843.62/51.29/1387.89
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Airfield_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Airfield_Spawn2
+Object.absolutePosition 1391.80/51.32/1286.40
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Airfield_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Airfield_Spawn3
+Object.absolutePosition 1344.03/51.24/1336.74
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Mountain_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Mountain_Spawn2
+Object.absolutePosition 1397.62/51.26/937.36
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Mountain_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Mountain_Spawn3
+Object.absolutePosition 1361.47/51.29/901.81
+Object.rotation 0.00/0.00/0.00
+
+rem EndOfFile

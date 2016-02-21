@@ -1,0 +1,10 @@
+rem *********************************************
+rem Created by Battlecraft 1942.  Copyright (c)2003,2004 Digital Illusions CE
+rem *********************************************
+Game.setLocalized 1
+
+game.setLoadPicture Load/Eastern.tga
+
+game.setMultiplayerBriefingObjectives "After disaster at Bexhill and Dover,the remains of British 30th army retreated to inland and started to build defensive line towards London and German forces continued their campaingn at British isle with main goal to clear path to London."
+
+game.setMapId "DRK42"

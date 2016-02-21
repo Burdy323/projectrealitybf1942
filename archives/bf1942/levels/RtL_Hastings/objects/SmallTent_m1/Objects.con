@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject SmallTent_m1
+ObjectTemplate.geometry SmallTent_m1
+ObjectTemplate.setHasCollisionPhysics 1

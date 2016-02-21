@@ -1,0 +1,438 @@
+rem SoldierSpawnTemplates.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Battle_of_Hurtgen_Forest/conquest/SoldierSpawnTemplates.con)
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint right_control_point_Spawn1
+ObjectTemplate.setSpawnId 43
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint right_control_point_Spawn2
+ObjectTemplate.setSpawnId 44
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint right_control_point_Spawn3
+ObjectTemplate.setSpawnId 45
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint right_control_point_Spawn4
+ObjectTemplate.setSpawnId 46
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint right_control_point_Spawn5
+ObjectTemplate.setSpawnId 47
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint right_control_point_Spawn6
+ObjectTemplate.setSpawnId 48
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn8  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint right_control_point_Spawn8
+ObjectTemplate.setSpawnId 50
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint left_top_hill_point_Spawn1
+ObjectTemplate.setSpawnId 51
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint left_top_hill_point_Spawn2
+ObjectTemplate.setSpawnId 52
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint left_top_hill_point_Spawn3
+ObjectTemplate.setSpawnId 53
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint left_top_hill_point_Spawn4
+ObjectTemplate.setSpawnId 54
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint left_top_hill_point_Spawn5
+ObjectTemplate.setSpawnId 55
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint left_top_hill_point_Spawn6
+ObjectTemplate.setSpawnId 56
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  bottom_point_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint bottom_point_Spawn1
+ObjectTemplate.setSpawnId 58
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  bottom_point_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint bottom_point_Spawn2
+ObjectTemplate.setSpawnId 59
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  bottom_point_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint bottom_point_Spawn3
+ObjectTemplate.setSpawnId 60
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  bottom_point_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint bottom_point_Spawn4
+ObjectTemplate.setSpawnId 61
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  bottom_point_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint bottom_point_Spawn5
+ObjectTemplate.setSpawnId 62
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  AlliesBase_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AlliesBase_Spawn1
+ObjectTemplate.setSpawnId 63
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  AlliesBase_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AlliesBase_Spawn2
+ObjectTemplate.setSpawnId 64
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  AlliesBase_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AlliesBase_Spawn3
+ObjectTemplate.setSpawnId 65
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  AlliesBase_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AlliesBase_Spawn4
+ObjectTemplate.setSpawnId 66
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  AlliesBase_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AlliesBase_Spawn5
+ObjectTemplate.setSpawnId 67
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn2
+ObjectTemplate.setSpawnId 68
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn3
+ObjectTemplate.setSpawnId 69
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn4
+ObjectTemplate.setSpawnId 70
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn5
+ObjectTemplate.setSpawnId 71
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn6
+ObjectTemplate.setSpawnId 72
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn7  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn7
+ObjectTemplate.setSpawnId 73
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn8  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn8
+ObjectTemplate.setSpawnId 74
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn9  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn9
+ObjectTemplate.setSpawnId 75
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn10  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn10
+ObjectTemplate.setSpawnId 76
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn11  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn11
+ObjectTemplate.setSpawnId 77
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn12  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn12
+ObjectTemplate.setSpawnId 78
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn13  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn13
+ObjectTemplate.setSpawnId 79
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn14  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn14
+ObjectTemplate.setSpawnId 80
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn15  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn15
+ObjectTemplate.setSpawnId 81
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn16  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn16
+ObjectTemplate.setSpawnId 82
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn17  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBAse_Spawn17
+ObjectTemplate.setSpawnId 83
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Eastern_Forest_Encampment_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Eastern_Forest_Encampment_Spawn1
+ObjectTemplate.setSpawnId 84
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Eastern_Forest_Encampment_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Eastern_Forest_Encampment_Spawn2
+ObjectTemplate.setSpawnId 85
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Eastern_Forest_Encampment_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Eastern_Forest_Encampment_Spawn3
+ObjectTemplate.setSpawnId 86
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Western_Hill_Top_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Western_Hill_Top_Spawn1
+ObjectTemplate.setSpawnId 87
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Western_Hill_Top_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Western_Hill_Top_Spawn2
+ObjectTemplate.setSpawnId 88
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Western_Hill_Top_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Western_Hill_Top_Spawn3
+ObjectTemplate.setSpawnId 89
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Western_Hill_Top_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Western_Hill_Top_Spawn4
+ObjectTemplate.setSpawnId 90
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Allied_Farm_Spawn1
+ObjectTemplate.setSpawnId 91
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Allied_Farm_Spawn2
+ObjectTemplate.setSpawnId 92
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Allied_Farm_Spawn3
+ObjectTemplate.setSpawnId 93
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Allied_Farm_Spawn4
+ObjectTemplate.setSpawnId 94
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Allied_Farm_Spawn5
+ObjectTemplate.setSpawnId 95
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Allied_Farm_Spawn6
+ObjectTemplate.setSpawnId 96
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn7  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Allied_Farm_Spawn7
+ObjectTemplate.setSpawnId 97
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn8  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Allied_Farm_Spawn8
+ObjectTemplate.setSpawnId 98
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn9  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Allied_Farm_Spawn9
+ObjectTemplate.setSpawnId 99
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn10  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Allied_Farm_Spawn10
+ObjectTemplate.setSpawnId 100
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn11  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Allied_Farm_Spawn11
+ObjectTemplate.setSpawnId 101
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Bloody_Bucket_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Bloody_Bucket_Spawn1
+ObjectTemplate.setSpawnId 102
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Bloody_Bucket_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Bloody_Bucket_Spawn2
+ObjectTemplate.setSpawnId 103
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Bloody_Bucket_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Bloody_Bucket_Spawn3
+ObjectTemplate.setSpawnId 104
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Bloody_Bucket_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Bloody_Bucket_Spawn4
+ObjectTemplate.setSpawnId 105
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Bloody_Bucket_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Bloody_Bucket_Spawn5
+ObjectTemplate.setSpawnId 106
+ObjectTemplate.setGroup 5
+
+rem EndOfFile

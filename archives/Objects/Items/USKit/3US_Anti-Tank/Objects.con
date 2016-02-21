@@ -1,0 +1,26 @@
+ObjectTemplate.create Kit 3US_Anti-Tank
+ObjectTemplate.setType AT
+ObjectTemplate.setKitTeam 2
+ObjectTemplate.geometry Kit_Allies_AntiTank
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Us_Helmet
+ObjectTemplate.addTemplate Us_Assault_BackPack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_scout_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_scout_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_alliesKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_m1_garand.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_bazooka.tga"
+
+ObjectTemplate.setKitIcon 3 "kits/Icon_antitank_allies_selected.tga"
+ObjectTemplate.setKitName 3 "ANTI-TANK"
+ObjectTemplate.setKitActiveName 3 "ACTIVE ANTI-TANK"
+
+ObjectTemplate.addTemplate Bazooka
+ObjectTemplate.addTemplate M1Garand
+
+ObjectTemplate.addTemplate KnifeAllies
+ObjectTemplate.aitemplate AT

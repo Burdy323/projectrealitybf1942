@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject Mtankobs1
+ObjectTemplate.geometry Mtankobs1
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.aiTemplate Mtankobs1

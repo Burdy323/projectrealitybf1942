@@ -1,0 +1,490 @@
+rem ObjectSpawns.con created by Battlecraft 1942
+rem (E:\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Rabaul/conquest/ObjectSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  Landing_Craft  ---
+rem ----------------------------------------- 
+Object.create Landing_Craft
+Object.absolutePosition 1171.76/61.90/958.78
+Object.rotation -224.88/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Landing_Craft  ---
+rem ----------------------------------------- 
+Object.create Landing_Craft
+Object.absolutePosition 1166.38/61.99/953.61
+Object.rotation -223.54/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jap_Island_Shore_Gun  ---
+rem ----------------------------------------- 
+Object.create Jap_Island_Shore_Gun
+Object.absolutePosition 1131.75/62.64/933.54
+Object.rotation -170.32/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jap_Island_AA  ---
+rem ----------------------------------------- 
+Object.create Jap_Island_AA
+Object.absolutePosition 1043.37/65.84/1007.61
+Object.rotation -135.53/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  US_Island_  ---
+rem ----------------------------------------- 
+Object.create US_Island_
+Object.absolutePosition 349.50/62.66/1047.47
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Island_Boat  ---
+rem ----------------------------------------- 
+Object.create US_Island_Boat
+Object.absolutePosition 379.84/61.98/970.08
+Object.rotation -317.70/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Island_AA  ---
+rem ----------------------------------------- 
+Object.create US_Island_AA
+Object.absolutePosition 351.18/63.49/890.46
+Object.rotation -173.47/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Harbor  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Harbor
+Object.absolutePosition 1681.06/72.86/1473.92
+Object.rotation -193.79/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Harbor  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Harbor
+Object.absolutePosition 1545.39/69.24/1396.97
+Object.rotation -171.04/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_AA  ---
+rem ----------------------------------------- 
+Object.create Rabaul_AA
+Object.absolutePosition 1645.58/66.50/1542.74
+Object.rotation 69.01/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_AA  ---
+rem ----------------------------------------- 
+Object.create Rabaul_AA
+Object.absolutePosition 1636.89/69.27/1451.16
+Object.rotation 159.68/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Aircraft  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Aircraft
+Object.absolutePosition 1578.94/64.04/1541.29
+Object.rotation 222.95/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Jeep  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Jeep
+Object.absolutePosition 1575.51/63.41/1600.96
+Object.rotation -182.28/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_T_Bomber  ---
+rem ----------------------------------------- 
+Object.create Rabaul_T_Bomber
+Object.absolutePosition 1590.98/63.61/1529.67
+Object.rotation -130.85/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jap_Destroyer  ---
+rem ----------------------------------------- 
+Object.create Jap_Destroyer
+Object.absolutePosition 1799.18/61.91/1621.16
+Object.rotation 176.56/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jap_Sub  ---
+rem ----------------------------------------- 
+Object.create Jap_Sub
+Object.absolutePosition 1668.95/61.92/1681.76
+Object.rotation 82.65/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Craft  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Craft
+Object.absolutePosition 1643.91/61.99/1651.30
+Object.rotation 180.30/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Harbor  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Harbor
+Object.absolutePosition 1055.67/62.80/1369.02
+Object.rotation -130.96/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_AA  ---
+rem ----------------------------------------- 
+Object.create Rabaul_AA
+Object.absolutePosition 1090.91/66.40/1349.51
+Object.rotation -171.50/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Armor  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Armor
+Object.absolutePosition 1140.11/63.48/1442.31
+Object.rotation -88.66/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_APC  ---
+rem ----------------------------------------- 
+Object.create Rabaul_APC
+Object.absolutePosition 1139.94/63.48/1452.22
+Object.rotation -87.80/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Jeep  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Jeep
+Object.absolutePosition 1107.65/63.47/1412.97
+Object.rotation -91.80/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_AA  ---
+rem ----------------------------------------- 
+Object.create Rabaul_AA
+Object.absolutePosition 1056.56/63.48/1479.92
+Object.rotation -69.01/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_AA  ---
+rem ----------------------------------------- 
+Object.create Rabaul_AA
+Object.absolutePosition 1055.82/63.36/1422.85
+Object.rotation -115.10/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Harbor  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Harbor
+Object.absolutePosition 1875.74/73.21/1592.78
+Object.rotation -169.72/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jap_Island_Shore_Gun  ---
+rem ----------------------------------------- 
+Object.create Jap_Island_Shore_Gun
+Object.absolutePosition 1057.55/62.91/1529.56
+Object.rotation -97.63/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_APC  ---
+rem ----------------------------------------- 
+Object.create Rabaul_APC
+Object.absolutePosition 1641.21/63.47/1489.12
+Object.rotation -118.71/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jap_Destroyer  ---
+rem ----------------------------------------- 
+Object.create Jap_Destroyer
+Object.absolutePosition 1758.27/61.95/1635.20
+Object.rotation -177.13/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Jeep  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Jeep
+Object.absolutePosition 1596.00/63.48/1639.15
+Object.rotation -88.87/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Stationary_MG  ---
+rem ----------------------------------------- 
+Object.create Stationary_MG
+Object.absolutePosition 1182.38/66.72/1473.16
+Object.rotation -123.87/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Stationary_MG  ---
+rem ----------------------------------------- 
+Object.create Stationary_MG
+Object.absolutePosition 1647.06/64.90/1543.50
+Object.rotation 68.71/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Stationary_MG  ---
+rem ----------------------------------------- 
+Object.create Stationary_MG
+Object.absolutePosition 1090.88/64.79/1348.15
+Object.rotation -168.31/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Stationary_MG  ---
+rem ----------------------------------------- 
+Object.create Stationary_MG
+Object.absolutePosition 1042.02/64.21/1005.96
+Object.rotation -135.01/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  US_Island_AA  ---
+rem ----------------------------------------- 
+Object.create US_Island_AA
+Object.absolutePosition 912.97/74.89/316.94
+Object.rotation 88.07/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Stationary_MG  ---
+rem ----------------------------------------- 
+Object.create Stationary_MG
+Object.absolutePosition 914.79/73.38/316.83
+Object.rotation 91.00/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Rabaul_APC  ---
+rem ----------------------------------------- 
+Object.create Rabaul_APC
+Object.absolutePosition 887.76/63.48/325.95
+Object.rotation -90.46/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Jeep  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Jeep
+Object.absolutePosition 887.97/63.48/314.64
+Object.rotation -89.80/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Jap_Island_Shore_Gun  ---
+rem ----------------------------------------- 
+Object.create Jap_Island_Shore_Gun
+Object.absolutePosition 1010.62/62.30/311.61
+Object.rotation 7.34/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Island_Boat  ---
+rem ----------------------------------------- 
+Object.create US_Island_Boat
+Object.absolutePosition 941.80/62.10/307.94
+Object.rotation 19.39/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Island_AA  ---
+rem ----------------------------------------- 
+Object.create US_Island_AA
+Object.absolutePosition 969.06/63.25/281.37
+Object.rotation -3.89/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Dive_Bomber  ---
+rem ----------------------------------------- 
+Object.create US_Dive_Bomber
+Object.absolutePosition 892.50/63.48/214.49
+Object.rotation 69.62/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_T_Bomber  ---
+rem ----------------------------------------- 
+Object.create US_T_Bomber
+Object.absolutePosition 896.66/63.49/257.86
+Object.rotation 113.38/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Island_AA  ---
+rem ----------------------------------------- 
+Object.create US_Island_AA
+Object.absolutePosition 880.16/63.49/371.99
+Object.rotation 63.92/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Island_  ---
+rem ----------------------------------------- 
+Object.create US_Island_
+Object.absolutePosition 307.11/63.21/669.31
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Sub  ---
+rem ----------------------------------------- 
+Object.create US_Sub
+Object.absolutePosition 353.23/61.86/744.46
+Object.rotation 91.91/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Naval_Patrol  ---
+rem ----------------------------------------- 
+Object.create US_Naval_Patrol
+Object.absolutePosition 279.12/61.84/783.36
+Object.rotation 89.16/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Naval_Patrol  ---
+rem ----------------------------------------- 
+Object.create US_Naval_Patrol
+Object.absolutePosition 328.13/61.89/804.87
+Object.rotation 88.58/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Island_AA  ---
+rem ----------------------------------------- 
+Object.create US_Island_AA
+Object.absolutePosition 393.78/63.46/641.67
+Object.rotation 37.21/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Island_Armor  ---
+rem ----------------------------------------- 
+Object.create US_Island_Armor
+Object.absolutePosition 353.59/63.34/636.55
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Island_APC  ---
+rem ----------------------------------------- 
+Object.create US_Island_APC
+Object.absolutePosition 290.45/63.47/604.88
+Object.rotation 76.75/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  US_Island_  ---
+rem ----------------------------------------- 
+Object.create US_Island_
+Object.absolutePosition 533.66/62.49/618.81
+Object.rotation 44.18/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Jeep  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Jeep
+Object.absolutePosition 364.55/63.18/620.66
+Object.rotation -98.32/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Rabaul_Fighter  ---
+rem ----------------------------------------- 
+Object.create Rabaul_Fighter
+Object.absolutePosition 1565.44/63.60/1552.45
+Object.rotation -140.21/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  US_Figther  ---
+rem ----------------------------------------- 
+Object.create US_Figther
+Object.absolutePosition 895.18/63.50/236.60
+Object.rotation 87.27/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem EndOfFile

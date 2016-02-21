@@ -1,0 +1,22 @@
+#templateLevel HIGH
+
+newPatch
+
+####################
+### music1 ###
+####################
+load @ROOT/bf1942/levels/Peleliu/Sound/radio1.wav
+loop
+minDistance 4
+dopplerOff
+volume .5
+*** Distance Volume ***
+beginEffect
+	controlDestination Volume
+	controlSource Distance
+	envelope Ramp
+	param 1
+	param 550
+	param 1
+	param -1	
+endEffect

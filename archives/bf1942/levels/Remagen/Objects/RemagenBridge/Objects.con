@@ -1,0 +1,232 @@
+Rem =====================================================
+Rem === Remagen_IronBridge2 ===
+ObjectTemplate.create bundle remagen_ironbridge_comp2
+ObjectTemplate.geometry Remagen_IronBridge_Middle_M1
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_End_M1
+ObjectTemplate.setPosition 0/0/-110
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.addTemplate Remagen_IronBridge_End_M1
+ObjectTemplate.setPosition 0/0/110
+ObjectTemplate.setRotation 180/0/0
+rem --- Base ---
+ObjectTemplate.addTemplate Remagen_IronBridge_Base_M1
+ObjectTemplate.setPosition 0/-39/69.4
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_Base_M1
+ObjectTemplate.setPosition 0/-39/-69.4
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+rem --- SidePath ---
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition 7.5/0/-140
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition 7.5/0/-100
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition 7.5/0/-60
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition 7.5/0/-20
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition 7.5/0/20
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition 7.5/0/60
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition 7.5/0/100
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition 7.5/0/140
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition -7.5/0/-140
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition -7.5/0/-100
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition -7.5/0/-60
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition -7.5/0/-20
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition -7.5/0/20
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition -7.5/0/60
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition -7.5/0/100
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setPosition -7.5/0/140
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+Rem =====================================================
+Rem === Remagen_Towers ===
+ObjectTemplate.create bundle remagen_towers_comp_M1
+ObjectTemplate.setHasCollisionPhysics 1
+objectTemplate.aiTemplate remagen_towers_comp_M1
+ObjectTemplate.addTemplate lodRemagenTowers
+
+LodSelectorTemplate.create DistanceSelector RemagenTowers_Selector
+LodSelectorTemplate.addLodDistance 90
+ObjectTemplate.create LodObject lodRemagenTowers
+ObjectTemplate.lodselector RemagenTowers_Selector
+ObjectTemplate.addTemplate RemagenTowers_Interior
+ObjectTemplate.addTemplate RemagenTowers_Exterior
+
+rem ==============EXTERIOR=======================
+
+ObjectTemplate.create simpleObject RemagenTowers_Exterior
+ObjectTemplate.geometry Remagen_Towers_Exterior
+ObjectTemplate.setHasCollisionPhysics 1
+
+
+rem ==============INTERIOR=======================
+
+ObjectTemplate.create bundle RemagenTowers_Interior
+ObjectTemplate.geometry Remagen_Towers_Exterior
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_Towers_Interior
+ObjectTemplate.setPosition 0/0/0
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 0
+ObjectTemplate.addTemplate Remagen_Towers_Stairhouse
+ObjectTemplate.setPosition 0/0/0
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 0
+ObjectTemplate.addTemplate Remagen_Towers_Windows_left_top
+ObjectTemplate.setPosition 0/0/0
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 0
+ObjectTemplate.addTemplate Remagen_Towers_Windows_right_top
+ObjectTemplate.setPosition 0/0/0
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 0
+ObjectTemplate.addTemplate Remagen_Towers_Windows_left_bottom
+ObjectTemplate.setPosition 0/0/0
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 0
+ObjectTemplate.addTemplate Remagen_Towers_Windows_right_bottom
+ObjectTemplate.setPosition 0/0/0
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 0
+
+rem --- Stairs ---
+ObjectTemplate.addTemplate Remagen_Stairs_M1
+ObjectTemplate.setPosition 0.00/3.9/-11.5
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_Stairs_M1
+ObjectTemplate.setPosition 0.00/11.4/-11.5
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_Stairs_M1
+ObjectTemplate.setPosition 0.00/14.9/-11.5
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_Stairs_M1
+ObjectTemplate.setPosition 0.00/3.9/11.45
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_Stairs_M1
+ObjectTemplate.setPosition 0.00/11.4/11.45
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_Stairs_M1
+ObjectTemplate.setPosition 0.05/14.9/11.45
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+rem --- StairsHigh ---
+ObjectTemplate.addTemplate Remagen_StairsHigh_M1
+ObjectTemplate.setPosition 0.00/7.4/-11.5
+ObjectTemplate.setRotation 180/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.addTemplate Remagen_StairsHigh_M1
+ObjectTemplate.setPosition 0.00/7.4/11.45
+ObjectTemplate.setRotation 0/0/0
+ObjectTemplate.setHasCollisionPhysics 1
+Rem =====================================================
+
+ObjectTemplate.create SimpleObject Remagen_IronBridge_Middle_M1
+ObjectTemplate.geometry Remagen_IronBridge_Middle_M1
+ObjectTemplate.setHasCollisionPhysics 1
+
+ObjectTemplate.create SimpleObject Remagen_IronBridge_End_M1
+ObjectTemplate.geometry Remagen_IronBridge_End_M1
+ObjectTemplate.setHasCollisionPhysics 1
+
+ObjectTemplate.create SimpleObject Remagen_IronBridge_Base_M1
+ObjectTemplate.geometry Remagen_IronBridge_Base_M1
+ObjectTemplate.setHasCollisionPhysics 1
+
+ObjectTemplate.create SimpleObject Remagen_IronBridge_Rails_M1
+ObjectTemplate.geometry Remagen_IronBridge_Rails_M1
+ObjectTemplate.setHasCollisionPhysics 1
+
+ObjectTemplate.create SimpleObject Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.geometry Remagen_IronBridge_SidePathS_M1
+ObjectTemplate.setHasCollisionPhysics 1
+
+ObjectTemplate.create SimpleObject Remagen_StoneBridge_M1
+ObjectTemplate.geometry Remagen_StoneBridge_M1
+ObjectTemplate.setHasCollisionPhysics 1
+
+ObjectTemplate.create SimpleObject Remagen_Stairs_M1
+ObjectTemplate.geometry Remagen_Stairs_M1
+ObjectTemplate.setHasCollisionPhysics 1
+
+ObjectTemplate.create SimpleObject Remagen_StairsHigh_M1
+ObjectTemplate.geometry Remagen_StairsHigh_M1
+ObjectTemplate.setHasCollisionPhysics 1
+
+ObjectTemplate.create SimpleObject Remagen_Towers_Stairhouse
+ObjectTemplate.geometry Remagen_Towers_Stairhouse
+ObjectTemplate.setHasCollisionPhysics 0
+
+ObjectTemplate.create SimpleObject Remagen_Towers_Windows_right_bottom
+ObjectTemplate.geometry Remagen_Towers_Windows_right_bottom
+ObjectTemplate.setHasCollisionPhysics 0
+
+ObjectTemplate.create SimpleObject Remagen_Towers_Windows_right_top
+ObjectTemplate.geometry Remagen_Towers_Windows_right_top
+ObjectTemplate.setHasCollisionPhysics 0
+
+ObjectTemplate.create SimpleObject Remagen_Towers_Windows_left_bottom
+ObjectTemplate.geometry Remagen_Towers_Windows_left_bottom
+ObjectTemplate.setHasCollisionPhysics 0
+
+ObjectTemplate.create SimpleObject Remagen_Towers_Windows_left_top
+ObjectTemplate.geometry Remagen_Towers_Windows_left_top
+ObjectTemplate.setHasCollisionPhysics 0
+
+rem ObjectTemplate.create SimpleObject Remagen_Towers_Exterior
+rem ObjectTemplate.geometry Remagen_Towers_Exterior
+rem ObjectTemplate.setHasCollisionPhysics 1
+
+ObjectTemplate.create SimpleObject Remagen_Towers_Interior
+ObjectTemplate.geometry Remagen_Towers_Interior
+ObjectTemplate.setHasCollisionPhysics 0
+

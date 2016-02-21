@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject woodbar
+ObjectTemplate.geometry woodbar
+ObjectTemplate.setHasCollisionPhysics 1
+

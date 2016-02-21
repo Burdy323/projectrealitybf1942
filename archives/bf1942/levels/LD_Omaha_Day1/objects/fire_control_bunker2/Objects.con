@@ -1,0 +1,68 @@
+ObjectTemplate.create Bundle fire_control_bunker2
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.aiTemplate fire_control_bunker2
+ObjectTemplate.addTemplate lodfcb2
+
+LodSelectorTemplate.create DistanceSelector fcb2Selector
+LodSelectorTemplate.addLodDistance 70
+ObjectTemplate.create LodObject lodfcb2
+ObjectTemplate.lodselector fcb2Selector
+ObjectTemplate.addTemplate fcb2Interior
+ObjectTemplate.addTemplate fcb2Exterior
+
+ObjectTemplate.create Bundle fcb2Interior
+ObjectTemplate.geometry fire_control_bunker2a
+rem ----------------------------
+
+objectTemplate.addTemplate fcb_door
+objectTemplate.setPosition 0/0/0
+objectTemplate.setRotation 0/0/0
+
+
+objectTemplate.addTemplate civiltable_m1
+objectTemplate.setPosition 9.1544/0.2771/-1.6139
+objectTemplate.setRotation 0/0/0
+
+
+objectTemplate.addTemplate eucloset_m1
+objectTemplate.setPosition 8.1808/0.25/7.2303
+objectTemplate.setRotation 180/0/180
+
+objectTemplate.addTemplate eupaint1_m1
+objectTemplate.setPosition 9.114/2.8012/-2.358
+objectTemplate.setRotation 180/0/180
+
+
+objectTemplate.addTemplate eurocarpet1_m1
+objectTemplate.setPosition 9.6867/0.2771/2.64
+objectTemplate.setRotation 90/0/0
+
+
+objectTemplate.addTemplate milichair_m1
+objectTemplate.setPosition 10.203/0.2771/4.3872
+objectTemplate.setRotation 180/0/0
+
+
+objectTemplate.addTemplate milichair_m1
+objectTemplate.setPosition 9.7943/0.2771/1.3063
+objectTemplate.setRotation 142/0/0
+
+
+objectTemplate.addTemplate mililocker_m1
+objectTemplate.setPosition 12.77/0.2734/6.3468
+objectTemplate.setRotation -90/0/0
+
+
+objectTemplate.addTemplate militable_m1
+objectTemplate.setPosition 9.7617/0.2771/2.7662
+objectTemplate.setRotation 90/0/0
+
+
+objectTemplate.addTemplate radio
+objectTemplate.setPosition 9.676/1.36/2.6052
+objectTemplate.setRotation 90/-90/0
+
+rem -----------------------------
+
+ObjectTemplate.create SimpleObject fcb2Exterior
+ObjectTemplate.geometry fire_control_bunker2

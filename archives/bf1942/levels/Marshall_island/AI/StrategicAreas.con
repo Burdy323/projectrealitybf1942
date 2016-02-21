@@ -1,0 +1,99 @@
+if v_arg1 == host
+
+rem *** Create vehicle groups ***
+aiSettings.createVehicleGroup land
+aiSettings.createVehicleGroup infantry
+aiSettings.createVehicleGroup any
+aiSettings.createVehicleGroup sea
+
+rem *** Add vehicles to the groups ***
+aiSettings.addVehicleToVehicleGroup 0  land
+aiSettings.addVehicleToVehicleGroup 1  any
+aiSettings.addVehicleToVehicleGroup 2  sea
+aiSettings.addVehicleToVehicleGroup 3  infantry
+aiSettings.addVehicleToVehicleGroup 4  any
+aiSettings.addVehicleToVehicleGroup 5  land
+aiSettings.addVehicleToVehicleGroup 6  land
+aiSettings.addVehicleToVehicleGroup 7  any
+aiSettings.addVehicleToVehicleGroup 8  any
+aiSettings.addVehicleToVehicleGroup 9  any
+aiSettings.addVehicleToVehicleGroup 10 any
+aiSettings.addVehicleToVehicleGroup 11 any
+aiSettings.addVehicleToVehicleGroup 12 sea
+aiSettings.addVehicleToVehicleGroup 13 any
+aiSettings.addVehicleToVehicleGroup 14 land
+aiSettings.addVehicleToVehicleGroup 15 any
+aiSettings.addVehicleToVehicleGroup 16 any
+aiSettings.addVehicleToVehicleGroup 17 any
+
+rem *** Create categories ***
+aiStrategicArea.createNewCategory land
+aiStrategicArea.createNewCategory sea
+
+
+rem *** Create strategic areas ***
+aiStrategicArea.create ALLIES_Middle_village 1084.7/1008.9 1100.7/1024.9 50 land
+aiStrategicArea.create ALLIES_East_village 1241/1025.4 1271/1055.4 50 land
+aiStrategicArea.create ALLIES_Medic_Airfield 947.6/1151 980.9/1184.3 50 land
+aiStrategicArea.create ALLIES_South_Airfield 856/770.9 892.7/807.6 50 land
+
+
+aiStrategicArea.setActive ALLIES_Middle_village
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addNeighbour ALLIES_East_village
+aiStrategicArea.addNeighbour ALLIES_Medic_Airfield
+aiStrategicArea.addNeighbour ALLIES_South_Airfield
+aiStrategicArea.setOrderPosition Infantry 1101/1025
+aiStrategicArea.setOrderPosition Car 1101/1025
+aiStrategicArea.addAllowedVehicleGroup land
+aiStrategicArea.addAllowedVehicleGroup infantry
+aiStrategicArea.addAllowedVehicleGroup any
+aiStrategicArea.addAllowedVehicleGroup sea
+aiStrategicArea.setSide 2
+aiStrategicArea.vehicleSearchRadius 80.0
+
+aiStrategicArea.setActive ALLIES_East_village
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addNeighbour ALLIES_Middle_village
+aiStrategicArea.addNeighbour ALLIES_Medic_Airfield
+aiStrategicArea.addNeighbour ALLIES_South_Airfield
+aiStrategicArea.setOrderPosition Infantry 1271/1055
+aiStrategicArea.setOrderPosition Car 1271/1055
+aiStrategicArea.addAllowedVehicleGroup land
+aiStrategicArea.addAllowedVehicleGroup infantry
+aiStrategicArea.addAllowedVehicleGroup any
+aiStrategicArea.addAllowedVehicleGroup sea
+aiStrategicArea.setSide 2
+aiStrategicArea.vehicleSearchRadius 80.0
+
+aiStrategicArea.setActive ALLIES_Medic_Airfield
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addNeighbour ALLIES_Middle_village
+aiStrategicArea.addNeighbour ALLIES_East_village
+aiStrategicArea.addNeighbour ALLIES_South_Airfield
+aiStrategicArea.setOrderPosition Infantry 981/1184
+aiStrategicArea.setOrderPosition Car 981/1184
+aiStrategicArea.addAllowedVehicleGroup land
+aiStrategicArea.addAllowedVehicleGroup infantry
+aiStrategicArea.addAllowedVehicleGroup any
+aiStrategicArea.addAllowedVehicleGroup sea
+aiStrategicArea.setSide 2
+aiStrategicArea.vehicleSearchRadius 80.0
+
+aiStrategicArea.setActive ALLIES_South_Airfield
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addNeighbour ALLIES_Middle_village
+aiStrategicArea.addNeighbour ALLIES_East_village
+aiStrategicArea.addNeighbour ALLIES_Medic_Airfield
+aiStrategicArea.setOrderPosition Infantry 893/808
+aiStrategicArea.setOrderPosition Car 893/808
+aiStrategicArea.addAllowedVehicleGroup land
+aiStrategicArea.addAllowedVehicleGroup infantry
+aiStrategicArea.addAllowedVehicleGroup any
+aiStrategicArea.addAllowedVehicleGroup sea
+aiStrategicArea.setSide 2
+aiStrategicArea.vehicleSearchRadius 80.0
+
+
+
+endIf

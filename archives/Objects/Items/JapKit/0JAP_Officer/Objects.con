@@ -1,0 +1,28 @@
+ObjectTemplate.create Kit 0Jap_Officer
+ObjectTemplate.setType Assault
+ObjectTemplate.setKitTeam 1
+ObjectTemplate.geometry Kit_Axis_Assault
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Jap_Helmet
+ObjectTemplate.addTemplate Jap_hip_pack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_scout_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_scout_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_axisKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_japMg.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_binoculars.tga"
+
+ObjectTemplate.setKitIcon 0 "kits/Icon_medic_axis_selected.tga"
+ObjectTemplate.setKitName 0 "OFFICER"
+ObjectTemplate.setKitActiveName 0 "ACTIVE OFFICERS"
+
+ObjectTemplate.addTemplate MP18
+ObjectTemplate.addTemplate KnifeAxis
+
+ObjectTemplate.addTemplate Binoculars
+ObjectTemplate.aiTemplate  Assault
+

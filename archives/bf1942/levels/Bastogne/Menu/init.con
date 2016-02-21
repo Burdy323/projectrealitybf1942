@@ -1,0 +1,32 @@
+Game.setLocalized 1
+
+rem ** Allied Briefing **
+game.setAlliedCampaign BRIEFING_ALLIED_CAMPAIGN_Bastogne
+game.setAlliedHints BRIEFING_ALLIED_HINTS_Bastogne
+game.setAlliedObjectives BRIEFING_ALLIED_OBJECTIVES_Bastogne
+game.setAlliedSkirmish BRIEFING_ALLIED_SKIRMISH_Bastogne
+
+rem ** Axis Briefing **
+game.setAxisCampaign BRIEFING_AXIS_CAMPAIGN_Bastogne
+game.setAxisHints BRIEFING_AXIS_HINTS_Bastogne
+game.setAxisObjectives BRIEFING_AXIS_OBJECTIVES_Bastogne
+game.setAxisSkirmish BRIEFING_AXIS_SKIRMISH_Bastogne
+
+rem ** Allied Debriefing **
+game.setAlliedDebriefingMajorVictory DEBRIEFING_ALLIED_MAJOR_VICTORY_Bastogne
+game.setAlliedDebriefingMinorVictory DEBRIEFING_ALLIED_MINOR_VICTORY_Bastogne
+game.setAlliedDebriefingMajorDefeat DEBRIEFING_ALLIED_MAJOR_DEFEAT_Bastogne
+game.setAlliedDebriefingMinorDefeat DEBRIEFING_ALLIED_MINOR_DEFEAT_Bastogne
+
+rem ** Axis Debriefing **
+game.setAxisDebriefingMajorVictory DEBRIEFING_AXIS_MAJOR_VICTORY_Bastogne
+game.setAxisDebriefingMinorVictory DEBRIEFING_AXIS_MINOR_VICTORY_Bastogne
+game.setAxisDebriefingMajorDefeat DEBRIEFING_AXIS_MAJOR_DEFEAT_Bastogne
+game.setAxisDebriefingMinorDefeat DEBRIEFING_AXIS_MINOR_DEFEAT_Bastogne
+
+rem ** Multiplayer Briefing **
+game.setMultiplayerBriefingObjectives Welcome to Bastogne. To reduce tickets, defend Bastogne and one controlpoint of the perimeter OR control all       perimeter.
+game.setMultiplayerBriefingMapType MULTIPLAYER_MAP_TYPE_HEADON_MAP
+
+game.setLoadPicture ../../bf1942/levels/Bastogne/Textures/bastogne_load.tga
+game.setMapId "DRK42"

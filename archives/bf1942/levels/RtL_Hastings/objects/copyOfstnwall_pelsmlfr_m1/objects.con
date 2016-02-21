@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject copyOfstnwall_pelsmlfr_m1
+ObjectTemplate.geometry copyOfstnwall_pelsmlfr_m1
+ObjectTemplate.setHasCollisionPhysics 1

@@ -1,0 +1,20 @@
+rem *** the_beach ***
+Object.create the_beach
+Object.absolutePosition 1207.55/111.794/564.502
+
+rem *** the_airfield ***
+Object.create the_airfield
+Object.absolutePosition 963.034/129.592/948.859
+
+rem *** allies_southbase ***
+Object.create allies_southbase
+Object.absolutePosition 591.746/109.891/1484.85
+
+rem *** allies_north_base ***
+Object.create allies_north_base
+Object.absolutePosition 1354.6/94.7131/1058.49
+
+rem *** allies_north_village ***
+Object.create allies_north_village
+Object.absolutePosition 1630.69/103.076/793.003
+

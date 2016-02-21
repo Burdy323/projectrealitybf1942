@@ -1,0 +1,14 @@
+Var v_follow
+
+ai.attachCamera -> v_follow
+
+if v_follow
+  ai.attachCameraCycle
+else
+  ai.attachCamera 1
+endIf
+hud.toggleDebugMap
+ai.showStrategic 0
+ai.showBotStats 1
+ai.showBotSense 1
+game.showAIStats 1

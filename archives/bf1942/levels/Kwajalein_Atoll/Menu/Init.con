@@ -1,0 +1,11 @@
+rem *********************************************
+rem Created by Battlecraft 1942.  Copyright (c)2003,2004 Digital Illusions CE
+rem *********************************************
+Game.setLocalized 1
+
+game.setLoadPicture ../../bf1942/levels/Kwajalein_Atoll/menu/texture/Load/Loading_Screen.tga
+
+game.setMultiplayerBriefingObjectives "Edit the 'menu\init.con' and put your level destription here."
+
+
+game.setMapId "DRK42"

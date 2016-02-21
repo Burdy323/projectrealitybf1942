@@ -1,0 +1,99 @@
+rem *** Create Strategies ***
+
+
+rem *** German on Bastogne ***
+
+aiStrategy.createStrategy west
+aiStrategy.Aggression 0.75
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 1
+aiStrategy.TimeLimit 200
+aiStrategy.setPrerequisite westPrereq
+aiStrategy.setStrategicObjectsModifier Remote   10.0 Hostile
+aiStrategy.setStrategicObjectsModifier Remote   10.0 Neutral
+aiStrategy.setStrategicObjectsModifier Safe      0.2 Owned
+aiStrategy.setStrategicObjectsModifier Remote    0.2 Owned
+
+aiStrategy.createStrategy east
+aiStrategy.Aggression 0.75
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 1
+aiStrategy.TimeLimit 200
+aiStrategy.setPrerequisite eastPrereq
+aiStrategy.setStrategicObjectsModifier Route    10.0 Hostile
+aiStrategy.setStrategicObjectsModifier Route    10.0 Neutral
+aiStrategy.setStrategicObjectsModifier Safe      0.2 Owned
+aiStrategy.setStrategicObjectsModifier Route     0.2 Owned
+
+aiStrategy.createStrategy bridge
+aiStrategy.Aggression 1.0
+aiStrategy.NumberOfAttacks 2
+aiStrategy.NumberOfDefences 0
+aiStrategy.TimeLimit 300
+aiStrategy.setPrerequisite bridgePrereq
+aiStrategy.setStrategicObjectsModifier Bridge      10.0 
+aiStrategy.setStrategicObjectsModifier Safe         0.2 Owned
+aiStrategy.setStrategicObjectsModifier Close        0.2 Hostile
+aiStrategy.setStrategicObjectsModifier StrongPoint 10.0 Hostile
+aiStrategy.setStrategicObjectsModifier Close        0.2 Neutral
+aiStrategy.setStrategicObjectsModifier StrongPoint 10.0 Neutral
+
+aiStrategy.createStrategy doubleFlank
+aiStrategy.Aggression 1.0
+aiStrategy.NumberOfAttacks 2
+aiStrategy.NumberOfDefences 0
+aiStrategy.TimeLimit 300
+aiStrategy.setPrerequisite doubleFlankPrereq
+aiStrategy.setStrategicObjectsModifier Safe          0.2 Owned
+aiStrategy.setStrategicObjectsModifier ControlPoint  3.0 Hostile
+aiStrategy.setStrategicObjectsModifier ControlPoint  3.0 Neutral
+
+aiStrategy.createStrategy finalPush
+aiStrategy.Aggression 1.0
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 0
+aiStrategy.setPrerequisite finalPushPrereq
+aiStrategy.setStrategicObjectsModifier Base        10.0 Hostile
+aiStrategy.setStrategicObjectsModifier ChokePoint   5.0 Hostile
+aiStrategy.setStrategicObjectsModifier Base        10.0 Neutral
+aiStrategy.setStrategicObjectsModifier ChokePoint   5.0 Neutral
+
+
+rem *** Americans on Battle of the Bulge ***
+
+aiStrategy.createStrategy holdFront3
+aiStrategy.Aggression 0.0
+aiStrategy.NumberOfAttacks 0
+aiStrategy.NumberOfDefences 3
+aiStrategy.setPrerequisite front3Prereq
+aiStrategy.setStrategicObjectsModifier ControlPoint 2.0
+aiStrategy.setStrategicObjectsModifier Centre 1.5 Owned
+aiStrategy.setStrategicObjectsModifier Close 2.0 Owned
+aiStrategy.setStrategicObjectsModifier Base 3.0 Owned
+aiStrategy.setStrategicObjectsModifier Safe 0.05 Owned
+aiStrategy.setStrategicObjectsModifier Front 10.0 Owned
+
+aiStrategy.createStrategy retake
+aiStrategy.Aggression 0.6
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 1
+aiStrategy.setPrerequisite retakePrereq
+aiStrategy.setStrategicObjectsModifier Centre 1.5 Owned
+aiStrategy.setStrategicObjectsModifier Close 2.0 Owned
+aiStrategy.setStrategicObjectsModifier Base 3.0 Owned
+aiStrategy.setStrategicObjectsModifier Safe 0.05 Owned
+aiStrategy.setStrategicObjectsModifier Front 10.0 Owned
+aiStrategy.setStrategicObjectsModifier ControlPoint 2.0
+
+aiStrategy.createStrategy breakOut
+aiStrategy.Aggression 1.0
+aiStrategy.NumberOfAttacks 1
+aiStrategy.NumberOfDefences 1
+aiStrategy.setPrerequisite breakOutPrereq
+aiStrategy.setStrategicObjectsModifier Centre 1.5 Owned
+aiStrategy.setStrategicObjectsModifier Close 2.0 
+aiStrategy.setStrategicObjectsModifier Base 3.0 
+aiStrategy.setStrategicObjectsModifier Safe 0.05 Owned
+aiStrategy.setStrategicObjectsModifier Front 10.0
+aiStrategy.setStrategicObjectsModifier ControlPoint 2.0
+

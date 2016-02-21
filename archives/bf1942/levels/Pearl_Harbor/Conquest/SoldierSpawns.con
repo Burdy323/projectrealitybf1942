@@ -1,0 +1,296 @@
+rem *** pearlharbor_isle_1 ***
+Object.create pearlharbor_isle_1
+Object.absolutePosition 2461.154/53.2/2934.336
+Object.rotation 127.296/0/0.0395813
+
+rem *** pearlharbor_isle_2 ***
+Object.create pearlharbor_isle_2
+Object.absolutePosition 2457.144/53.2/2897.75
+Object.rotation 84.24/2.03555E-13/1.52588E-05
+
+rem *** pearlharbor_isle_3 ***
+Object.create pearlharbor_isle_3
+Object.absolutePosition 2519.946/53.2/2878.694
+Object.rotation 92.268/0/1.52588E-05
+
+rem *** pearlharbor_isle_4 ***
+Object.create pearlharbor_isle_4
+Object.absolutePosition 2442.109/53.2/2924.813
+Object.rotation 0/0/1.52588E-05
+
+rem *** pearlharbor_isle_5 ***
+Object.create pearlharbor_isle_5
+Object.absolutePosition 2481.23/53.2/2929.439
+Object.rotation 92.268/0/1.52588E-05
+
+rem *** pearlharbor_isle_6 ***
+Object.create pearlharbor_isle_6
+Object.absolutePosition 2507.167/53.2/2887.128
+Object.rotation 92.268/0/1.52588E-05
+
+rem *** pearlharbor_isle_7 ***
+Object.create pearlharbor_isle_7
+Object.absolutePosition 2491.726/53.2/2863.669
+Object.rotation 92.268/0/1.52588E-05
+
+rem *** axisspawnpoint_bunker2 ***
+Object.create axisspawnpoint_bunker2
+Object.absolutePosition 3418.591/30.8/1891.754
+Object.rotation 0/0/1.52588E-05
+
+rem *** axisspawnpoint_explodedbunker2 ***
+Object.create axisspawnpoint_explodedbunker2
+Object.absolutePosition 3396.038/30.8/1892.255
+Object.rotation -9.35995/4.07111E-13/1.52588E-05
+
+rem *** axisspawnpoint_bunkernest_on_edge ***
+Object.create axisspawnpoint_bunkernest_on_edge
+Object.absolutePosition 3455.177/30.8/1882.733
+Object.rotation -42.12/5.00258E-09/0.0523529
+
+rem *** axisspawnpoint_bunker3 ***
+Object.create axisspawnpoint_bunker3
+Object.absolutePosition 3406.062/30.8/1899.773
+Object.rotation -84.24/4.16882E-10/0.0279846
+
+rem *** axisspawnpoint_bunkernest ***
+Object.create axisspawnpoint_bunkernest
+Object.absolutePosition 3463.196/32/1901.277
+Object.rotation -47.736/0/0.0342712
+
+rem *** axisspawnpoint_barack ***
+Object.create axisspawnpoint_barack
+Object.absolutePosition 3441.646/31.6/1899.272
+Object.rotation -178.776/0/1.52588E-05
+
+rem *** axisspawnpoint_suplydepo ***
+Object.create axisspawnpoint_suplydepo
+Object.absolutePosition 3448.662/31.2/1892.255
+Object.rotation 0/0/1.52588E-05
+
+rem *** axisspawnpoint_bunker4 ***
+Object.create axisspawnpoint_bunker4
+Object.absolutePosition 3469.712/31.2/1891.253
+Object.rotation -95.472/0/0.0484619
+
+rem *** axisspawnpoint_o_bunker5 ***
+Object.create axisspawnpoint_o_bunker5
+Object.absolutePosition 3415.584/30.8/1881.229
+Object.rotation -86.112/-2.08441E-10/0.0342712
+
+rem *** axisspawnpoint_midpoint_1 ***
+Object.create axisspawnpoint_midpoint_1
+Object.absolutePosition 684.8795/29.92188/1120.624
+Object.rotation 0/0/1.52588E-05
+
+rem *** axisspawnpoint_midpoint_2 ***
+Object.create axisspawnpoint_midpoint_2
+Object.absolutePosition 670.3452/29.6/1134.156
+Object.rotation 0/0/1.52588E-05
+
+rem *** axisspawnpoint_midpoint_3 ***
+Object.create axisspawnpoint_midpoint_3
+Object.absolutePosition 711.4421/29.92188/1131.65
+Object.rotation 0/0/1.52588E-05
+
+rem *** axisspawnpoint_midpoint_4 ***
+Object.create axisspawnpoint_midpoint_4
+Object.absolutePosition 707.4326/29.94687/1146.184
+Object.rotation 0/0/1.52588E-05
+
+rem *** axisspawnpoint_midpoint_5 ***
+Object.create axisspawnpoint_midpoint_5
+Object.absolutePosition 666.8369/29.6/1123.13
+Object.rotation 0/0/1.52588E-05
+
+rem *** axisspawnpoint_midpoint_6 ***
+Object.create axisspawnpoint_midpoint_6
+Object.absolutePosition 680.3688/29.93125/1146.184
+Object.rotation 0/0/1.52588E-05
+
+rem *** axisspawnpoint_midpoint_7 ***
+Object.create axisspawnpoint_midpoint_7
+Object.absolutePosition 730.1938/30.3375/1128.246
+Object.rotation 0/0/1.52588E-05
+
+rem *** openspawnpoint_sand1 ***
+Object.create openspawnpoint_sand1
+Object.absolutePosition 1808.177/30.8/3395.037
+Object.rotation 71.676/0/0.0279846
+
+rem *** openspawnpoint_sand2 ***
+Object.create openspawnpoint_sand2
+Object.absolutePosition 1828.92/30.8/3411.104
+Object.rotation 0/0/1.52588E-05
+
+rem *** openspawnpoint_sand3 ***
+Object.create openspawnpoint_sand3
+Object.absolutePosition 1808.528/30.8/3407.493
+Object.rotation 65.34/0/1.52588E-05
+
+rem *** openspawnpoint_sand4 ***
+Object.create openspawnpoint_sand4
+Object.absolutePosition 1847.48/30.8/3390.1
+Object.rotation 73.656/0/0.0279846
+
+rem *** openspawnpoint_sand5 ***
+Object.create openspawnpoint_sand5
+Object.absolutePosition 1819.837/30.8/3383.938
+Object.rotation 71.676/0/0.0279846
+
+rem *** openspawnpoint_sand6 ***
+Object.create openspawnpoint_sand6
+Object.absolutePosition 1843.713/30.8/3410.238
+Object.rotation 71.676/0/0.0279846
+
+rem *** openspawnpoint_sand7 ***
+Object.create openspawnpoint_sand7
+Object.absolutePosition 1834.45/30.8/3385.906
+Object.rotation 71.676/0/1.52612
+
+rem *** suribashi_bottom_1 ***
+Object.create suribashi_bottom_1
+Object.absolutePosition 1710.203/34.8/2344.312
+Object.rotation 111.276/0/0.0197906
+
+rem *** suribashi_bottom_2 ***
+Object.create suribashi_bottom_2
+Object.absolutePosition 1704.832/34.8/2355.726
+Object.rotation 111.276/0/0.0197906
+
+rem *** suribashi_bottom_3 ***
+Object.create suribashi_bottom_3
+Object.absolutePosition 1722.288/34.8/2367.811
+Object.rotation 111.276/0/0.0197906
+
+rem *** suribashi_bottom_4 ***
+Object.create suribashi_bottom_4
+Object.absolutePosition 1717.683/35.2/2346.25
+Object.rotation 111.276/0/0.0197906
+
+rem *** suribashi_bottom_5 ***
+Object.create suribashi_bottom_5
+Object.absolutePosition 1728.331/34.8/2349.683
+Object.rotation 111.276/0/0.0197906
+
+rem *** suribashi_bottom_6 ***
+Object.create suribashi_bottom_6
+Object.absolutePosition 1700.142/32.8/2345.75
+Object.rotation 111.276/0/0.0197906
+
+rem *** suribashi_bottom_7 ***
+Object.create suribashi_bottom_7
+Object.absolutePosition 1689.39/31.2/2353.04
+Object.rotation 111.276/0/0.0197906
+
+rem *** suribashi_bottom_8 ***
+Object.create suribashi_bottom_8
+Object.absolutePosition 1700.804/34.8/2363.111
+Object.rotation 111.276/0/0.0197906
+
+rem *** newspawnpoint39 ***
+Object.create newspawnpoint39
+Object.absolutePosition 162.7801/41.2/2237.541
+Object.rotation -1/-1/-1
+
+rem *** newspawnpoint40 ***
+Object.create newspawnpoint40
+Object.absolutePosition 191.026/39.6/2219.442
+Object.rotation -1/-1/-1
+
+rem *** newspawnpoint41 ***
+Object.create newspawnpoint41
+Object.absolutePosition 195.9622/39.2/2209.295
+Object.rotation -1/-1/-1
+
+rem *** newspawnpoint42 ***
+Object.create newspawnpoint42
+Object.absolutePosition 147.6974/43.6/2235.622
+Object.rotation -1/-1/-1
+
+rem *** newspawnpoint43 ***
+Object.create newspawnpoint43
+Object.absolutePosition 178.4113/42/2209.021
+Object.rotation -1/-1/-1
+
+rem *** newspawnpoint44 ***
+Object.create newspawnpoint44
+Object.absolutePosition 177.0402/38.8/2243.849
+Object.rotation -1/-1/-1
+
+rem *** newspawnpoint45 ***
+Object.create newspawnpoint45
+Object.absolutePosition 173.4752/44/2197.229
+Object.rotation -1/-1/-1
+
+rem *** spawnpoint_hafen_1 ***
+Object.create spawnpoint_hafen_1
+Object.absolutePosition 2526.775/30.8/2322.006
+Object.rotation -1/-1/-1
+
+rem *** spawnpoint_hafen_2 ***
+Object.create spawnpoint_hafen_2
+Object.absolutePosition 2558.728/30.8/2299.761
+Object.rotation -1/-1/-1
+
+rem *** spawnpoint_hafen_3 ***
+Object.create spawnpoint_hafen_3
+Object.absolutePosition 2486.164/30.8/2250.004
+Object.rotation -1/-1/-1
+
+rem *** spawnpoint_hafen_4 ***
+Object.create spawnpoint_hafen_4
+Object.absolutePosition 2362.897/30.83125/2151.561
+Object.rotation -1/-1/-1
+
+rem *** spawnpoint_hafen_5 ***
+Object.create spawnpoint_hafen_5
+Object.absolutePosition 2452.703/30.8/2264.787
+Object.rotation -1/-1/-1
+
+rem *** spawnpoint_hafen_6 ***
+Object.create spawnpoint_hafen_6
+Object.absolutePosition 2645.339/30.8/2168.458
+Object.rotation -1/-1/-1
+
+rem *** spawnpoint_hafen_7 ***
+Object.create spawnpoint_hafen_7
+Object.absolutePosition 2528.479/30.8/2196.883
+Object.rotation -1/-1/-1
+
+rem *** spawnpoint_hafen_8 ***
+Object.create spawnpoint_hafen_8
+Object.absolutePosition 2580/30.92188/2268
+
+rem *** spawnpoint_hafen_9 ***
+Object.create spawnpoint_hafen_9
+Object.absolutePosition 2620/30.92188/2216
+
+rem *** spawnpoint_hafen_10 ***
+Object.create spawnpoint_hafen_10
+Object.absolutePosition 2456/30.92188/2176
+
+rem *** spawnpoint_hafen_11 ***
+Object.create spawnpoint_hafen_11
+Object.absolutePosition 2324/30.92188/2256
+
+rem *** spawnpoint_hafen_12 ***
+Object.create spawnpoint_hafen_12
+Object.absolutePosition 2924/30.92188/2204
+
+rem *** spawnpoint_hafen_13 ***
+Object.create spawnpoint_hafen_13
+Object.absolutePosition 3216/30.92188/2256
+
+rem *** spawnpoint_hafen_14 ***
+Object.create spawnpoint_hafen_14
+Object.absolutePosition 3216/30.92188/2476
+
+rem *** spawnpoint_hafen_15 ***
+Object.create spawnpoint_hafen_15
+Object.absolutePosition 3328/30.92188/2660
+
+rem *** spawnpoint_hafen_16 ***
+Object.create spawnpoint_hafen_16
+Object.absolutePosition 3108/30.92188/2720
+

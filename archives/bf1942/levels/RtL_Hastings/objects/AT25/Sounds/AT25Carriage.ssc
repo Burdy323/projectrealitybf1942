@@ -1,0 +1,11 @@
+#templateLevel HIGH
+
+	#include High/AT25Carriage.ssc
+	
+#templateLevel MEDIUM
+
+	#include Mid/AT25Carriage.ssc
+	
+#templateLevel LOW
+
+	#include Low/AT25Carriage.ssc

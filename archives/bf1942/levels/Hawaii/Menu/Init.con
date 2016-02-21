@@ -1,0 +1,8 @@
+rem *********************************************
+rem Created by Battlecraft 1942.  Copyright (c)2003 Digital Illusions CE
+rem *********************************************
+Game.setLocalized 1
+
+game.setLoadPicture ../../bf1942/levels/Hawaii/menu/hawaii.tga
+
+game.setMapId "DRK42"

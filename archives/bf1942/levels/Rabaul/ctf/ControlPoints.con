@@ -1,0 +1,28 @@
+rem ControlPoints.con created by Battlecraft 1942
+rem (E:\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Rabaul/ctf/ControlPoints.con)
+
+rem ----------------------------------------- 
+rem ---  Buka_Village  ---
+rem ----------------------------------------- 
+Object.create Buka_Village
+Object.absolutePosition 302.92/63.50/580.93
+
+rem ----------------------------------------- 
+rem ---  Rabaul  ---
+rem ----------------------------------------- 
+Object.create Rabaul
+Object.absolutePosition 1654.22/67.54/1502.35
+
+rem ----------------------------------------- 
+rem ---  Tokua  ---
+rem ----------------------------------------- 
+Object.create Tokua
+Object.absolutePosition 1112.45/63.46/1402.37
+
+rem ----------------------------------------- 
+rem ---  Lemankos  ---
+rem ----------------------------------------- 
+Object.create Lemankos
+Object.absolutePosition 904.23/63.67/291.23
+
+rem EndOfFile

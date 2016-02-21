@@ -1,0 +1,28 @@
+ObjectTemplate.create Kit 3GER_Anti-Tank
+ObjectTemplate.setType AT
+ObjectTemplate.setKitTeam 1
+ObjectTemplate.geometry Kit_Axis_AntiTank
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate German_Helmet
+ObjectTemplate.addTemplate German_hippack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_at_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_at_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_axisKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_m98.tga"
+ObjectTemplate.addWeaponIcon "weapon/Icon_panzerschreck.tga"
+
+
+ObjectTemplate.setKitIcon 3 "kits/Icon_antitank_axis_selected.tga"
+ObjectTemplate.setKitName 3 "ANTI-TANK"
+ObjectTemplate.setKitActiveName 3 "ACTIVE ANTI-TANK"
+
+
+ObjectTemplate.addTemplate KnifeAxis
+ObjectTemplate.addTemplate k98
+
+ObjectTemplate.addTemplate Panzershreck
+ObjectTemplate.aiTemplate  AT

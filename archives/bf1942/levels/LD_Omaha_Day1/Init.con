@@ -1,0 +1,89 @@
+rem
+rem **** Initialize level specific rendering settings. 
+rem
+
+
+renderer.globalLodPercent 1
+renderer.globalAmbientColor 0.050000/0.050000/0.050000
+renderer.ambientColor 0.150000/0.130000/0.120000
+renderer.diffuseColor 0.300000/0.280000/0.250000
+renderer.specularColor 0.150000/0.150000/0.150000
+renderer.animatedMeshDiffuseFactor 1
+renderer.animatedMeshAmbientColor 0.2
+textureManager.alternativePath texture/Europe
+textureManager.alternativePath bf1942/Levels/LD_Omaha_Day1/texture
+textureManager.alternativePath bf1942/Levels/LD_Omaha_Day1/textures
+
+shadow.shadowColor 0.300000
+
+ShaderManager.setTextureParam envmap bf1942\levels\LD_Omaha_Day1\Textures\ENVMAP_G_.rcm
+renderer.vertexFogEnable 1
+renderer.fogColorVec 0.670000/0.655000/0.660000
+renderer.fogstart -50
+renderer.fogend 290
+
+shadow.shadowColor 0.300000
+
+ShaderManager.setTextureParam envmap bf1942\levels\LD_Omaha_Day1\Textures\ENVMAP_G_.rcm
+
+
+Game.setViewDistance 400
+Game.spawnPlayers 1
+
+
+
+game.setTeamSkin 1 GermanSoldier
+game.setKit 1 0 0GER_Officer
+game.setKit 1 1 1GER_Rifle
+game.setKit 1 2 2GER_Support
+game.setKit 1 3 3GER_Anti-Tank
+game.setKit 1 4 4GER_Medic
+
+game.setTeamSkin 2 USSoldier
+game.setKit 2 0 0US_Officer
+game.setKit 2 1 1US_Rifle
+game.setKit 2 2 2US_Support
+game.setKit 2 3 3US_Anti-Tank
+game.setKit 2 4 4US_Medic
+
+
+game.setActiveCombatArea 935 850 800 800
+rem
+rem *** Shader Default Color ***
+rem
+shaderManager.setDefaultShaderSolidColor 0.2/0.2/0.2
+
+run Init/SkyAndSun
+run Init/Terrain
+
+game.assaultTeam 2
+
+water.specularEnable 1
+water.texLayer1 texture/water01
+water.texLayer2 texture/water02
+water.normalMap texture/normalMap01
+water.scrollDirectionNormalmap -1.000000/-1.000000
+water.scrollDirection1 1.000000/-1.000000
+water.scrollDirection2 0.000000/1.000000
+water.specularColor 0.700000/0.670000/0.700000
+water.scrollLayer1 0.030000
+water.scrollLayer2 0.030000
+water.scrollNormalmap 0.010000
+water.specularStreakFactor 0.010000
+water.tileLayer1 0.250000
+water.tileLayer2 0.250000
+water.tileNormalmap 0.250000
+water.lightDirection -0.300000/0.500000/-0.650000
+water.color 0.900000/0.750000/0.700000
+water.deepColor 0.400000/0.400000/0.400000
+water.waterAlphaDepth 0.500000
+
+run Sounds/Environment
+
+rem *** Set team 1 ***
+game.setBeforeSpawnCameraPosition 1 1278.95/46.77/1052.85
+rem *** Set team 2 ***
+game.setBeforeSpawnCameraPosition 2 1278.95/46.77/1052.85
+rem game.setLevelCheck 3033057421
+
+run objects/objects

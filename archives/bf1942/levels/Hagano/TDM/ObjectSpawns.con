@@ -1,0 +1,360 @@
+rem ObjectSpawns.con created by Battlecraft 1942
+rem (E:\Battlefield 1942\Mods\bf1942\bf1942\levels\Hagano/tdm/ObjectSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  Zerstoerer  ---
+rem ----------------------------------------- 
+Object.create Zerstoerer
+Object.absolutePosition 531.74/34.91/1438.69
+Object.rotation 2.50/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Traeger  ---
+rem ----------------------------------------- 
+Object.create Traeger
+Object.absolutePosition 457.56/34.92/1357.66
+Object.rotation 0.00/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Geschuetz  ---
+rem ----------------------------------------- 
+Object.create Geschuetz
+Object.absolutePosition 791.07/48.87/1273.35
+Object.rotation -90.00/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Geschuetz  ---
+rem ----------------------------------------- 
+Object.create Geschuetz
+Object.absolutePosition 826.75/49.69/1360.41
+Object.rotation -87.50/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Geschuetz  ---
+rem ----------------------------------------- 
+Object.create Geschuetz
+Object.absolutePosition 834.21/50.41/1466.07
+Object.rotation -87.50/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Geschuetz  ---
+rem ----------------------------------------- 
+Object.create Geschuetz
+Object.absolutePosition 888.88/50.54/1497.83
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Geschuetz  ---
+rem ----------------------------------------- 
+Object.create Geschuetz
+Object.absolutePosition 1417.35/47.83/981.76
+Object.rotation 90.00/0.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Geschuetz  ---
+rem ----------------------------------------- 
+Object.create Geschuetz
+Object.absolutePosition 1332.35/49.80/1385.87
+Object.rotation -47.50/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Geschuetz  ---
+rem ----------------------------------------- 
+Object.create Geschuetz
+Object.absolutePosition 1394.61/49.30/1372.97
+Object.rotation 47.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Mgewehr  ---
+rem ----------------------------------------- 
+Object.create Mgewehr
+Object.absolutePosition 845.71/52.54/1444.95
+Object.rotation -112.50/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Mgewehr  ---
+rem ----------------------------------------- 
+Object.create Mgewehr
+Object.absolutePosition 842.48/52.49/1398.91
+Object.rotation -47.00/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Flak  ---
+rem ----------------------------------------- 
+Object.create Flak
+Object.absolutePosition 1268.56/52.67/836.17
+Object.rotation -204.50/-16.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Flak  ---
+rem ----------------------------------------- 
+Object.create Flak
+Object.absolutePosition 829.49/58.05/1103.72
+Object.rotation 0.00/0.00/0.00
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Flieger  ---
+rem ----------------------------------------- 
+Object.create Flieger
+Object.absolutePosition 1370.59/51.29/1261.47
+Object.rotation -4.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Flieger_T  ---
+rem ----------------------------------------- 
+Object.create Flieger_T
+Object.absolutePosition 1387.72/51.29/1269.79
+Object.rotation -30.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Tank  ---
+rem ----------------------------------------- 
+Object.create Tank
+Object.absolutePosition 1332.73/52.48/1254.17
+Object.rotation 89.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Lighttank  ---
+rem ----------------------------------------- 
+Object.create Lighttank
+Object.absolutePosition 1392.39/51.09/1335.81
+Object.rotation -89.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Jeep  ---
+rem ----------------------------------------- 
+Object.create Jeep
+Object.absolutePosition 1379.89/51.99/1244.80
+Object.rotation -8.50/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Tank  ---
+rem ----------------------------------------- 
+Object.create Tank
+Object.absolutePosition 886.56/51.92/1357.32
+Object.rotation -71.50/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  APC  ---
+rem ----------------------------------------- 
+Object.create APC
+Object.absolutePosition 883.24/51.89/1343.86
+Object.rotation -71.50/0.00/0.00
+Object.setOSId 3
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Mgewehr  ---
+rem ----------------------------------------- 
+Object.create Mgewehr
+Object.absolutePosition 1376.09/52.29/1195.58
+Object.rotation -182.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Mgewehr  ---
+rem ----------------------------------------- 
+Object.create Mgewehr
+Object.absolutePosition 1336.36/52.53/1198.56
+Object.rotation -168.50/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Flak  ---
+rem ----------------------------------------- 
+Object.create Flak
+Object.absolutePosition 1339.49/51.32/1329.08
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Flak  ---
+rem ----------------------------------------- 
+Object.create Flak
+Object.absolutePosition 1313.93/53.59/1069.23
+Object.rotation -160.50/0.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  APC  ---
+rem ----------------------------------------- 
+Object.create APC
+Object.absolutePosition 1390.33/51.26/936.38
+Object.rotation -55.00/0.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Lighttank  ---
+rem ----------------------------------------- 
+Object.create Lighttank
+Object.absolutePosition 1329.21/51.29/962.12
+Object.rotation 102.50/0.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Lighttank  ---
+rem ----------------------------------------- 
+Object.create Lighttank
+Object.absolutePosition 998.88/60.80/594.95
+Object.rotation 36.50/0.00/0.00
+Object.setOSId 5
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Jeep  ---
+rem ----------------------------------------- 
+Object.create Jeep
+Object.absolutePosition 963.63/51.29/948.45
+Object.rotation -7.50/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Geschuetz  ---
+rem ----------------------------------------- 
+Object.create Geschuetz
+Object.absolutePosition 1017.83/59.20/562.19
+Object.rotation -170.00/0.00/0.00
+Object.setOSId 5
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Flak  ---
+rem ----------------------------------------- 
+Object.create Flak
+Object.absolutePosition 1036.83/60.80/687.92
+Object.rotation -312.50/0.00/0.00
+Object.setOSId 5
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Flak  ---
+rem ----------------------------------------- 
+Object.create Flak
+Object.absolutePosition 990.03/51.74/1006.78
+Object.rotation 41.00/-2.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Mgewehr  ---
+rem ----------------------------------------- 
+Object.create Mgewehr
+Object.absolutePosition 907.08/53.52/1003.52
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Mgewehr  ---
+rem ----------------------------------------- 
+Object.create Mgewehr
+Object.absolutePosition 941.40/52.98/1014.40
+Object.rotation -33.00/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Mgewehr  ---
+rem ----------------------------------------- 
+Object.create Mgewehr
+Object.absolutePosition 942.95/62.15/1008.71
+Object.rotation -48.00/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Flak  ---
+rem ----------------------------------------- 
+Object.create Flak
+Object.absolutePosition 920.53/51.28/1430.23
+Object.rotation -46.50/0.00/0.00
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Flak  ---
+rem ----------------------------------------- 
+Object.create Flak
+Object.absolutePosition 845.63/51.49/1396.03
+Object.rotation -88.50/0.00/0.00
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jeep  ---
+rem ----------------------------------------- 
+Object.create Jeep
+Object.absolutePosition 878.38/51.29/1381.46
+Object.rotation -123.00/0.00/0.00
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Lighttank  ---
+rem ----------------------------------------- 
+Object.create Lighttank
+Object.absolutePosition 984.53/51.27/964.24
+Object.rotation -48.00/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  APC  ---
+rem ----------------------------------------- 
+Object.create APC
+Object.absolutePosition 1028.16/60.76/604.34
+Object.rotation -22.50/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Zerstoerer  ---
+rem ----------------------------------------- 
+Object.create Zerstoerer
+Object.absolutePosition 531.95/34.91/1269.15
+Object.rotation 0.00/0.00/0.00
+Object.setTeam 2
+
+rem EndOfFile

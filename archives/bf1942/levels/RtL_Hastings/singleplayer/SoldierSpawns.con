@@ -1,0 +1,130 @@
+rem SoldierSpawns.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\RtL_Hastings/conquest/SoldierSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn1  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn1
+Object.absolutePosition 166.94/65.92/229.10
+Object.rotation 126.46/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn1  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn1
+Object.absolutePosition 832.82/66.84/767.02
+Object.rotation -90.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn2  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn2
+Object.absolutePosition 175.84/65.99/207.29
+Object.rotation 70.18/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn3  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn3
+Object.absolutePosition 196.95/65.99/198.33
+Object.rotation 21.28/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point1_Spawn1  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point1_Spawn1
+Object.absolutePosition 162.25/65.79/898.95
+Object.rotation 134.63/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point1_Spawn2  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point1_Spawn2
+Object.absolutePosition 251.41/65.75/903.80
+Object.rotation 152.18/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn2  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn2
+Object.absolutePosition 830.05/66.85/820.63
+Object.rotation -108.17/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn3  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn3
+Object.absolutePosition 925.74/66.87/779.30
+Object.rotation -144.15/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point2_Spawn1  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point2_Spawn1
+Object.absolutePosition 612.49/59.36/202.90
+Object.rotation -95.52/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point2_Spawn2  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point2_Spawn2
+Object.absolutePosition 605.34/54.98/260.27
+Object.rotation -123.43/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point2_Spawn3  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point2_Spawn3
+Object.absolutePosition 611.56/54.87/238.14
+Object.rotation -116.81/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point3_Spawn1  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point3_Spawn1
+Object.absolutePosition 886.69/54.77/273.09
+Object.rotation -99.57/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point3_Spawn2  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point3_Spawn2
+Object.absolutePosition 889.31/57.50/251.81
+Object.rotation -83.08/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point3_Spawn3  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point3_Spawn3
+Object.absolutePosition 876.63/54.74/293.13
+Object.rotation -91.13/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point4_Spawn1  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point4_Spawn1
+Object.absolutePosition 373.64/55.18/500.57
+Object.rotation -53.41/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point4_Spawn2  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point4_Spawn2
+Object.absolutePosition 398.19/54.85/501.53
+Object.rotation -53.22/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point4_Spawn3  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point4_Spawn3
+Object.absolutePosition 400.30/54.91/516.75
+Object.rotation -88.78/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point4_Spawn4  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point4_Spawn4
+Object.absolutePosition 91.39/65.83/860.50
+Object.rotation 93.96/0.00/0.00
+
+rem EndOfFile

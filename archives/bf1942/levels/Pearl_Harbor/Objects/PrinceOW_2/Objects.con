@@ -1,0 +1,164 @@
+
+
+rem *** PrinceOW ***
+ObjectTemplate.create PlayerControlObject PrinceOW_2
+ObjectTemplate.setNetworkableInfo PrinceOWBodyInfo
+ObjectTemplate.saveInSeparateFile 1
+objectTemplate.cullRadiusScale 5
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.drag 3.25
+ObjectTemplate.mass 35000000
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.hasArmor 1
+ObjectTemplate.hitpoints 500
+ObjectTemplate.maxhitpoints 500
+ObjectTemplate.material 55
+ObjectTemplate.criticalDamage 100
+ObjectTemplate.hpLostWhileCriticalDamage 5
+ObjectTemplate.explosionForceMod 5
+ObjectTemplate.dontClearTeamOnExit 1
+ObjectTemplate.addArmorEffect 500 em_ExFumePOW 0/34/3
+ObjectTemplate.addArmorEffect 500 em_ExFumePOW 0/34/-22
+ObjectTemplate.addArmorEffect 300 em_ExFumePOW 0/34/3
+ObjectTemplate.addArmorEffect 300 em_ExFumePOW 0/34/-22
+ObjectTemplate.addArmorEffect 300 em_PoWDamage 0/0/10
+ObjectTemplate.addArmorEffect 300 em_PoWDamage 0/0/50
+ObjectTemplate.addArmorEffect 300 em_PoWDamage 0/0/-30
+ObjectTemplate.addArmorEffect 250 em_ExFumePOW 0/34/-22
+ObjectTemplate.addArmorEffect 250 em_PoWDamage 0/0/10
+ObjectTemplate.addArmorEffect 250 em_PoWDamage 0/0/50
+ObjectTemplate.addArmorEffect 250 em_PoWDamage 0/0/-30
+ObjectTemplate.addArmorEffect 150 em_PoWDamage 0/0/10
+ObjectTemplate.addArmorEffect 150 em_PoWDamage 0/0/50
+ObjectTemplate.addArmorEffect 150 em_PoWDamage 0/0/-30
+ObjectTemplate.addArmorEffect 150 e_waterBoatSink 0/5/0
+ObjectTemplate.addArmorEffect 100 em_PoWDamage 0/0/10
+ObjectTemplate.addArmorEffect 100 em_PoWDamage 0/0/50
+ObjectTemplate.addArmorEffect 100 em_PoWDamage 0/0/-30
+ObjectTemplate.addArmorEffect 100 e_waterBoatSink 0/5/0
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 19/6/-5
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 17/5/-45
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 14/5/-85
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 13/5/25
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 18/5/45
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 16/5/65
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 14/5/85
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 0/5/115
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 0/10/35
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 0/10/-25
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 0/10/-5
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf 0/3/-90
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf -19/6/-5
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf -17/5/-35
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf -14/5/-85
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf -13/5/25
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf -18/5/45
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf -16/5/65
+ObjectTemplate.addArmorEffect 100 e_waterBoatSinkEf -14/5/85
+ObjectTemplate.aiTemplate PrinceOWAI
+rem -------------------------------------
+ObjectTemplate.addTemplate lodPrinceOW
+ObjectTemplate.addTemplate PrinceOW_Floater
+ObjectTemplate.setPosition 0/14/110
+ObjectTemplate.addTemplate PrinceOW_Floater
+ObjectTemplate.setPosition -12.999/14/55
+ObjectTemplate.addTemplate PrinceOW_Floater
+ObjectTemplate.setPosition 13/14/55
+ObjectTemplate.addTemplate PrinceOW_Floater
+ObjectTemplate.setPosition -15.999/14/0
+ObjectTemplate.addTemplate PrinceOW_Floater
+ObjectTemplate.setPosition 16/14/0
+ObjectTemplate.addTemplate PrinceOW_Floater
+ObjectTemplate.setPosition -12.999/14/-54.999
+ObjectTemplate.addTemplate PrinceOW_Floater
+ObjectTemplate.setPosition 13/14/-54.999
+ObjectTemplate.addTemplate PrinceOW_Floater
+ObjectTemplate.setPosition 0/14/-109.999
+rem -------------------------------------
+ObjectTemplate.setPcoId 0
+ObjectTemplate.artPos 1
+ObjectTemplate.DirBarXScale 110
+ObjectTemplate.DirBarYScaleAbove 10
+ObjectTemplate.DirBarYScaleBelow 0
+ObjectTemplate.DirBarYScaleMin -90
+ObjectTemplate.DirBarYScaleMax -80
+ObjectTemplate.setSoldierExitLocation 0/14.2/35.3 180/0/0
+ObjectTemplate.GUIIndex 43
+ObjectTemplate.setVehicleIcon "Vehicle/Icon_princeow.tga"
+ObjectTemplate.setVehicleIconPos 80/78
+ObjectTemplate.setNumberOfWeaponIcons 1
+ObjectTemplate.setPrimaryAmmoIcon "Ammo/Icon_cannon.tga"
+ObjectTemplate.setPrimaryAmmoBar ABReloadBarOnly
+ObjectTemplate.setCrossHairType CHTIcon
+ObjectTemplate.setVehicleCategory VCSea
+ObjectTemplate.setVehicleType VTBattleship
+ObjectTemplate.setToolTipType TTBattleship
+
+
+rem *** lodPrinceOW ***
+ObjectTemplate.create LodObject lodPrinceOW
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+rem -------------------------------------
+ObjectTemplate.addTemplate PrinceOWComplex2
+ObjectTemplate.addTemplate PrinceOWSimple
+rem -------------------------------------
+ObjectTemplate.lodSelector PrinceOWLodSelector
+
+rem *** PrinceOWComplex ***
+ObjectTemplate.create Bundle PrinceOWComplex2
+rem ObjectTemplate.setNetworkableInfo PrinceOWBodyInfo
+ObjectTemplate.geometry PrinceOW_Hul1_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+rem -------------------------------------
+ObjectTemplate.addTemplate ClimbingNet_6mx11m
+ObjectTemplate.setPosition -16.299/8/-6.999
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate ClimbingNet_6mx11m
+ObjectTemplate.setPosition 16.3/8/-6.999
+ObjectTemplate.setRotation -89.999/0/0
+ObjectTemplate.addTemplate PrinceOWDriverSoldierSpawn
+ObjectTemplate.setPosition 0/15/34
+ObjectTemplate.addTemplate PrinceOWSoldierSpawn
+ObjectTemplate.setPosition 14.2/15/-43.299
+ObjectTemplate.addTemplate PrinceOWSoldierSpawn
+ObjectTemplate.setPosition -14.199/15/-43.299
+ObjectTemplate.addTemplate PrinceOWLcvpSpawner
+ObjectTemplate.setPosition -17/10.86/-44.838
+ObjectTemplate.setRotation -6.999/0/0
+ObjectTemplate.addTemplate PrinceOW_Engine
+ObjectTemplate.setPosition 0/-4/-90
+ObjectTemplate.addTemplate PrinceOW_Rudder1
+ObjectTemplate.setPosition 0/-9/-90
+ObjectTemplate.setRotation 0/0/-90
+ObjectTemplate.addTemplate PrinceOW_HullWing
+ObjectTemplate.setPosition 0/-9/90
+ObjectTemplate.setRotation 0/0/-90
+ObjectTemplate.addTemplate PrinceOW_Entry
+ObjectTemplate.setPosition 0/15/33.8
+ObjectTemplate.addTemplate PrinceOW_CannonTower1
+ObjectTemplate.setPosition 0/13.963/55.325
+ObjectTemplate.addTemplate PrinceOW_CannonTower2
+ObjectTemplate.setPosition 0/13.963/40.044
+ObjectTemplate.addTemplate PrinceOW_SternCannonTower
+ObjectTemplate.setPosition 0/13.963/-58.46
+ObjectTemplate.addTemplate PrinceOW_LeftAABattery
+ObjectTemplate.addTemplate PrinceOW_RightAABattery
+ObjectTemplate.addTemplate e_waterfrontBig
+ObjectTemplate.setPosition 0/4/110
+ObjectTemplate.addTemplate e_waterBoatSvallNarrow
+ObjectTemplate.setPosition 0/-1/115
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate e_waterBoatSvall
+ObjectTemplate.setPosition 0/-1/-107
+ObjectTemplate.setRotation 270/0/0
+ObjectTemplate.addTemplate e_waterBackBig
+ObjectTemplate.setPosition 0/5.5/-94.999
+ObjectTemplate.addTemplate Ammobox
+ObjectTemplate.setPosition -3.5/13.98/-1.058
+rem -------------------------------------
+

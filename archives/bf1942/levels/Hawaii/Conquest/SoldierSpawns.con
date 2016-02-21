@@ -1,0 +1,305 @@
+rem SoldierSpawns.con created by Battlecraft 1942
+rem (D:\Battlefield 1942\Mods\bf1942\bf1942\levels\Hawaii/conquest/SoldierSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn1  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn1
+Object.absolutePosition 2411.31/35.46/2130.91
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn1  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn1
+Object.absolutePosition 2737.27/35.48/1648.23
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Maui_Spawn1
+Object.absolutePosition 2426.09/44.71/2085.27
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Maui_Spawn2
+Object.absolutePosition 2458.06/43.94/2088.09
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Maui_Spawn3
+Object.absolutePosition 2439.83/35.45/2125.99
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Maui_Spawn4
+Object.absolutePosition 2474.71/35.51/2122.86
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Maui_Spawn5
+Object.absolutePosition 2384.54/35.53/2103.53
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Oahu_Spawn1
+Object.absolutePosition 1882.13/35.55/2357.41
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Oahu_Spawn2
+Object.absolutePosition 1929.68/35.49/2354.08
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Oahu_Spawn3
+Object.absolutePosition 1887.25/35.71/2339.25
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Oahu_Spawn4
+Object.absolutePosition 1919.96/35.52/2325.92
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Oahu_Spawn5
+Object.absolutePosition 1846.40/35.46/2352.88
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn6  ---
+rem ----------------------------------------- 
+Object.create Oahu_Spawn6
+Object.absolutePosition 1949.44/35.49/2322.54
+Object.rotation -105.15/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Kauai_Spawn1
+Object.absolutePosition 1351.81/36.79/2534.75
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Kauai_Spawn2
+Object.absolutePosition 1388.82/39.54/2530.62
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Kauai_Spawn3
+Object.absolutePosition 1393.97/39.53/2521.57
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Kauai_Spawn4
+Object.absolutePosition 1348.71/35.41/2518.32
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Kauai_Spawn5
+Object.absolutePosition 1341.32/35.50/2532.61
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Hawaii_Spawn1
+Object.absolutePosition 2737.41/35.48/1632.77
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Hawaii_Spawn2
+Object.absolutePosition 2711.03/35.76/1633.88
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Hawaii_Spawn3
+Object.absolutePosition 2754.81/35.46/1651.48
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Hawaii_Spawn4
+Object.absolutePosition 2713.21/35.49/1667.66
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Hawaii_Spawn5
+Object.absolutePosition 2725.14/35.49/1664.83
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Mauna_Loa_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Mauna_Loa_Spawn1
+Object.absolutePosition 2661.10/70.64/1802.67
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Mauna_Loa_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Mauna_Loa_Spawn2
+Object.absolutePosition 2685.01/70.64/1792.87
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Mauna_Loa_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Mauna_Loa_Spawn3
+Object.absolutePosition 2669.04/71.17/1786.38
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Pearl_Habour_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Pearl_Habour_Spawn1
+Object.absolutePosition 2582.44/35.83/1793.52
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Pearl_Habour_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Pearl_Habour_Spawn2
+Object.absolutePosition 2588.72/35.80/1774.41
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Pearl_Habour_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Pearl_Habour_Spawn3
+Object.absolutePosition 2597.31/38.57/1813.01
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Pearl_Habour_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Pearl_Habour_Spawn4
+Object.absolutePosition 2600.96/35.57/1785.77
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn6  ---
+rem ----------------------------------------- 
+Object.create Kauai_Spawn6
+Object.absolutePosition 1389.91/39.55/2525.03
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn7  ---
+rem ----------------------------------------- 
+Object.create Kauai_Spawn7
+Object.absolutePosition 1373.06/39.58/2526.83
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn7  ---
+rem ----------------------------------------- 
+Object.create Oahu_Spawn7
+Object.absolutePosition 1897.64/35.50/2365.15
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn8  ---
+rem ----------------------------------------- 
+Object.create Oahu_Spawn8
+Object.absolutePosition 1893.06/37.47/2334.00
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn6  ---
+rem ----------------------------------------- 
+Object.create Maui_Spawn6
+Object.absolutePosition 2403.24/35.48/2140.81
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn7  ---
+rem ----------------------------------------- 
+Object.create Maui_Spawn7
+Object.absolutePosition 2438.67/44.69/2090.69
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Pearl_Harbor_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Pearl_Harbor_Spawn1
+Object.absolutePosition 2574.83/35.51/1748.26
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Pearl_Harbor_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Pearl_Harbor_Spawn2
+Object.absolutePosition 2593.84/35.73/1779.76
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Mauna_Loa_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Mauna_Loa_Spawn4
+Object.absolutePosition 2676.19/70.64/1785.55
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Mauna_Loa_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Mauna_Loa_Spawn5
+Object.absolutePosition 2679.08/70.64/1811.81
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn6  ---
+rem ----------------------------------------- 
+Object.create Hawaii_Spawn6
+Object.absolutePosition 2719.40/35.47/1656.62
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn7  ---
+rem ----------------------------------------- 
+Object.create Hawaii_Spawn7
+Object.absolutePosition 2746.26/35.49/1655.16
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn9  ---
+rem ----------------------------------------- 
+Object.create Oahu_Spawn9
+Object.absolutePosition 1944.02/35.03/2331.84
+Object.rotation -131.02/0.00/0.00
+
+rem EndOfFile

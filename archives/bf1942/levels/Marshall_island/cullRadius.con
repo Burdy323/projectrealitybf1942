@@ -1,0 +1,177 @@
+REM *** Buildings & Objects ***
+
+Objecttemplate.active Jungle_plant20_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Jungle_plant22_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Jungle_plant10_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Jungle_plant20_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Jungle_plant22_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Jungle_plant22_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active AlliedAirplaneAmmo 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Jungle_plantBall_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Supplyde_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active pacificfarm2_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active bunker1_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagi_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active PALMHIGH_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagu_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stebarbwire_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active pacificfarm1_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Palmshort_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active tankobs_ste_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active radarbun_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sandbagl_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stebarrel1_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active guardtow_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active airrep1_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Woodbrdg_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Jungle_plant3_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Jungle_plant5_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Jungle_plant1_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Ammobox 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active mediclocker 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Pacific_Palm_large_1_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Pacific_Palm_large_2_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Pacific_Palm_1_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Pacific_Palm_2_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Pacific_Palm_3_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Pacific_Palm_4_M1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Defgun_bunker_m1 
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active stecrate1_M1 
+objectTemplate.cullRadiusScale 5
+
+REM *** Vehicles ***
+
+Objecttemplate.active sherman
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active chi-ha
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active lcvp
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active daihatsu
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active M3A1
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Hanomag
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Willy
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Kubelwagen
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active corsair
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active zero
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sbd
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aichival
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active sbd-t
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active aichival-t
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active AA_allies
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active flak38
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active hatsuzuki
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active shokaku
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Stationary_browning
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Stationary_mg42
+objectTemplate.cullRadiusScale 5
+
+Objecttemplate.active Defgun
+objectTemplate.cullRadiusScale 5

@@ -1,0 +1,41 @@
+rem *** Create Conditions ***
+
+rem *** Iwo Jima ***
+
+rem ** American **
+
+rem ** land **
+aiStrategy.createConstantCondition noCPCond Crisp Equal Friendly ControlPoint 0
+aiStrategy.setConditionStrength Required
+
+rem ** defendBeachHead **
+aiStrategy.createConstantCondition oneRemoteCond Crisp EqualGreater Friendly Remote 1
+aiStrategy.setConditionStrength Required
+
+rem ** single **
+aiStrategy.createConstantCondition minOneCPCond Crisp EqualGreater Friendly ControlPoint 1
+aiStrategy.setConditionStrength Required
+
+rem ** double **
+aiStrategy.createConstantCondition minTwoEnemyFrontCond Crisp EqualGreater Enemy Front 2
+aiStrategy.setConditionStrength Required
+
+rem ** cleanUp **
+aiStrategy.createConstantCondition minFourCPCond Crisp EqualGreater Friendly ControlPoint 4
+aiStrategy.setConditionStrength Required
+
+
+rem ** Japanesee ** 
+
+rem ** beachDefencePrereq ** 
+aiStrategy.createConstantCondition noEnemyFront Crisp EqualGreater Enemy ControlPoint 0
+aiStrategy.setConditionStrength Required
+
+rem ** onePointRepulse **
+aiStrategy.createConstantCondition oneEnemyFrontCond Crisp Equal Enemy ControlPoint 1
+aiStrategy.setConditionStrength Required
+
+rem ** twoPointRepulse **
+aiStrategy.createConstantCondition twoEnemyFrontCond Crisp EqualGreater Enemy ControlPoint 2
+aiStrategy.setConditionStrength Required
+

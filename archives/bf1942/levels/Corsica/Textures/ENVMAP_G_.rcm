@@ -1,0 +1,8 @@
+[CubeMap]
+PositiveX = bf1942\levels\Wake\Textures\env_Wake_02.dds
+NegativeX = bf1942\levels\Wake\Textures\env_Wake_04.dds
+PositiveY = bf1942\levels\Wake\Textures\env_Wake_05.dds
+NegativeY = bf1942\levels\Wake\Textures\env_Wake_06.dds
+PositiveZ = bf1942\levels\Wake\Textures\env_Wake_01.dds
+NegativeZ = bf1942\levels\Wake\Textures\env_Wake_03.dds
+

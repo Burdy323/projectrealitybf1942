@@ -1,0 +1,41 @@
+rem *** Create Prerequisites ***
+
+
+rem *** Iwo Jima ***
+
+
+rem ** American **
+
+aiStrategy.createPrerequisite landPrereq
+aiStrategy.addCondition noCPCond    10.0
+
+aiStrategy.createPrerequisite defendPrereq
+aiStrategy.addCondition oneRemoteCond 6.0
+
+aiStrategy.createPrerequisite singlePrereq
+aiStrategy.addCondition oneEnemyFrontCond  5.0
+aiStrategy.addCondition minOneCPCond       5.0
+
+aiStrategy.createPrerequisite doublePrereq
+aiStrategy.addCondition minTwoEnemyFrontCond  5.0
+aiStrategy.addCondition minOneCPCond          5.0
+
+aiStrategy.createPrerequisite cleanUpPrereq
+aiStrategy.addCondition minFourCPCond   5.0
+
+
+rem ** Japanesee **
+
+aiStrategy.createPrerequisite beachDefencePrereq
+aiStrategy.addCondition noEnemyFront   10.0
+
+aiStrategy.createPrerequisite onePointRepulsePrereq
+aiStrategy.addCondition oneEnemyFrontCond  10.0
+
+aiStrategy.createPrerequisite twoPointRepulsePrereq
+aiStrategy.addCondition twoEnemyFrontCond  10.0
+
+rem aiStrategy.createPrerequisite threePointsRepulsePrereq
+rem aiStrategy.addCondition minThreeEnemyFrontCond  10.0
+
+

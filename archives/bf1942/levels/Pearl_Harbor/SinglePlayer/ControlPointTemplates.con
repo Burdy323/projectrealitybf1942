@@ -1,0 +1,159 @@
+NetworkableInfo.createNewInfo ControlPointInfo
+NetworkableInfo.setPredictionMode PMNone
+NetworkableInfo.setBasePriority c_NIGhostAlways
+
+ObjectTemplate.create ControlPoint pearlharbor_isle
+ObjectTemplate.networkableInfo ControlPointInfo
+ObjectTemplate.setControlPointName pearlharbor_isle
+ObjectTemplate.radius 65
+ObjectTemplate.team 0
+ObjectTemplate.spawnGroupId 1
+ObjectTemplate.objectSpawnerId 1
+ObjectTemplate.areaValue 40
+ObjectTemplate.timeToGetControl 10
+ObjectTemplate.timeToLoseControl 10
+ObjectTemplate.disableIfEnemyInsideRadius 0
+ObjectTemplate.disableWhenLosingControl 0
+ObjectTemplate.loseControlWhenEnemyClose 1
+ObjectTemplate.loseControlWhenNotClose 0
+ObjectTemplate.geometry flagbase_m1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.addTemplate AnimatedFlag
+ObjectTemplate.setPosition 0/8.2/0
+ObjectTemplate.setTeamGeometry 1 flagJp_m1
+ObjectTemplate.setTeamGeometry 2 flagus_m1
+
+
+ObjectTemplate.create ControlPoint pearlharbor_beach_right
+ObjectTemplate.networkableInfo ControlPointInfo
+ObjectTemplate.setControlPointName pearlharbor_beach_right
+ObjectTemplate.radius 65
+ObjectTemplate.team 0
+ObjectTemplate.spawnGroupId 4
+ObjectTemplate.objectSpawnerId 4
+ObjectTemplate.areaValue 25
+ObjectTemplate.timeToGetControl 10
+ObjectTemplate.timeToLoseControl 10
+ObjectTemplate.disableIfEnemyInsideRadius 0
+ObjectTemplate.disableWhenLosingControl 0
+ObjectTemplate.loseControlWhenEnemyClose 1
+ObjectTemplate.loseControlWhenNotClose 0
+ObjectTemplate.geometry flagbase_m1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.addTemplate AnimatedFlag
+ObjectTemplate.setPosition 0/8.2/0
+ObjectTemplate.setTeamGeometry 1 flagJp_m1
+ObjectTemplate.setTeamGeometry 2 flagus_m1
+
+
+
+ObjectTemplate.create ControlPoint pearlharbor_beach_left
+ObjectTemplate.networkableInfo ControlPointInfo
+ObjectTemplate.setControlPointName pearlharbor_beach_left
+ObjectTemplate.radius 65
+ObjectTemplate.team 0
+ObjectTemplate.spawnGroupId 5
+ObjectTemplate.objectSpawnerId 5
+ObjectTemplate.areaValue 25
+ObjectTemplate.timeToGetControl 10
+ObjectTemplate.timeToLoseControl 10
+ObjectTemplate.disableIfEnemyInsideRadius 0
+ObjectTemplate.disableWhenLosingControl 0
+ObjectTemplate.loseControlWhenEnemyClose 1
+ObjectTemplate.loseControlWhenNotClose 0
+ObjectTemplate.geometry flagbase_m1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.addTemplate AnimatedFlag
+ObjectTemplate.setPosition 0/8.2/0
+ObjectTemplate.setTeamGeometry 1 flagJp_m1
+ObjectTemplate.setTeamGeometry 2 flagus_m1
+
+
+
+ObjectTemplate.create ControlPoint pearlharbor_city
+ObjectTemplate.networkableInfo ControlPointInfo
+ObjectTemplate.setControlPointName pearlharbor_city
+ObjectTemplate.radius 65
+ObjectTemplate.team 0
+ObjectTemplate.spawnGroupId 6
+ObjectTemplate.objectSpawnerId 6
+ObjectTemplate.areaValue 25
+ObjectTemplate.timeToGetControl 10
+ObjectTemplate.timeToLoseControl 10
+ObjectTemplate.disableIfEnemyInsideRadius 0
+ObjectTemplate.disableWhenLosingControl 0
+ObjectTemplate.loseControlWhenEnemyClose 1
+ObjectTemplate.loseControlWhenNotClose 0
+ObjectTemplate.geometry flagbase_m1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.addTemplate AnimatedFlag
+ObjectTemplate.setPosition 0/8.2/0
+ObjectTemplate.setTeamGeometry 1 flagJp_m1
+ObjectTemplate.setTeamGeometry 2 flagus_m1
+
+
+
+
+ObjectTemplate.create ControlPoint pearlharbor_halfisle
+ObjectTemplate.networkableInfo ControlPointInfo
+ObjectTemplate.setControlPointName pearlharbor_halfisle
+ObjectTemplate.radius 65
+ObjectTemplate.team 0
+ObjectTemplate.spawnGroupId 7
+ObjectTemplate.objectSpawnerId 7
+ObjectTemplate.areaValue 25
+ObjectTemplate.timeToGetControl 10
+ObjectTemplate.timeToLoseControl 10
+ObjectTemplate.disableIfEnemyInsideRadius 0
+ObjectTemplate.disableWhenLosingControl 0
+ObjectTemplate.loseControlWhenEnemyClose 1
+ObjectTemplate.loseControlWhenNotClose 0
+ObjectTemplate.geometry flagbase_m1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.addTemplate AnimatedFlag
+ObjectTemplate.setPosition 0/8.2/0
+ObjectTemplate.setTeamGeometry 1 flagJp_m1
+ObjectTemplate.setTeamGeometry 2 flagus_m1
+
+
+ObjectTemplate.create ControlPoint ControlPoint2
+ObjectTemplate.networkableInfo ControlPointInfo
+ObjectTemplate.setControlPointName ControlPoint2
+ObjectTemplate.radius 65
+ObjectTemplate.team 0
+ObjectTemplate.spawnGroupId 8
+ObjectTemplate.objectSpawnerId 8
+ObjectTemplate.areaValue 25
+ObjectTemplate.timeToGetControl 10
+ObjectTemplate.timeToLoseControl 10
+ObjectTemplate.disableIfEnemyInsideRadius 0
+ObjectTemplate.disableWhenLosingControl 0
+ObjectTemplate.loseControlWhenEnemyClose 1
+ObjectTemplate.loseControlWhenNotClose 0
+ObjectTemplate.geometry flagbase_m1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.addTemplate AnimatedFlag
+ObjectTemplate.setPosition 0/8.2/0
+ObjectTemplate.setTeamGeometry 1 flagJp_m1
+ObjectTemplate.setTeamGeometry 2 flagus_m1
+
+ObjectTemplate.create ControlPoint ControlPoint_Hafen
+ObjectTemplate.networkableInfo ControlPointInfo
+ObjectTemplate.setControlPointName ControlPoint_Hafen
+ObjectTemplate.radius 65
+ObjectTemplate.team 0
+ObjectTemplate.spawnGroupId 9
+ObjectTemplate.objectSpawnerId 9
+ObjectTemplate.areaValue 25
+ObjectTemplate.timeToGetControl 10
+ObjectTemplate.timeToLoseControl 10
+ObjectTemplate.disableIfEnemyInsideRadius 0
+ObjectTemplate.disableWhenLosingControl 0
+ObjectTemplate.loseControlWhenEnemyClose 1
+ObjectTemplate.loseControlWhenNotClose 0
+ObjectTemplate.geometry flagbase_m1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.addTemplate AnimatedFlag
+ObjectTemplate.setPosition 0/8.2/0
+ObjectTemplate.setTeamGeometry 1 flagJp_m1
+ObjectTemplate.setTeamGeometry 2 flagus_m1

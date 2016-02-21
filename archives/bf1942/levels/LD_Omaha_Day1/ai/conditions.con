@@ -1,0 +1,55 @@
+rem *** Create Conditions ***
+
+rem *** Omaha Beach ***
+
+rem ** Common **
+
+aiStrategy.createConstantCondition timeCond Fuzzy EqualSmaller Friendly StartTime 120
+aiStrategy.setConditionStrength AdvisoryNegative
+aiStrategy.setIsAbortCondition 1
+
+rem ** American **
+
+rem ** land **
+aiStrategy.createConstantCondition noCPCond Crisp Equal Friendly ControlPoint 0
+aiStrategy.setConditionStrength Required
+
+rem ** westWall & eastWall **
+aiStrategy.createConstantCondition minTwoEnemyCentreCond Crisp EqualGreater Enemy Centre 2
+aiStrategy.setConditionStrength Required
+
+rem ** wallTake **
+aiStrategy.createConstantCondition maxThreeEnemyCentreCond Crisp EqualSmaller Enemy Centre 3
+aiStrategy.setConditionStrength Required
+
+aiStrategy.createConstantCondition oneEnemyStrongPointCond Crisp Equal Enemy StrongPoint 1
+aiStrategy.setConditionStrength Required
+
+rem ** city **
+aiStrategy.createConstantCondition minTwoFriendlyCPCond Crisp EqualGreater Friendly ControlPoint 2
+aiStrategy.setConditionStrength Required
+
+
+rem ** German ** 
+
+rem ** beachDefencePrereq ** 
+aiStrategy.createConstantCondition maxTwoEnemyAreasCond Crisp EqualSmaller Enemy NumberOfFriendlyAreas 2
+aiStrategy.setConditionStrength Required
+
+rem ** wallRepulsePrereq **
+aiStrategy.createConstantCondition maxSixEnemyAreasCond Crisp EqualSmaller Enemy NumberOfFriendlyAreas 3
+aiStrategy.setConditionStrength Required
+
+aiStrategy.createConstantCondition minFourEnemyAreasCond Crisp EqualGreater Enemy NumberOfFriendlyAreas 4
+aiStrategy.setConditionStrength Required
+
+aiStrategy.createConstantCondition noEnemyCloseCond Crisp Equal Enemy Close 0
+aiStrategy.setConditionStrength Required
+
+aiStrategy.createConstantCondition noEnemyBaseCond Crisp Equal Enemy Base 0
+aiStrategy.setConditionStrength Required
+
+rem ** retake **
+aiStrategy.createConstantCondition maxTwoCPCond Crisp EqualSmaller Friendly ControlPoint 2
+aiStrategy.setConditionStrength Required
+

@@ -1,0 +1,35 @@
+rem
+rem *** ***
+rem
+Object.create axisbase_cpoint
+Object.absolutePosition 2536.056396/61.439064/2745.183350
+rem
+rem *** ***
+rem
+Object.create axismountain_cpoint
+Object.absolutePosition 2680.216553/90.000000/2477.961914
+rem
+rem *** ***
+rem
+Object.create allies_hill
+Object.absolutePosition 2243.060303/97.410942/2104.522949
+rem
+rem *** ***
+rem
+Object.create village_outpost
+Object.absolutePosition 1820.687622/51.199223/2095.579102
+rem
+rem *** ***
+rem
+Object.create allies_mainbase
+Object.absolutePosition 1536.946899/51.199223/1737.658447
+rem
+rem *** ***
+rem
+Object.create small_village
+Object.absolutePosition 1952.351440/82.999222/1433.612915
+rem
+rem *** ***
+rem
+Object.create beach_base
+Object.absolutePosition 2050.949951/56.400002/1877.559326

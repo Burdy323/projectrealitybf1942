@@ -1,0 +1,7 @@
+ObjectTemplate.create SimpleObject longPlanks_m1
+ObjectTemplate.geometry longPlanks_m1
+ObjectTemplate.setHasCollisionPhysics 1
+
+ObjectTemplate.create SimpleObject longPlanks_m2
+ObjectTemplate.geometry longPlanks_m2
+ObjectTemplate.setHasCollisionPhysics 1

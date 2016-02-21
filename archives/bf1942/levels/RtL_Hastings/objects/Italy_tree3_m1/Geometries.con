@@ -1,0 +1,4 @@
+GeometryTemplate.create TreeMesh Italy_tree3_m1
+GeometryTemplate.file Italy_tree3_m1
+GeometryTemplate.billboard 1
+GeometryTemplate.billboardDistance 50

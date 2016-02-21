@@ -1,0 +1,59 @@
+rem *** beachspawn1 ***
+Object.create beachspawn1
+Object.absolutePosition 1432.996/6.57625/1286.27
+Object.rotation 180/0/0
+
+rem *** beachspawn2 ***
+Object.create beachspawn2
+Object.absolutePosition 1379.029/7.460625/1251.672
+Object.rotation 180/0/0
+
+rem *** beachspawn3 ***
+Object.create beachspawn3
+Object.absolutePosition 1563.841/6.5625/1314.501
+Object.rotation 180/0/0
+
+rem *** beachspawn4 ***
+Object.create beachspawn4
+Object.absolutePosition 1330.225/7.78625/1245.882
+Object.rotation 153.5/0/0
+
+rem *** eastcliff1 ***
+Object.create eastcliff1
+Object.absolutePosition 1691.325/35.49/1121.359
+Object.rotation -35.25/0/0
+
+rem *** beachspawn5 ***
+Object.create beachspawn5
+Object.absolutePosition 1217.697/12.75/1094.592
+
+rem *** beachspawn6 ***
+Object.create beachspawn6
+Object.absolutePosition 1185.482/12.61251/1093.814
+
+rem *** beachspawn7 ***
+Object.create beachspawn7
+Object.absolutePosition 1298.566/13.3/1097.525
+
+rem *** eastcliff2 ***
+Object.create eastcliff2
+Object.absolutePosition 1547.979/27.5625/992.4136
+
+rem *** eastcliff3 ***
+Object.create eastcliff3
+Object.absolutePosition 1675.33/67.34/936.09
+
+rem *** westcliff3 ***
+Object.create westcliff3
+Object.absolutePosition 1246.42/60.91/980.53
+Object.rotation 38/0/0
+
+rem *** AxisCliffsWest_Spawn1 ***
+Object.create AxisCliffsWest_Spawn1
+Object.absolutePosition 1418.854/21.1275/996.3374
+Object.rotation 25.75/0/0
+
+rem *** Beach_base2_Spawn1 ***
+Object.create Beach_base2_Spawn1
+Object.absolutePosition 1313.694/39.3325/1045.563
+

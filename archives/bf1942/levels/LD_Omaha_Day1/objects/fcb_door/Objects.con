@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject fcb_door
+ObjectTemplate.geometry fcb_door
+ObjectTemplate.setHasCollisionPhysics 1

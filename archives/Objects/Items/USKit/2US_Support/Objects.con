@@ -1,0 +1,26 @@
+ObjectTemplate.create Kit 2US_Support
+ObjectTemplate.setType Assault
+ObjectTemplate.setKitTeam 2
+ObjectTemplate.geometry Kit_Allies_Assault
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Us_Helmet
+ObjectTemplate.addTemplate Us_Assault_BackPack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_assault_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_assault_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_alliesKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_bar1918.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_grenadeallies.tga"
+
+ObjectTemplate.setKitIcon 2 "kits/Icon_assault_allies_selected.tga"
+ObjectTemplate.setKitName 2 "SUPPORT"
+ObjectTemplate.setKitActiveName 2 "ACTIVE SUPPORT"
+
+ObjectTemplate.addTemplate Bar1918
+ObjectTemplate.addTemplate KnifeAllies
+
+ObjectTemplate.addTemplate GrenadeAllies
+ObjectTemplate.aitemplate Assault

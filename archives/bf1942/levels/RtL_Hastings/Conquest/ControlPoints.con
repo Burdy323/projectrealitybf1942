@@ -1,0 +1,40 @@
+rem ControlPoints.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\RtL_Hastings/conquest/ControlPoints.con)
+
+rem ----------------------------------------- 
+rem ---  AxisBase  ---
+rem ----------------------------------------- 
+Object.create AxisBase
+Object.absolutePosition 194.07/65.81/215.25
+
+rem ----------------------------------------- 
+rem ---  AlliedBase  ---
+rem ----------------------------------------- 
+Object.create AlliedBase
+Object.absolutePosition 873.71/94.97/823.35
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point1  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point1
+Object.absolutePosition 194.08/65.94/215.28
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point2  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point2
+Object.absolutePosition 598.87/55.19/238.72
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point3  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point3
+Object.absolutePosition 887.97/56.02/267.66
+
+rem ----------------------------------------- 
+rem ---  New_Control_Point4  ---
+rem ----------------------------------------- 
+Object.create New_Control_Point4
+Object.absolutePosition 378.12/54.88/509.61
+
+rem EndOfFile

@@ -1,0 +1,15 @@
+if v_arg1 == host
+
+rem ---  AlliedBase  ---
+Object.create AlliedBase
+Object.absolutePosition 692.00/126.87/1392.02
+
+rem ---  The_Ferry_dock  ---
+Object.create The_Ferry_dock
+Object.absolutePosition 898.74/126.84/1208.05
+
+rem ---  Remagen_Park  ---
+Object.create Remagen_Park
+Object.absolutePosition 772.03/126.91/1136.03
+
+endIf

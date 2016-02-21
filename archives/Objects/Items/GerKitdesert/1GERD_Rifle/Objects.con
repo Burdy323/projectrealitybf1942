@@ -1,0 +1,27 @@
+ObjectTemplate.create Kit 1GERD_Rifle_Desert
+ObjectTemplate.setType Assault
+ObjectTemplate.setKitTeam 1
+ObjectTemplate.geometry Kit_Axis_Assault
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Chutedisabler
+ObjectTemplate.addTemplate Germ_DesertHelmet
+ObjectTemplate.addTemplate German_hippack
+
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_scout_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_scout_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_axisKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_m98.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_grenadeaxis.tga"
+
+ObjectTemplate.setKitIcon 1 "kits/Icon_engineer_axis_selected.tga"
+ObjectTemplate.setKitName 1 "RIFLEMAN"
+ObjectTemplate.setKitActiveName 1 "ACTIVE RIFLEMEN"
+
+ObjectTemplate.addTemplate k98
+ObjectTemplate.addTemplate KnifeAxis
+
+ObjectTemplate.addTemplate GrenadeAxis
+ObjectTemplate.aiTemplate  Assault

@@ -1,0 +1,117 @@
+ObjectTemplate.create FireArms TorpedTub1Gato
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.setAsynchronyFire 1
+ObjectTemplate.projectileTemplate Torpedo
+ObjectTemplate.projectilePosition 0/0/0
+ObjectTemplate.magSize 6
+ObjectTemplate.numOfMag 3
+ObjectTemplate.magType 0
+ObjectTemplate.reloadtime 60
+ObjectTemplate.roundOfFire 2
+ObjectTemplate.velocity 25
+ObjectTemplate.autoReload 1
+ObjectTemplate.fireOnce 1
+ObjectTemplate.addFireArmsPosition -1/-0.6/0 0/0/0
+ObjectTemplate.addFireArmsPosition 1/-0.6/0 0/0/0
+ObjectTemplate.addFireArmsPosition -1/-1.3/0 0/0/0
+ObjectTemplate.addFireArmsPosition 1/-1.3/0 0/0/0
+ObjectTemplate.addFireArmsPosition -1/-2/-0.5 0/0/0
+ObjectTemplate.addFireArmsPosition 1/-2/-0.5 0/0/0
+
+ObjectTemplate.create FireArms TorpedTub2Gato
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.setAsynchronyFire 1
+ObjectTemplate.projectileTemplate Torpedo
+ObjectTemplate.projectilePosition 0/0/0
+ObjectTemplate.magSize 4
+ObjectTemplate.numOfMag 2
+ObjectTemplate.magType 0
+ObjectTemplate.reloadtime 60
+ObjectTemplate.roundOfFire 2
+ObjectTemplate.velocity 25
+ObjectTemplate.autoReload 1
+ObjectTemplate.altFireOnce 1
+ObjectTemplate.setInputFire c_PIAltFire
+ObjectTemplate.addFireArmsPosition -1/-0.2/0 0/0/0
+ObjectTemplate.addFireArmsPosition 1/-0.2/0 0/0/0
+ObjectTemplate.addFireArmsPosition -1/-1/0 0/0/0
+ObjectTemplate.addFireArmsPosition 1/-1/0 0/0/0
+
+ObjectTemplate.create FireArms TorpedTub1VIIC
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.setAsynchronyFire 1
+ObjectTemplate.projectileTemplate Torpedo
+ObjectTemplate.projectilePosition 0/0/0
+ObjectTemplate.magSize 4
+ObjectTemplate.numOfMag 2
+ObjectTemplate.magType 0
+ObjectTemplate.reloadtime 60
+ObjectTemplate.roundOfFire 2
+ObjectTemplate.velocity 25
+ObjectTemplate.autoReload 1
+ObjectTemplate.fireOnce 1
+ObjectTemplate.addFireArmsPosition -0.5/0/0 0/0/0
+ObjectTemplate.addFireArmsPosition 0.5/0/0 0/0/0
+ObjectTemplate.addFireArmsPosition -0.5/-1/0 0/0/0
+ObjectTemplate.addFireArmsPosition 0.5/-1/0 0/0/0
+
+ObjectTemplate.create FireArms TorpedTub2VIIC
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.setAsynchronyFire 1
+ObjectTemplate.projectileTemplate Torpedo
+ObjectTemplate.projectilePosition 0/0/0
+ObjectTemplate.magSize 1
+ObjectTemplate.numOfMag 6
+ObjectTemplate.magType 0
+ObjectTemplate.reloadtime 60
+ObjectTemplate.roundOfFire 2
+ObjectTemplate.velocity 25
+ObjectTemplate.autoReload 1
+ObjectTemplate.altFireOnce 1
+ObjectTemplate.setInputFire c_PIAltFire
+ObjectTemplate.addFireArmsPosition 0/0/0 0/0/0
+
+ObjectTemplate.create FireArms DepthChargeLauncher
+rem ObjectTemplate.geometry depth_charge_m1
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.projectileTemplate DepthCharge
+ObjectTemplate.projectilePosition 0/0/1
+ObjectTemplate.magSize 10
+ObjectTemplate.numOfMag 1000
+ObjectTemplate.magType 0
+ObjectTemplate.autoReload 1
+ObjectTemplate.reloadtime 7
+ObjectTemplate.roundOfFire 0.75
+ObjectTemplate.velocity 15
+
+rem ObjectTemplate.setProjectileVisible 1
+ObjectTemplate.setInputFire c_PIAltFire
+ObjectTemplate.setVisibleDummyProjectileTemplate DepthChargeLauncherDummy
+
+ObjectTemplate.create SimpleObject DepthChargeLauncherDummy
+ObjectTemplate.geometry depth_charge_m1
+
+ObjectTemplate.create Projectile DepthCharge
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.geometry depth_charge_m1
+ObjectTemplate.timeToLive CRD_UNIFORM/2/4/0
+ObjectTemplate.endEffectTemplate e_WaterExplosion
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.haspointphysics 0
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.gravityModifier 1
+ObjectTemplate.hasOnTimeEffect 1
+ObjectTemplate.hasCollisionEffect 1
+ObjectTemplate.invisibleAtEndEffect 1
+ObjectTemplate.DetonateOnWaterCollision 0
+ObjectTemplate.stopAtEndEffect 1
+ObjectTemplate.dieAfterColl 1
+ObjectTemplate.invisible 0
+ObjectTemplate.material 228
+ObjectTemplate.material2 248
+ObjectTemplate.damageType 1
+ObjectTemplate.radius 100.0
+ObjectTemplate.drag 5
+ObjectTemplate.mass 800
+ObjectTemplate.ForceOnExplosion 50
+ObjectTemplate.explodeNearEnemyDistance 50.0

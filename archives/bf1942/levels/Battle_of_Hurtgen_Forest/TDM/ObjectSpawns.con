@@ -1,0 +1,202 @@
+rem ObjectSpawns.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Battle_of_Hurtgen_Forest/tdm/ObjectSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  Jeep_allied_spawn_1  ---
+rem ----------------------------------------- 
+Object.create Jeep_allied_spawn_1
+Object.absolutePosition 954.78/64.92/307.36
+Object.rotation -8.52/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 947.86/76.32/382.98
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Halftrack_spawn_1  ---
+rem ----------------------------------------- 
+Object.create Halftrack_spawn_1
+Object.absolutePosition 979.24/64.97/345.73
+Object.rotation -5.11/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Halftrack_spawn_1  ---
+rem ----------------------------------------- 
+Object.create Halftrack_spawn_1
+Object.absolutePosition 915.95/66.26/339.67
+Object.rotation 90.93/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Halftrack_spawn_1  ---
+rem ----------------------------------------- 
+Object.create Halftrack_spawn_1
+Object.absolutePosition 873.06/86.39/623.04
+Object.rotation -88.48/0.00/0.00
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Halftrack_spawn_1  ---
+rem ----------------------------------------- 
+Object.create Halftrack_spawn_1
+Object.absolutePosition 1077.51/64.89/579.01
+Object.rotation 122.44/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 968.51/76.34/381.74
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Halftrack_spawn_1  ---
+rem ----------------------------------------- 
+Object.create Halftrack_spawn_1
+Object.absolutePosition 960.16/65.07/1053.66
+Object.rotation 106.21/0.00/0.00
+Object.setOSId 2
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Halftrack_spawn_1  ---
+rem ----------------------------------------- 
+Object.create Halftrack_spawn_1
+Object.absolutePosition 956.95/65.02/1010.42
+Object.rotation 78.09/0.00/0.00
+Object.setOSId 2
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 873.20/87.16/596.57
+Object.rotation 161.99/0.00/0.00
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 870.20/87.23/646.63
+Object.rotation 34.32/0.00/0.00
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 1082.28/66.11/618.91
+Object.rotation -8.23/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 1099.38/66.25/619.67
+Object.rotation -22.88/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 1075.11/66.08/513.79
+Object.rotation -130.54/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 1059.16/66.10/527.97
+Object.rotation -142.33/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jeep_allied_spawn_1  ---
+rem ----------------------------------------- 
+Object.create Jeep_allied_spawn_1
+Object.absolutePosition 987.09/64.69/357.86
+Object.rotation -4.69/0.00/0.00
+Object.setOSId 1
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 969.84/65.31/788.49
+Object.rotation -141.99/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 1010.68/65.37/787.03
+Object.rotation 149.82/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 978.40/65.75/820.77
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 998.22/65.27/820.71
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Jeep_allied_spawn_1  ---
+rem ----------------------------------------- 
+Object.create Jeep_allied_spawn_1
+Object.absolutePosition 1024.70/64.43/990.69
+Object.rotation -90.35/0.00/0.00
+Object.setOSId 2
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+Object.create machinegune_allied_base
+Object.absolutePosition 973.93/65.52/940.20
+Object.rotation 176.52/0.00/0.00
+Object.setOSId 2
+Object.setTeam 1
+
+rem EndOfFile

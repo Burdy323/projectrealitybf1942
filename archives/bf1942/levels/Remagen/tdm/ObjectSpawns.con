@@ -1,0 +1,328 @@
+rem ObjectSpawns.con created by Battlecraft 1942
+rem (D:\Battlefield 1942\Mods\bf1942\bf1942\levels\Remagen/tdm/ObjectSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  MachineGun_Spawner  ---
+rem ----------------------------------------- 
+Object.create MachineGun_Spawner
+Object.absolutePosition 860.21/139.10/1049.70
+Object.rotation -30.71/0.00/0.00
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  LightTank_Spawner  ---
+rem ----------------------------------------- 
+Object.create LightTank_Spawner
+Object.absolutePosition 846.14/126.98/1028.64
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HeavyTank_Spawner  ---
+rem ----------------------------------------- 
+Object.create HeavyTank_Spawner
+Object.absolutePosition 1293.14/138.42/1030.53
+Object.rotation -89.49/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Fighter_Plane_Spawner  ---
+rem ----------------------------------------- 
+Object.create Fighter_Plane_Spawner
+Object.absolutePosition 1157.22/127.02/1338.56
+Object.rotation 63.59/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  HeavyTank_Spawner  ---
+rem ----------------------------------------- 
+Object.create HeavyTank_Spawner
+Object.absolutePosition 683.38/127.70/1389.93
+Object.rotation -178.72/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  APC_Spawner  ---
+rem ----------------------------------------- 
+Object.create APC_Spawner
+Object.absolutePosition 671.79/128.34/1406.01
+Object.rotation 112.56/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  LightTank_Spawner  ---
+rem ----------------------------------------- 
+Object.create LightTank_Spawner
+Object.absolutePosition 684.50/127.31/1369.83
+Object.rotation 88.65/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  APC_Spawner  ---
+rem ----------------------------------------- 
+Object.create APC_Spawner
+Object.absolutePosition 874.20/127.23/1194.65
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Raft_Spawner_Ferry  ---
+rem ----------------------------------------- 
+Object.create Raft_Spawner_Ferry
+Object.absolutePosition 892.88/122.99/1221.41
+Object.rotation 81.85/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Raft_Spawner_Ferry  ---
+rem ----------------------------------------- 
+Object.create Raft_Spawner_Ferry
+Object.absolutePosition 889.86/122.98/1195.13
+Object.rotation 97.55/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Fighter_Plane_Spawner  ---
+rem ----------------------------------------- 
+Object.create Fighter_Plane_Spawner
+Object.absolutePosition 656.57/127.54/1388.10
+Object.rotation -116.62/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  AA_Gun_Spawner  ---
+rem ----------------------------------------- 
+Object.create AA_Gun_Spawner
+Object.absolutePosition 861.57/126.90/1055.36
+Object.rotation 1.97/0.00/0.00
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  AA_Gun_Spawner  ---
+rem ----------------------------------------- 
+Object.create AA_Gun_Spawner
+Object.absolutePosition 1222.19/130.30/955.38
+Object.rotation -128.20/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  AA_Gun_Spawner  ---
+rem ----------------------------------------- 
+Object.create AA_Gun_Spawner
+Object.absolutePosition 1184.54/126.90/1054.53
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  LightTank_Spawner  ---
+rem ----------------------------------------- 
+Object.create LightTank_Spawner
+Object.absolutePosition 1160.43/127.02/1280.57
+Object.rotation -179.10/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  LightTank_Spawner  ---
+rem ----------------------------------------- 
+Object.create LightTank_Spawner
+Object.absolutePosition 1196.74/128.11/1270.11
+Object.rotation 180.00/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  AA_Gun_Spawner  ---
+rem ----------------------------------------- 
+Object.create AA_Gun_Spawner
+Object.absolutePosition 1195.77/128.62/1228.83
+Object.rotation -224.29/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  MachineGun_Spawner  ---
+rem ----------------------------------------- 
+Object.create MachineGun_Spawner
+Object.absolutePosition 775.23/132.34/1124.07
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 6
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  ScoutCar_Spawner  ---
+rem ----------------------------------------- 
+Object.create ScoutCar_Spawner
+Object.absolutePosition 1225.37/131.17/962.74
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  ScoutCar_Spawner  ---
+rem ----------------------------------------- 
+Object.create ScoutCar_Spawner
+Object.absolutePosition 1183.43/127.72/1290.67
+Object.rotation -180.15/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  ScoutCar_Spawner  ---
+rem ----------------------------------------- 
+Object.create ScoutCar_Spawner
+Object.absolutePosition 706.81/127.19/1370.37
+Object.rotation -90.05/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  Fighter_Plane_Spawner  ---
+rem ----------------------------------------- 
+Object.create Fighter_Plane_Spawner
+Object.absolutePosition 1170.69/127.00/1331.63
+Object.rotation 64.94/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Fighter_Plane_Spawner  ---
+rem ----------------------------------------- 
+Object.create Fighter_Plane_Spawner
+Object.absolutePosition 658.95/127.66/1372.31
+Object.rotation -114.35/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  MachineGun_Spawner  ---
+rem ----------------------------------------- 
+Object.create MachineGun_Spawner
+Object.absolutePosition 876.90/128.03/1205.34
+Object.rotation -91.78/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  MachineGun_Spawner  ---
+rem ----------------------------------------- 
+Object.create MachineGun_Spawner
+Object.absolutePosition 858.67/139.08/1015.92
+Object.rotation -89.95/0.00/0.00
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  AA_Gun_Spawner  ---
+rem ----------------------------------------- 
+Object.create AA_Gun_Spawner
+Object.absolutePosition 675.63/127.13/1358.64
+Object.rotation -161.07/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  MachineGun_Spawner  ---
+rem ----------------------------------------- 
+Object.create MachineGun_Spawner
+Object.absolutePosition 823.84/139.07/1038.24
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 3
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  AA_Gun_Spawner  ---
+rem ----------------------------------------- 
+Object.create AA_Gun_Spawner
+Object.absolutePosition 1184.58/126.85/1325.83
+Object.rotation 37.79/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Raft_Spawner  ---
+rem ----------------------------------------- 
+Object.create Raft_Spawner
+Object.absolutePosition 1127.96/124.00/1269.92
+Object.rotation -79.76/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  Raft_Spawner  ---
+rem ----------------------------------------- 
+Object.create Raft_Spawner
+Object.absolutePosition 1127.91/123.99/1266.83
+Object.rotation -91.05/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  AA_Gun_Spawner  ---
+rem ----------------------------------------- 
+Object.create AA_Gun_Spawner
+Object.absolutePosition 652.31/128.61/1423.74
+Object.rotation -47.00/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  MachineGun_Spawner  ---
+rem ----------------------------------------- 
+Object.create MachineGun_Spawner
+Object.absolutePosition 1183.31/139.13/1049.79
+Object.rotation -32.70/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  MachineGun_Spawner  ---
+rem ----------------------------------------- 
+Object.create MachineGun_Spawner
+Object.absolutePosition 1183.24/139.12/1013.29
+Object.rotation -152.93/0.00/0.00
+Object.setOSId 5
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  MachineGun_Spawner  ---
+rem ----------------------------------------- 
+Object.create MachineGun_Spawner
+Object.absolutePosition 904.25/128.03/1216.97
+Object.rotation 0.00/0.00/0.00
+Object.setOSId 4
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  LightTank_Spawner  ---
+rem ----------------------------------------- 
+Object.create LightTank_Spawner
+Object.absolutePosition 684.10/127.00/1377.05
+Object.rotation 88.89/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  APC_Spawner  ---
+rem ----------------------------------------- 
+Object.create APC_Spawner
+Object.absolutePosition 1171.98/127.00/1280.97
+Object.rotation -179.73/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem EndOfFile

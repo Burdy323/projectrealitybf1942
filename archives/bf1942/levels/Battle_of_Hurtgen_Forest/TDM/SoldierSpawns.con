@@ -1,0 +1,438 @@
+rem SoldierSpawns.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Battle_of_Hurtgen_Forest/tdm/SoldierSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn1  ---
+rem ----------------------------------------- 
+Object.create right_control_point_Spawn1
+Object.absolutePosition 1117.81/64.78/572.84
+Object.rotation -100.11/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn2  ---
+rem ----------------------------------------- 
+Object.create right_control_point_Spawn2
+Object.absolutePosition 1072.12/64.81/556.91
+Object.rotation 94.66/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn3  ---
+rem ----------------------------------------- 
+Object.create right_control_point_Spawn3
+Object.absolutePosition 1092.70/64.46/552.14
+Object.rotation 224.70/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn4  ---
+rem ----------------------------------------- 
+Object.create right_control_point_Spawn4
+Object.absolutePosition 1096.42/64.45/577.30
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn5  ---
+rem ----------------------------------------- 
+Object.create right_control_point_Spawn5
+Object.absolutePosition 1082.92/64.48/616.16
+Object.rotation -14.09/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn6  ---
+rem ----------------------------------------- 
+Object.create right_control_point_Spawn6
+Object.absolutePosition 1076.55/64.49/515.17
+Object.rotation -131.65/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  right_control_point_Spawn8  ---
+rem ----------------------------------------- 
+Object.create right_control_point_Spawn8
+Object.absolutePosition 1074.16/64.76/554.26
+Object.rotation 97.31/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn1  ---
+rem ----------------------------------------- 
+Object.create left_top_hill_point_Spawn1
+Object.absolutePosition 870.08/85.92/597.77
+Object.rotation 162.86/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn2  ---
+rem ----------------------------------------- 
+Object.create left_top_hill_point_Spawn2
+Object.absolutePosition 870.83/85.97/643.70
+Object.rotation 36.86/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn3  ---
+rem ----------------------------------------- 
+Object.create left_top_hill_point_Spawn3
+Object.absolutePosition 855.45/85.92/599.38
+Object.rotation 139.62/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn4  ---
+rem ----------------------------------------- 
+Object.create left_top_hill_point_Spawn4
+Object.absolutePosition 862.57/85.92/608.75
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn5  ---
+rem ----------------------------------------- 
+Object.create left_top_hill_point_Spawn5
+Object.absolutePosition 867.91/85.93/635.75
+Object.rotation -56.97/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  left_top_hill_point_Spawn6  ---
+rem ----------------------------------------- 
+Object.create left_top_hill_point_Spawn6
+Object.absolutePosition 873.42/85.92/607.47
+Object.rotation -109.38/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  bottom_point_Spawn1  ---
+rem ----------------------------------------- 
+Object.create bottom_point_Spawn1
+Object.absolutePosition 995.66/63.97/816.14
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  bottom_point_Spawn2  ---
+rem ----------------------------------------- 
+Object.create bottom_point_Spawn2
+Object.absolutePosition 976.69/64.29/815.21
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  bottom_point_Spawn3  ---
+rem ----------------------------------------- 
+Object.create bottom_point_Spawn3
+Object.absolutePosition 990.80/64.10/777.60
+Object.rotation -214.70/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  bottom_point_Spawn4  ---
+rem ----------------------------------------- 
+Object.create bottom_point_Spawn4
+Object.absolutePosition 1008.45/64.10/792.99
+Object.rotation 138.88/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  bottom_point_Spawn5  ---
+rem ----------------------------------------- 
+Object.create bottom_point_Spawn5
+Object.absolutePosition 970.35/64.10/792.97
+Object.rotation -129.33/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliesBase_Spawn1  ---
+rem ----------------------------------------- 
+Object.create AlliesBase_Spawn1
+Object.absolutePosition 993.28/64.47/358.66
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliesBase_Spawn2  ---
+rem ----------------------------------------- 
+Object.create AlliesBase_Spawn2
+Object.absolutePosition 982.00/64.64/357.59
+Object.rotation 89.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliesBase_Spawn3  ---
+rem ----------------------------------------- 
+Object.create AlliesBase_Spawn3
+Object.absolutePosition 995.96/64.45/359.71
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliesBase_Spawn4  ---
+rem ----------------------------------------- 
+Object.create AlliesBase_Spawn4
+Object.absolutePosition 930.31/64.65/316.06
+Object.rotation 54.15/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliesBase_Spawn5  ---
+rem ----------------------------------------- 
+Object.create AlliesBase_Spawn5
+Object.absolutePosition 932.52/64.73/314.34
+Object.rotation 50.70/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn2  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn2
+Object.absolutePosition 1031.98/63.94/1040.59
+Object.rotation -87.66/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn3  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn3
+Object.absolutePosition 1016.77/63.95/1040.24
+Object.rotation -87.10/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn4  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn4
+Object.absolutePosition 957.97/64.82/1028.78
+Object.rotation 167.80/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn5  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn5
+Object.absolutePosition 1024.74/63.95/1054.47
+Object.rotation 177.58/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn6  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn6
+Object.absolutePosition 1024.50/63.94/1016.76
+Object.rotation 185.69/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn7  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn7
+Object.absolutePosition 1019.13/64.43/1013.07
+Object.rotation -88.70/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn8  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn8
+Object.absolutePosition 1018.60/63.94/1033.23
+Object.rotation -92.13/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn9  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn9
+Object.absolutePosition 1015.04/63.96/1035.46
+Object.rotation -88.60/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn10  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn10
+Object.absolutePosition 956.63/63.94/1038.30
+Object.rotation 100.40/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn11  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn11
+Object.absolutePosition 1037.86/63.93/1005.99
+Object.rotation 185.52/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn12  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn12
+Object.absolutePosition 1014.42/64.24/1016.45
+Object.rotation -91.85/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn13  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn13
+Object.absolutePosition 956.53/63.96/1034.97
+Object.rotation 85.66/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn14  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn14
+Object.absolutePosition 1014.30/63.95/1070.02
+Object.rotation -89.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn15  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn15
+Object.absolutePosition 951.74/64.76/1019.33
+Object.rotation 82.32/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn16  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn16
+Object.absolutePosition 967.10/64.91/1064.88
+Object.rotation 468.91/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBAse_Spawn17  ---
+rem ----------------------------------------- 
+Object.create AxisBAse_Spawn17
+Object.absolutePosition 958.84/64.82/1062.68
+Object.rotation 105.06/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Eastern_Forest_Encampment_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Eastern_Forest_Encampment_Spawn1
+Object.absolutePosition 1087.63/64.46/565.75
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Eastern_Forest_Encampment_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Eastern_Forest_Encampment_Spawn2
+Object.absolutePosition 1097.31/64.46/535.40
+Object.rotation -24.15/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Eastern_Forest_Encampment_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Eastern_Forest_Encampment_Spawn3
+Object.absolutePosition 1083.07/64.46/584.34
+Object.rotation 126.29/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Western_Hill_Top_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Western_Hill_Top_Spawn1
+Object.absolutePosition 856.54/85.97/651.91
+Object.rotation 32.21/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Western_Hill_Top_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Western_Hill_Top_Spawn2
+Object.absolutePosition 872.90/85.96/616.76
+Object.rotation -72.41/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Western_Hill_Top_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Western_Hill_Top_Spawn3
+Object.absolutePosition 871.22/85.96/611.92
+Object.rotation -15.01/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Western_Hill_Top_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Western_Hill_Top_Spawn4
+Object.absolutePosition 858.60/85.97/635.86
+Object.rotation -141.42/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm_Spawn1
+Object.absolutePosition 924.68/64.79/324.98
+Object.rotation 56.22/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm_Spawn2
+Object.absolutePosition 979.23/64.48/341.25
+Object.rotation -53.43/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm_Spawn3
+Object.absolutePosition 983.72/64.93/335.43
+Object.rotation -86.36/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm_Spawn4
+Object.absolutePosition 968.11/65.19/306.18
+Object.rotation 75.14/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm_Spawn5
+Object.absolutePosition 983.59/64.93/323.96
+Object.rotation -66.09/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn6  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm_Spawn6
+Object.absolutePosition 917.10/65.55/334.48
+Object.rotation 89.06/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn7  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm_Spawn7
+Object.absolutePosition 971.26/65.30/302.74
+Object.rotation -9.11/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn8  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm_Spawn8
+Object.absolutePosition 948.80/64.77/308.46
+Object.rotation 15.29/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn9  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm_Spawn9
+Object.absolutePosition 933.61/65.18/344.96
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn10  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm_Spawn10
+Object.absolutePosition 970.14/64.64/310.01
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Allied_Farm_Spawn11  ---
+rem ----------------------------------------- 
+Object.create Allied_Farm_Spawn11
+Object.absolutePosition 983.83/64.49/338.81
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Bloody_Bucket_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Bloody_Bucket_Spawn1
+Object.absolutePosition 993.67/64.20/811.92
+Object.rotation -18.40/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Bloody_Bucket_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Bloody_Bucket_Spawn2
+Object.absolutePosition 1001.98/64.20/805.38
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Bloody_Bucket_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Bloody_Bucket_Spawn3
+Object.absolutePosition 991.51/64.10/781.40
+Object.rotation 140.15/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Bloody_Bucket_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Bloody_Bucket_Spawn4
+Object.absolutePosition 974.15/64.10/790.17
+Object.rotation -142.39/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Bloody_Bucket_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Bloody_Bucket_Spawn5
+Object.absolutePosition 975.47/64.09/805.24
+Object.rotation -151.41/0.00/0.00
+
+rem EndOfFile

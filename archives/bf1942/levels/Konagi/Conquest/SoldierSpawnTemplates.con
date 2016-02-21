@@ -1,0 +1,186 @@
+rem SoldierSpawnTemplates.con created by Battlecraft 1942
+rem (C:\Games\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Konagi/conquest/SoldierSpawnTemplates.con)
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Hill_Spawn1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Hill_Spawn2
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Hill_Spawn3
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Hill_Spawn4
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Hill_Spawn5
+ObjectTemplate.setSpawnId 5
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Hill_Spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Hill_Spawn6
+ObjectTemplate.setSpawnId 6
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Jungle_Spawn1
+ObjectTemplate.setSpawnId 7
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Jungle_Spawn2
+ObjectTemplate.setSpawnId 8
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Jungle_Spawn3
+ObjectTemplate.setSpawnId 9
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Jungle_Spawn4
+ObjectTemplate.setSpawnId 10
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Konagi_Jungle_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Jungle_Spawn5
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Village_Spawn1
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Village_Spawn2
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Village_Spawn3
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Village_Spawn4
+ObjectTemplate.setSpawnId 15
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Konagi_Village_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Village_Spawn5
+ObjectTemplate.setSpawnId 16
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Beach_Spawn1
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Beach_Spawn2
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Beach_Spawn3
+ObjectTemplate.setSpawnId 19
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Beach_Spawn4
+ObjectTemplate.setSpawnId 20
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Konagi_Beach_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Beach_Spawn5
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Airfield_Spawn1
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Airfield_Spawn2
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Airfield_Spawn3
+ObjectTemplate.setSpawnId 24
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Airfield_Spawn4
+ObjectTemplate.setSpawnId 25
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Konagi_Airfield_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Konagi_Airfield_Spawn5
+ObjectTemplate.setSpawnId 26
+ObjectTemplate.setGroup 5
+
+rem EndOfFile

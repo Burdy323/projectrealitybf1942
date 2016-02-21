@@ -1,0 +1,7 @@
+[CubeMap]
+PositiveX = bf1942\levels\Remagen\Textures\env_Remagen_04.dds
+NegativeX = bf1942\levels\Remagen\Textures\env_Remagen_02.dds
+PositiveY = bf1942\levels\Remagen\Textures\env_Remagen_05.dds
+NegativeY = bf1942\levels\Remagen\Textures\env_Remagen_06.dds
+PositiveZ = bf1942\levels\Remagen\Textures\env_Remagen_03.dds
+NegativeZ = bf1942\levels\Remagen\Textures\env_Remagen_01.dds

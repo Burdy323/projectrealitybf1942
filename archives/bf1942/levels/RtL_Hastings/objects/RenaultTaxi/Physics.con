@@ -1,0 +1,97 @@
+
+
+rem *** RenaultTaxiEngine ***
+ObjectTemplate.create Engine RenaultTaxiEngine
+ObjectTemplate.setNetworkableInfo RenaultTaxiEngineInfo
+ObjectTemplate.setAttachToListener 1
+ObjectTemplate.loadSoundScript Sounds/RenaultTaxiEngine.ssc
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+rem -------------------------------------
+ObjectTemplate.addTemplate RenaultTaxiFrontWheelR
+ObjectTemplate.setPosition 0.736/-0.081/1.62
+ObjectTemplate.addTemplate RenaultTaxiFrontWheelL
+ObjectTemplate.setPosition -0.862/-0.081/1.622
+ObjectTemplate.addTemplate RenaultTaxiBackSpringR
+ObjectTemplate.setPosition 0.716/-0.081/-1.623
+ObjectTemplate.addTemplate RenaultTaxiBackSpringL
+ObjectTemplate.setPosition -0.862/-0.081/-1.623
+rem -------------------------------------
+ObjectTemplate.setMinRotation 0/0/-3500
+ObjectTemplate.setMaxRotation 0/0/3500
+ObjectTemplate.setMaxSpeed 0/0/4000
+ObjectTemplate.setAcceleration 0/0/4000
+ObjectTemplate.setInputToRoll c_PIThrottle
+ObjectTemplate.setAutomaticReset 1
+ObjectTemplate.setEngineType c_ETCar
+ObjectTemplate.setTorque 10.5
+ObjectTemplate.setDifferential 6.1
+ObjectTemplate.setNumberOfGears 5
+ObjectTemplate.setGearUp 0.95
+ObjectTemplate.setGearDown 0.4
+§§0
+
+
+rem *** RenaultTaxiFrontSpringR ***
+ObjectTemplate.create Spring RenaultTaxiFrontSpringR
+ObjectTemplate.setNetworkableInfo SpringInfo
+ObjectTemplate.geometry RenaultTaxi_WheelR_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.Grip c_PGFRollGrip
+rem -------------------------------------
+ObjectTemplate.addTemplate e_wdustWheelFL
+ObjectTemplate.addTemplate e_wdustWheelF
+rem -------------------------------------
+ObjectTemplate.setStrength 50
+ObjectTemplate.setDamping 4
+
+
+rem *** RenaultTaxiFrontSpringL ***
+ObjectTemplate.create Spring RenaultTaxiFrontSpringL
+ObjectTemplate.setNetworkableInfo SpringInfo
+ObjectTemplate.geometry RenaultTaxi_WheelL_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.Grip c_PGFRollGrip
+rem -------------------------------------
+ObjectTemplate.addTemplate e_wdustWheelFL
+ObjectTemplate.addTemplate e_wdustWheelF
+rem -------------------------------------
+ObjectTemplate.setStrength 50
+ObjectTemplate.setDamping 4
+
+
+rem *** RenaultTaxiBackSpringR ***
+ObjectTemplate.create Spring RenaultTaxiBackSpringR
+ObjectTemplate.setNetworkableInfo SpringInfo
+ObjectTemplate.geometry RenaultTaxi_WheelR_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.Grip c_PGFEngineGrip
+rem -------------------------------------
+ObjectTemplate.addTemplate e_wdustWheelFL
+ObjectTemplate.addTemplate e_wdustWheelF
+rem -------------------------------------
+ObjectTemplate.setStrength 50
+ObjectTemplate.setDamping 4
+
+
+rem *** RenaultTaxiBackSpringL ***
+ObjectTemplate.create Spring RenaultTaxiBackSpringL
+ObjectTemplate.setNetworkableInfo SpringInfo
+ObjectTemplate.geometry RenaultTaxi_WheelL_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.Grip c_PGFEngineGrip
+rem -------------------------------------
+ObjectTemplate.addTemplate e_wdustWheelFL
+ObjectTemplate.addTemplate e_wdustWheelF
+rem -------------------------------------
+ObjectTemplate.setStrength 50
+ObjectTemplate.setDamping 4

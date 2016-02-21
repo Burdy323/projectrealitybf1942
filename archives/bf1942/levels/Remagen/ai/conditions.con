@@ -1,0 +1,15 @@
+if v_arg1 == host
+
+aiStrategy.createConstantCondition axisNeedWestCond Crisp EqualSmaller Friendly West 1
+aiStrategy.setConditionStrength Required
+
+aiStrategy.createConstantCondition axisHaveWestCond Crisp Equal Friendly West 2
+aiStrategy.setConditionStrength Required
+
+aiStrategy.createConstantCondition alliedNeedWestCond Crisp EqualSmaller Friendly West 2
+aiStrategy.setConditionStrength Required
+
+aiStrategy.createConstantCondition alliedHaveWestCond Crisp Equal Friendly West 3
+aiStrategy.setConditionStrength Required
+
+endIf

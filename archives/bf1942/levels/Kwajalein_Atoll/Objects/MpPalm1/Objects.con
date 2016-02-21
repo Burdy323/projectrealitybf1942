@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject MpPalm1
+ObjectTemplate.geometry MpPalm1
+ObjectTemplate.setHasCollisionPhysics 1

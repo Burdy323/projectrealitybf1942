@@ -1,0 +1,312 @@
+rem SoldierSpawns.con created by Battlecraft 1942
+rem (D:\Battlefield 1942\Mods\bf1942\bf1942\levels\Marshall_island/conquest/SoldierSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  allies_southbase_1  ---
+rem ----------------------------------------- 
+Object.create allies_southbase_1
+Object.absolutePosition 808.73/105.00/783.64
+Object.rotation 91.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_southbase_1  ---
+rem ----------------------------------------- 
+Object.create Axis_southbase_1
+Object.absolutePosition 808.61/105.00/783.65
+Object.rotation 85.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_southbase_2  ---
+rem ----------------------------------------- 
+Object.create allies_southbase_2
+Object.absolutePosition 864.44/105.00/842.65
+Object.rotation 93.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_southbase_2  ---
+rem ----------------------------------------- 
+Object.create Axis_southbase_2
+Object.absolutePosition 863.97/105.00/842.47
+Object.rotation 83.25/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_southbase_3  ---
+rem ----------------------------------------- 
+Object.create allies_southbase_3
+Object.absolutePosition 897.50/104.17/796.42
+Object.rotation -15.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_southbase_3  ---
+rem ----------------------------------------- 
+Object.create Axis_southbase_3
+Object.absolutePosition 897.23/104.17/796.34
+Object.rotation -10.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_southbase_4  ---
+rem ----------------------------------------- 
+Object.create allies_southbase_4
+Object.absolutePosition 928.42/104.18/851.69
+Object.rotation -136.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_southbase_4  ---
+rem ----------------------------------------- 
+Object.create Axis_southbase_4
+Object.absolutePosition 928.46/104.18/851.71
+Object.rotation -142.25/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_southbase_5  ---
+rem ----------------------------------------- 
+Object.create allies_southbase_5
+Object.absolutePosition 939.62/114.00/847.55
+Object.rotation 42.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_southbase_5  ---
+rem ----------------------------------------- 
+Object.create Axis_southbase_5
+Object.absolutePosition 940.10/114.00/847.54
+Object.rotation 42.25/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_southbase_6  ---
+rem ----------------------------------------- 
+Object.create allies_southbase_6
+Object.absolutePosition 940.23/104.17/814.24
+Object.rotation -62.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_southbase_6  ---
+rem ----------------------------------------- 
+Object.create Axis_southbase_6
+Object.absolutePosition 939.87/104.17/814.17
+Object.rotation -75.25/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_southbase_7  ---
+rem ----------------------------------------- 
+Object.create allies_southbase_7
+Object.absolutePosition 891.25/104.42/815.42
+Object.rotation -126.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_southbase_7  ---
+rem ----------------------------------------- 
+Object.create Axis_southbase_7
+Object.absolutePosition 891.53/104.42/815.42
+Object.rotation -130.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_southbase_8  ---
+rem ----------------------------------------- 
+Object.create allies_southbase_8
+Object.absolutePosition 810.17/107.00/812.62
+Object.rotation 57.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_southbase_8  ---
+rem ----------------------------------------- 
+Object.create Axis_southbase_8
+Object.absolutePosition 810.21/107.00/812.68
+Object.rotation 63.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_Hospital_1  ---
+rem ----------------------------------------- 
+Object.create allies_Hospital_1
+Object.absolutePosition 946.50/104.17/1121.68
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_Hospital_1  ---
+rem ----------------------------------------- 
+Object.create Axis_Hospital_1
+Object.absolutePosition 948.04/104.15/1121.87
+Object.rotation -182.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_Hospital_2  ---
+rem ----------------------------------------- 
+Object.create allies_Hospital_2
+Object.absolutePosition 1003.08/104.08/1112.20
+Object.rotation -125.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_hospital_2  ---
+rem ----------------------------------------- 
+Object.create Axis_hospital_2
+Object.absolutePosition 1003.11/104.08/1112.07
+Object.rotation -126.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_Hospital_3  ---
+rem ----------------------------------------- 
+Object.create allies_Hospital_3
+Object.absolutePosition 961.03/104.17/1159.42
+Object.rotation -168.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_Hospital_3  ---
+rem ----------------------------------------- 
+Object.create Axis_Hospital_3
+Object.absolutePosition 961.05/104.17/1159.52
+Object.rotation -176.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_Hospital_4  ---
+rem ----------------------------------------- 
+Object.create allies_Hospital_4
+Object.absolutePosition 983.12/104.27/1166.64
+Object.rotation 85.25/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_Hospital_4  ---
+rem ----------------------------------------- 
+Object.create Axis_Hospital_4
+Object.absolutePosition 983.22/104.27/1166.76
+Object.rotation 82.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_Hospital_5  ---
+rem ----------------------------------------- 
+Object.create allies_Hospital_5
+Object.absolutePosition 1020.99/109.00/1212.38
+Object.rotation 89.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_Hospital_5  ---
+rem ----------------------------------------- 
+Object.create Axis_Hospital_5
+Object.absolutePosition 1021.12/109.00/1212.38
+Object.rotation 109.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_Hospital_6  ---
+rem ----------------------------------------- 
+Object.create allies_Hospital_6
+Object.absolutePosition 1069.54/111.00/1196.67
+Object.rotation -169.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_Hospital_6  ---
+rem ----------------------------------------- 
+Object.create Axis_Hospital_6
+Object.absolutePosition 1069.41/111.00/1196.67
+Object.rotation -177.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_Hospital_7  ---
+rem ----------------------------------------- 
+Object.create allies_Hospital_7
+Object.absolutePosition 1069.02/109.55/1237.57
+Object.rotation -129.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_Hospital_7  ---
+rem ----------------------------------------- 
+Object.create Axis_Hospital_7
+Object.absolutePosition 1068.93/109.55/1237.31
+Object.rotation -120.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_Hospital_8  ---
+rem ----------------------------------------- 
+Object.create allies_Hospital_8
+Object.absolutePosition 990.28/104.23/1202.33
+Object.rotation -137.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_Hospital_8  ---
+rem ----------------------------------------- 
+Object.create Axis_Hospital_8
+Object.absolutePosition 990.27/104.23/1202.47
+Object.rotation -151.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_Middle_1  ---
+rem ----------------------------------------- 
+Object.create allies_Middle_1
+Object.absolutePosition 1111.67/104.17/1023.63
+Object.rotation -48.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_Middle_1  ---
+rem ----------------------------------------- 
+Object.create Axis_Middle_1
+Object.absolutePosition 1111.61/104.17/1023.61
+Object.rotation -52.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_Middle_2  ---
+rem ----------------------------------------- 
+Object.create allies_Middle_2
+Object.absolutePosition 1068.57/104.18/1005.89
+Object.rotation 51.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_Middle_2  ---
+rem ----------------------------------------- 
+Object.create Axis_Middle_2
+Object.absolutePosition 1068.60/104.18/1005.56
+Object.rotation 50.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_Middle_3  ---
+rem ----------------------------------------- 
+Object.create allies_Middle_3
+Object.absolutePosition 1093.11/104.17/1010.65
+Object.rotation -32.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_Middle_3  ---
+rem ----------------------------------------- 
+Object.create Axis_Middle_3
+Object.absolutePosition 1093.21/104.17/1010.26
+Object.rotation -39.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_EastVillage_1  ---
+rem ----------------------------------------- 
+Object.create allies_EastVillage_1
+Object.absolutePosition 1242.61/109.50/1059.66
+Object.rotation 99.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_EastVillage_1  ---
+rem ----------------------------------------- 
+Object.create Axis_EastVillage_1
+Object.absolutePosition 1242.73/109.50/1059.79
+Object.rotation 106.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_EastVillage_2  ---
+rem ----------------------------------------- 
+Object.create allies_EastVillage_2
+Object.absolutePosition 1210.65/109.49/1040.12
+Object.rotation 180.25/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_EastVillage_2  ---
+rem ----------------------------------------- 
+Object.create Axis_EastVillage_2
+Object.absolutePosition 1210.71/109.44/1040.02
+Object.rotation -189.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  allies_EastVillage_3  ---
+rem ----------------------------------------- 
+Object.create allies_EastVillage_3
+Object.absolutePosition 1293.44/109.39/1047.35
+Object.rotation -266.50/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axis_EastVillage_3  ---
+rem ----------------------------------------- 
+Object.create Axis_EastVillage_3
+Object.absolutePosition 1286.81/109.43/1048.45
+Object.rotation -74.75/0.00/0.00
+
+rem EndOfFile

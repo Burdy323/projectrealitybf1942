@@ -1,0 +1,95 @@
+rem SoldierSpawnTemplates.con created by Battlecraft 1942
+rem (E:\Battlefield 1942\Mods\bf1942\bf1942\levels\Hagano/ctf/SoldierSpawnTemplates.con)
+
+rem ----------------------------------------- 
+rem ---  Airfield_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Airfield_Spawn1
+ObjectTemplate.setSpawnId 28
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Mountain_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Mountain_Spawn1
+ObjectTemplate.setSpawnId 29
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Klippe_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Klippe_Spawn1
+ObjectTemplate.setSpawnId 30
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Klippe_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Klippe_Spawn2
+ObjectTemplate.setSpawnId 31
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Klippe_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Klippe_Spawn3
+ObjectTemplate.setSpawnId 33
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Bruecke_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Bruecke_Spawn2
+ObjectTemplate.setSpawnId 35
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Bruecke_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Bruecke_Spawn3
+ObjectTemplate.setSpawnId 36
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Strand_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Strand_Spawn2
+ObjectTemplate.setSpawnId 37
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Strand_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Strand_Spawn3
+ObjectTemplate.setSpawnId 38
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Airfield_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Airfield_Spawn2
+ObjectTemplate.setSpawnId 39
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Airfield_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Airfield_Spawn3
+ObjectTemplate.setSpawnId 40
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Mountain_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Mountain_Spawn2
+ObjectTemplate.setSpawnId 41
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Mountain_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Mountain_Spawn3
+ObjectTemplate.setSpawnId 42
+ObjectTemplate.setGroup 4
+
+rem EndOfFile

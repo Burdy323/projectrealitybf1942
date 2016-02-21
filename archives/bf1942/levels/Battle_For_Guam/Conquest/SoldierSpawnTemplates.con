@@ -1,0 +1,79 @@
+rem ***********
+rem Axis Airfield, Ritidian
+rem ***********
+
+ObjectTemplate.create SpawnPoint Axis_Main1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 1
+
+ObjectTemplate.create SpawnPoint Axis_Main2
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+
+ObjectTemplate.create SpawnPoint Axis_Main3
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+
+rem ***********
+rem Allies Main Base
+rem ***********
+ObjectTemplate.create SpawnPoint Allies_Base1
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 2
+
+ObjectTemplate.create SpawnPoint Allies_Base2
+ObjectTemplate.setSpawnId 5
+ObjectTemplate.setGroup 2
+
+ObjectTemplate.create SpawnPoint Allies_Base3
+ObjectTemplate.setSpawnId 6
+ObjectTemplate.setGroup 2
+
+rem ***********
+rem Axis Mountain Top, Santa Rosa
+rem ***********
+ObjectTemplate.create SpawnPoint Axis_MountainTop1
+ObjectTemplate.setSpawnId 7
+ObjectTemplate.setGroup 5
+
+rem ***********
+rem Allies Hill Top, Barrigada
+rem ***********
+ObjectTemplate.create SpawnPoint Allies_MountainTop1
+ObjectTemplate.setSpawnId 9
+ObjectTemplate.setGroup 4
+
+ObjectTemplate.create SpawnPoint Allies_MountainTop2
+ObjectTemplate.setSpawnId 10
+ObjectTemplate.setGroup 4
+
+rem ***********
+rem Village Outpost, Agana
+rem ***********
+ObjectTemplate.create SpawnPoint Agana_Spawn1
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 3
+
+ObjectTemplate.create SpawnPoint Agana_Spawn2
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 3
+
+rem ***********
+rem Small Village, Pago
+rem ***********
+ObjectTemplate.create SpawnPoint Pago_Spawn1
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 6
+
+ObjectTemplate.create SpawnPoint Pago_Spawn2
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 6
+
+rem ***********
+rem Beach Base, Yanaok
+rem ***********
+ObjectTemplate.create SpawnPoint Yanaok_Spawn1
+ObjectTemplate.setSpawnId 15
+ObjectTemplate.setGroup 7
+
+rem EndOfFile

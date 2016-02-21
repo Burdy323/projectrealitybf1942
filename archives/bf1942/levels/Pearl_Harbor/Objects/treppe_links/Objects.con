@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject treppe_links
+ObjectTemplate.geometry treppe_links
+ObjectTemplate.setHasCollisionPhysics 1

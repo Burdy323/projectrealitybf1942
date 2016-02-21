@@ -1,0 +1,41 @@
+
+
+rem *** GreyhoundGunBarrel ***
+ObjectTemplate.create FireArms GreyhoundGunBarrel
+ObjectTemplate.setNetworkableInfo TankFireArmInfo
+ObjectTemplate.loadSoundScript Sounds/GreyhoundCannon.ssc
+ObjectTemplate.geometry GreyHound_Canon1_M1
+ObjectTemplate.aiTemplate ShermanMainGun
+rem -------------------------------------
+ObjectTemplate.addTemplate e_MuzzPanz
+ObjectTemplate.setPosition 0/0/0.5
+ObjectTemplate.setRotation -179.999/0/0
+rem -------------------------------------
+ObjectTemplate.projectileTemplate GreyhoundProjectile
+ObjectTemplate.projectilePosition 0/0/0
+ObjectTemplate.magSize 45
+ObjectTemplate.numOfMag 1
+ObjectTemplate.velocity 100
+ObjectTemplate.autoReload 1
+ObjectTemplate.reloadtime 0.35
+ObjectTemplate.roundOfFire 0.70
+ObjectTemplate.fireingForce 80
+ObjectTemplate.recoilSpeed 8
+ObjectTemplate.recoilSize 2
+
+
+rem *** GreyhoundProjectile ***
+ObjectTemplate.create Projectile GreyhoundProjectile
+ObjectTemplate.createNotInGrid 1
+ObjectTemplate.loadSoundScript ../../Common/Sounds/Projectile.ssc
+ObjectTemplate.geometry projectile_m1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.timeToLive CRD_NONE/10/0/0
+ObjectTemplate.damageType 1
+ObjectTemplate.material 246
+ObjectTemplate.material2 206
+ObjectTemplate.hasCollisionEffect 1
+ObjectTemplate.addTemplate e_PanzShootTrail
+

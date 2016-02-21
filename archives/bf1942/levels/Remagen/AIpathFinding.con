@@ -1,0 +1,24 @@
+if v_arg1 == host
+
+rem game.aiPathfindingDebuggingActive 1
+ai.numAStarResources 10
+
+rem *** Setup map parameters ***
+rem *** searchMap name/waterHeight/waterDepth/maxSlope/brush/lowClipLevel/hiClipLevel/considerAITypes
+rem *** searchType name/mapNum/minSearchLevel
+
+rem *** Tank ***
+ai.addSearchMap Tank0 0 0 30 2.5 0.3 2.5 0
+ai.addSearchType Tank 0 0
+rem ai.setMapSpawnPoints 0 1032.75/1184.25
+ai.setSmoothing 0 20
+
+rem *** Infantry ***
+ai.addSearchMap Infantry1 0 1.5 35 0.9 0.4 2.0 1
+ai.addSearchType Infantry 1 0
+rem ai.setMapSpawnPoints 1 1032.75/1184.25
+ai.setSmoothing 1 10
+
+ai.loadMaps
+
+endIf

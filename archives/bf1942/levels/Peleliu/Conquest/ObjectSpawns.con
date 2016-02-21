@@ -1,0 +1,360 @@
+rem
+rem ***  ***
+rem
+Object.create battleshipspawner_american
+Object.absolutePosition 1797.25/87.41/248.94
+Object.rotation -41.51/0/0
+Object.setTeam 2
+rem
+rem ***  ***
+rem
+Object.create destroyerspawner_american
+Object.absolutePosition 1748.85/94.81/203.79
+Object.rotation -44.4/0/0
+Object.setTeam 2
+rem
+rem ***  ***
+rem
+Object.create subspawner_japan
+Object.absolutePosition 491.49/93.91/1731.77
+Object.rotation 136.74/0/0
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create flakspawner
+Object.absolutePosition 867.36/114.83/743.73
+Object.setOSId 2
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 824.16/122.75/692.96
+Object.rotation 180.54/0/0
+Object.setOSId 2
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 830.83/122.76/696.09
+Object.rotation 89.86/0/0
+Object.setOSId 2
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 776.7/117.57/664.9
+Object.rotation 153.77/0/0
+Object.setOSId 2
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 880/116.66/645.61
+Object.rotation -147.02/0/0
+Object.setOSId 2
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create ptboatspawner
+Object.absolutePosition 673.37/91.52/752.14
+Object.rotation -91.04/0/0
+Object.setOSId 2
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create aircraft_spawner1
+Object.absolutePosition 1286.84/104.56/956.59
+Object.rotation 78/-10.56/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create aircraft_spawner1
+Object.absolutePosition 1301.37/104.33/934.36
+Object.rotation 78.1/-9.11/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create defgun_spawner
+Object.absolutePosition 1393.2/132.69/1140.95
+Object.rotation -180.03/0/0
+Object.setOSId 4
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create tankspawner_1
+Object.absolutePosition 1384.82/133.97/1188.33
+Object.rotation -179.79/0/0
+Object.setOSId 4
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create flakspawner
+Object.absolutePosition 1374.1/133.78/1185.8
+Object.setOSId 4
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create bomberspawner
+Object.absolutePosition 1281.83/99.14/1816.36
+Object.rotation -89.89/0/0
+Object.setOSId 1
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create torpspawner
+Object.absolutePosition 1285.28/99.18/1799.86
+Object.rotation -89.85/0/0
+Object.setOSId 1
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create flakspawner
+Object.absolutePosition 1354.5/100.01/1872.29
+Object.setOSId 1
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1330.5/100.06/1847.82
+Object.rotation -181.52/0/0
+Object.setOSId 1
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1326.69/100.07/1847.81
+Object.rotation -179.34/0/0
+Object.setOSId 1
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create flakspawner
+Object.absolutePosition 1285.52/98.76/1780.23
+Object.rotation -45.74/0/0
+Object.setOSId 1
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create jeepspawner
+Object.absolutePosition 1308.75/98.85/1821.89
+Object.rotation -181.58/0/0
+Object.setOSId 1
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create spspawner1
+Object.absolutePosition 1334.04/99.43/1859.99
+Object.rotation 87.7/0/0
+Object.setOSId 1
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1371.59/123.71/1506.37
+Object.rotation 148.53/0/0
+Object.setOSId 5
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1374.77/123.68/1508.3
+Object.rotation 147.71/0/0
+Object.setOSId 5
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1304.47/99.63/1784.38
+Object.rotation 136.66/0/0
+Object.setOSId 1
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create defgun_spawner
+Object.absolutePosition 915.95/113.72/734.42
+Object.rotation 59.26/0/0
+Object.setOSId 2
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create tankspawner_1
+Object.absolutePosition 1120.57/95.47/976.15
+Object.rotation 60.06/-11.17/0
+Object.setOSId 3
+Object.setTeam 0
+rem
+rem ***  ***
+rem
+Object.create tankspawner_1
+Object.absolutePosition 1384.46/122.95/1527.1
+Object.rotation 139.12/0/0
+Object.setOSId 5
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create ptboatspawner
+Object.absolutePosition 1281.31/91.62/1900.12
+Object.rotation -10.79/0/0
+Object.setOSId 1
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1154.29/110.6/1014.54
+Object.rotation 178.26/0/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1157.58/110.65/1014.55
+Object.rotation -180.12/0/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1235.57/110.69/988.88
+Object.rotation -138.23/0/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1223.86/112.29/1012.52
+Object.rotation -126.45/0/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1178.18/112.33/1021.62
+Object.rotation 158.99/0/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1296.48/104.08/914.05
+Object.rotation -129.35/0/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1308.41/106.16/875.6
+Object.rotation -87.08/0/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1442.39/98.23/950.32
+Object.rotation 80.85/0/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create flakspawner
+Object.absolutePosition 1392.64/103.23/844.86
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create flakspawner
+Object.absolutePosition 1307.88/104.71/865.77
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create apcspawner1
+Object.absolutePosition 1178.84/113.95/1078.95
+Object.rotation -89.75/0/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create apcspawner1
+Object.absolutePosition 1402.05/133.9/1172.87
+Object.rotation -89.67/0/0
+Object.setOSId 4
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1345.21/135.21/1164.16
+Object.rotation -88.48/0/0
+Object.setOSId 4
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create mgspawner
+Object.absolutePosition 1350.56/104.54/864.18
+Object.rotation -182.89/0/0
+Object.setOSId 6
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create landingcraft_spawner
+Object.absolutePosition 668.71/94.74/761.64
+Object.rotation -88.4/0/0
+Object.setOSId 2
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create landingcraft_spawner
+Object.absolutePosition 1272.4/94.77/1899.15
+Object.rotation -12.7/0/0
+Object.setOSId 1
+Object.setTeam 1
+rem
+rem ***  ***
+rem
+Object.create jeepspawner2
+Object.absolutePosition 1349.92/103.19/876.2
+Object.rotation 90.46/0/0
+Object.setOSId 6
+Object.setTeam 1

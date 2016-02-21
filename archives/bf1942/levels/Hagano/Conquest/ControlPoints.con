@@ -1,0 +1,34 @@
+rem ControlPoints.con created by Battlecraft 1942
+rem (E:\Battlefield 1942\Mods\bf1942\bf1942\levels\Hagano/conquest/ControlPoints.con)
+
+rem ----------------------------------------- 
+rem ---  Bridge  ---
+rem ----------------------------------------- 
+Object.create Bridge
+Object.absolutePosition 952.28/51.30/971.90
+
+rem ----------------------------------------- 
+rem ---  Beach  ---
+rem ----------------------------------------- 
+Object.create Beach
+Object.absolutePosition 886.53/51.29/1403.38
+
+rem ----------------------------------------- 
+rem ---  Airfield  ---
+rem ----------------------------------------- 
+Object.create Airfield
+Object.absolutePosition 1364.44/51.29/1251.79
+
+rem ----------------------------------------- 
+rem ---  Rock  ---
+rem ----------------------------------------- 
+Object.create Rock
+Object.absolutePosition 1361.66/51.29/931.34
+
+rem ----------------------------------------- 
+rem ---  Cliff  ---
+rem ----------------------------------------- 
+Object.create Cliff
+Object.absolutePosition 1014.64/60.80/624.59
+
+rem EndOfFile

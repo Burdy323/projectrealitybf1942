@@ -1,0 +1,17 @@
+ObjectTemplate.create Bundle casemate
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.aiTemplate casemate
+ObjectTemplate.addTemplate lodcasemate
+
+LodSelectorTemplate.create DistanceSelector casemateSelector
+LodSelectorTemplate.addLodDistance 70
+ObjectTemplate.create LodObject lodcasemate
+ObjectTemplate.lodselector casemateSelector
+ObjectTemplate.addTemplate casemateInterior
+ObjectTemplate.addTemplate casemateExterior
+
+ObjectTemplate.create bundle casemateInterior
+ObjectTemplate.geometry casemate2
+
+ObjectTemplate.create SimpleObject casemateExterior
+ObjectTemplate.geometry casemate

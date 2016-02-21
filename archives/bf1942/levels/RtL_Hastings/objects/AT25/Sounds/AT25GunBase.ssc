@@ -1,0 +1,11 @@
+#templateLevel HIGH
+
+	#include High/AT25GunBase.ssc
+	
+#templateLevel MEDIUM
+
+	#include Mid/AT25GunBase.ssc
+	
+#templateLevel LOW
+
+	#include Low/AT25GunBase.ssc

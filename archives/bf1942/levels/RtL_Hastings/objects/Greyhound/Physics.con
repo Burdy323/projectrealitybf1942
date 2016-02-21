@@ -1,0 +1,157 @@
+
+
+rem *** GreyhoundEngine ***
+ObjectTemplate.create Engine GreyhoundEngine
+ObjectTemplate.setNetworkableInfo GreyhoundEngineInfo
+ObjectTemplate.setAttachToListener 1
+ObjectTemplate.loadSoundScript Sounds/GreyhoundEngine.ssc
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+rem -------------------------------------
+ObjectTemplate.addTemplate GreyhoundFrontWheelR
+ObjectTemplate.setPosition 1.114/0.92/1.66
+ObjectTemplate.addTemplate GreyhoundFrontWheelL
+ObjectTemplate.setPosition -1.104/0.92/1.66
+
+ObjectTemplate.addTemplate GreyhoundBackSpringRDummy
+ObjectTemplate.setPosition 1.114/0.461/-0.618
+ObjectTemplate.addTemplate GreyhoundBackSpringR
+ObjectTemplate.setPosition 1.114/0.461/-2.038
+
+ObjectTemplate.addTemplate GreyhoundBackSpringLDummy
+ObjectTemplate.setPosition -1.104/0.461/-0.618
+ObjectTemplate.addTemplate GreyhoundBackSpringL
+ObjectTemplate.setPosition -1.104/0.461/-2.038
+rem -------------------------------------
+ObjectTemplate.setMinRotation 0/0/-5000
+ObjectTemplate.setMaxRotation 0/0/5000
+ObjectTemplate.setMaxSpeed 0/0/55000
+ObjectTemplate.setAcceleration 0/0/55000
+ObjectTemplate.setInputToRoll c_PIThrottle
+ObjectTemplate.setAutomaticReset 1
+ObjectTemplate.setEngineType c_ETCar
+ObjectTemplate.setTorque 5
+ObjectTemplate.setDifferential 3.3
+ObjectTemplate.setNumberOfGears 5
+ObjectTemplate.setGearUp 0.95
+ObjectTemplate.setGearDown 0.4
+
+
+rem *** GreyhoundFrontWheelR ***
+ObjectTemplate.create RotationalBundle GreyhoundFrontWheelR
+ObjectTemplate.setNetworkableInfo GreyhoundSteeringInfo
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+rem -------------------------------------
+ObjectTemplate.addTemplate GreyhoundFrontSpringR
+ObjectTemplate.setPosition 0/-0.599/0
+rem -------------------------------------
+ObjectTemplate.setMinRotation -45/0/0
+ObjectTemplate.setMaxRotation 45/0/0
+ObjectTemplate.setMaxSpeed 200/0/0
+ObjectTemplate.setAcceleration 200/0/0
+ObjectTemplate.setInputToYaw c_PIYaw
+ObjectTemplate.setAutomaticReset 1
+
+rem *** GreyhoundFrontWheelL ***
+ObjectTemplate.create RotationalBundle GreyhoundFrontWheelL
+ObjectTemplate.setNetworkableInfo GreyhoundSteeringInfo
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+rem -------------------------------------
+ObjectTemplate.addTemplate GreyhoundFrontSpringL
+ObjectTemplate.setPosition 0/-0.599/0
+rem -------------------------------------
+ObjectTemplate.setMinRotation -45/0/0
+ObjectTemplate.setMaxRotation 45/0/0
+ObjectTemplate.setMaxSpeed 200/0/0
+ObjectTemplate.setAcceleration 200/0/0
+ObjectTemplate.setInputToYaw c_PIYaw
+ObjectTemplate.setAutomaticReset 1
+
+rem *** GreyhoundFrontSpringR ***
+ObjectTemplate.create Spring GreyhoundFrontSpringR
+ObjectTemplate.setNetworkableInfo SpringInfo
+ObjectTemplate.geometry Greyhound_WheelR_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.Grip c_PGFRollGrip
+rem -------------------------------------
+ObjectTemplate.addTemplate e_wdustWheelFL
+ObjectTemplate.addTemplate e_wdustWheelF
+rem -------------------------------------
+ObjectTemplate.setStrength 25
+ObjectTemplate.setDamping 5
+
+
+rem *** GreyhoundFrontSpringL ***
+ObjectTemplate.create Spring GreyhoundFrontSpringL
+ObjectTemplate.setNetworkableInfo SpringInfo
+ObjectTemplate.geometry Greyhound_WheelL_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.Grip c_PGFRollGrip
+rem -------------------------------------
+ObjectTemplate.addTemplate e_wdustWheelFL
+ObjectTemplate.addTemplate e_wdustWheelF
+rem -------------------------------------
+ObjectTemplate.setStrength 25
+ObjectTemplate.setDamping 5
+
+
+rem *** GreyhoundBackSpringR ***
+ObjectTemplate.create Spring GreyhoundBackSpringR
+ObjectTemplate.setNetworkableInfo SpringInfo
+ObjectTemplate.geometry Greyhound_WheelR_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.Grip c_PGFEngineGrip
+rem -------------------------------------
+ObjectTemplate.addTemplate e_wdustWheelFL
+ObjectTemplate.addTemplate e_wdustWheelF
+rem -------------------------------------
+ObjectTemplate.setStrength 25
+ObjectTemplate.setDamping 5
+
+
+rem *** GreyhoundBackSpringL ***
+ObjectTemplate.create Spring GreyhoundBackSpringL
+ObjectTemplate.setNetworkableInfo SpringInfo
+ObjectTemplate.geometry Greyhound_WheelL_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.Grip c_PGFEngineGrip
+rem -------------------------------------
+ObjectTemplate.addTemplate e_wdustWheelFL
+ObjectTemplate.addTemplate e_wdustWheelF
+rem -------------------------------------
+ObjectTemplate.setStrength 25
+ObjectTemplate.setDamping 5
+
+rem *** GreyhoundBackSpringRDummy ***
+ObjectTemplate.create Spring GreyhoundBackSpringRDummy
+ObjectTemplate.geometry Greyhound_WheelR_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.Grip c_PGFEngineDummyGrip
+ObjectTemplate.setStrength 0
+ObjectTemplate.setDamping 0
+
+
+rem *** GreyhoundBackSpringLDummy ***
+ObjectTemplate.create Spring GreyhoundBackSpringLDummy
+ObjectTemplate.geometry Greyhound_WheelL_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.Grip c_PGFEngineDummyGrip
+ObjectTemplate.setStrength 0
+ObjectTemplate.setDamping 0

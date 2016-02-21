@@ -1,0 +1,305 @@
+rem SoldierSpawnTemplates.con created by Battlecraft 1942
+rem (D:\Battlefield 1942\Mods\bf1942\bf1942\levels\Hawaii/ctf/SoldierSpawnTemplates.con)
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AxisBase_Spawn1
+ObjectTemplate.setSpawnId 0
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint AlliedBase_Spawn1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Maui_Spawn1
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Maui_Spawn2
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Maui_Spawn3
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Maui_Spawn4
+ObjectTemplate.setSpawnId 5
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Maui_Spawn5
+ObjectTemplate.setSpawnId 6
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Oahu_Spawn1
+ObjectTemplate.setSpawnId 7
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Oahu_Spawn2
+ObjectTemplate.setSpawnId 8
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Oahu_Spawn3
+ObjectTemplate.setSpawnId 9
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Oahu_Spawn4
+ObjectTemplate.setSpawnId 10
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Oahu_Spawn5
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Oahu_Spawn6
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Kauai_Spawn1
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Kauai_Spawn2
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Kauai_Spawn3
+ObjectTemplate.setSpawnId 15
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Kauai_Spawn4
+ObjectTemplate.setSpawnId 16
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Kauai_Spawn5
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Hawaii_Spawn1
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Hawaii_Spawn2
+ObjectTemplate.setSpawnId 19
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Hawaii_Spawn3
+ObjectTemplate.setSpawnId 20
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Hawaii_Spawn4
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Hawaii_Spawn5
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Mauna_Loa_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Mauna_Loa_Spawn1
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  Mauna_Loa_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Mauna_Loa_Spawn2
+ObjectTemplate.setSpawnId 24
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  Mauna_Loa_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Mauna_Loa_Spawn3
+ObjectTemplate.setSpawnId 25
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  Pearl_Habour_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Pearl_Habour_Spawn1
+ObjectTemplate.setSpawnId 26
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Pearl_Habour_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Pearl_Habour_Spawn2
+ObjectTemplate.setSpawnId 27
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Pearl_Habour_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Pearl_Habour_Spawn3
+ObjectTemplate.setSpawnId 28
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Pearl_Habour_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Pearl_Habour_Spawn4
+ObjectTemplate.setSpawnId 29
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Kauai_Spawn6
+ObjectTemplate.setSpawnId 30
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Kauai_Spawn7  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Kauai_Spawn7
+ObjectTemplate.setSpawnId 31
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn7  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Oahu_Spawn7
+ObjectTemplate.setSpawnId 32
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn8  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Oahu_Spawn8
+ObjectTemplate.setSpawnId 33
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Maui_Spawn6
+ObjectTemplate.setSpawnId 34
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Maui_Spawn7  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Maui_Spawn7
+ObjectTemplate.setSpawnId 35
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  Pearl_Harbor_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Pearl_Harbor_Spawn1
+ObjectTemplate.setSpawnId 36
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Pearl_Harbor_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Pearl_Harbor_Spawn2
+ObjectTemplate.setSpawnId 37
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  Mauna_Loa_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Mauna_Loa_Spawn4
+ObjectTemplate.setSpawnId 38
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  Mauna_Loa_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Mauna_Loa_Spawn5
+ObjectTemplate.setSpawnId 39
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Hawaii_Spawn6
+ObjectTemplate.setSpawnId 40
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Hawaii_Spawn7  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Hawaii_Spawn7
+ObjectTemplate.setSpawnId 41
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  Oahu_Spawn9  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint Oahu_Spawn9
+ObjectTemplate.setSpawnId 42
+ObjectTemplate.setGroup 3
+
+rem EndOfFile

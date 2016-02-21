@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject crane_anzio_m1
+ObjectTemplate.geometry crane_anzio_m1
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.aiTemplate crane_anzio_m1

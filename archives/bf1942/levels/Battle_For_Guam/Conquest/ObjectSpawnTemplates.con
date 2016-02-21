@@ -1,0 +1,159 @@
+ObjectTemplate.create ObjectSpawner APCSpawner
+ObjectTemplate.setObjectTemplate 2 M3A1
+ObjectTemplate.setObjectTemplate 1 Hanomag
+ObjectTemplate.MinSpawnDelay 35
+ObjectTemplate.MaxSpawnDelay 55
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+ObjectTemplate.create ObjectSpawner FighterSpawner
+ObjectTemplate.setObjectTemplate 2 corsair
+ObjectTemplate.setObjectTemplate 1 zero
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+ObjectTemplate.create ObjectSpawner MachinegunSpawner
+ObjectTemplate.setObjectTemplate 2 Stationary_browning
+ObjectTemplate.setObjectTemplate 1 Stationary_mg42
+ObjectTemplate.SpawnDelay 60
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 120
+ObjectTemplate.Distance 200
+
+ObjectTemplate.create ObjectSpawner AAGunSpawner
+ObjectTemplate.setObjectTemplate 2 AA_allies
+ObjectTemplate.setObjectTemplate 1 flak38
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+ObjectTemplate.create ObjectSpawner torpedoBomberSpawner
+ObjectTemplate.setObjectTemplate 2 sbd-t
+ObjectTemplate.setObjectTemplate 1 aichival-t
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+ObjectTemplate.create ObjectSpawner DiveBomberSpawner
+ObjectTemplate.setObjectTemplate 2 sbd
+ObjectTemplate.setObjectTemplate 1 aichival
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+ObjectTemplate.create ObjectSpawner lcvpSpawner
+ObjectTemplate.setObjectTemplate 2 lcvp
+ObjectTemplate.setObjectTemplate 1 daihatsu
+ObjectTemplate.SpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+ObjectTemplate.create ObjectSpawner HeavyTankSpawner
+ObjectTemplate.setObjectTemplate 2 sherman
+ObjectTemplate.setObjectTemplate 1 chi-ha
+ObjectTemplate.MinSpawnDelay 70
+ObjectTemplate.MaxSpawnDelay 110
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+ObjectTemplate.create ObjectSpawner LightTankSpawner
+ObjectTemplate.setObjectTemplate 2 sherman
+ObjectTemplate.setObjectTemplate 1 chi-ha
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+
+ObjectTemplate.create ObjectSpawner APCSpawner
+ObjectTemplate.setObjectTemplate 2 M3A1
+ObjectTemplate.setObjectTemplate 1 Hanomag
+ObjectTemplate.MinSpawnDelay 35
+ObjectTemplate.MaxSpawnDelay 55
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+
+ObjectTemplate.create ObjectSpawner ScoutCarSpawner
+ObjectTemplate.setObjectTemplate 2 Willy
+ObjectTemplate.setObjectTemplate 1 Kubelwagen
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 30
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+ObjectTemplate.create ObjectSpawner DefgunSpawner
+ObjectTemplate.setObjectTemplate 2 Defgun
+ObjectTemplate.setObjectTemplate 1 Defgun
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+ObjectTemplate.create ObjectSpawner ArtillerySpawner
+ObjectTemplate.setObjectTemplate 2 Priest
+ObjectTemplate.setObjectTemplate 1 Wespe
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+ObjectTemplate.create ObjectSpawner battleshipSpawner
+ObjectTemplate.setObjectTemplate 2 princeow
+ObjectTemplate.setObjectTemplate 1 yamato
+ObjectTemplate.SpawnDelay 400
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 120
+ObjectTemplate.Distance 200
+ObjectTemplate.teamOnVehicle 2
+
+ObjectTemplate.create ObjectSpawner DestroyerSpawner
+ObjectTemplate.setObjectTemplate 2 fletcher
+ObjectTemplate.setObjectTemplate 1 hatsuzuki
+ObjectTemplate.SpawnDelay 250
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 120
+ObjectTemplate.Distance 200
+ObjectTemplate.teamOnVehicle 2
+
+ObjectTemplate.create ObjectSpawner DefgunSpawner
+ObjectTemplate.setObjectTemplate 1 Defgun
+ObjectTemplate.setObjectTemplate 2 Defgun
+ObjectTemplate.MinSpawnDelay 40
+ObjectTemplate.MaxSpawnDelay 80
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+
+rem EndOfFile
+

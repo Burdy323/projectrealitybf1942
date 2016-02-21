@@ -1,0 +1,27 @@
+ObjectTemplate.create Kit 0GERD_Officer_Desert
+ObjectTemplate.setType Assault
+ObjectTemplate.setKitTeam 1
+objectTemplate.geometry Kit_Axis_Assault
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Germ_DesertHelmet
+ObjectTemplate.addTemplate German_hippack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_engineer_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_engineer_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_axisKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_mp40.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_binoculars.tga"
+
+ObjectTemplate.setKitIcon 0 "kits/Icon_medic_axis_selected.tga"
+ObjectTemplate.setKitName 0 "OFFICER"
+ObjectTemplate.setKitActiveName 0 "ACTIVE OFFICERS"
+
+ObjectTemplate.addTemplate KnifeAxis
+ObjectTemplate.addTemplate MP40
+
+ObjectTemplate.addTemplate Binoculars
+ObjectTemplate.aiTemplate  Assault

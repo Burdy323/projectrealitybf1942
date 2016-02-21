@@ -1,0 +1,40 @@
+rem ControlPoints.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Huertgen_Forest/conquest/ControlPoints.con)
+
+rem ----------------------------------------- 
+rem ---  Lammersdorf  ---
+rem ----------------------------------------- 
+Object.create Lammersdorf
+Object.absolutePosition 932.026611/75.824997/169.154999
+
+rem ----------------------------------------- 
+rem ---  Scharnhorst_Line  ---
+rem ----------------------------------------- 
+Object.create Scharnhorst_Line
+Object.absolutePosition 768.130920/84.812683/411.921356
+
+rem ----------------------------------------- 
+rem ---  Kall_River_Gorge  ---
+rem ----------------------------------------- 
+Object.create Kall_River_Gorge
+Object.absolutePosition 625.464844/40.846878/519.982178
+
+rem ----------------------------------------- 
+rem ---  Schill_Line  ---
+rem ----------------------------------------- 
+Object.create Schill_Line
+Object.absolutePosition 443.295898/65.978897/592.831543
+
+rem ----------------------------------------- 
+rem ---  Raffelsbrand  ---
+rem ----------------------------------------- 
+Object.create Raffelsbrand
+Object.absolutePosition 524.111694/76.148438/806.846252
+
+rem ----------------------------------------- 
+rem ---  Richelskaul  ---
+rem ----------------------------------------- 
+Object.create Richelskaul
+Object.absolutePosition 176.969543/86.034378/649.650513
+
+rem EndOfFile

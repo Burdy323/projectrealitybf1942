@@ -1,0 +1,47 @@
+if v_arg1 == host
+rem *** pathfinding debug mode
+rem game.aiPathfindingDebuggingActive 1
+
+rem *** Set number of maps ***
+rem ai.setNSearchMaps 2 *** DEPRICATED ***
+rem ai.setNSearchTypes 2 *** DEPRICATED ***
+
+rem *** Set number of AStar resources ***
+rem ai.numAStarResources 12
+rem *** Setup map parameters ***
+rem *** Tank ***
+rem *** searchMap name/ waterHeight/ waterDepth/maxSlope/brush/lowClipLevel/hiClipLevel/ 
+rem considerAITypes/createSecondLayerMap/ firstLevel-secondlevel-thirdlevel (for second layer map)
+rem *** searchType name/mapNum/minSearchLevel
+rem *** Tank ***
+ai.addSearchMap Tank0 0 0 30 3.0 0.3 2.5 0 0 1.0/3.0/7.0
+ai.addSearchType Tank 0 0
+ai.setMapSpawnPoints 0 156/240 , 147/245 , 691/330
+ai.setSmoothing 0 20
+rem *** Infantry ***
+ai.addSearchMap Infantry1 0 1.5 40 1.0 0.4 2.0 1 0 1.0/3.0/7.0
+ai.addSearchType Infantry 1 0
+ai.setMapSpawnPoints 1 167/229 , 833/767 , 176/207 , 197/198 , 162/899 , 251/904 , 830/821 , 926/779 , 612/203 , 605/260 , 612/238 , 887/273 , 889/252 , 877/293 , 374/501 , 398/502 , 400/517 , 91/860
+ai.setSmoothing 1 10
+rem *** Boat ***
+ai.addSearchMap Boat2 1 1.4 30 4.0 0.3 2.5 0 0 0/0/0
+ai.addSearchType Boat 2 2
+ai.setMapSpawnPoints 2 
+ai.setSmoothing 2 20
+rem *** Landingcraft ***
+ai.addSearchMap LandingCraft3 1 1.4 30 4.0 0.3 2.5 0 0 0/0/0
+ai.addSearchType LandingCraft 3 2
+ai.setMapSpawnPoints 3 
+ai.setSmoothing 3 20
+rem *** Car ***
+ai.addSearchMap Car4  0 0 35 3.0 0.3 2.5 0 0 0/0/0 
+ai.addSearchType Car 4 0
+ai.setMapSpawnPoints 4 197/184 , 232/206 , 213/865 , 836/294 , 762/740 , 768/733 , 837/691 , 876/233 , 484/498 , 595/202 , 596/238 , 370/514 , 873/273 , 754/746 , 771/719 , 728/226 , 974/395
+ai.setSmoothing 4 6
+rem *** Load maps ***
+ai.loadMaps
+
+
+
+endif
+

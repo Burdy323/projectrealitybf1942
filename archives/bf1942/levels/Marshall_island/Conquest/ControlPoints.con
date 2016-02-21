@@ -1,0 +1,28 @@
+rem ControlPoints.con created by Battlecraft 1942
+rem (D:\Battlefield 1942\Mods\bf1942\bf1942\levels\Marshall_island/conquest/ControlPoints.con)
+
+rem ----------------------------------------- 
+rem ---  ALLIES_Middle_village  ---
+rem ----------------------------------------- 
+Object.create ALLIES_Middle_village
+Object.absolutePosition 1100.66/104.17/1024.92
+
+rem ----------------------------------------- 
+rem ---  ALLIES_East_village  ---
+rem ----------------------------------------- 
+Object.create ALLIES_East_village
+Object.absolutePosition 1271.00/109.48/1055.42
+
+rem ----------------------------------------- 
+rem ---  ALLIES_Medic_Airfield  ---
+rem ----------------------------------------- 
+Object.create ALLIES_Medic_Airfield
+Object.absolutePosition 980.86/104.23/1184.31
+
+rem ----------------------------------------- 
+rem ---  ALLIES_South_Airfield  ---
+rem ----------------------------------------- 
+Object.create ALLIES_South_Airfield
+Object.absolutePosition 892.68/104.17/807.60
+
+rem EndOfFile

@@ -1,0 +1,9 @@
+
+GeometryTemplate.create StandardMesh sliper
+GeometryTemplate.file ../bf1942/Levels/Remagen/standardMesh/sliper
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 15
+GeometryTemplate.setLodDistance 2 30
+GeometryTemplate.setLodDistance 3 50
+GeometryTemplate.setLodDistance 4 100
+GeometryTemplate.setLodDistance 5 300

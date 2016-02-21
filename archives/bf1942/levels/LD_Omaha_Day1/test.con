@@ -1,0 +1,25 @@
+
+rem ***  
+Object.create stecrate2_m1
+Object.absolutePosition 1000.11/73.2599/498.422
+Object.rotation -92.8288/26.253/-1.25195
+
+rem ***  
+Object.create stone_wall_2_m1
+Object.absolutePosition 809.579/73.82/566.381
+Object.rotation -123.062/-2.71486/1.50532
+
+rem ***  
+Object.create stone_wall_2_m1
+Object.absolutePosition 816.089/73.4496/554.48
+Object.rotation 65.9381/7.26822/0.479698
+
+rem ***  
+Object.create stone_wall_2_m1
+Object.absolutePosition 813.397/73.4816/559.932
+Object.rotation -123.062/-2.71486/1.50532
+
+rem ***  
+Object.create stone_wall_2_m1
+Object.absolutePosition 761.701/68.7261/644.93
+Object.rotation -102.929/-1.44999/-6.29027

@@ -1,0 +1,1843 @@
+rem StaticObjects created by Battlecraft 1942
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 602.48/55.61/660.80
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 631.00/54.41/669.00
+Object.rotation -98.26/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 643.00/54.58/703.00
+Object.rotation 41.59/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mdaihatsu
+Object.absolutePosition 539.06/53.98/894.97
+Object.rotation -144.77/-8.16/0.00
+rem
+rem ***  ***
+rem
+Object.create mdaihatsu
+Object.absolutePosition 523.94/54.14/890.46
+Object.rotation -182.64/-16.37/-176.97
+rem
+rem ***  ***
+rem
+Object.create mlcvp
+Object.absolutePosition 640.51/53.77/634.49
+Object.rotation -15.46/-4.90/0.00
+rem
+rem ***  ***
+rem
+Object.create mlcvp
+Object.absolutePosition 647.78/53.79/642.29
+Object.rotation -15.46/-7.25/-6.00
+rem
+rem ***  ***
+rem
+Object.create mlcvp
+Object.absolutePosition 630.84/53.72/629.27
+Object.rotation -4.98/-4.90/0.00
+rem
+rem ***  ***
+rem
+Object.create mtankobs1
+Object.absolutePosition 640.90/55.87/649.08
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mtankobs1
+Object.absolutePosition 635.00/55.75/641.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mtankobs1
+Object.absolutePosition 625.27/55.76/641.56
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mtankobs1
+Object.absolutePosition 647.00/55.43/657.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mtankobs1
+Object.absolutePosition 631.00/55.44/639.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mtankobs1
+Object.absolutePosition 620.34/55.96/646.13
+Object.rotation 0.00/-8.20/8.49
+rem
+rem ***  ***
+rem
+Object.create mtype38
+Object.absolutePosition 505.14/53.60/770.92
+Object.rotation 44.64/-11.38/-10.26
+rem
+rem ***  ***
+rem
+Object.create mtype38
+Object.absolutePosition 607.14/51.50/761.21
+Object.rotation -163.02/-41.64/0.00
+rem
+rem ***  ***
+rem
+Object.create msbd6
+Object.absolutePosition 414.44/54.64/801.65
+Object.rotation -14.05/-2.04/0.00
+rem
+rem ***  ***
+rem
+Object.create mtankobs1
+Object.absolutePosition 532.00/54.87/889.00
+Object.rotation 0.00/7.85/0.00
+rem
+rem ***  ***
+rem
+Object.create mtankobs1
+Object.absolutePosition 545.00/53.99/888.00
+Object.rotation 0.00/20.17/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 595.25/54.88/663.70
+Object.rotation 31.06/-11.69/1.70
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 605.45/54.33/670.45
+Object.rotation -56.41/0.00/-8.32
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 635.71/55.80/671.92
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 609.31/55.77/660.77
+Object.rotation -74.69/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm5
+Object.absolutePosition 645.69/55.59/665.28
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 645.73/55.81/669.69
+Object.rotation -81.56/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mhut2
+Object.absolutePosition 535.00/54.96/885.41
+Object.rotation 90.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mbunker1
+Object.absolutePosition 355.72/55.72/840.11
+Object.rotation 33.90/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create msandbag1
+Object.absolutePosition 556.49/54.70/869.36
+Object.rotation -215.99/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mpacificfarm2
+Object.absolutePosition 326.36/56.25/864.74
+Object.rotation -91.57/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mguardtow
+Object.absolutePosition 363.10/55.42/864.58
+Object.rotation -90.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mhut
+Object.absolutePosition 642.32/55.80/678.77
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 613.25/54.31/665.91
+Object.rotation 0.00/7.23/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 569.20/56.42/754.80
+Object.rotation 0.00/0.00/-2.01
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 363.39/53.53/854.16
+Object.rotation 0.00/4.81/1.35
+rem
+rem ***  ***
+rem
+Object.create mhut
+Object.absolutePosition 645.29/55.28/688.49
+Object.rotation 4.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mhut
+Object.absolutePosition 635.35/53.42/685.56
+Object.rotation -67.33/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 640.00/55.34/756.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 594.00/55.14/827.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 571.00/56.85/745.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 571.35/56.71/752.38
+Object.rotation -118.36/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm2
+Object.absolutePosition 582.64/55.37/685.57
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm2
+Object.absolutePosition 648.00/55.33/711.00
+Object.rotation 142.30/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm2
+Object.absolutePosition 641.00/56.21/661.00
+Object.rotation 232.86/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm2
+Object.absolutePosition 509.00/55.34/786.00
+Object.rotation 142.30/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm2
+Object.absolutePosition 588.00/55.55/818.00
+Object.rotation 142.30/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm2
+Object.absolutePosition 546.00/54.32/873.00
+Object.rotation 267.11/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm2
+Object.absolutePosition 476.56/54.15/858.43
+Object.rotation 35.52/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm2
+Object.absolutePosition 402.00/54.51/802.00
+Object.rotation 282.13/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm2
+Object.absolutePosition 381.00/54.55/874.00
+Object.rotation 142.30/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm2
+Object.absolutePosition 312.00/55.67/864.00
+Object.rotation 68.62/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 366.39/55.04/845.44
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 402.29/54.14/875.59
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 494.00/54.07/865.00
+Object.rotation -312.99/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 557.26/52.25/877.17
+Object.rotation -233.24/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 602.00/55.28/813.00
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 606.00/55.24/799.00
+Object.rotation -225.29/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 620.00/55.13/802.00
+Object.rotation -378.68/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 650.00/55.02/695.00
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 628.00/51.47/790.00
+Object.rotation -215.73/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 622.00/55.45/658.00
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 594.00/53.26/676.00
+Object.rotation -243.74/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 575.00/55.39/712.00
+Object.rotation -171.10/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 576.00/54.11/727.00
+Object.rotation -245.38/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 549.00/56.32/755.00
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 522.00/55.99/774.00
+Object.rotation -229.22/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 487.00/52.03/784.00
+Object.rotation -112.52/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 423.00/51.57/801.00
+Object.rotation -325.93/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 400.00/54.58/807.00
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 365.00/54.36/825.00
+Object.rotation -253.22/-13.12/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm5
+Object.absolutePosition 608.28/55.53/652.24
+Object.rotation 88.02/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm5
+Object.absolutePosition 575.83/55.59/758.54
+Object.rotation -62.62/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 575.83/54.83/711.36
+Object.rotation 31.06/-11.69/1.70
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 643.99/55.77/664.22
+Object.rotation 31.06/-11.69/1.70
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 633.00/55.62/662.00
+Object.rotation 31.06/-8.19/9.02
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 628.00/54.11/666.00
+Object.rotation 31.06/-3.76/16.32
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 622.12/56.18/648.94
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 587.00/55.20/677.00
+Object.rotation 20.03/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 577.00/56.17/740.00
+Object.rotation -151.17/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 534.00/55.81/767.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 499.00/55.27/785.00
+Object.rotation 78.07/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 411.73/54.62/803.84
+Object.rotation -241.61/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 317.00/55.63/855.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 341.46/54.26/868.47
+Object.rotation 116.95/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 371.10/51.96/861.04
+Object.rotation 242.56/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 439.00/54.58/867.00
+Object.rotation 194.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 520.00/54.40/883.00
+Object.rotation 87.82/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 550.37/54.18/884.07
+Object.rotation 138.46/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 530.93/54.11/876.97
+Object.rotation 306.91/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 502.58/54.76/863.65
+Object.rotation -88.56/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 567.00/55.55/724.00
+Object.rotation 7.97/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 632.00/55.31/770.00
+Object.rotation 11.73/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 575.00/55.08/831.00
+Object.rotation 29.05/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 537.77/54.81/778.26
+Object.rotation 131.05/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 572.00/55.11/762.00
+Object.rotation 116.95/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 598.00/55.71/805.00
+Object.rotation 4.75/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 613.00/54.73/812.00
+Object.rotation 150.26/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 637.00/55.80/783.00
+Object.rotation 180.23/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 644.00/54.97/718.00
+Object.rotation 116.95/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 589.00/54.67/683.00
+Object.rotation 116.95/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 627.00/55.72/657.00
+Object.rotation 116.95/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 649.99/55.09/680.60
+Object.rotation 196.97/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 579.00/55.49/719.00
+Object.rotation 231.10/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 616.00/54.95/795.00
+Object.rotation 301.15/1.80/13.60
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 479.00/54.20/783.00
+Object.rotation 58.87/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 427.00/52.42/799.84
+Object.rotation 217.76/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 393.63/54.50/806.49
+Object.rotation -8.76/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 380.00/52.66/817.00
+Object.rotation -2.49/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 391.00/54.11/816.00
+Object.rotation 160.34/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 393.00/52.55/873.00
+Object.rotation 116.95/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 428.00/55.00/874.00
+Object.rotation 133.51/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 415.00/54.08/868.00
+Object.rotation 274.42/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 343.00/55.07/838.00
+Object.rotation 287.70/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm5
+Object.absolutePosition 426.00/54.25/803.00
+Object.rotation -36.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm5
+Object.absolutePosition 419.00/54.72/873.00
+Object.rotation 241.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm5
+Object.absolutePosition 519.00/54.22/873.00
+Object.rotation 72.99/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm5
+Object.absolutePosition 386.00/54.45/810.00
+Object.rotation 111.51/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm5
+Object.absolutePosition 362.00/55.28/870.00
+Object.rotation 215.02/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm5
+Object.absolutePosition 579.36/55.34/824.12
+Object.rotation 116.57/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm5
+Object.absolutePosition 523.00/55.71/784.00
+Object.rotation 264.15/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm5
+Object.absolutePosition 538.80/55.54/760.83
+Object.rotation 108.54/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 558.05/55.67/744.76
+Object.rotation 63.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 492.00/55.18/785.00
+Object.rotation 156.16/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 475.00/54.43/854.00
+Object.rotation 63.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 415.96/53.65/803.66
+Object.rotation 204.41/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 357.00/54.70/828.00
+Object.rotation 38.27/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 307.00/55.02/863.00
+Object.rotation 63.50/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 325.00/55.21/871.00
+Object.rotation 170.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 413.00/54.65/874.00
+Object.rotation 170.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 510.00/54.46/870.00
+Object.rotation 143.23/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 585.00/55.42/832.00
+Object.rotation 198.86/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 586.00/52.39/821.00
+Object.rotation 133.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 640.00/55.24/762.00
+Object.rotation 268.86/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 636.00/53.57/742.00
+Object.rotation 77.57/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 579.86/54.66/728.54
+Object.rotation 260.08/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 555.00/56.39/768.00
+Object.rotation 189.67/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 378.63/54.73/827.22
+Object.rotation 214.02/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm6
+Object.absolutePosition 332.00/53.81/846.00
+Object.rotation 37.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 606.00/55.25/806.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 578.00/55.07/836.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 548.00/54.54/884.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 514.00/54.47/873.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 486.00/54.40/855.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 506.00/54.73/866.00
+Object.rotation -139.51/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 435.00/54.56/866.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 401.00/54.18/869.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 362.00/55.32/859.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 348.00/55.02/867.00
+Object.rotation -108.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 384.00/54.57/822.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 402.00/54.58/805.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 485.00/54.50/785.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 518.00/55.57/786.00
+Object.rotation -52.52/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 545.00/56.45/761.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 568.00/56.15/732.00
+Object.rotation 84.28/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 585.00/55.17/680.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 582.00/54.81/691.00
+Object.rotation -71.49/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 643.00/55.09/696.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 638.00/56.29/651.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 621.00/55.90/653.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 623.00/54.97/792.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 589.00/55.57/810.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 529.00/54.97/883.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1smal
+Object.absolutePosition 381.00/54.82/867.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 646.00/55.03/714.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 651.00/54.59/705.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 642.00/54.98/693.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 637.00/51.21/674.00
+Object.rotation 73.47/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 638.00/55.36/768.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 636.00/51.12/760.00
+Object.rotation -38.02/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 560.00/56.90/758.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 596.00/55.45/817.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 536.11/49.79/876.25
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 493.00/54.49/857.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 468.00/52.98/859.00
+Object.rotation 72.99/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 489.75/51.02/859.25
+Object.rotation -31.56/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 429.00/54.83/867.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 389.00/50.64/868.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 408.00/54.64/871.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 375.00/46.38/865.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 357.00/54.72/869.00
+Object.rotation -224.60/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 337.00/55.92/845.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 328.00/55.80/851.00
+Object.rotation -155.45/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 314.00/55.63/859.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 332.00/51.59/871.00
+Object.rotation 81.67/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 377.00/54.75/821.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 385.00/51.89/816.00
+Object.rotation -198.73/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 394.00/54.80/811.00
+Object.rotation -154.17/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 407.00/54.54/801.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 487.00/54.79/781.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 495.00/51.79/782.00
+Object.rotation -159.29/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 504.00/55.07/780.00
+Object.rotation -36.34/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 529.00/56.04/778.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 516.00/50.47/781.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 543.00/56.74/767.00
+Object.rotation -106.06/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 566.00/56.65/739.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 572.00/56.25/721.00
+Object.rotation -69.35/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 539.55/53.97/886.60
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 476.00/53.97/779.00
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 567.00/53.97/768.00
+Object.rotation -312.99/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 631.00/53.97/781.00
+Object.rotation -233.24/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 610.40/53.97/808.02
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 548.57/56.81/762.43
+Object.rotation -225.29/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 562.57/55.93/765.43
+Object.rotation -378.68/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 525.02/54.14/874.03
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 636.68/52.68/774.88
+Object.rotation -215.73/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 636.94/53.97/751.37
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 613.77/53.97/654.99
+Object.rotation -243.74/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 638.89/53.97/745.85
+Object.rotation -241.25/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 646.29/52.38/700.01
+Object.rotation -245.38/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 622.00/53.97/658.00
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 595.00/53.97/677.00
+Object.rotation -229.22/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 556.89/52.75/751.89
+Object.rotation -112.52/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 370.86/53.97/825.07
+Object.rotation -325.93/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 334.34/53.97/848.21
+Object.rotation -286.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 322.56/53.97/853.57
+Object.rotation -253.22/-13.12/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 529.52/54.91/888.17
+Object.rotation -119.02/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ladder_10m_m1
+Object.absolutePosition 361.31/61.62/864.61
+Object.rotation 90.00/4.71/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 589.57/53.97/676.46
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 613.84/55.82/653.98
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 626.29/55.98/654.38
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 635.00/55.43/669.00
+Object.rotation 0.00/0.00/8.49
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 647.65/54.78/700.21
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 647.03/55.24/707.36
+Object.rotation 90.08/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 644.00/54.99/715.81
+Object.rotation -64.89/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 583.45/54.37/684.23
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 574.39/55.91/720.27
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 578.00/55.97/732.00
+Object.rotation 0.00/0.00/-9.46
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 574.00/56.51/742.00
+Object.rotation -58.46/-5.12/-4.83
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 371.60/54.65/864.55
+Object.rotation -35.44/-4.07/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm1
+Object.absolutePosition 369.00/55.16/872.00
+Object.rotation -194.43/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 600.00/55.16/670.00
+Object.rotation -171.10/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 593.33/55.73/668.81
+Object.rotation -300.49/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 544.00/55.88/773.00
+Object.rotation -171.10/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm3
+Object.absolutePosition 560.84/54.91/873.21
+Object.rotation -214.26/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mppalm4
+Object.absolutePosition 550.89/53.98/867.19
+Object.rotation 306.91/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 597.63/55.08/670.85
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 604.91/55.72/660.52
+Object.rotation -47.68/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 569.18/54.79/760.56
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 560.67/55.16/766.50
+Object.rotation 0.00/1.15/-1.07
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 551.96/56.82/768.77
+Object.rotation 74.28/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 541.00/56.21/773.00
+Object.rotation -92.47/-4.14/-10.20
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 532.00/55.80/776.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 522.00/55.80/782.00
+Object.rotation 0.00/0.00/-3.15
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 511.01/55.44/782.10
+Object.rotation -126.37/-2.06/1.03
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 499.39/54.80/784.70
+Object.rotation -27.10/-0.02/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 559.00/57.10/755.00
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 563.87/56.82/745.68
+Object.rotation -61.10/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 368.00/54.71/828.00
+Object.rotation 0.00/-0.83/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 377.18/54.87/822.53
+Object.rotation 72.16/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 385.49/55.23/814.67
+Object.rotation -93.32/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 395.93/54.72/807.92
+Object.rotation 68.23/-1.16/-6.46
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 332.96/55.30/848.09
+Object.rotation 0.00/-5.11/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 311.00/55.47/863.00
+Object.rotation 51.51/-9.14/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 366.22/54.59/869.19
+Object.rotation 0.00/-5.11/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 381.00/54.54/870.00
+Object.rotation 0.00/-5.11/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 490.54/54.41/785.32
+Object.rotation 31.06/-11.69/1.70
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 489.83/54.62/782.90
+Object.rotation -12.41/-16.08/2.78
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 482.00/53.23/783.00
+Object.rotation -17.31/-7.79/6.33
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 485.00/54.57/781.00
+Object.rotation 31.06/-11.69/1.70
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 475.09/53.39/782.73
+Object.rotation -129.96/-3.29/1.70
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 423.47/53.83/800.38
+Object.rotation -129.96/-3.29/1.70
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 405.97/54.31/803.17
+Object.rotation -129.96/-3.29/1.70
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 359.91/55.07/829.16
+Object.rotation -129.96/1.47/1.70
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 314.53/55.20/869.35
+Object.rotation -129.96/-5.57/-2.22
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 343.02/54.19/865.99
+Object.rotation -129.96/-7.07/-3.74
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 350.50/54.83/866.50
+Object.rotation -129.96/-6.21/-11.31
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 353.63/55.78/851.88
+Object.rotation -129.96/-3.29/1.70
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 577.80/54.39/833.55
+Object.rotation -51.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 586.33/55.54/826.17
+Object.rotation -51.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 592.27/55.70/816.24
+Object.rotation -51.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 602.03/55.16/818.51
+Object.rotation 72.74/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 599.81/55.40/808.42
+Object.rotation -51.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 607.76/55.15/802.35
+Object.rotation -159.38/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 615.67/55.16/799.24
+Object.rotation -51.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 624.97/55.17/791.46
+Object.rotation -51.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 632.15/55.61/782.61
+Object.rotation 26.10/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 634.74/55.42/772.96
+Object.rotation -13.28/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 639.00/55.28/763.00
+Object.rotation 39.72/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 636.20/55.29/750.71
+Object.rotation -62.54/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 550.36/56.72/760.15
+Object.rotation -51.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 541.51/56.62/762.87
+Object.rotation -51.63/0.00/10.93
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 570.03/55.76/730.25
+Object.rotation -51.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1b
+Object.absolutePosition 387.85/53.81/869.96
+Object.rotation -51.63/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 566.26/55.00/738.18
+Object.rotation -56.41/0.00/-8.32
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 398.28/53.74/872.18
+Object.rotation -56.41/0.00/-8.32
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 407.59/54.20/871.41
+Object.rotation -56.41/0.00/-8.32
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 416.72/54.08/870.87
+Object.rotation -56.41/0.00/-4.10
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 423.23/54.54/871.81
+Object.rotation -56.41/0.00/-8.32
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 429.00/54.30/868.64
+Object.rotation -56.41/0.00/-8.32
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 433.10/54.27/868.10
+Object.rotation -88.95/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 438.68/54.21/867.79
+Object.rotation -172.22/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 522.80/54.18/879.57
+Object.rotation -172.22/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 514.89/53.67/875.09
+Object.rotation -142.32/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 509.90/53.87/869.41
+Object.rotation -177.16/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 503.43/54.47/865.94
+Object.rotation -229.85/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 496.67/54.22/861.70
+Object.rotation -172.22/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 490.93/54.38/858.21
+Object.rotation -137.92/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 484.48/53.99/856.34
+Object.rotation -250.47/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 476.05/54.19/857.13
+Object.rotation -281.02/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mfcluster1
+Object.absolutePosition 468.90/53.93/859.19
+Object.rotation -315.37/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 319.82/56.50/862.37
+Object.rotation 90.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 535.38/55.08/887.31
+Object.rotation 180.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 642.19/55.83/677.01
+Object.rotation 180.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 634.11/56.52/648.48
+Object.rotation 0.00/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 531.61/55.05/885.44
+Object.rotation 87.32/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 352.76/55.92/843.72
+Object.rotation -56.16/0.00/0.00
+rem
+rem ***  ***
+rem
+Object.create ammobox
+Object.absolutePosition 506.51/55.48/773.22
+Object.rotation 47.43/-11.27/-8.45
+rem
+rem ***  ***
+rem
+Object.create mediclocker
+Object.absolutePosition 501.98/53.47/765.26
+Object.rotation 205.97/-73.50/3.65

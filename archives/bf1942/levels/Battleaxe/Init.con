@@ -1,0 +1,68 @@
+rem
+rem **** Initialize level specific rendering settings. 
+rem
+ShaderManager.setTextureParam envmap bf1942\levels\Battleaxe\Textures\ENVMAP_G_.rcm
+renderer.vertexFogEnable 1 
+renderer.fogColorVec 0.738/0.679/0.547
+renderer.globalLodPercent 1
+renderer.globalAmbientColor .12/.11/.1
+renderer.ambientColor .08/.07/.06
+renderer.diffuseColor .5/.45/.4
+renderer.specularColor .3/.3/.3
+textureManager.alternativePath Texture/Africa
+renderer.animatedMeshAmbientColor 0.25
+
+shadow.shadowColor 0.5
+
+Game.setViewDistance 800
+Game.spawnPlayers 1
+renderer.fogstart 100
+renderer.fogend 800
+
+rem 
+rem *** Define flags ***
+rem
+ObjectTemplate.create Flag BlueFlag
+ObjectTemplate.team 1
+ObjectTemplate.networkableInfo FlagBodyInfo
+ObjectTemplate.radius 5
+ObjectTemplate.TimeToReSpawn 10
+ObjectTemplate.addTemplate AnimatedGeFlag
+
+ObjectTemplate.create Flag RedFlag
+ObjectTemplate.team 2
+ObjectTemplate.networkableInfo FlagBodyInfo
+ObjectTemplate.radius 5
+ObjectTemplate.TimeToReSpawn 10
+ObjectTemplate.addTemplate AnimatedUkFlag
+
+game.setTeamSkin 1 GermanSoldier
+game.setKit 1 0 0GERD_Officer_Desert
+game.setKit 1 1 1GERD_Rifle_Desert
+game.setKit 1 2 2GERD_Support_Desert
+game.setKit 1 3 3GERD_Anti-Tank_Desert
+game.setKit 1 4 4GERD_Medic_Desert
+
+game.setTeamSkin 2 BritishSoldier
+game.setKit 2 0 0BRIT_Officer
+game.setKit 2 1 1BRIT_Rifle
+game.setKit 2 2 2BRIT_Support
+game.setKit 2 3 3BRIT_Anti-Tank
+game.setKit 2 4 4BRIT_Medic
+
+
+rem
+rem *** Shader Default Color ***
+rem
+shaderManager.setDefaultShaderSolidColor 0.2/0.2/0.2
+
+run Init/SkyAndSun
+run Init/Terrain
+
+run Sounds/Environment
+
+rem *** Set team 1 ***
+game.setBeforeSpawnCameraPosition 1 1201.83/66.8514/892.928
+rem *** Set team 2 ***
+game.setBeforeSpawnCameraPosition 2 1201.83/66.8514/892.928
+game.setLevelCheck 3802434840

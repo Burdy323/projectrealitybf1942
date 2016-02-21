@@ -1,0 +1,46 @@
+rem ObjectSpawnTemplates.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Battle_of_Hurtgen_Forest/conquest/ObjectSpawnTemplates.con)
+
+rem ----------------------------------------- 
+rem ---  Jeep_allied_spawn_1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Jeep_allied_spawn_1
+ObjectTemplate.setObjectTemplate 1 kubelwagen
+ObjectTemplate.setObjectTemplate 2 willy
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 30
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  Halftrack_spawn_1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner Halftrack_spawn_1
+ObjectTemplate.setObjectTemplate 1 hanomag
+ObjectTemplate.setObjectTemplate 2 m3a1
+ObjectTemplate.MinSpawnDelay 35
+ObjectTemplate.MaxSpawnDelay 36
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem ----------------------------------------- 
+rem ---  machinegune_allied_base  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner machinegune_allied_base
+ObjectTemplate.setObjectTemplate 1 stationary_mg42
+ObjectTemplate.setObjectTemplate 2 stationary_browning
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 11
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+
+rem EndOfFile

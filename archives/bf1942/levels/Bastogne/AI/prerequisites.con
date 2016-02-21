@@ -1,0 +1,38 @@
+rem *** Create Prerequisites ***
+
+
+rem *** German on Battle for the Bulge ***
+
+aiStrategy.createPrerequisite westPrereq
+aiStrategy.addCondition westCond     8.0
+rem aiStrategy.addCondition timeCond     0.05
+
+aiStrategy.createPrerequisite eastPrereq
+aiStrategy.addCondition eastCond     8.0
+rem aiStrategy.addCondition timeCond     0.05
+
+aiStrategy.createPrerequisite bridgePrereq
+aiStrategy.addCondition bridgeCond    20.0
+rem aiStrategy.addCondition timeCond     0.05
+
+aiStrategy.createPrerequisite doubleFlankPrereq
+aiStrategy.addCondition doubleFrontCond    15.0
+rem aiStrategy.addCondition timeCond     0.05
+
+aiStrategy.createPrerequisite finalPushPrereq
+aiStrategy.addCondition singleFrontCond   7.5
+
+
+rem *** Tobruk British ***
+
+aiStrategy.createPrerequisite front3Prereq
+aiStrategy.addCondition front3Cond     5.0
+
+aiStrategy.createPrerequisite retakePrereq
+aiStrategy.addCondition retakeCond    12.0
+
+aiStrategy.createPrerequisite breakOutPrereq
+aiStrategy.addCondition oneCPLeftCond  	45.0
+aiStrategy.addCondition noCPLeftCond    65.0
+
+

@@ -1,0 +1,17 @@
+aiTemplatePlugIn.create Cover Mtankobs1Cover
+aiTemplatePlugIn.coverValue 60.0
+
+aiTemplatePlugIn.create Physical Mtankobs1Physical
+
+rem *** AITemplate ***
+aiTemplate.create Mtankobs1
+
+aiTemplate.addType ITStructure
+aiTemplate.addType ITNoTemperature
+aiTemplate.degeneration 1
+aiTemplate.allowedTimeDiff -1
+aiTemplate.basicTemp 1
+aiTemplate.commonKnowledge 1
+rem aiTemplate.addPlugIn Mtankobs1Unit
+aiTemplate.addPlugIn Mtankobs1Cover
+aiTemplate.addPlugIn Mtankobs1Physical

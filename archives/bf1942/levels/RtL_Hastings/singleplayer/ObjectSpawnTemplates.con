@@ -1,0 +1,145 @@
+rem ObjectSpawnTemplates.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\RtL_Hastings/conquest/ObjectSpawnTemplates.con)
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner New_Object_Spawn1
+ObjectTemplate.setObjectTemplate 1 sturmgeschutz
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner New_Object_Spawn2
+ObjectTemplate.setObjectTemplate 1 hanomag
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner New_Object_Spawn3
+ObjectTemplate.setObjectTemplate 1 pak40
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner New_Object_Spawn4
+ObjectTemplate.setObjectTemplate 1 renaulttaxi
+ObjectTemplate.setObjectTemplate 2 renaulttaxi
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner New_Object_Spawn5
+ObjectTemplate.setObjectTemplate 2 greyhound
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner New_Object_Spawn6
+ObjectTemplate.setObjectTemplate 2 priest
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn7  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner New_Object_Spawn7
+ObjectTemplate.setObjectTemplate 2 at25
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn8  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner New_Object_Spawn8
+ObjectTemplate.setObjectTemplate 2 aa_allies
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn9  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner New_Object_Spawn9
+ObjectTemplate.setObjectTemplate 2 stationary_browning
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn10  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner New_Object_Spawn10
+ObjectTemplate.setObjectTemplate 2 aa_allies_base
+ObjectTemplate.MinSpawnDelay 10
+ObjectTemplate.MaxSpawnDelay 20
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 0
+
+rem EndOfFile

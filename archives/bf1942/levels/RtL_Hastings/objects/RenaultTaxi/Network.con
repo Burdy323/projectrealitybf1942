@@ -1,0 +1,15 @@
+NetworkableInfo.createNewInfo RenaultTaxiEngineInfo
+NetworkableInfo.setPredictionMode PMLinear
+
+NetworkableInfo.createNewInfo RenaultTaxiSteeringInfo
+NetworkableInfo.setPredictionMode PMLinear
+
+NetworkableInfo.createNewInfo RenaultTaxiBodyInfo
+NetworkableInfo.setPredictionMode PMLinear
+
+NetworkableInfo.createNewInfo RenaultTaxiSpringInfo
+NetworkableInfo.setPredictionMode PMLinear
+
+
+
+

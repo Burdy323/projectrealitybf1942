@@ -1,0 +1,131 @@
+if v_arg1 == host
+rem ----- Host 
+rem ---------------------------------------------------------------------------- 
+
+aiStrategicArea.create AlliedAirfield 571/1464 591/1484 20
+
+aiStrategicArea.create AlliedBase 571/1464 591/1484 50
+
+aiStrategicArea.create AxisAirfield 1187/544 1207/564 20
+
+aiStrategicArea.create AxisBase 1187/544 1207/564 50
+
+aiStrategicArea.create SouthMountainpass 562/1234 572/1244 50
+
+aiStrategicArea.create easternbase 943/928 963/948 200
+
+aiStrategicArea.create NorthMountainPass 697/1434 707/1444 50
+
+aiStrategicArea.create SouthBase 1610/773 1630/793 175
+
+aiStrategicArea.create NorthBase 1334/1038 1354/1058 175
+
+aiStrategicArea.create waypoint 1488/690 1508/710 50
+
+aiStrategicArea.setActive AlliedAirfield
+AIStrategicArea.addNeighbour NorthMountainPass
+AIStrategicArea.addNeighbour SouthMountainpass
+AIStrategicArea.addNeighbour AlliedBase
+AIStrategicArea.addNeighbour AlliedAirfield
+aiStrategicArea.addObjectTypeFlag AirField
+aiStrategicArea.addObjectTypeFlag Close
+aiStrategicArea.addObjectTypeFlag Centre
+AIStrategicArea.setOrderPosition Tank 1562/846
+AIStrategicArea.setOrderPosition Infantery 1562/846
+AIStrategicArea.setOrderPosition Car 1562/846
+aiStrategicArea.setSide 2
+
+aiStrategicArea.setActive AlliedBase
+AIStrategicArea.addNeighbour NorthMountainPass
+AIStrategicArea.addNeighbour SouthMountainpass
+aiStrategicArea.addObjectTypeFlag Base
+AIStrategicArea.setOrderPosition Tank 1702/792
+AIStrategicArea.setOrderPosition Infantery 1702/792
+AIStrategicArea.setOrderPosition Car 1702/792
+aiStrategicArea.setSide 2
+aiStrategicArea.vehicleSearchRadius 190.0
+aiStrategicArea.setTakeable 1 0
+
+aiStrategicArea.setActive AxisAirfield
+AIStrategicArea.addNeighbour AxisBase
+aiStrategicArea.addObjectTypeFlag Close
+aiStrategicArea.addObjectTypeFlag AirField
+AIStrategicArea.setOrderPosition Tank 324/1237
+AIStrategicArea.setOrderPosition Infantery 324/1237
+AIStrategicArea.setOrderPosition Car 324/1237
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive AxisBase
+AIStrategicArea.addNeighbour AxisAirfield
+AIStrategicArea.addNeighbour SouthBase
+aiStrategicArea.addObjectTypeFlag Base
+AIStrategicArea.setOrderPosition Tank 448/1248
+AIStrategicArea.setOrderPosition Infantery 448/1248
+AIStrategicArea.setOrderPosition Car 448/1248
+aiStrategicArea.setSide 1
+aiStrategicArea.vehicleSearchRadius 195.0
+aiStrategicArea.setTakeable 2 0
+
+aiStrategicArea.setActive SouthMountainpass
+AIStrategicArea.addNeighbour AlliedAirfield
+AIStrategicArea.addNeighbour AlliedBase
+AIStrategicArea.addNeighbour easternbase
+aiStrategicArea.addObjectTypeFlag Flank
+aiStrategicArea.addObjectTypeFlag ChokePoint
+AIStrategicArea.setOrderPosition Tank 836/856
+AIStrategicArea.setOrderPosition Infantery 836/856
+AIStrategicArea.setOrderPosition Car 836/856
+
+aiStrategicArea.setActive easternbase
+AIStrategicArea.addNeighbour NorthBase
+AIStrategicArea.addNeighbour NorthMountainPass
+AIStrategicArea.addNeighbour SouthMountainpass
+AIStrategicArea.addNeighbour waypoint
+aiStrategicArea.addObjectTypeFlag StrongPoint
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addObjectTypeFlag Centre
+AIStrategicArea.setOrderPosition Tank 1360/1384
+AIStrategicArea.setOrderPosition Infantery 1360/1384
+AIStrategicArea.setOrderPosition Car 1360/1384
+
+aiStrategicArea.setActive NorthMountainPass
+AIStrategicArea.addNeighbour easternbase
+AIStrategicArea.addNeighbour AlliedAirfield
+AIStrategicArea.addNeighbour AlliedBase
+aiStrategicArea.addObjectTypeFlag Flank
+aiStrategicArea.addObjectTypeFlag ChokePoint
+AIStrategicArea.setOrderPosition Tank 825/1455
+AIStrategicArea.setOrderPosition Infantery 825/1455
+AIStrategicArea.setOrderPosition Car 825/1455
+
+aiStrategicArea.setActive SouthBase
+AIStrategicArea.addNeighbour waypoint
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addObjectTypeFlag Flank
+AIStrategicArea.setOrderPosition Tank 920/600
+AIStrategicArea.setOrderPosition Infantery 920/600
+AIStrategicArea.setOrderPosition Car 920/600
+
+aiStrategicArea.setActive waypoint
+AIStrategicArea.addNeighbour AxisAirfield
+AIStrategicArea.addNeighbour AxisBase
+AIStrategicArea.addNeighbour NorthBase
+AIStrategicArea.addNeighbour easternbase
+AIStrategicArea.addNeighbour SouthBase
+aiStrategicArea.addObjectTypeFlag Flank
+aiStrategicArea.addObjectTypeFlag ChokePoint
+AIStrategicArea.setOrderPosition Tank 920/600
+AIStrategicArea.setOrderPosition Infantery 920/600
+AIStrategicArea.setOrderPosition Car 920/600
+
+aiStrategicArea.setActive NorthBase
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addObjectTypeFlag Flank
+AIStrategicArea.addNeighbour waypoint
+AIStrategicArea.addNeighbour easternbase
+AIStrategicArea.setOrderPosition Tank 865/1810
+AIStrategicArea.setOrderPosition Infantery 865/1810
+AIStrategicArea.setOrderPosition Car 865/1810
+
+rem ----------------------------------------------------------------------------
+endIf

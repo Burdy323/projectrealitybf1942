@@ -1,0 +1,9 @@
+GeometryTemplate.create StandardMesh StaticHatsuzuki
+GeometryTemplate.file Hatsuzuki_M1
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 500
+GeometryTemplate.setLodDistance 2 550
+GeometryTemplate.setLodDistance 3 600
+GeometryTemplate.setLodDistance 4 650
+GeometryTemplate.setLodDistance 5 700
+ 

@@ -1,0 +1,15 @@
+if v_arg1 == host
+
+aiStrategy.createPrerequisite axisHoldGroundPrereq
+aiStrategy.addCondition axisHaveWestCond     3.0
+
+aiStrategy.createPrerequisite axisBreakOutPrereq
+aiStrategy.addCondition axisNeedWestCond    10.0
+
+aiStrategy.createPrerequisite alliedHoldGroundPrereq
+aiStrategy.addCondition alliedHaveWestCond   3.0
+
+aiStrategy.createPrerequisite alliedBreakOutPrereq
+aiStrategy.addCondition alliedNeedWestCond  10.0
+
+endIf

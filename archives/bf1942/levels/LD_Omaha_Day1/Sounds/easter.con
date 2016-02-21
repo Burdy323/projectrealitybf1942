@@ -1,0 +1,10 @@
+
+
+rem *** Easter ***
+ObjectTemplate.create AreaObject Easter
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.loadSoundScript easter.ssc
+ObjectTemplate.triggerRadius 50
+ObjectTemplate.addLinePoint 0/0
+ObjectTemplate.addLinePoint 0.0241699/-0.128174
+ObjectTemplate.addLinePoint -0.134705/-0.0863037

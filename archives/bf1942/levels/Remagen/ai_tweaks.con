@@ -1,0 +1,276 @@
+Var v_info
+Var v_exists 
+
+rem **********************************************************************
+rem *** Direct Behaviour changes ***
+rem **********************************************************************
+
+rem aiSettings.setBotSkill 0.75
+
+rem **********************************************************************
+rem *** kit mods ***
+rem **********************************************************************
+kitTemplate.active Medic
+kitTemplate.setBattleStrength Infantry    5.0
+
+kitTemplate.active AT
+kitTemplate.setBattleStrength Infantry    2.0
+
+kitTemplate.active Assault
+kitTemplate.setStrategicStrength          0 2
+kitTemplate.setStrategicStrength          1 2
+kitTemplate.setBattleStrength LightArmour 5.0
+kitTemplate.setBattleStrength HeavyArmour 2.0
+kitTemplate.setBattleStrength Air         3.0
+
+kitTemplate.active Scout
+kitTemplate.setStrategicStrength          0 1
+kitTemplate.setBattleStrength Air         1.0
+
+
+rem *** Bazooka***
+ObjectTemplate.active BazookaProjectile
+ObjectTemplate.gravityModifier            0.15
+
+rem *************************
+rem *** weapons ai tweaks ***
+rem *************************
+weaponTemplate.active MedPackAI
+weaponTemplate.setStrength Infantry    7.0
+
+weaponTemplate.active RepairPackAI
+weaponTemplate.setStrength LightArmour 6.0
+weaponTemplate.setStrength HeavyArmour 7.0
+weaponTemplate.setStrength NavalArmour 4.0
+weaponTemplate.setStrength Submarine   1.0
+weaponTemplate.setStrength Air         1.0
+
+weaponTemplate.active BazookaRPG
+weaponTemplate.deviation 0.4
+weaponTemplate.deviationCorrectionTime  1.0
+weaponTemplate.setStrength Infantry     0.0
+weaponTemplate.setStrength LightArmour  5.0
+weaponTemplate.setStrength HeavyArmour  4.0
+weaponTemplate.setStrength Air          1.0
+
+rem *** Panzershreck ***
+weaponTemplate.active PanzerschrekRPG
+weaponTemplate.deviation 0.4
+weaponTemplate.deviationCorrectionTime  1.0
+weaponTemplate.setStrength Infantry     0.0
+weaponTemplate.setStrength LightArmour  5.0
+weaponTemplate.setStrength HeavyArmour  4.0
+weaponTemplate.setStrength Air          1.0
+
+rem *** GrenadeAxis ***
+weaponTemplate.active GrenadeAxisAI
+weaponTemplate.minRange  8.0
+weaponTemplate.maxRange 80.0
+weaponTemplate.deviation 1.0
+rem weaponTemplate.deviationCorrectionTime  6.0
+weaponTemplate.setStrength Infantry     8.0
+weaponTemplate.setStrength LightArmour  6.0
+weaponTemplate.setStrength HeavyArmour  2.0
+
+rem *** GrenadeAxis ***
+weaponTemplate.active GrenadeAlliesAI
+weaponTemplate.minRange 10.0
+weaponTemplate.maxRange 80.0
+weaponTemplate.deviation 2.0
+rem weaponTemplate.deviationCorrectionTime  6.0
+weaponTemplate.setStrength Infantry     8.0
+weaponTemplate.setStrength LightArmour  6.0
+weaponTemplate.setStrength HeavyArmour  2.0
+
+rem *** BAR ***
+weaponTemplate.active BarAI
+weaponTemplate.setStrength Infantry    6.0
+weaponTemplate.setStrength LightArmour 2.0
+weaponTemplate.setStrength Air         2.0
+
+rem *** DP ***
+weaponTemplate.active DPAI
+weaponTemplate.setStrength Infantry    6.0
+weaponTemplate.setStrength LightArmour 2.0
+weaponTemplate.setStrength Air         2.0
+
+rem *** JohnsonLMG ***
+weaponTemplate.active JohnsonLMGAI
+weaponTemplate.setStrength Infantry    6.0
+weaponTemplate.setStrength LightArmour 2.0
+weaponTemplate.setStrength Air         2.0
+
+rem *** M1Garand ***
+weaponTemplate.active M1GarandAI
+weaponTemplate.setStrength Infantry    6.0
+weaponTemplate.setStrength LightArmour 2.0
+weaponTemplate.setStrength Air         2.0
+
+rem *** SG44 ***
+weaponTemplate.active SG44AI
+weaponTemplate.setStrength Infantry    6.0
+weaponTemplate.setStrength LightArmour 2.0
+weaponTemplate.setStrength Air         2.0
+
+rem *** Type5 ***
+weaponTemplate.active Type5AI
+weaponTemplate.setStrength Infantry    6.0
+weaponTemplate.setStrength LightArmour 2.0
+weaponTemplate.setStrength Air         2.0
+
+rem *** Type99 ***
+weaponTemplate.active Type99AI
+weaponTemplate.setStrength Infantry    6.0
+weaponTemplate.setStrength LightArmour 2.0
+weaponTemplate.setStrength Air         2.0
+
+rem *** thompson ***
+weaponTemplate.active ThompsonSMG
+weaponTemplate.setStrength Infantry    6.0
+
+rem *** Mp18 ***
+weaponTemplate.active Mp18AI
+weaponTemplate.setStrength Infantry    6.0
+
+rem *** MP40 ***
+weaponTemplate.active MP40AI
+weaponTemplate.setStrength Infantry    6.0
+
+rem *** NO4 ***
+weaponTemplate.active No4AI
+weaponTemplate.setStrength Infantry    6.0
+weaponTemplate.setStrength Air         2.0
+
+rem *** SniperNO4 ***
+weaponTemplate.active SniperNo4AI
+weaponTemplate.setStrength Infantry    6.0
+weaponTemplate.setStrength Air         2.0
+
+rem *** K98 ***
+weaponTemplate.active K98AI
+weaponTemplate.setStrength Infantry    6.0
+weaponTemplate.setStrength Air         2.0
+
+rem *** SniperK98 ***
+weaponTemplate.active SniperK98AI
+weaponTemplate.setStrength Infantry    6.0
+weaponTemplate.setStrength Air         2.0
+
+rem *** P38***
+weaponTemplate.active P38AI
+weaponTemplate.setStrength Infantry    1.0
+
+rem *** Colt ***
+weaponTemplate.active ColtAI
+weaponTemplate.setStrength Infantry    1.0
+
+rem *** Knife Allies ***
+weaponTemplate.active KnifeAllies
+weaponTemplate.setStrength Infantry    8.0
+weaponTemplate.maxRange                1.5
+
+rem *** Knife Axis ***
+weaponTemplate.active KnifeAxis
+weaponTemplate.setStrength Infantry    8.0
+weaponTemplate.maxRange                1.5
+
+rem ****************************************
+rem *** tank tweaks ***
+weaponTemplate.active Chi-ha_MainGun
+weaponTemplate.setStrength Infantery    28.0
+weaponTemplate.setStrength LightArmour  7.0
+weaponTemplate.setStrength HeavyArmour  5.0
+weaponTemplate.setStrength NavalArmour  1.0
+
+weaponTemplate.active PanzerIVMainGun
+weaponTemplate.setStrength Infantry     27.0
+weaponTemplate.setStrength LightArmour  8.0
+weaponTemplate.setStrength HeavyArmour  7.0
+weaponTemplate.setStrength NavalArmour  1.0
+
+weaponTemplate.active ShermanMainGun
+weaponTemplate.setStrength Infantery    29.0
+weaponTemplate.setStrength LightArmour  8.0
+weaponTemplate.setStrength HeavyArmour  7.0
+weaponTemplate.setStrength NavalArmour  1.0
+
+weaponTemplate.active TigerMainGun
+weaponTemplate.setStrength Infantry     29.0
+weaponTemplate.setStrength LightArmour  9.0
+weaponTemplate.setStrength HeavyArmour  9.0
+weaponTemplate.setStrength NavalArmour  2.0
+
+weaponTemplate.active M10MainGun
+weaponTemplate.setStrength Infantry     29.0
+weaponTemplate.setStrength LightArmour  7.0
+weaponTemplate.setStrength HeavyArmour  8.0
+weaponTemplate.setStrength NavalArmour  1.0
+
+weaponTemplate.active T34MainGun
+weaponTemplate.setStrength Infantry     29.0
+weaponTemplate.setStrength LightArmour  7.0
+weaponTemplate.setStrength HeavyArmour  8.0
+weaponTemplate.setStrength NavalArmour  1.0
+
+rem *** AA Allies Base ***
+weaponTemplate.active AA_BaseMainGun
+weaponTemplate.maxRange 400.0
+weaponTemplate.setStrength Infantry     5.0
+weaponTemplate.setStrength LightArmour  2.0
+weaponTemplate.setStrength HeavyArmour  1.0
+weaponTemplate.setStrength Air          9.0
+rem weaponTemplate.deviationCorrectionTime  2.0
+
+weaponTemplate.active Flak38MainGun
+weaponTemplate.maxRange 400.0
+weaponTemplate.setStrength Infantry     5.0
+weaponTemplate.setStrength LightArmour  2.0
+weaponTemplate.setStrength HeavyArmour  1.0
+weaponTemplate.setStrength Air          9.0
+rem weaponTemplate.deviationCorrectionTime  2.0
+
+weaponTemplate.active B17MachineGun
+weaponTemplate.setStrength Infantry    5.0
+weaponTemplate.setStrength LightArmour 6.0
+weaponTemplate.setStrength Air         9.0
+
+weaponTemplate.active B17Bombs
+weaponTemplate.maxRange 300.0
+weaponTemplate.setStrength Infantry     7.0
+weaponTemplate.setStrength LightArmour  8.0
+weaponTemplate.setStrength HeavyArmour  6.0
+weaponTemplate.setStrength NavalArmour  5.0
+weaponTemplate.setStrength Air          0.5
+
+objectTemplate.info SturmGeschutz -> v_info
+Utils.expr v_info != "No object template" -> v_exists
+
+if v_exists 
+weaponTemplate.active SturmGeschutzMainGun
+weaponTemplate.setStrength Infantry     8.0
+weaponTemplate.setStrength LightArmour  9.0
+weaponTemplate.setStrength HeavyArmour  4.0
+weaponTemplate.setStrength Air          0.2
+endIf
+
+objectTemplate.info M11-39 -> v_info
+Utils.expr v_info != "No object template" -> v_exists
+
+if v_exists 
+weaponTemplate.active M11-39MainGun
+weaponTemplate.setStrength Infantery    8.0
+weaponTemplate.setStrength LightArmour  9.0
+weaponTemplate.setStrength HeavyArmour  3.0
+weaponTemplate.setStrength NavalArmour  1.0
+endIf
+
+objectTemplate.info M3GMC -> v_info
+Utils.expr v_info != "No object template" -> v_exists
+
+if v_exists 
+weaponTemplate.active M3gmcMainGun
+weaponTemplate.setStrength Infantery    9.0
+weaponTemplate.setStrength LightArmour  5.0
+weaponTemplate.setStrength HeavyArmour  3.0
+weaponTemplate.setStrength NavalArmour  1.0
+endIf

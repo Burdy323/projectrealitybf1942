@@ -1,0 +1,191 @@
+rem *** Create vehicle groups ***
+
+aiSettings.createVehicleGroup heavyVehicles
+aiSettings.createVehicleGroup lightVehicles
+aiSettings.createVehicleGroup airVehicles
+aiSettings.createVehicleGroup seaVehicles
+aiSettings.createVehicleGroup AmphibiusVehicles
+aiSettings.createVehicleGroup common
+aiSettings.createVehicleGroup Troops
+
+rem * add vehicles to the groups *
+
+aiSettings.addVehicleToVehicleGroup 0 heavyVehicles
+aiSettings.addVehicleToVehicleGroup 1 airVehicles
+aiSettings.addVehicleToVehicleGroup 2 seaVehicles
+aiSettings.addVehicleToVehicleGroup 3 Troops
+aiSettings.addVehicleToVehicleGroup 4 common
+aiSettings.addVehicleToVehicleGroup 5 lightVehicles
+aiSettings.addVehicleToVehicleGroup 6 heavyVehicles
+aiSettings.addVehicleToVehicleGroup 7 seaVehicles
+aiSettings.addVehicleToVehicleGroup 8 lightVehicles
+aiSettings.addVehicleToVehicleGroup 9 seaVehicles
+aiSettings.addVehicleToVehicleGroup 10 common
+aiSettings.addVehicleToVehicleGroup 11 common
+aiSettings.addVehicleToVehicleGroup 12 seaVehicles
+aiSettings.addVehicleToVehicleGroup 13 common
+aiSettings.addVehicleToVehicleGroup 14 heavyVehicles
+aiSettings.addVehicleToVehicleGroup 15 airVehicles
+aiSettings.addVehicleToVehicleGroup 16 AmphibiusVehicles
+aiSettings.addVehicleToVehicleGroup 17 common
+aiSettings.addVehicleToVehicleGroup 18 common
+
+rem *** Create categories ***
+aiStrategicArea.createNewCategory(land)
+aiStrategicArea.create AlliedBase 864/813 884/833 60 land
+aiStrategicArea.create New_Control_Point1 184/205 204/225 60 land
+aiStrategicArea.create New_Control_Point2 589/229 609/249 60 land
+aiStrategicArea.create New_Control_Point3 878/258 898/278 60 land
+aiStrategicArea.create New_Control_Point4 368/500 388/520 60 land
+aiStrategicArea.create AxisBase 184/205 204/225 60 land
+
+aiStrategicArea.setActive AlliedBase
+AIStrategicArea.addNeighbour AxisBase
+AIStrategicArea.addNeighbour New_Control_Point1
+AIStrategicArea.addNeighbour New_Control_Point2
+AIStrategicArea.addNeighbour New_Control_Point3
+AIStrategicArea.addNeighbour New_Control_Point4
+AIStrategicArea.addAllowedVehicleGroup common
+AIStrategicArea.addAllowedVehicleGroup Troops
+AIStrategicArea.addAllowedVehicleGroup lightVehicles
+AIStrategicArea.addAllowedVehicleGroup heavyVehicles
+AIStrategicArea.addAllowedVehicleGroup airVehicles
+AIStrategicArea.addAllowedVehicleGroup AmphibiusVehicles
+AIStrategicArea.addAllowedVehicleGroup seaVehicles
+AIStrategicArea.setOrderPosition Infantry 874/95
+AIStrategicArea.setOrderPosition Tank 874/95
+AIStrategicArea.setOrderPosition Car 874/95
+AIStrategicArea.setOrderPosition Amphibius 874/95
+aiStrategicArea.setSide 1
+aiStrategicArea.setTakeable 1 0
+aiStrategicArea.vehicleSearchRadius 150.0
+aiStrategicArea.playerSensitive 1
+aiStrategicArea.playerSensitivity 5.0f
+
+aiStrategicArea.setActive New_Control_Point1
+aiStrategicArea.addObjectTypeFlag Route
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.addNeighbour AxisBase
+AIStrategicArea.addNeighbour AlliedBase
+AIStrategicArea.addNeighbour New_Control_Point2
+AIStrategicArea.addNeighbour New_Control_Point3
+AIStrategicArea.addNeighbour New_Control_Point4
+AIStrategicArea.addAllowedVehicleGroup common
+AIStrategicArea.addAllowedVehicleGroup Troops
+AIStrategicArea.addAllowedVehicleGroup lightVehicles
+AIStrategicArea.addAllowedVehicleGroup heavyVehicles
+AIStrategicArea.addAllowedVehicleGroup airVehicles
+AIStrategicArea.addAllowedVehicleGroup AmphibiusVehicles
+AIStrategicArea.addAllowedVehicleGroup seaVehicles
+AIStrategicArea.setOrderPosition Infantry 194/66
+AIStrategicArea.setOrderPosition Tank 194/66
+AIStrategicArea.setOrderPosition Car 194/66
+AIStrategicArea.setOrderPosition Amphibius 194/66
+aiStrategicArea.setSide 1
+aiStrategicArea.setTakeable 1 0
+aiStrategicArea.vehicleSearchRadius 150.0
+aiStrategicArea.playerSensitive 1
+aiStrategicArea.playerSensitivity 5.0f
+
+aiStrategicArea.setActive New_Control_Point2
+aiStrategicArea.addObjectTypeFlag Route
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.addNeighbour AxisBase
+AIStrategicArea.addNeighbour AlliedBase
+AIStrategicArea.addNeighbour New_Control_Point1
+AIStrategicArea.addNeighbour New_Control_Point3
+AIStrategicArea.addNeighbour New_Control_Point4
+AIStrategicArea.addAllowedVehicleGroup common
+AIStrategicArea.addAllowedVehicleGroup Troops
+AIStrategicArea.addAllowedVehicleGroup lightVehicles
+AIStrategicArea.addAllowedVehicleGroup heavyVehicles
+AIStrategicArea.addAllowedVehicleGroup airVehicles
+AIStrategicArea.addAllowedVehicleGroup AmphibiusVehicles
+AIStrategicArea.addAllowedVehicleGroup seaVehicles
+AIStrategicArea.setOrderPosition Infantry 599/55
+AIStrategicArea.setOrderPosition Tank 599/55
+AIStrategicArea.setOrderPosition Car 599/55
+AIStrategicArea.setOrderPosition Amphibius 599/55
+aiStrategicArea.setSide 1
+aiStrategicArea.setTakeable 1 0
+aiStrategicArea.vehicleSearchRadius 150.0
+aiStrategicArea.playerSensitive 1
+aiStrategicArea.playerSensitivity 5.0f
+
+aiStrategicArea.setActive New_Control_Point3
+aiStrategicArea.addObjectTypeFlag Route
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.addNeighbour AxisBase
+AIStrategicArea.addNeighbour AlliedBase
+AIStrategicArea.addNeighbour New_Control_Point1
+AIStrategicArea.addNeighbour New_Control_Point2
+AIStrategicArea.addNeighbour New_Control_Point4
+AIStrategicArea.addAllowedVehicleGroup common
+AIStrategicArea.addAllowedVehicleGroup Troops
+AIStrategicArea.addAllowedVehicleGroup lightVehicles
+AIStrategicArea.addAllowedVehicleGroup heavyVehicles
+AIStrategicArea.addAllowedVehicleGroup airVehicles
+AIStrategicArea.addAllowedVehicleGroup AmphibiusVehicles
+AIStrategicArea.addAllowedVehicleGroup seaVehicles
+AIStrategicArea.setOrderPosition Infantry 888/56
+AIStrategicArea.setOrderPosition Tank 888/56
+AIStrategicArea.setOrderPosition Car 888/56
+AIStrategicArea.setOrderPosition Amphibius 888/56
+aiStrategicArea.setSide 1
+aiStrategicArea.setTakeable 1 0
+aiStrategicArea.vehicleSearchRadius 150.0
+aiStrategicArea.playerSensitive 1
+aiStrategicArea.playerSensitivity 5.0f
+
+aiStrategicArea.setActive New_Control_Point4
+aiStrategicArea.addObjectTypeFlag Route
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.addNeighbour AxisBase
+AIStrategicArea.addNeighbour AlliedBase
+AIStrategicArea.addNeighbour New_Control_Point1
+AIStrategicArea.addNeighbour New_Control_Point2
+AIStrategicArea.addNeighbour New_Control_Point3
+AIStrategicArea.addAllowedVehicleGroup common
+AIStrategicArea.addAllowedVehicleGroup Troops
+AIStrategicArea.addAllowedVehicleGroup lightVehicles
+AIStrategicArea.addAllowedVehicleGroup heavyVehicles
+AIStrategicArea.addAllowedVehicleGroup airVehicles
+AIStrategicArea.addAllowedVehicleGroup AmphibiusVehicles
+AIStrategicArea.addAllowedVehicleGroup seaVehicles
+AIStrategicArea.setOrderPosition Infantry 378/55
+AIStrategicArea.setOrderPosition Tank 378/55
+AIStrategicArea.setOrderPosition Car 378/55
+AIStrategicArea.setOrderPosition Amphibius 378/55
+aiStrategicArea.setSide 1
+aiStrategicArea.setTakeable 1 0
+aiStrategicArea.vehicleSearchRadius 150.0
+aiStrategicArea.playerSensitive 1
+aiStrategicArea.playerSensitivity 5.0f
+
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.setActive AxisBase
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.addNeighbour AlliedBase
+AIStrategicArea.addNeighbour New_Control_Point1
+AIStrategicArea.addNeighbour New_Control_Point2
+AIStrategicArea.addNeighbour New_Control_Point3
+AIStrategicArea.addNeighbour New_Control_Point4
+AIStrategicArea.addAllowedVehicleGroup common
+AIStrategicArea.addAllowedVehicleGroup Troops
+AIStrategicArea.addAllowedVehicleGroup lightVehicles
+AIStrategicArea.addAllowedVehicleGroup heavyVehicles
+AIStrategicArea.addAllowedVehicleGroup airVehicles
+AIStrategicArea.addAllowedVehicleGroup AmphibiusVehicles
+AIStrategicArea.addAllowedVehicleGroup seaVehicles
+AIStrategicArea.setOrderPosition Infantry 194/66
+AIStrategicArea.setOrderPosition Tank 194/66
+AIStrategicArea.setOrderPosition Car 194/66
+AIStrategicArea.setOrderPosition Amphibius 194/66
+aiStrategicArea.setSide 2
+aiStrategicArea.setTakeable 1 0
+aiStrategicArea.vehicleSearchRadius 150.0
+aiStrategicArea.playerSensitive 1
+aiStrategicArea.playerSensitivity 5.0f
+

@@ -1,0 +1,198 @@
+rem *** Create vehicle groups ***
+
+aiSettings.createVehicleGroup land
+aiSettings.createVehicleGroup any
+aiSettings.createVehicleGroup sea
+aiSettings.createVehicleGroup infantry
+
+rem * add vehicles to the groups *
+
+aiSettings.addVehicleToVehicleGroup 0 land
+aiSettings.addVehicleToVehicleGroup 1 any
+aiSettings.addVehicleToVehicleGroup 2 sea
+aiSettings.addVehicleToVehicleGroup 3 infantry
+aiSettings.addVehicleToVehicleGroup 4 any
+aiSettings.addVehicleToVehicleGroup 5 land
+aiSettings.addVehicleToVehicleGroup 6 land
+aiSettings.addVehicleToVehicleGroup 7 any
+aiSettings.addVehicleToVehicleGroup 8 any
+aiSettings.addVehicleToVehicleGroup 9 sea
+aiSettings.addVehicleToVehicleGroup 10 any
+aiSettings.addVehicleToVehicleGroup 11 any
+aiSettings.addVehicleToVehicleGroup 12 sea
+aiSettings.addVehicleToVehicleGroup 13 land
+aiSettings.addVehicleToVehicleGroup 14 land
+
+
+rem *** Create categories ***
+
+aiStrategicArea.createNewCategory land
+aiStrategicArea.createNewCategory sea
+
+rem *** Create strategic areas ***
+
+aiStrategicArea.create Beach 1443/1251 1477/1278 50 land
+
+aiStrategicArea.create Houses 1133/1058 1219/1087 150 land
+
+aiStrategicArea.create D3West 1402/1001 1418/1013 150 land
+
+aiStrategicArea.create D3East 1534/990 1549/1008 150 land
+
+aiStrategicArea.create D3Center 1416/920 1432/930 100 land
+
+aiStrategicArea.create CliffsEast 1650/916 1679/981 70land
+
+aiStrategicArea.create Bunkers 1124/885 1166/905 5 land
+
+aiStrategicArea.create CliffsWest 1259/1011 1305/1027 70 land
+
+aiStrategicArea.create Sea 1398/1502 1448/1519 0.2 sea
+
+rem AILandingZone.createLandingZone WestLanding 816/816 898/946 LZZMax
+
+AILandingZone.createLandingZone CentreLanding 1181/1153 1586/1340 LZZMin
+
+rem AILandingZone.createLandingZone EastLanding 1381/1153 1586/1340 LZZMin
+
+aiStrategicArea.setActive Houses
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup infantry
+AIStrategicArea.addNeighbour Beach
+AIStrategicArea.addNeighbour D3West
+AIStrategicArea.addNeighbour D3Center
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.setOrderPosition Tank 1016/1160
+AIStrategicArea.setOrderPosition Infantry 1016/1160
+AIStrategicArea.setOrderPosition Boat 1016/1160
+AIStrategicArea.setOrderPosition LandingCraft 1016/1160
+AIStrategicArea.setOrderPosition Car 1016/1160
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive D3West
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup infantry
+AIStrategicArea.addNeighbour D3Center
+AIStrategicArea.addNeighbour D3East
+AIStrategicArea.addNeighbour Beach
+AIStrategicArea.addNeighbour CliffsWest
+aiStrategicArea.addObjectTypeFlag West
+aiStrategicArea.addObjectTypeFlag StrongPoint
+AIStrategicArea.setOrderPosition Tank 1018/1193
+AIStrategicArea.setOrderPosition Infantry 1018/1193
+AIStrategicArea.setOrderPosition Boat 1018/1193
+AIStrategicArea.setOrderPosition LandingCraft 1018/1193
+AIStrategicArea.setOrderPosition Car 1018/1193
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive D3East
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup infantry
+AIStrategicArea.addNeighbour D3Center
+AIStrategicArea.addNeighbour D3West
+AIStrategicArea.addNeighbour CliffsEast
+AIStrategicArea.addNeighbour Beach
+aiStrategicArea.addObjectTypeFlag East
+aiStrategicArea.addObjectTypeFlag StrongPoint
+AIStrategicArea.setOrderPosition Tank 940/1170
+AIStrategicArea.setOrderPosition Infantry 955/1147
+AIStrategicArea.setOrderPosition Boat 1176/1176
+AIStrategicArea.setOrderPosition LandingCraft 1176/1176
+AIStrategicArea.setOrderPosition Car 1176/1176
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive Beach
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup infantry
+AIStrategicArea.addLandingZoneUnit LandingCraft
+rem AIStrategicArea.attachLandingZone WestLanding
+AIStrategicArea.attachLandingZone CentreLanding
+rem AIStrategicArea.attachLandingZone EastLanding
+AIStrategicArea.addNeighbour Sea
+AIStrategicArea.addNeighbour Houses
+AIStrategicArea.addNeighbour D3East
+AIStrategicArea.addNeighbour D3West
+aiStrategicArea.addObjectTypeFlag Remote
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.setOrderPosition Tank 976/998
+AIStrategicArea.setOrderPosition Infantry 984/996
+AIStrategicArea.setOrderPosition Boat 977/1010
+AIStrategicArea.setOrderPosition LandingCraft 977/884
+AIStrategicArea.setOrderPosition Car 980/997.5
+aiStrategicArea.setSide 0
+aiStrategicArea.setTakeable 1 0
+
+aiStrategicArea.setActive CliffsWest
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup infantry
+AIStrategicArea.addNeighbour D3West
+AISTrategicArea.addNeighbour D3Center
+AIStrategicArea.addNeighbour Bunkers
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.setOrderPosition Tank 999/1300
+AIStrategicArea.setOrderPosition Infantry 999/1301
+AIStrategicArea.setOrderPosition Boat 997/1305
+AIStrategicArea.setOrderPosition LandingCraft 999/893
+AIStrategicArea.setOrderPosition Car 997/1305
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive CliffsEast
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup infantry
+AIStrategicArea.addNeighbour D3East
+AIStrategicArea.addNeighbour D3Center
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.setOrderPosition Tank 1068.5/1251
+AIStrategicArea.setOrderPosition Infantry 1072/1250
+AIStrategicArea.setOrderPosition Boat 1065/1248
+AIStrategicArea.setOrderPosition LandingCraft 1070/900
+AIStrategicArea.setOrderPosition Car 1065/1248
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive D3Center
+AIStrategicArea.addAllowedVehicleGroup land
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup infantry
+AIStrategicArea.addNeighbour D3West
+AIStrategicArea.addNeighbour D3East
+AIStrategicArea.addNeighbour CliffsWest
+AIStrategicArea.addNeighbour CliffsEast
+AIStrategicArea.addNeighbour Beach
+aiStrategicArea.addObjectTypeFlag Close
+AIStrategicArea.setOrderPosition Tank 1059/1368
+AIStrategicArea.setOrderPosition Infantry 1064/1366
+AIStrategicArea.setOrderPosition Boat 1058/1363.5
+AIStrategicArea.setOrderPosition LandingCraft 1064/879
+AIStrategicArea.setOrderPosition Car 1058/1363.5
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive Bunkers
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup infantry
+AIStrategicArea.addNeighbour CliffsWest
+aiStrategicArea.addObjectTypeFlag West
+AIStrategicArea.setOrderPosition Tank 923.5/1157.5
+AIStrategicArea.setOrderPosition Infantry 927.5/1105.5
+AIStrategicArea.setOrderPosition Boat 927.5/1112.5
+AIStrategicArea.setOrderPosition LandingCraft 929/873
+AIStrategicArea.setOrderPosition Car 927.5/1112.5
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive Sea
+AIStrategicArea.addAllowedVehicleGroup any
+AIStrategicArea.addAllowedVehicleGroup sea
+aiStrategicArea.addObjectTypeFlag Route
+AIStrategicArea.setOrderPosition Tank 989/1005
+AIStrategicArea.setOrderPosition Infantry 988/1005
+AIStrategicArea.setOrderPosition Boat 1000/700
+AIStrategicArea.setOrderPosition LandingCraft 986/809
+AIStrategicArea.setOrderPosition Car 986/809
+aiStrategicArea.setSide 2
+aiStrategicArea.setTakeable 1 0

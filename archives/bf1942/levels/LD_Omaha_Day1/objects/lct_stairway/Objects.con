@@ -1,0 +1,5 @@
+ObjectTemplate.create SimpleObject lct_stairway
+ObjectTemplate.geometry lct_stairway
+ObjectTemplate.addToCollisionGroup c_CGLadders
+ObjectTemplate.addToCollisionGroup c_CGProjectiles
+ObjectTemplate.setHasCollisionPhysics 1

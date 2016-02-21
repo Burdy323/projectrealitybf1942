@@ -1,0 +1,32 @@
+ObjectTemplate.create KitPart US_Britt_Bacpac
+ObjectTemplate.geometry US_Britt_Bacpac
+ObjectTemplate.setBoneName backpack
+ObjectTemplate.setCopyLinksCount 0
+
+ObjectTemplate.create Kit 0CAN_Officer
+ObjectTemplate.setType Assault
+ObjectTemplate.geometry Kit_Allies_Assault
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Canadian_helmet
+ObjectTemplate.addTemplate US_Britt_Bacpac
+ObjectTemplate.addTemplate British_hippack
+
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_scout_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_scout_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_alliesKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_thompson.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_binoculars.tga"
+
+ObjectTemplate.setKitIcon 0 "kits/Icon_medic_allies_selected.tga"
+ObjectTemplate.setKitName 0 "OFFICER"
+ObjectTemplate.setKitActiveName 0 "ACTIVE OFFICERS"
+
+ObjectTemplate.addTemplate Thompson
+ObjectTemplate.addTemplate KnifeAllies
+
+ObjectTemplate.addTemplate Binoculars
+ObjectTemplate.aiTemplate  Assault

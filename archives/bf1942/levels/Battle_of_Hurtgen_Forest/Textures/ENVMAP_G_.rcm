@@ -1,0 +1,7 @@
+[CubeMap]
+PositiveX = bf1942\levels\Battle_of_Hurtgen_Forest\Textures\env_Battle_of_Hurtgen_Forest_04.dds
+NegativeX = bf1942\levels\Battle_of_Hurtgen_Forest\Textures\env_Battle_of_Hurtgen_Forest_02.dds
+PositiveY = bf1942\levels\Battle_of_Hurtgen_Forest\Textures\env_Battle_of_Hurtgen_Forest_05.dds
+NegativeY = bf1942\levels\Battle_of_Hurtgen_Forest\Textures\env_Battle_of_Hurtgen_Forest_06.dds
+PositiveZ = bf1942\levels\Battle_of_Hurtgen_Forest\Textures\env_Battle_of_Hurtgen_Forest_03.dds
+NegativeZ = bf1942\levels\Battle_of_Hurtgen_Forest\Textures\env_Battle_of_Hurtgen_Forest_01.dds

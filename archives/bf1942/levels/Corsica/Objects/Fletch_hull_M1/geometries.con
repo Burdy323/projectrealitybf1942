@@ -1,0 +1,7 @@
+GeometriyTemplate.create Standardmesh Fletch_hull_M1
+GeometriyTemplate.setLodDistance 0 0
+GeometriyTemplate.setLodDistance 1 10
+GeometriyTemplate.setLodDistance 2 15
+GeometriyTemplate.setLodDistance 3 30
+GeometriyTemplate.setLodDistance 4 50
+GeometriyTemplate.setLodDistance 5 100

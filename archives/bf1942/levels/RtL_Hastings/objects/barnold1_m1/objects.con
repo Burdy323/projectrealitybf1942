@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject barnold1_m1
+ObjectTemplate.geometry barnold1_m1
+ObjectTemplate.setHasCollisionPhysics 1

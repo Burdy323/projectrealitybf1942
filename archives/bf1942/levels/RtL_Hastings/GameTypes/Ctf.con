@@ -1,0 +1,10 @@
+run Ctf/SpawnpointManagerSettings
+
+run Ctf/SoldierSpawnTemplates
+run Ctf/SoldierSpawns
+
+run Ctf/ObjectSpawnTemplates
+if v_arg1 == host
+	run Ctf/ObjectSpawns
+else
+endIf

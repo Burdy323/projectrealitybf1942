@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject pttwire_m1
+ObjectTemplate.geometry pttwire_m1
+ObjectTemplate.setHasCollisionPhysics 0

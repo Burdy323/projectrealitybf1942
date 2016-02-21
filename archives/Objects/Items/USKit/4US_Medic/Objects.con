@@ -1,0 +1,34 @@
+ObjectTemplate.create Kit 4US_Medic
+ObjectTemplate.setType Medic
+ObjectTemplate.setKitTeam 2
+ObjectTemplate.geometry  Kit_Allies_Medic
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Medic_helm_us
+ObjectTemplate.addTemplate Us_Assault_BackPack
+ObjectTemplate.addTemplate US_Medic_hippack
+ObjectTemplate.addTemplate Chutedisabler
+
+
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_medic_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_medic_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_alliesKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_thompson.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_medpack.tga"
+
+
+
+
+ObjectTemplate.setKitIcon 4 "kits/Icon_medic_allies_selected.tga"
+ObjectTemplate.setKitName 4 "MEDIC"
+ObjectTemplate.setKitActiveName 4 "ACTIVE MEDICS"
+
+ObjectTemplate.addTemplate Thompson
+ObjectTemplate.addTemplate KnifeAllies
+
+ObjectTemplate.addTemplate MedPack
+ObjectTemplate.aitemplate Medic
+

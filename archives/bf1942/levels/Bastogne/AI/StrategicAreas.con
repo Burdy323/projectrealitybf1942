@@ -1,0 +1,89 @@
+rem *** Create strategic areas ***
+aiStrategicArea.create Villeroux 299/578 655/169 200
+
+aiStrategicArea.create Bastogne 952/789 1128/1036 300
+
+aiStrategicArea.create AxisBase 409/1594 429/1614 1
+
+aiStrategicArea.create Marvie 1292/585 1368/628 150
+
+aiStrategicArea.create Champs 713/1243 733/1273 150
+
+aiStrategicArea.create Volksbase 1368/236 1456/356 100
+
+aiStrategicArea.create Mageret 1683/1043 1703/1070 100
+
+aiStrategicArea.setActive Villeroux
+AIStrategicArea.addNeighbour Bastogne
+AIStrategicArea.addNeighbour Marvie
+aiStrategicArea.addObjectTypeFlag Flank
+aiStrategicArea.addObjectTypeFlag Remote
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addObjectTypeFlag StrongPoint
+AIStrategicArea.setOrderPosition Tank 570/658
+AIStrategicArea.setOrderPosition Infantry 560/648
+aiStrategicArea.vehicleSearchRadius 160
+aiStrategicArea.setSide 0
+
+aiStrategicArea.setActive Bastogne
+AIStrategicArea.addNeighbour AlliedBaseEntry
+aiStrategicArea.addObjectTypeFlag Centre
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.setOrderPosition Tank 1023/940
+AIStrategicArea.setOrderPosition Infantry 1023/930
+aiStrategicArea.setSide 0
+
+
+aiStrategicArea.setActive AxisBase
+AIStrategicArea.addNeighbour Champs
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.setOrderPosition Tank 429/1614
+AIStrategicArea.setOrderPosition Infantry 429/1614
+aiStrategicArea.vehicleSearchRadius 80
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive Marvie
+AIStrategicArea.addNeighbour Bastogne
+AIStrategicArea.addNeighbour Volksbase
+AIStrategicArea.addNeighbour Mageret
+AIStrategicArea.addNeighbour Villeroux
+aiStrategicArea.addObjectTypeFlag Flank
+aiStrategicArea.addObjectTypeFlag Remote
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addObjectTypeFlag StrongPoint
+AIStrategicArea.setOrderPosition Tank 1332/628
+AIStrategicArea.setOrderPosition Infantry 1337/623
+aiStrategicArea.setSide 0
+
+aiStrategicArea.setActive Champs
+AIStrategicArea.addNeighbour Axisbase
+AIStrategicArea.addNeighbour Bastogne
+aiStrategicArea.addObjectTypeFlag Centre
+aiStrategicArea.addObjectTypeFlag Route
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.setOrderPosition Tank 720/1252
+AIStrategicArea.setOrderPosition Infantry 725/1248
+aiStrategicArea.setSide 0
+
+aiStrategicArea.setActive Volksbase
+AIStrategicArea.addNeighbour Marvie
+AIStrategicArea.addNeighbour Mageret
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.setOrderPosition Tank 1400/297
+AIStrategicArea.setOrderPosition Infantry 1400/297
+aiStrategicArea.setSide 1
+
+aiStrategicArea.setActive Mageret
+AIStrategicArea.addNeighbour Bastogne
+AIStrategicArea.addNeighbour Marvie
+AIStrategicArea.addNeighbour Volksbase
+aiStrategicArea.addObjectTypeFlag Flank
+aiStrategicArea.addObjectTypeFlag Remote
+aiStrategicArea.addObjectTypeFlag ControlPoint
+AIStrategicArea.setOrderPosition Tank 1690/1052
+AIStrategicArea.setOrderPosition Infantry 1695/1057
+aiStrategicArea.setSide 0
+

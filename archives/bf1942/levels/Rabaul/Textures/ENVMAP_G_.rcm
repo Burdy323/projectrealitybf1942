@@ -1,0 +1,7 @@
+[CubeMap]
+PositiveX = bf1942\levels\Rabaul\Textures\env_Rabaul_04.dds
+NegativeX = bf1942\levels\Rabaul\Textures\env_Rabaul_02.dds
+PositiveY = bf1942\levels\Rabaul\Textures\env_Rabaul_05.dds
+NegativeY = bf1942\levels\Rabaul\Textures\env_Rabaul_06.dds
+PositiveZ = bf1942\levels\Rabaul\Textures\env_Rabaul_03.dds
+NegativeZ = bf1942\levels\Rabaul\Textures\env_Rabaul_01.dds

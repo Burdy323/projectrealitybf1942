@@ -1,0 +1,28 @@
+rem *** mont ***
+Object.create mont
+Object.absolutePosition 1332/165.6445/628
+
+rem *** Bastogne ***
+Object.create Bastogne
+Object.absolutePosition 1024.614/166.6445/948.7431
+
+rem *** AxisBase ***
+Object.create AxisBase
+Object.absolutePosition 419.6241/81.32031/1604.857
+
+rem *** mageret ***
+Object.create mageret
+Object.absolutePosition 1693.218/148.8195/1053.055
+
+rem *** corridor ***
+Object.create corridor
+Object.absolutePosition 570.2666/171.668/658.7369
+
+rem *** volkssturm ***
+Object.create volkssturm
+Object.absolutePosition 1396.207/168.1875/297.8244
+
+rem *** lchamps ***
+Object.create lchamps
+Object.absolutePosition 723.5616/126.8789/1253.824
+

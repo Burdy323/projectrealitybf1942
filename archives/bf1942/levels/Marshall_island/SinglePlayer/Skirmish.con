@@ -1,0 +1,12 @@
+console.useRelativePaths 0
+
+rem allies
+run bf1942/game/common/americannames
+rem run bf1942/game/common/russiannames
+rem run bf1942/game/common/britishnames
+
+rem axis
+run bf1942/game/common/germannames
+rem run bf1942/game/common/japanesenames
+
+console.useRelativePaths 1

@@ -1,0 +1,271 @@
+ObjectTemplate.create SpawnPoint beach_base2_spawn1
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 5
+rem ----------------------------------------- 
+rem ---  eastcliff2  ---
+rem ----------------------------------------- 
+
+ObjectTemplate.create SpawnPoint axiscliffswest_spawn1
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 5
+rem ----------------------------------------- 
+rem ---  beach_base2_spawn1  ---
+rem ----------------------------------------- 
+
+ObjectTemplate.create SpawnPoint eastcliff1
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 11
+ObjectTemplate.setGroup 3
+rem ----------------------------------------- 
+rem ---  axiscliffswest_spawn1  ---
+rem ----------------------------------------- 
+
+ObjectTemplate.create SpawnPoint eastcliff2
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 17
+ObjectTemplate.setGroup 3
+rem ----------------------------------------- 
+rem ---  eastcliff3  ---
+rem ----------------------------------------- 
+
+ObjectTemplate.create SpawnPoint eastcliff3
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 3
+ObjectTemplate.setSpawnId 18
+ObjectTemplate.setGroup 3
+rem ----------------------------------------- 
+rem ---  beachspawn1  ---
+rem ----------------------------------------- 
+
+ObjectTemplate.create SpawnPoint beachspawn1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 1
+ObjectTemplate.setGroup 1
+rem ----------------------------------------- 
+rem ---  beachspawn2  ---
+rem ----------------------------------------- 
+
+ObjectTemplate.create SpawnPoint beachspawn2
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 2
+ObjectTemplate.setGroup 1
+rem ----------------------------------------- 
+rem ---  beachspawn3  ---
+rem ----------------------------------------- 
+
+ObjectTemplate.create SpawnPoint beachspawn3
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 3
+ObjectTemplate.setGroup 1
+rem ----------------------------------------- 
+rem ---  beachspawn4  ---
+rem ----------------------------------------- 
+
+ObjectTemplate.create SpawnPoint beachspawn4
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 1
+ObjectTemplate.setSpawnId 4
+ObjectTemplate.setGroup 1
+rem ----------------------------------------- 
+rem ---  beachspawn5  ---
+rem ----------------------------------------- 
+
+ObjectTemplate.create SpawnPoint beachspawn5
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 12
+ObjectTemplate.setGroup 2
+rem ----------------------------------------- 
+rem ---  beachspawn6  ---
+rem ----------------------------------------- 
+
+ObjectTemplate.create SpawnPoint beachspawn6
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 13
+ObjectTemplate.setGroup 2
+rem ----------------------------------------- 
+rem ---  beachspawn7  ---
+rem ----------------------------------------- 
+
+ObjectTemplate.create SpawnPoint westcliff3
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 5
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 5
+rem EndOfFile
+
+ObjectTemplate.create SpawnPoint beachspawn7
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 2
+ObjectTemplate.setSpawnId 14
+ObjectTemplate.setGroup 2
+rem ----------------------------------------- 
+rem ---  westcliff3  ---
+rem ----------------------------------------- 
+

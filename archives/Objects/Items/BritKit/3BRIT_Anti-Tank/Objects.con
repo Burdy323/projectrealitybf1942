@@ -1,0 +1,32 @@
+ObjectTemplate.create KitPart US_Britt_Bacpac
+ObjectTemplate.geometry US_Britt_Bacpac
+ObjectTemplate.setBoneName backpack
+ObjectTemplate.setCopyLinksCount 0
+
+
+ObjectTemplate.create Kit 3BRIT_Anti-Tank
+ObjectTemplate.setType AT
+ObjectTemplate.geometry Kit_Allies_AntiTank
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Brit_Helmet
+ObjectTemplate.addTemplate US_Britt_Bacpac
+ObjectTemplate.addTemplate British_hippack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_scout_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_scout_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_alliesKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_empty.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_no4.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_bazooka.tga"
+
+ObjectTemplate.setKitIcon 3 "kits/Icon_antitank_allies_selected.tga"
+ObjectTemplate.setKitName 3 "ANTI-TANK"
+ObjectTemplate.setKitActiveName 3 "ACTIVE ANTI-TANK"
+
+ObjectTemplate.addTemplate Bazooka
+ObjectTemplate.addTemplate No4
+
+ObjectTemplate.addTemplate KnifeAllies
+ObjectTemplate.aitemplate AT

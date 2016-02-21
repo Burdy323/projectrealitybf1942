@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject norman2_m1
+ObjectTemplate.geometry norman2_m1
+ObjectTemplate.setHasCollisionPhysics 1

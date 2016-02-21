@@ -1,0 +1,91 @@
+rem
+rem **** Initialize level specific rendering settings. 
+rem
+ShaderManager.setTextureParam envmap bf1942\levels\El_Alamein\Textures\ENVMAP_G_.rcm
+renderer.vertexFogEnable 1
+renderer.fogColorVec 0.83/0.73/0.58
+renderer.globalLodPercent 1
+renderer.globalAmbientColor .16/.15/.17
+renderer.ambientColor .12/.1/.08
+renderer.diffuseColor .50/.47/0.4
+renderer.specularColor .3/.3/.3
+renderer.animatedMeshAmbientColor 0.3
+textureManager.alternativePath Texture/Africa
+
+shadow.shadowColor 0.6
+
+rem *** Changed by mats. Higher number later after optimization.
+Game.setViewDistance 800
+Game.spawnPlayers 1
+renderer.fogstart 100
+renderer.fogend 800
+
+rem 
+rem *** Define flags ***
+rem
+ObjectTemplate.create Flag BlueFlag
+ObjectTemplate.team 1
+ObjectTemplate.networkableInfo FlagBodyInfo
+ObjectTemplate.radius 5
+ObjectTemplate.TimeToReSpawn 10
+ObjectTemplate.addTemplate AnimatedGeFlag
+
+ObjectTemplate.create Flag RedFlag
+ObjectTemplate.team 2
+ObjectTemplate.networkableInfo FlagBodyInfo
+ObjectTemplate.radius 5
+ObjectTemplate.TimeToReSpawn 10
+ObjectTemplate.addTemplate AnimatedUkFlag
+
+game.setTeamSkin 1 GermanSoldier
+game.setKit 1 0 0GERD_Officer_Desert
+game.setKit 1 1 1GERD_Rifle_Desert
+game.setKit 1 2 2GERD_Support_Desert
+game.setKit 1 3 3GERD_Anti-Tank_Desert
+game.setKit 1 4 4GERD_Medic_Desert
+
+game.setTeamSkin 2 BritishSoldier
+game.setKit 2 0 0BRIT_Officer
+game.setKit 2 1 1BRIT_Rifle
+game.setKit 2 2 2BRIT_Support
+game.setKit 2 3 3BRIT_Anti-Tank
+game.setKit 2 4 4BRIT_Medic
+
+
+rem
+rem *** Shader Default Color ***
+rem
+shaderManager.setDefaultShaderSolidColor 0.2/0.2/0.2
+
+run Init/SkyAndSun
+run Init/Terrain
+
+water.specularEnable 1
+water.texLayer1 texture/water01
+water.texLayer2 texture/water02
+water.normalMap texture/normalMap02
+water.scrollDirectionNormalmap 1/1
+water.scrollDirection1 1/0
+water.scrollDirection2 0/1
+water.specularColor 0.75/0.7/0.65
+water.scrollLayer1 0.02
+water.scrollLayer2 0.02
+water.scrollNormalmap 0.005
+water.specularStreakFactor 0.001
+water.tileLayer1 0.5
+water.tileLayer2 0.5
+water.tileNormalmap 0.5
+water.lightDirection -0.3/0.5/-0.65
+water.color 0.77/0.8/0.6
+water.waterAlphaDepth 0.5
+water.wateShallowAlpha 0.5
+water.deepColor 0.55/0.6/0.45
+
+run Sounds/Environment
+
+
+rem *** Set team 1 ***
+game.setBeforeSpawnCameraPosition 1 1264.90/21.646/645.556
+rem *** Set team 2 ***
+game.setBeforeSpawnCameraPosition 2 1264.90/21.646/645.556
+game.setLevelCheck 3426989540

@@ -1,0 +1,242 @@
+rem SoldierSpawns.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Peleliu/tdm/SoldierSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  ngesebus_island_spawn1  ---
+rem ----------------------------------------- 
+Object.create ngesebus_island_spawn1
+Object.absolutePosition 1354.48/99.72/1866.75
+Object.rotation -146.99/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  angaur_spawn1  ---
+rem ----------------------------------------- 
+Object.create angaur_spawn1
+Object.absolutePosition 886.06/114.97/726.78
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn1  ---
+rem ----------------------------------------- 
+Object.create white_beach_spawn1
+Object.absolutePosition 1210.89/94.34/888.97
+Object.rotation 15.12/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  bloody_nose_ridge_spawn1  ---
+rem ----------------------------------------- 
+Object.create bloody_nose_ridge_spawn1
+Object.absolutePosition 1372.05/122.27/1510.74
+Object.rotation 142.45/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  hill_100_spawn1  ---
+rem ----------------------------------------- 
+Object.create hill_100_spawn1
+Object.absolutePosition 1360.13/133.70/1159.58
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn1  ---
+rem ----------------------------------------- 
+Object.create the_point_spawn1
+Object.absolutePosition 1412.97/97.96/946.61
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  angaur_spawn2  ---
+rem ----------------------------------------- 
+Object.create angaur_spawn2
+Object.absolutePosition 892.76/114.80/700.37
+Object.rotation -90.92/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  angaur_spawn3  ---
+rem ----------------------------------------- 
+Object.create angaur_spawn3
+Object.absolutePosition 824.28/121.39/697.43
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  angaur_spawn4  ---
+rem ----------------------------------------- 
+Object.create angaur_spawn4
+Object.absolutePosition 872.21/114.81/741.88
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn2  ---
+rem ----------------------------------------- 
+Object.create white_beach_spawn2
+Object.absolutePosition 1129.61/94.00/906.05
+Object.rotation 39.78/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn3  ---
+rem ----------------------------------------- 
+Object.create white_beach_spawn3
+Object.absolutePosition 1236.52/94.57/869.27
+Object.rotation 22.71/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn4  ---
+rem ----------------------------------------- 
+Object.create white_beach_spawn4
+Object.absolutePosition 1106.23/94.13/968.24
+Object.rotation 62.72/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn5  ---
+rem ----------------------------------------- 
+Object.create white_beach_spawn5
+Object.absolutePosition 1211.24/94.06/892.24
+Object.rotation 15.94/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn6  ---
+rem ----------------------------------------- 
+Object.create white_beach_spawn6
+Object.absolutePosition 1109.06/94.13/969.73
+Object.rotation 63.45/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn7  ---
+rem ----------------------------------------- 
+Object.create white_beach_spawn7
+Object.absolutePosition 1261.53/94.12/868.73
+Object.rotation 33.46/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn1  ---
+rem ----------------------------------------- 
+Object.create the_point_spawn1
+Object.absolutePosition 1392.93/100.20/927.36
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn2  ---
+rem ----------------------------------------- 
+Object.create the_point_spawn2
+Object.absolutePosition 1238.36/109.42/992.40
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn3  ---
+rem ----------------------------------------- 
+Object.create the_point_spawn3
+Object.absolutePosition 1349.60/103.31/869.43
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn4  ---
+rem ----------------------------------------- 
+Object.create the_point_spawn4
+Object.absolutePosition 1265.16/103.88/975.43
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn5  ---
+rem ----------------------------------------- 
+Object.create the_point_spawn5
+Object.absolutePosition 1383.57/103.35/856.29
+Object.rotation -90.53/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn6  ---
+rem ----------------------------------------- 
+Object.create the_point_spawn6
+Object.absolutePosition 1155.74/109.40/1017.79
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn7  ---
+rem ----------------------------------------- 
+Object.create the_point_spawn7
+Object.absolutePosition 1180.03/113.76/1070.72
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn8  ---
+rem ----------------------------------------- 
+Object.create the_point_spawn8
+Object.absolutePosition 1422.84/97.13/966.04
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  hill_100_spawn2  ---
+rem ----------------------------------------- 
+Object.create hill_100_spawn2
+Object.absolutePosition 1349.88/133.92/1164.30
+Object.rotation -93.45/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  hill_100_spawn3  ---
+rem ----------------------------------------- 
+Object.create hill_100_spawn3
+Object.absolutePosition 1375.36/133.87/1146.75
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  hill_100_spawn4  ---
+rem ----------------------------------------- 
+Object.create hill_100_spawn4
+Object.absolutePosition 1400.83/133.73/1164.94
+Object.rotation -89.64/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  hill_100_spawn5  ---
+rem ----------------------------------------- 
+Object.create hill_100_spawn5
+Object.absolutePosition 1391.96/133.68/1182.08
+Object.rotation -87.47/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  bloody_nose_ridge_spawn2  ---
+rem ----------------------------------------- 
+Object.create bloody_nose_ridge_spawn2
+Object.absolutePosition 1368.83/122.44/1510.76
+Object.rotation 142.01/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  bloody_nose_ridge_spawn3  ---
+rem ----------------------------------------- 
+Object.create bloody_nose_ridge_spawn3
+Object.absolutePosition 1370.33/122.44/1519.71
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  bloody_nose_ridge_spawn4  ---
+rem ----------------------------------------- 
+Object.create bloody_nose_ridge_spawn4
+Object.absolutePosition 1375.84/121.90/1532.04
+Object.rotation 151.04/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  ngesebus_island_spawn2  ---
+rem ----------------------------------------- 
+Object.create ngesebus_island_spawn2
+Object.absolutePosition 1328.93/98.90/1850.53
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  ngesebus_island_spawn3  ---
+rem ----------------------------------------- 
+Object.create ngesebus_island_spawn3
+Object.absolutePosition 1301.90/99.24/1849.34
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  ngesebus_island_spawn4  ---
+rem ----------------------------------------- 
+Object.create ngesebus_island_spawn4
+Object.absolutePosition 1300.51/99.56/1819.95
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  ngesebus_island_spawn5  ---
+rem ----------------------------------------- 
+Object.create ngesebus_island_spawn5
+Object.absolutePosition 1334.53/98.92/1852.91
+Object.rotation -141.03/0.00/0.00
+
+rem EndOfFile

@@ -1,0 +1,29 @@
+if v_arg1 == host
+
+
+rem ----------------------------------------- 
+rem ---  Ludendorf_Bridge_West  ---
+rem ----------------------------------------- 
+Object.create Ludendorf_Bridge_West
+Object.absolutePosition 861.85/142.32/1015.50
+
+rem ----------------------------------------- 
+rem ---  The_Ferry_dock  ---
+rem ----------------------------------------- 
+Object.create The_Ferry_dock
+Object.absolutePosition 898.74/126.84/1208.05
+
+rem ----------------------------------------- 
+rem ---  Ludendorf_Bridge_East  ---
+rem ----------------------------------------- 
+Object.create Ludendorf_Bridge_East
+Object.absolutePosition 1184.82/142.29/1015.46
+
+rem ----------------------------------------- 
+rem ---  Remagen_Park  ---
+rem ----------------------------------------- 
+Object.create Remagen_Park
+Object.absolutePosition 786.57/127.12/1148.02
+
+endIf
+rem EndOfFile

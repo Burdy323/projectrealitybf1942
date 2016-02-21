@@ -1,0 +1,69 @@
+rem Rain FX by BunnySnot
+ObjectTemplate.create Bundle Rain
+rem -------------------------------------
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition -50/0/50
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition -50/0/25
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition -50/0/0
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition -50/0/-25
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition -50/0/-50
+ObjectTemplate.setRotation 0/75/0
+rem -------------------------------------
+
+
+rem -------------------------------------
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition 0/0/50
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition 0/0/25
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition 0/0/0
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition 0/0/-25
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition 0/0/-50
+ObjectTemplate.setRotation 0/75/0
+rem -------------------------------------
+
+
+rem -------------------------------------
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition 50/0/50
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition -50/0/25
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition 50/0/0
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition 50/0/-25
+ObjectTemplate.setRotation 0/75/0
+
+ObjectTemplate.addTemplate e_Rain
+ObjectTemplate.setPosition 50/0/-50
+ObjectTemplate.setRotation 0/75/0
+rem -------------------------------------

@@ -1,0 +1,9 @@
+ObjectTemplate.create SimpleObject Gunmag
+ObjectTemplate.geometry Gunmag
+
+LodSelectorTemplate.create DistCompareSelector2 HandWeaponLodSelector
+LodSelectorTemplate.addLodComparison 0.0
+LodSelectorTemplate.addLodDistance 6.0
+
+ObjectTemplate.create SimpleObject ATrocket_m1
+ObjectTemplate.geometry 1p_ATrocket_m1

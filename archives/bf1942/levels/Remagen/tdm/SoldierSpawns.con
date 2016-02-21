@@ -1,0 +1,172 @@
+rem SoldierSpawns.con created by Battlecraft 1942
+rem (D:\Battlefield 1942\Mods\bf1942\bf1942\levels\Remagen/tdm/SoldierSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  Ludenhoff_Bridge_East_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Ludenhoff_Bridge_East_Spawn1
+Object.absolutePosition 1243.04/137.92/1028.03
+Object.rotation -63.38/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Ludendorf_Bridge_East_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Ludendorf_Bridge_East_Spawn1
+Object.absolutePosition 1225.24/130.88/967.74
+Object.rotation 90.66/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn2  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn2
+Object.absolutePosition 1151.03/127.04/1293.46
+Object.rotation -168.20/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn2  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn2
+Object.absolutePosition 682.32/126.99/1373.31
+Object.rotation 89.06/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn3  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn3
+Object.absolutePosition 673.15/127.02/1390.77
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Ludendorf_Bridge_East_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Ludendorf_Bridge_East_Spawn2
+Object.absolutePosition 1291.06/137.96/1026.69
+Object.rotation -90.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  The_Ferry_dock_Spawn2  ---
+rem ----------------------------------------- 
+Object.create The_Ferry_dock_Spawn2
+Object.absolutePosition 901.18/126.69/1203.01
+Object.rotation -16.64/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  The_Ferry_dock_Spawn3  ---
+rem ----------------------------------------- 
+Object.create The_Ferry_dock_Spawn3
+Object.absolutePosition 894.94/126.69/1200.37
+Object.rotation -55.36/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  The_Ferry_dock_Spawn4  ---
+rem ----------------------------------------- 
+Object.create The_Ferry_dock_Spawn4
+Object.absolutePosition 853.82/127.21/1197.52
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Ludendorf_Bridge_West_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Ludendorf_Bridge_West_Spawn1
+Object.absolutePosition 861.50/138.04/1016.52
+Object.rotation -30.13/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Ludendorf_Bridge_West_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Ludendorf_Bridge_West_Spawn2
+Object.absolutePosition 862.27/138.04/1046.86
+Object.rotation -2.30/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Ludendorf_Bridge_West_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Ludendorf_Bridge_West_Spawn3
+Object.absolutePosition 852.98/127.48/1020.83
+Object.rotation -54.15/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Remagen_Park_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Remagen_Park_Spawn2
+Object.absolutePosition 778.37/127.00/1119.20
+Object.rotation -42.31/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Remagen_Park_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Remagen_Park_Spawn3
+Object.absolutePosition 787.75/127.16/1144.39
+Object.rotation -19.90/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Remagen_Park_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Remagen_Park_Spawn4
+Object.absolutePosition 757.64/127.25/1140.98
+Object.rotation 79.14/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Remagen_Park_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Remagen_Park_Spawn5
+Object.absolutePosition 782.76/126.23/1119.77
+Object.rotation 23.82/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn3  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn3
+Object.absolutePosition 1187.81/128.89/1227.79
+Object.rotation -112.75/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn4  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn4
+Object.absolutePosition 1157.19/127.78/1354.71
+Object.rotation -181.90/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Ludendorf_Bridge_West_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Ludendorf_Bridge_West_Spawn4
+Object.absolutePosition 861.54/134.06/1031.20
+Object.rotation 92.26/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Ludendorf_Bridge_East_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Ludendorf_Bridge_East_Spawn3
+Object.absolutePosition 1184.44/138.04/1046.98
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Ludendorf_Bridge_East_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Ludendorf_Bridge_East_Spawn4
+Object.absolutePosition 1185.00/138.03/1015.74
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Ludendorf_Bridge_East_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Ludendorf_Bridge_East_Spawn5
+Object.absolutePosition 1185.59/134.04/1031.33
+Object.rotation -87.76/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn5  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn5
+Object.absolutePosition 1209.40/127.67/1271.39
+Object.rotation -116.86/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn4  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn4
+Object.absolutePosition 653.63/128.66/1421.27
+Object.rotation -169.92/0.00/0.00
+
+rem EndOfFile

@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject counter
+ObjectTemplate.geometry counter
+ObjectTemplate.setHasCollisionPhysics 1
+

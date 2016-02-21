@@ -1,0 +1,3 @@
+ObjectTemplate.create SimpleObject crypt3_m1
+ObjectTemplate.geometry crypt3_m1
+ObjectTemplate.setHasCollisionPhysics 1

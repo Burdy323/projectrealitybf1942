@@ -1,0 +1,16 @@
+rem *** ALLIES_Middle_village ***
+Object.create ALLIES_Middle_village
+Object.absolutePosition 1100.655/104.1703/1024.923
+
+rem *** ALLIES_East_village ***
+Object.create ALLIES_East_village
+Object.absolutePosition 1271.003/109.4836/1055.422
+
+rem *** ALLIES_Medic_Airfield ***
+Object.create ALLIES_Medic_Airfield
+Object.absolutePosition 980.8627/104.2336/1184.307
+
+rem *** ALLIES_South_Airfield ***
+Object.create ALLIES_South_Airfield
+Object.absolutePosition 892.6815/104.1703/807.5995
+

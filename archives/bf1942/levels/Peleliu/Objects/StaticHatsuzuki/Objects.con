@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject StaticHatsuzuki
+ObjectTemplate.geometry StaticHatsuzuki
+ObjectTemplate.setHasCollisionPhysics 1
+ 

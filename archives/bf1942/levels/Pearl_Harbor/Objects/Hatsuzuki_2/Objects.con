@@ -1,0 +1,172 @@
+
+
+
+rem *** Hatsuzuki ***
+ObjectTemplate.create PlayerControlObject Hatsuzuki_2
+ObjectTemplate.setNetworkableInfo HatsuzukiBodyInfo
+ObjectTemplate.saveInSeparateFile 1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.drag 0.92
+ObjectTemplate.mass 2500000
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+ObjectTemplate.hasArmor 1
+ObjectTemplate.hitpoints 300
+ObjectTemplate.maxhitpoints 300
+ObjectTemplate.material 55
+ObjectTemplate.criticalDamage 50
+ObjectTemplate.hpLostWhileCriticalDamage 10
+ObjectTemplate.explosionForceMod 8
+ObjectTemplate.dontClearTeamOnExit 1
+ObjectTemplate.addArmorEffect 200 em_ExFumePOW 0/20/-1
+ObjectTemplate.addArmorEffect 200 em_ExFumePOW 0/20/-1
+ObjectTemplate.addArmorEffect 150 e_HatsuzukiDamage 0/0/0
+ObjectTemplate.addArmorEffect 150 e_HatsuzukiDamage 0/0/0
+ObjectTemplate.addArmorEffect 100 e_waterBoatSink 0/10/0
+ObjectTemplate.addArmorEffect 100 e_HatsuzukiDamage 0/0/0
+ObjectTemplate.addArmorEffect 100 e_HatsuzukiDamage 0/0/0
+ObjectTemplate.addArmorEffect 50 e_HatsuzukiDamage 0/0/0
+ObjectTemplate.addArmorEffect 50 e_waterBoatSink 0/10/0
+ObjectTemplate.addArmorEffect 50 e_waterBoatSinkEf 0/2/-5
+ObjectTemplate.addArmorEffect 50 e_waterBoatSinkEf 0/2/32
+ObjectTemplate.addArmorEffect 50 e_waterBoatSinkEf 0/2/-35
+ObjectTemplate.aiTemplate HatsuzukiAI
+rem -------------------------------------
+ObjectTemplate.addTemplate lodHatsuzuki
+ObjectTemplate.addTemplate HatsuzukiFloater
+ObjectTemplate.setPosition -1.999/9.5/50
+ObjectTemplate.addTemplate HatsuzukiFloater
+ObjectTemplate.setPosition 2/9.5/50
+ObjectTemplate.addTemplate HatsuzukiFloater
+ObjectTemplate.setPosition -4.999/9.5/17
+ObjectTemplate.addTemplate HatsuzukiFloater
+ObjectTemplate.setPosition 5/9.5/17
+ObjectTemplate.addTemplate HatsuzukiFloater
+ObjectTemplate.setPosition -4.999/9.5/-16.999
+ObjectTemplate.addTemplate HatsuzukiFloater
+ObjectTemplate.setPosition 5/9.5/-16.999
+ObjectTemplate.addTemplate HatsuzukiFloater
+ObjectTemplate.setPosition -1.999/9.5/-49.999
+ObjectTemplate.addTemplate HatsuzukiFloater
+ObjectTemplate.setPosition 2/9.5/-49.999
+ObjectTemplate.addTemplate HatsuzukiDriverSoldierSpawn
+ObjectTemplate.setPosition 0/12/26
+ObjectTemplate.addTemplate HatsuzukiSoldierSpawn
+ObjectTemplate.setPosition 4/9.4/-57
+ObjectTemplate.addTemplate HatsuzukiSoldierSpawn
+ObjectTemplate.setPosition -4/9.4/-57
+ObjectTemplate.addTemplate HatsuzukiDaihatsuSpawner
+ObjectTemplate.setPosition -7.7/8.55/-56.25
+ObjectTemplate.setRotation -3/0/0
+rem ObjectTemplate.addTemplate HatsuzukiDaihatsuSpawner
+rem ObjectTemplate.setPosition 7.7/8.55/-56.25
+rem ObjectTemplate.setRotation 3/0/0
+rem -------------------------------------
+ObjectTemplate.setPcoId 0
+ObjectTemplate.addPcoPosId 1
+ObjectTemplate.sonarPos 1
+ObjectTemplate.setSoldierExitLocation 0/12/26 0/0/0
+ObjectTemplate.GUIIndex 91
+ObjectTemplate.setVehicleIcon "Vehicle/Icon_hatsuzuki.tga"
+ObjectTemplate.setVehicleIconPos 85/90
+ObjectTemplate.setNumberOfWeaponIcons 2
+ObjectTemplate.setPrimaryAmmoIcon "Ammo/Icon_cannon.tga"
+ObjectTemplate.setPrimaryAmmoBar ABReloadBarOnly
+ObjectTemplate.setSecondaryAmmoIcon "Ammo/Icon_depthcharge.tga"
+ObjectTemplate.setSecondaryAmmoBar ABAmmoBarReloadBar
+ObjectTemplate.setCrossHairType CHTIcon
+ObjectTemplate.setVehicleCategory VCSea
+ObjectTemplate.setVehicleType VTDestroyer
+ObjectTemplate.setToolTipType  TTDestroyer
+ObjectTemplate.setMinimapIcon "Minimap/minimap_icon_destoyer_32x32.tga"
+ObjectTemplate.setMinimapIconSize 32
+
+
+rem *** HatsuzukiComplex ***
+ObjectTemplate.create Bundle HatsuzukiComplex
+rem ObjectTemplate.setNetworkableInfo HatsuzukiBodyInfo
+ObjectTemplate.geometry Hatsuzuki_M1
+ObjectTemplate.hasMobilePhysics 1
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.hasResponsePhysics 1
+rem -------------------------------------
+ObjectTemplate.addTemplate DestroyerSonar
+ObjectTemplate.addTemplate HatsuzukiEngine
+ObjectTemplate.setPosition 0/-4/-40
+ObjectTemplate.addTemplate HatsuzukiHullWing
+ObjectTemplate.setPosition 0/-5/55
+ObjectTemplate.setRotation 0/0/-90
+ObjectTemplate.addTemplate Hatsuzukirudder
+ObjectTemplate.setPosition 0/-5/-55
+ObjectTemplate.setRotation 0/0/-90
+ObjectTemplate.addTemplate HatsuzukiEntry
+ObjectTemplate.setPosition 0/12/26
+ObjectTemplate.addTemplate HatsuzukiPropeller
+ObjectTemplate.setPosition 1.881/3.575/-63.454
+ObjectTemplate.addTemplate HatsuzukiPropeller
+ObjectTemplate.setPosition -1.868/3.575/-63.454
+ObjectTemplate.addTemplate HatsuzukiCannon
+ObjectTemplate.setPosition 0.013/14.462/31.984
+ObjectTemplate.addTemplate HatsuzukiRearPCO
+ObjectTemplate.setPosition 0/0/-10
+ObjectTemplate.addTemplate HatsuzukiRadar2
+ObjectTemplate.setPosition 0/24.5/12.69
+ObjectTemplate.addTemplate ClimbingNet_3mx4m
+ObjectTemplate.setPosition -5.2/7.005/-16.999
+ObjectTemplate.setRotation 90/0/0
+beginrem
+ObjectTemplate.addTemplate ClimbingNet_3mx4m
+ObjectTemplate.setPosition -5.2/7.08/-55.999
+ObjectTemplate.setRotation 90/0/0
+endrem
+ObjectTemplate.addTemplate ClimbingNet_3mx4m
+ObjectTemplate.setPosition 5.2/7.005/-16.999
+ObjectTemplate.setRotation -89.999/0/0
+beginrem
+ObjectTemplate.addTemplate ClimbingNet_3mx4m
+ObjectTemplate.setPosition 5.2/7.08/-55.999
+ObjectTemplate.setRotation -89.999/0/0
+endrem
+ObjectTemplate.addTemplate DepthChargeLauncher
+ObjectTemplate.setPosition 1.255/9.9/-70.504
+ObjectTemplate.setRotation 175/0/90
+ObjectTemplate.addTemplate DepthChargeLauncher
+ObjectTemplate.setPosition -2.434/9.9/-70.504
+ObjectTemplate.setRotation -174.999/0/90
+ObjectTemplate.addTemplate HatsuzukiDeckMG42PCO
+ObjectTemplate.setPosition 4.6/13.67/-11.699
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate HatsuzukiDeckMG42PCO
+ObjectTemplate.setPosition -4.599/13.67/-11.699
+ObjectTemplate.setRotation -89.999/0/0
+rem ObjectTemplate.addTemplate AnimatedJapFlag
+rem ObjectTemplate.setPosition -0.017/30.3/8.5
+rem ObjectTemplate.setRotation 69.343/-4.914/-4.012
+rem ObjectTemplate.addTemplate AnimatedJapFlag
+rem ObjectTemplate.setPosition 0.1/23.3/-22.586
+rem ObjectTemplate.setRotation 100.021/0.936/0.347
+ObjectTemplate.addTemplate e_waterfrontBig
+ObjectTemplate.setPosition 0/-4/55
+ObjectTemplate.addTemplate e_waterBoatSvallNarrow
+ObjectTemplate.setPosition 0/-2/55
+ObjectTemplate.setRotation 90/0/0
+ObjectTemplate.addTemplate e_waterBoatSvallNarrow
+ObjectTemplate.setPosition 0/-2/-70
+ObjectTemplate.setRotation 270/0/0
+ObjectTemplate.addTemplate e_waterBackBig
+ObjectTemplate.setPosition 0/-0.499/-65.999
+ObjectTemplate.addTemplate ShipLadder03
+ObjectTemplate.setPosition 1.745/10.69/-13.424
+ObjectTemplate.setRotation 47/0/0
+ObjectTemplate.addTemplate ShipLadder03
+ObjectTemplate.setPosition -1.721/10.69/-13.464
+ObjectTemplate.setRotation -47/0/0
+ObjectTemplate.addTemplate Ammobox
+ObjectTemplate.setPosition 0.0/9.19/-20.1
+rem -------------------------------------
+
+
+rem ****** Radar *****
+
+ObjectTemplate.create SimpleObject HatsuzukiRadar2
+ObjectTemplate.geometry Hatsuzuki_Radar_m1

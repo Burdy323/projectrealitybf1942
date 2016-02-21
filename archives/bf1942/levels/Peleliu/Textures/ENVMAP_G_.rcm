@@ -1,0 +1,7 @@
+[CubeMap]
+PositiveX = bf1942\levels\Peleliu\Textures\env_Peleliu_04.dds
+NegativeX = bf1942\levels\Peleliu\Textures\env_Peleliu_02.dds
+PositiveY = bf1942\levels\Peleliu\Textures\env_Peleliu_05.dds
+NegativeY = bf1942\levels\Peleliu\Textures\env_Peleliu_06.dds
+PositiveZ = bf1942\levels\Peleliu\Textures\env_Peleliu_03.dds
+NegativeZ = bf1942\levels\Peleliu\Textures\env_Peleliu_01.dds

@@ -1,0 +1,381 @@
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1315.079/95.74375/1031.11
+Object.rotation 32/0/0
+Object.setOSId 4
+
+rem *** apcspawner ***
+Object.create apcspawner
+Object.absolutePosition 1324.376/95.85315/1015.144
+Object.rotation -57.75/0/0
+Object.setOSId 4
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1319.55/92.4523/1064.309
+Object.rotation 157.75/0/0
+Object.setOSId 4
+
+rem *** kubelspawner ***
+Object.create kubelspawner
+Object.absolutePosition 1320.413/104.571/893.8621
+Object.rotation 82.5/0/0
+Object.setOSId 4
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1598.33/109.426/850.741
+Object.rotation -93/0/0
+Object.setOSId 5
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1618.777/104.3986/759.9075
+Object.rotation -90.5/0/0
+Object.setOSId 5
+
+rem *** artilleryspawner ***
+Object.create artilleryspawner
+Object.absolutePosition 1638.625/104.3455/759.2063
+Object.rotation -90/0/0
+Object.setOSId 5
+
+rem *** apcspawner ***
+Object.create apcspawner
+Object.absolutePosition 1653.05/103.92/780.2438
+Object.setOSId 5
+
+rem *** kubelspawner ***
+Object.create kubelspawner
+Object.absolutePosition 1601.99/103.92/807.346
+Object.rotation -179/0/0
+Object.setOSId 5
+
+rem *** kubelspawner ***
+Object.create kubelspawner
+Object.absolutePosition 1241.17/101.372/539.722
+Object.rotation 76/0/0
+Object.setOSId 1
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1211.83/102.509/590.2134
+Object.rotation 87.5/0/0
+Object.setOSId 1
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1234.607/102.507/578.7188
+Object.setOSId 1
+
+rem *** artilleryspawner ***
+Object.create artilleryspawner
+Object.absolutePosition 1191.196/102.417/576.9061
+Object.rotation 178.75/0/0
+Object.setOSId 1
+
+rem *** apcspawner ***
+Object.create apcspawner
+Object.absolutePosition 1192.341/103.2972/593.9536
+Object.rotation 175.5/0/0
+Object.setOSId 1
+
+rem *** kubelspawner ***
+Object.create kubelspawner
+Object.absolutePosition 1123.66/108.664/534.012
+Object.rotation 127/0/0
+Object.setOSId 1
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 945.766/131.295/944.87
+Object.rotation 123/0/0
+Object.setOSId 2
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 856.7131/129.813/1020.797
+Object.rotation 141/0/0
+Object.setOSId 2
+
+rem *** artilleryspawner ***
+Object.create artilleryspawner
+Object.absolutePosition 899.8376/129.813/983.4471
+Object.rotation 220/0/0
+Object.setOSId 2
+
+rem *** kubelspawner ***
+Object.create kubelspawner
+Object.absolutePosition 981.165/129.813/938.736
+Object.rotation 199/0/0
+Object.setOSId 2
+
+rem *** kubelspawner ***
+Object.create kubelspawner
+Object.absolutePosition 927.437/119.763/1025.2
+Object.rotation 239/0/0
+Object.setOSId 2
+
+rem *** apcspawner ***
+Object.create apcspawner
+Object.absolutePosition 933.8743/129.813/963.9449
+Object.rotation 212/0/0
+Object.setOSId 2
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 904.6193/129.813/980.0983
+Object.rotation 219/0/0
+Object.setOSId 2
+
+rem *** stukaspawner ***
+Object.create stukaspawner
+Object.absolutePosition 955.731/121.395/1029.76
+Object.rotation -39/0/0
+Object.setOSId 2
+
+rem *** fighterspawner ***
+Object.create fighterspawner
+Object.absolutePosition 965.746/120.494/1017.34
+Object.rotation -40/0/0
+Object.setOSId 2
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 556.3547/109.985/1494.828
+Object.rotation -260.25/0/0
+Object.setOSId 3
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 584.4202/109.985/1455.715
+Object.setOSId 3
+
+rem *** artilleryspawner ***
+Object.create artilleryspawner
+Object.absolutePosition 592.493/109.985/1457.29
+Object.rotation 2/0/0
+Object.setOSId 3
+
+rem *** kubelspawner ***
+Object.create kubelspawner
+Object.absolutePosition 529.7057/109.984/1433.36
+Object.rotation 91/0/0
+Object.setOSId 3
+
+rem *** apcspawner ***
+Object.create apcspawner
+Object.absolutePosition 549.515/109.985/1437.436
+Object.rotation 270/0/0
+Object.setOSId 3
+
+rem *** kubelspawner ***
+Object.create kubelspawner
+Object.absolutePosition 615.76/109.985/1453.91
+Object.rotation -3/0/0
+Object.setOSId 3
+
+rem *** defgunspawner ***
+Object.create defgunspawner
+Object.absolutePosition 700.511/112.332/1175.71
+Object.rotation 187/0/0
+Object.setTeam 1
+Object.setOSId 3
+
+rem *** defgunspawner ***
+Object.create defgunspawner
+Object.absolutePosition 568.431/107.281/1319.67
+Object.rotation -94/0/0
+Object.setTeam 1
+Object.setOSId 3
+
+rem *** defgunspawner ***
+Object.create defgunspawner
+Object.absolutePosition 773.773/126.44/1376.26
+Object.rotation 78/0/0
+Object.setTeam 1
+Object.setOSId 3
+
+rem *** defgunspawner ***
+Object.create defgunspawner
+Object.absolutePosition 1068.16/110.673/1282.33
+Object.rotation 49/0/0
+Object.setTeam 1
+Object.setOSId 2
+
+rem *** defgunspawner ***
+Object.create defgunspawner
+Object.absolutePosition 1418.44/105.469/516.653
+Object.rotation 173/0/0
+Object.setTeam 1
+Object.setOSId -1
+
+rem *** defgunspawner ***
+Object.create defgunspawner
+Object.absolutePosition 1100.81/117.156/640.221
+Object.rotation 215/0/0
+Object.setTeam 1
+Object.setOSId 1
+
+rem *** defgunspawner ***
+Object.create defgunspawner
+Object.absolutePosition 1026.66/126.947/807.514
+Object.rotation -158/0/0
+Object.setTeam 1
+Object.setOSId 2
+
+rem *** machinegunspawner ***
+Object.create machinegunspawner
+Object.absolutePosition 773.5/118.175/1464.82
+Object.rotation 50/0/0
+Object.setTeam 1
+Object.setOSId 3
+
+rem *** machinegunspawner ***
+Object.create machinegunspawner
+Object.absolutePosition 882.893/135.426/1229.98
+Object.rotation -68/0/0
+Object.setTeam 1
+Object.setOSId 2
+
+rem *** machinegunspawner ***
+Object.create machinegunspawner
+Object.absolutePosition 873.393/135.562/1208.94
+Object.rotation -64.2/0/0
+Object.setTeam 1
+Object.setOSId 2
+
+rem *** machinegunspawner ***
+Object.create machinegunspawner
+Object.absolutePosition 823.813/124.455/1284.86
+Object.rotation 64/0/0
+Object.setTeam 1
+Object.setOSId 3
+
+rem *** aagunspawner ***
+Object.create aagunspawner
+Object.absolutePosition 722.576/123.819/1276.6
+Object.setTeam 1
+Object.setOSId 3
+
+rem *** aagunspawner ***
+Object.create aagunspawner
+Object.absolutePosition 570.906/109.985/1437.5
+Object.setTeam 1
+Object.setOSId 3
+
+rem *** aagunspawner ***
+Object.create aagunspawner
+Object.absolutePosition 736.263/124.179/1233.85
+Object.setTeam 1
+Object.setOSId 3
+
+rem *** aagunspawner ***
+Object.create aagunspawner
+Object.absolutePosition 998.439/129.813/914.455
+Object.setTeam 1
+Object.setOSId 2
+
+rem *** aagunspawner ***
+Object.create aagunspawner
+Object.absolutePosition 951.405/119.756/1008.42
+Object.setTeam 1
+Object.setOSId 2
+
+rem *** machinegunspawner ***
+Object.create machinegunspawner
+Object.absolutePosition 1074.73/128.809/972.357
+Object.rotation 49/0/0
+Object.setTeam 1
+Object.setOSId 2
+
+rem *** aagunspawner ***
+Object.create aagunspawner
+Object.absolutePosition 1141.9/107.956/560.622
+Object.setTeam 1
+Object.setOSId -1
+
+rem *** aagunspawner ***
+Object.create aagunspawner
+Object.absolutePosition 1255.29/101.507/568.788
+Object.setTeam 1
+Object.setOSId 1
+
+rem *** machinegunspawner ***
+Object.create machinegunspawner
+Object.absolutePosition 1190.04/106.378/462.188
+Object.rotation -157/0/0
+Object.setTeam 1
+Object.setOSId 1
+
+rem *** machinegunspawner ***
+Object.create machinegunspawner
+Object.absolutePosition 928.209/130.304/922.667
+Object.rotation -151.9/0/0
+Object.setTeam 1
+Object.setOSId 2
+
+rem *** machinegunspawner ***
+Object.create machinegunspawner
+Object.absolutePosition 876.067/130.31/960.196
+Object.rotation -149.2/0/0
+Object.setTeam 1
+Object.setOSId 2
+
+rem *** machinegunspawner ***
+Object.create machinegunspawner
+Object.absolutePosition 827.32/130.266/1017.3
+Object.rotation -145.3/0/0
+Object.setTeam 1
+Object.setOSId 2
+
+rem *** machinegunspawner ***
+Object.create machinegunspawner
+Object.absolutePosition 565.16/121.979/1370.45
+Object.rotation -84/0/0
+Object.setTeam 1
+Object.setOSId 3
+
+rem *** machinegunspawner ***
+Object.create machinegunspawner
+Object.absolutePosition 425.45/99.9866/1564.27
+Object.rotation -100/0/0
+Object.setTeam 1
+Object.setOSId 3
+
+rem *** aagunspawner ***
+Object.create aagunspawner
+Object.absolutePosition 1321.72/98.2973/985.113
+Object.setTeam 1
+Object.setOSId 4
+
+rem *** aagunspawner ***
+Object.create aagunspawner
+Object.absolutePosition 1427.1/103.144/1064.77
+Object.setTeam 1
+Object.setOSId 4
+
+rem *** aagunspawner ***
+Object.create aagunspawner
+Object.absolutePosition 1586.88/102.685/770.576
+Object.setTeam 1
+Object.setOSId 5
+
+rem *** aagunspawner ***
+Object.create aagunspawner
+Object.absolutePosition 1348.9/127.727/767.404
+Object.setTeam 1
+Object.setOSId 1
+
+rem *** raftspawner ***
+Object.create raftspawner
+Object.absolutePosition 1224.03/88.101/1133.651
+Object.rotation 122/0/0
+Object.setOSId 4
+
+rem *** raftspawner ***
+Object.create raftspawner
+Object.absolutePosition 1712.76/88.1401/721.255
+Object.rotation 12/0/0
+Object.setOSId 5
+

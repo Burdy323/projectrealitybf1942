@@ -1,0 +1,8 @@
+run fire_control_bunker2/fire_control_bunker2
+run casemate/casemate
+run defgun/defgun
+run lct_stairway/lct_stairway
+run fcb_door/fcb_door
+run lct/lct
+rem run eupaint1_m1/eupaint1_m1
+run pak40/pak40

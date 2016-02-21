@@ -1,0 +1,40 @@
+rem ControlPoints.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Peleliu/tdm/ControlPoints.con)
+
+rem ----------------------------------------- 
+rem ---  ngesebus_island  ---
+rem ----------------------------------------- 
+Object.create ngesebus_island
+Object.absolutePosition 1333.61/98.63/1855.62
+
+rem ----------------------------------------- 
+rem ---  angaur  ---
+rem ----------------------------------------- 
+Object.create angaur
+Object.absolutePosition 897.66/114.69/723.75
+
+rem ----------------------------------------- 
+rem ---  hill_100  ---
+rem ----------------------------------------- 
+Object.create hill_100
+Object.absolutePosition 1379.99/133.65/1168.04
+
+rem ----------------------------------------- 
+rem ---  bloody_nose_ridge  ---
+rem ----------------------------------------- 
+Object.create bloody_nose_ridge
+Object.absolutePosition 1376.08/120.24/1509.36
+
+rem ----------------------------------------- 
+rem ---  the_point  ---
+rem ----------------------------------------- 
+Object.create the_point
+Object.absolutePosition 1403.44/98.82/933.84
+
+rem ----------------------------------------- 
+rem ---  white_beach  ---
+rem ----------------------------------------- 
+Object.create white_beach
+Object.absolutePosition 1187.71/97.16/973.18
+
+rem EndOfFile

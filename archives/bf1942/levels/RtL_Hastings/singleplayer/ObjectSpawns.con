@@ -1,0 +1,187 @@
+rem ObjectSpawns.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\RtL_Hastings/conquest/ObjectSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn1  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn1
+Object.absolutePosition 156.38/65.87/240.27
+Object.rotation 35.54/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn1  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn1
+Object.absolutePosition 147.17/66.03/245.36
+Object.rotation 27.94/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn2  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn2
+Object.absolutePosition 197.40/65.99/184.22
+Object.rotation 91.05/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn3  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn3
+Object.absolutePosition 232.05/66.57/205.64
+Object.rotation 86.50/0.00/0.00
+Object.setOSId 1
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn4  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn4
+Object.absolutePosition 212.82/66.10/865.26
+Object.rotation -89.58/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn5  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn5
+Object.absolutePosition 835.80/55.52/293.59
+Object.rotation 179.70/0.00/0.00
+Object.setOSId 5
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn6  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn6
+Object.absolutePosition 762.23/59.98/740.10
+Object.rotation -128.46/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn6  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn6
+Object.absolutePosition 768.45/59.65/733.05
+Object.rotation -142.29/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn7  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn7
+Object.absolutePosition 836.67/59.88/691.05
+Object.rotation -140.07/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn7  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn7
+Object.absolutePosition 876.03/59.57/232.60
+Object.rotation -84.21/0.00/0.00
+Object.setOSId 5
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn7  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn7
+Object.absolutePosition 691.36/59.82/329.62
+Object.rotation 133.12/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn7  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn7
+Object.absolutePosition 588.94/59.60/315.06
+Object.rotation -118.84/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn7  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn7
+Object.absolutePosition 484.07/59.88/497.82
+Object.rotation -79.26/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn8  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn8
+Object.absolutePosition 594.65/59.76/202.49
+Object.rotation -77.64/0.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn9  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn9
+Object.absolutePosition 596.44/56.23/237.78
+Object.rotation -86.90/0.00/0.00
+Object.setOSId 4
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn9  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn9
+Object.absolutePosition 369.77/56.35/513.93
+Object.rotation -54.62/0.00/0.00
+Object.setOSId 6
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn9  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn9
+Object.absolutePosition 873.26/56.02/272.72
+Object.rotation -106.97/0.00/0.00
+Object.setOSId 5
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn9  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn9
+Object.absolutePosition 753.77/60.62/746.35
+Object.rotation -71.11/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn9  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn9
+Object.absolutePosition 771.24/60.63/718.89
+Object.rotation -142.77/0.00/0.00
+Object.setOSId 2
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn9  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn9
+Object.absolutePosition 728.47/66.38/226.35
+Object.rotation -89.05/0.00/0.00
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  New_Object_Spawn10  ---
+rem ----------------------------------------- 
+Object.create New_Object_Spawn10
+Object.absolutePosition 974.35/54.92/394.90
+Object.rotation 0.00/0.00/0.00
+Object.setTeam 0
+
+rem EndOfFile

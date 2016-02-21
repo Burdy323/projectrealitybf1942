@@ -1,0 +1,235 @@
+rem SoldierSpawnTemplates.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\bf1942\bf1942\levels\Peleliu/tdm/SoldierSpawnTemplates.con)
+
+rem ----------------------------------------- 
+rem ---  hill_100_spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint hill_100_spawn2
+ObjectTemplate.setSpawnId 42
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  angaur_spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint angaur_spawn2
+ObjectTemplate.setSpawnId 25
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  ngesebus_island_spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint ngesebus_island_spawn1
+ObjectTemplate.setSpawnId 19
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  ngesebus_island_spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint ngesebus_island_spawn2
+ObjectTemplate.setSpawnId 49
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  hill_100_spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint hill_100_spawn3
+ObjectTemplate.setSpawnId 43
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  angaur_spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint angaur_spawn3
+ObjectTemplate.setSpawnId 26
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint white_beach_spawn1
+ObjectTemplate.setSpawnId 21
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  ngesebus_island_spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint ngesebus_island_spawn3
+ObjectTemplate.setSpawnId 50
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  hill_100_spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint hill_100_spawn4
+ObjectTemplate.setSpawnId 44
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint white_beach_spawn2
+ObjectTemplate.setSpawnId 28
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  angaur_spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint angaur_spawn4
+ObjectTemplate.setSpawnId 27
+ObjectTemplate.setGroup 2
+
+rem ----------------------------------------- 
+rem ---  bloody_nose_ridge_spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint bloody_nose_ridge_spawn1
+ObjectTemplate.setSpawnId 22
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  ngesebus_island_spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint ngesebus_island_spawn4
+ObjectTemplate.setSpawnId 51
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  bloody_nose_ridge_spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint bloody_nose_ridge_spawn2
+ObjectTemplate.setSpawnId 46
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  hill_100_spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint hill_100_spawn5
+ObjectTemplate.setSpawnId 45
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint white_beach_spawn3
+ObjectTemplate.setSpawnId 29
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  ngesebus_island_spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint ngesebus_island_spawn5
+ObjectTemplate.setSpawnId 52
+ObjectTemplate.setGroup 1
+
+rem ----------------------------------------- 
+rem ---  bloody_nose_ridge_spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint bloody_nose_ridge_spawn3
+ObjectTemplate.setSpawnId 47
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint white_beach_spawn4
+ObjectTemplate.setSpawnId 30
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  bloody_nose_ridge_spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint bloody_nose_ridge_spawn4
+ObjectTemplate.setSpawnId 48
+ObjectTemplate.setGroup 5
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint white_beach_spawn5
+ObjectTemplate.setSpawnId 31
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint white_beach_spawn6
+ObjectTemplate.setSpawnId 32
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  white_beach_spawn7  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint white_beach_spawn7
+ObjectTemplate.setSpawnId 33
+ObjectTemplate.setGroup 3
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint the_point_spawn1
+ObjectTemplate.setSpawnId 24
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint the_point_spawn2
+ObjectTemplate.setSpawnId 35
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint the_point_spawn3
+ObjectTemplate.setSpawnId 36
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn4  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint the_point_spawn4
+ObjectTemplate.setSpawnId 37
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn5  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint the_point_spawn5
+ObjectTemplate.setSpawnId 38
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn6  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint the_point_spawn6
+ObjectTemplate.setSpawnId 39
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn7  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint the_point_spawn7
+ObjectTemplate.setSpawnId 40
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  the_point_spawn8  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint the_point_spawn8
+ObjectTemplate.setSpawnId 41
+ObjectTemplate.setGroup 6
+
+rem ----------------------------------------- 
+rem ---  hill_100_spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint hill_100_spawn1
+ObjectTemplate.setSpawnId 23
+ObjectTemplate.setGroup 4
+
+rem ----------------------------------------- 
+rem ---  angaur_spawn1  ---
+rem ----------------------------------------- 
+ObjectTemplate.create SpawnPoint angaur_spawn1
+ObjectTemplate.setSpawnId 20
+ObjectTemplate.setGroup 2
+
+rem EndOfFile

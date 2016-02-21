@@ -1,0 +1,438 @@
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 1387.26/163.8736/631.4997
+Object.rotation 90/0/0
+Object.setOSId 5
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1307.678/166.1445/590.9702
+Object.rotation -0.75/0/0
+Object.setOSId 5
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1328.167/169.582/595.0185
+Object.rotation 1.25/0/0
+Object.setOSId 5
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 1384.437/163.8705/625.0219
+Object.rotation -182/0/0
+Object.setOSId 5
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 1365.061/165.5625/620.2497
+Object.rotation 93.75/4.5/0
+Object.setOSId 5
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1026.516/167.2695/1022.498
+Object.rotation -92/0/0
+Object.setOSId 3
+
+rem *** heavytankspawner ***
+Object.create heavytankspawner
+Object.absolutePosition 1043.561/166.6445/927.2659
+Object.rotation -93.75/0/0
+Object.setOSId 3
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 1051.306/167.2695/975.2244
+Object.rotation -92/0/0
+Object.setOSId 3
+
+rem *** APCSpawner ***
+Object.create APCSpawner
+Object.absolutePosition 1043.518/167.0508/957.2837
+Object.setOSId 3
+
+rem *** ArtillerySpawner ***
+Object.create ArtillerySpawner
+Object.absolutePosition 1013.369/167.457/937.1983
+Object.rotation 110.75/0/0
+Object.setOSId 3
+
+rem *** heavytankspawner ***
+Object.create heavytankspawner
+Object.absolutePosition 478.4854/82.21094/1604.231
+Object.rotation 89/0/0
+Object.setOSId 1
+
+rem *** heavytankspawner ***
+Object.create heavytankspawner
+Object.absolutePosition 461.7037/81.93282/1604.234
+Object.rotation 87.75/0/0
+Object.setOSId 1
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 476.5163/81.32031/1596.643
+Object.rotation -271.5/0/0
+Object.setOSId 1
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 459.0825/81.32031/1596.388
+Object.rotation 92.75/0/0
+Object.setOSId 1
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 412.0456/81.32031/1589.188
+Object.rotation 88.25/0/0
+Object.setOSId 1
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 493.6721/81.32031/1586.101
+Object.rotation 182.5/0/0
+Object.setOSId 1
+
+rem *** APCSpawner ***
+Object.create APCSpawner
+Object.absolutePosition 461.9188/81.32031/1630.244
+Object.rotation 93.5/0/0
+Object.setOSId 1
+
+rem *** ArtillerySpawner ***
+Object.create ArtillerySpawner
+Object.absolutePosition 450.649/82.13281/1549.44
+Object.rotation -3.25/0/0
+Object.setOSId 1
+
+rem *** DefgunSpawner ***
+Object.create DefgunSpawner
+Object.absolutePosition 456.9804/167.488/747.8628
+Object.setOSId 1
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 1419.081/156.579/689.6157
+Object.rotation -208.5/0/0
+Object.setOSId 5
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 1413.982/156.5414/690.1989
+Object.rotation -136.9688/0/0
+Object.setOSId 5
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 1450.851/165.7695/715.1772
+Object.rotation 138.7813/0/0
+Object.setOSId 5
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 1426.371/171.8899/755.483
+Object.rotation -115.25/0/0
+Object.setOSId 5
+
+rem *** ArtillerySpawner ***
+Object.create ArtillerySpawner
+Object.absolutePosition 1414.83/171.668/753.5985
+Object.rotation 174/0/0
+Object.setOSId 5
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 1299.841/165.1063/601.7699
+Object.setOSId 5
+
+rem *** APCSpawner ***
+Object.create APCSpawner
+Object.absolutePosition 1335.255/170.8945/674.466
+Object.rotation 119.5/0/0
+Object.setOSId 5
+
+rem *** heavytankspawner ***
+Object.create heavytankspawner
+Object.absolutePosition 1372/168.1875/264
+Object.setOSId 2
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1388.708/168.7344/265.1079
+Object.rotation 1.25/0/0
+Object.setOSId 2
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1410.419/169.5469/271.324
+Object.setOSId 2
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 1420/168.1875/248
+Object.rotation -93.25/0/0
+Object.setOSId 2
+
+rem *** APCSpawner ***
+Object.create APCSpawner
+Object.absolutePosition 1405.544/168.1875/237.7643
+Object.setOSId 2
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 1400/168.1875/304
+Object.rotation 186.25/0/0
+Object.setOSId 2
+
+rem *** levelBomberSpawner ***
+Object.create levelBomberSpawner
+Object.absolutePosition 284/153.75/632
+Object.rotation 117.5/0/0
+Object.setOSId 6
+
+rem *** FighterSpawner ***
+Object.create FighterSpawner
+Object.absolutePosition 292/153.7539/660
+Object.rotation 128.75/0/0
+Object.setOSId 6
+
+rem *** FighterSpawner ***
+Object.create FighterSpawner
+Object.absolutePosition 312/153.7539/664
+Object.rotation 128.75/0/0
+Object.setOSId 6
+
+rem *** heavytankspawner ***
+Object.create heavytankspawner
+Object.absolutePosition 376.5529/155.3867/666.0914
+Object.rotation 90.25/0/0
+Object.setOSId 6
+
+rem *** heavytankspawner ***
+Object.create heavytankspawner
+Object.absolutePosition 388.7661/155.8984/649.3027
+Object.rotation -2.78125/0/0
+Object.setOSId 6
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 380/153.5656/692
+Object.rotation 178/0/0
+Object.setOSId 6
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 403.9034/156.8016/666.5548
+Object.rotation 91/0/0
+Object.setOSId 6
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 558.2313/171.4414/675.9333
+Object.rotation 196.25/0/0
+Object.setOSId 6
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 586.7317/171.9492/685.8491
+Object.rotation -138.75/0/0
+Object.setOSId 6
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 320/153.7539/680
+Object.rotation 178/0/0
+Object.setOSId 6
+
+rem *** APCSpawner ***
+Object.create APCSpawner
+Object.absolutePosition 344/153.7578/676
+Object.rotation 94.25/0/0
+Object.setOSId 6
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 558.2422/177.452/681.7484
+Object.rotation 111.75/0/0
+Object.setOSId 3
+
+rem *** APCSpawner ***
+Object.create APCSpawner
+Object.absolutePosition 591.7245/171.9297/615.2098
+Object.rotation 92/0/0
+Object.setOSId 6
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 619.143/170.804/574.9991
+Object.setOSId 6
+
+rem *** AAGunSpawner ***
+Object.create AAGunSpawner
+Object.absolutePosition 452/162.8633/704
+Object.rotation 113.75/6.75/0
+Object.setOSId 3
+
+rem *** AAGunSpawner ***
+Object.create AAGunSpawner
+Object.absolutePosition 430.2037/155.6406/625.3676
+Object.rotation 136.25/4.5/0
+Object.setOSId 3
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 965.2845/167.9757/1011.992
+Object.rotation -22.25/0/0
+Object.setOSId 3
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 1005.275/164.0828/1042.874
+Object.rotation -51.84375/0/0
+Object.setOSId 3
+
+rem *** DefgunSpawner ***
+Object.create DefgunSpawner
+Object.absolutePosition 1421.289/167.1687/346.7647
+Object.rotation -28.75/0/0
+Object.setOSId 1
+
+rem *** DefgunSpawner ***
+Object.create DefgunSpawner
+Object.absolutePosition 1792.599/151.35/1094.01
+Object.rotation -156/0/0
+Object.setOSId 1
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 625.4085/172.1289/597.0146
+Object.rotation 14.25/0/0
+Object.setOSId 1
+
+rem *** DefgunSpawner ***
+Object.create DefgunSpawner
+Object.absolutePosition 530.1128/81.32031/1560.628
+Object.rotation 139.25/0/0
+Object.setOSId 1
+
+rem *** AAGunSpawner ***
+Object.create AAGunSpawner
+Object.absolutePosition 554.4221/86.96094/1564.998
+Object.rotation 72/5/0
+Object.setOSId 1
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 1046.538/187.6658/954.6614
+Object.rotation -95.5/0/0
+Object.setOSId 3
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 1052.74/167.207/918.8483
+Object.rotation 88.25/0/0
+Object.setOSId 3
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 1046.44/172.2533/834.5103
+Object.rotation 143.0625/0/0
+Object.setOSId 3
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 1744/151.2617/1056
+Object.setOSId 4
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 1743/150.5703/1027.75
+Object.rotation -90/0/0
+Object.setOSId 4
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 1728/151/1012
+Object.setOSId 4
+
+rem *** APCSpawner ***
+Object.create APCSpawner
+Object.absolutePosition 1716/151.0508/1016
+Object.setOSId 4
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 703.8004/126.8828/1200.102
+Object.setOSId 7
+
+rem *** APCSpawner ***
+Object.create APCSpawner
+Object.absolutePosition 728/126.8789/1228
+Object.setOSId 7
+
+rem *** willyspawner ***
+Object.create willyspawner
+Object.absolutePosition 712.1042/126.8789/1209.356
+Object.rotation -91.25/0/0
+Object.setOSId 7
+
+rem *** lighttankspawner ***
+Object.create lighttankspawner
+Object.absolutePosition 704.2855/126.8477/1262.4
+Object.rotation 91.25/0/0
+Object.setOSId 7
+
+rem *** AAGunSpawner ***
+Object.create AAGunSpawner
+Object.absolutePosition 832.3918/143.2726/1248.164
+Object.rotation 49.75/8.5625/0
+Object.setOSId 7
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 792.0005/148.7601/1253.799
+Object.rotation -48.75/0/0
+Object.setOSId 7
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 810.1104/148.7386/1253.802
+Object.rotation 34.6875/0/0
+Object.setOSId 7
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 968.7646/178.31/837.7814
+Object.rotation -92.5/0/0
+Object.setOSId 3
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 938.5142/167.2539/847.5122
+Object.rotation -152.5/0/0
+Object.setOSId 3
+
+rem *** AAGunSpawner ***
+Object.create AAGunSpawner
+Object.absolutePosition 1510.892/168.0781/391.1583
+Object.rotation 0/0.78125/0
+Object.setOSId 2
+
+rem *** AAGunSpawner ***
+Object.create AAGunSpawner
+Object.absolutePosition 1340.182/168.4875/257.2555
+Object.rotation -86.25/0/0
+Object.setOSId 2
+
+rem *** APCSpawner ***
+Object.create APCSpawner
+Object.absolutePosition 688/126.875/1248
+Object.rotation 93.5/0/0
+Object.setOSId 7
+
+rem *** MachinegunSpawner ***
+Object.create MachinegunSpawner
+Object.absolutePosition 1458.397/178.9784/355.9181
+Object.rotation 103/0/0
+Object.setOSId 2
+

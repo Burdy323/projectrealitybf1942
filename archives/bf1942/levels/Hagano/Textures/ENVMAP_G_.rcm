@@ -1,0 +1,7 @@
+[CubeMap]
+PositiveX = bf1942\levels\Hagano\Textures\env_Hagano_04.dds
+NegativeX = bf1942\levels\Hagano\Textures\env_Hagano_02.dds
+PositiveY = bf1942\levels\Hagano\Textures\env_Hagano_05.dds
+NegativeY = bf1942\levels\Hagano\Textures\env_Hagano_06.dds
+PositiveZ = bf1942\levels\Hagano\Textures\env_Hagano_03.dds
+NegativeZ = bf1942\levels\Hagano\Textures\env_Hagano_01.dds

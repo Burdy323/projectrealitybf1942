@@ -1,0 +1,543 @@
+ObjectTemplate.create Bundle hafenanlage
+ObjectTemplate.geometry hafenanlage
+ObjectTemplate.setHasCollisionPhysics 1
+
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 11.85/4.15/-33.8
+ObjectTemplate.setRotation 0/0/0
+
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 96.8/4.15/-33.8
+ObjectTemplate.setRotation 0/0/0
+
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition -72.15/4.15/-33.8
+ObjectTemplate.setRotation 0/0/0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition -106.179/4.15/-33.8
+ObjectTemplate.setRotation 0/0/0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition -22.18/4.15/-33.8
+ObjectTemplate.setRotation 0/0/0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 62.92/4.15/-33.8
+ObjectTemplate.setRotation 0/0/0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 154.0/4.15/-33.8 
+ObjectTemplate.setRotation 0/0/0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition -166.63/4.15/-232.244
+ObjectTemplate.setRotation 0/0/0
+
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition -273.327/4.15/-263.355
+ObjectTemplate.setRotation -180/0/0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 351.541/4.15/224.401
+ObjectTemplate.setRotation -63.4695/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 348.935/4.15/164.616
+ObjectTemplate.setRotation -95.9951/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 351.629/4.15/426.76
+ObjectTemplate.setRotation -135.14/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 398.891/4.15/379.315
+ObjectTemplate.setRotation -134.723/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 37.0694/4.15/324.994
+ObjectTemplate.setRotation -92.5311/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 79.8142/4.15/584.069
+ObjectTemplate.setRotation 180.0/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 199.551/4.15/583.77
+ObjectTemplate.setRotation 180.0/0.0/0.0
+
+rem ObjectTemplate.addTemplate treppe_rechts
+rem ObjectTemplate.setPosition 180.0/0.0/0.0
+rem ObjectTemplate.setRotation -90.0/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 63.006/4.15/752.031
+ObjectTemplate.setRotation -150.274/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition -33.1421/4.15/587.734
+ObjectTemplate.setRotation 30.2845/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition -35.5855/4.15/546.206
+ObjectTemplate.setRotation -134.846/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 40.1658/4.15/470.433
+ObjectTemplate.setRotation -134.692/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition -29.3918/4.15/350.521
+ObjectTemplate.setRotation 136.444/0.0/0.0
+
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 222.17/4.15/316.299
+ObjectTemplate.setRotation -90/0.0/0.0
+
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 72.5768/4.15/742.616
+ObjectTemplate.setRotation -149.629/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition -18.736/4.15/586.272
+ObjectTemplate.setRotation 30.7506/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 66.8337/4.15/583.77
+ObjectTemplate.setRotation 180.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 143.822/4.15/611.175
+ObjectTemplate.setRotation 90.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 21.9456/4.15/527.256
+ObjectTemplate.setRotation 135.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 212.946/4.15/584.069
+ObjectTemplate.setRotation 180.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 213.309/4.15/373.122
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 300.68/4.15/393.998
+ObjectTemplate.setRotation -135.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 395.9/4.15/419.805
+ObjectTemplate.setRotation 135.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 360.692/4.15/322.595
+ObjectTemplate.setRotation 45.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 376.037/4.15/190.647
+ObjectTemplate.setRotation 180.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 264.23/4.15/141.129
+ObjectTemplate.setRotation 83.9869/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 167.626/4.15/36.4355
+ObjectTemplate.setRotation 180.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 141.656/4.15/-60.784
+ObjectTemplate.setRotation 90.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 109.896/4.15/-60.784
+ObjectTemplate.setRotation -90.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition 51.489/4.15/-60.784
+ObjectTemplate.setRotation 90.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition 19.7286/4.15/-60.784
+ObjectTemplate.setRotation -90.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition -31.9896/4.15/-60.784
+ObjectTemplate.setRotation 90.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition -63.75/4.15/-60.784
+ObjectTemplate.setRotation -90.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition -135.222/4.15/-60.7839
+ObjectTemplate.setRotation 90.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition -153.138/4.15/-74.6034
+ObjectTemplate.setRotation 180.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_links
+ObjectTemplate.setPosition -153.057/4.15/-241.58
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate treppe_rechts
+ObjectTemplate.setPosition -259.439/4.15/-273.06
+ObjectTemplate.setRotation 180.0/0.0/0.0
+
+rem ************************************************
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -18.7024/10.04/81.4023
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 8.01066/10.04/81.4023
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -75.5806/10.04/81.4023
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -102.294/10.04/81.4023
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 93.4551/10.04/81.4023
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 66.742/10.04/81.4023
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 8.01066/10.04/14.7239
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -75.5806/10.04/14.7239
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -102.294/10.04/14.7239
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 93.4551/10.04/14.7239
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 66.742/10.04/14.7239
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -18.7024/10.04/14.7239
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 8.01066/10.04/49.838
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -75.5806/10.04/49.838
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -102.294/10.04/49.838
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 93.4551/10.04/49.838
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 66.742/10.04/49.838
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -18.7024/10.04/49.838
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -163.071/10.04/-176.066
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -163.071/10.04/-116.522
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -163.071/10.04/-61.3727
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -185.52/10.04/-248.931
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -243.792/10.04/-248.931
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 157.628/10.04/14.7239
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 157.628/10.04/49.838
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 157.628/10.04/81.4023
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 157.628/10.04/119.18
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 320.979/10.04/158.173
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 284.362/10.04/154.007
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 239.392/10.04/149.467
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 188.744/10.04/144.172
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 366.389/10.04/193.712
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 315.317/10.04/245.966
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 126.282/10.04/-50.1052
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 36.2925/10.04/-50.1052
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -47.1283/10.04/-50.1052
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -131.017/10.04/-50.1052
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -269.496/10.04/-292.782
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 380.25/10.04/355.574
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 353.223/10.04/328.092
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 318.976/10.04/294.176
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 387.923/10.04/414.651
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 323.137/10.04/402.315
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 295.783/10.04/374.747
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 265.024/10.04/344.179
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 202.908/10.04/344.179
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 76.7397/10.04/344.179
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 76.7397/10.04/401.863
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 202.908/10.04/401.863
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem *** 
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 76.7397/10.04/465.312
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 202.908/10.04/465.312
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 76.7397/10.04/519.978
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 202.908/10.04/519.978
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 142.699/10.04/601.618
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -1.39046/10.04/325.645
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -39.7886/10.04/385.316
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -0.627823/10.04/424.407
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 14.9585/10.04/519.927
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -64.6857/10.04/522.584
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -116.036/10.04/471.089
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -125.416/10.04/484.465
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -74.0661/10.04/535.96
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition -10.1298/10.04/621.146
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 19.8489/10.04/672.395
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 104.502/10.04/771.157
+ObjectTemplate.setRotation 0.0/0.0/0.0
+
+rem ***  
+ObjectTemplate.addTemplate pollermesh
+ObjectTemplate.setPosition 48.448/10.04/720.06
+ObjectTemplate.setRotation 0.0/0.0/0.0
