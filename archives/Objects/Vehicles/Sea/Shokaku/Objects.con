@@ -243,22 +243,21 @@ ObjectTemplate.setRotation 180/0/0
 ObjectTemplate.addTemplate Ammobox
 ObjectTemplate.setPosition 13.109/11.81/-55.479
 
+rem ----------------------------------------
+rem ----------------------------------------
+rem ----  ** Plane resupply& repair **  ----
+rem ----------------------------------------
+rem ----------------------------------------
+
 ObjectTemplate.addTemplate ShokakuAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/10/-120
+ObjectTemplate.setPosition 4.109/11.81/-80.479
 ObjectTemplate.addTemplate ShokakuAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/10/-90
+ObjectTemplate.setPosition 4.109/11.81/-90.479
 ObjectTemplate.addTemplate ShokakuAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/10/-60
+ObjectTemplate.setPosition -5.109/11.81/-80.479
 ObjectTemplate.addTemplate ShokakuAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/10/-30
-ObjectTemplate.addTemplate ShokakuAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/10/-0
-ObjectTemplate.addTemplate ShokakuAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/10/30
-ObjectTemplate.addTemplate ShokakuAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/10/60
-ObjectTemplate.addTemplate ShokakuAirplaneSupplyDepot
-ObjectTemplate.setPosition 0/10/90
+ObjectTemplate.setPosition -5.109/11.81/-90.479
+
 ObjectTemplate.addTemplate ShokakuPropellerL
 ObjectTemplate.setPosition -4.4/-6.6/-98.9
 ObjectTemplate.addTemplate ShokakuPropellerR
@@ -269,11 +268,26 @@ rem -------------------------------------
 
 rem *** ShokakuAirplaneSupplyDepot ***
 ObjectTemplate.create SupplyDepot ShokakuAirplaneSupplyDepot
-ObjectTemplate.radius 20
-ObjectTemplate.team 0
+ObjectTemplate.radius 5
+ObjectTemplate.team 1
 ObjectTemplate.setHealth 0 0 0
 ObjectTemplate.addAmmoType 8 -1 20 0
-ObjectTemplate.addAmmoType 7 -1 0.02 0
+ObjectTemplate.addAmmoType 7 -1 0.002 0
+
+rem ObjectTemplate.addVehicleType corsair -1 4 0
+ObjectTemplate.addVehicleType sbd -1 4 0
+ObjectTemplate.addVehicleType sbd-t -1 4 0
+rem ObjectTemplate.addVehicleType mustang -1 4 0
+rem ObjectTemplate.addVehicleType spitfire -1 4 0
+ObjectTemplate.addVehicleType bf109 -1 4 0
+ObjectTemplate.addVehicleType stuka -1 4 0
+ObjectTemplate.addVehicleType aichival -1 4 0
+ObjectTemplate.addVehicleType aichival-t -1 4 0
+ObjectTemplate.addVehicleType zero -1 4 0
+ObjectTemplate.addVehicleType yak9 -1 4 0
+ObjectTemplate.addVehicleType BF110 -1 4 0
+ObjectTemplate.addVehicleType Mosquito -1 4 0
+
 ObjectTemplate.workOnVehicles 1
 ObjectTemplate.workOnSoldiers 0
 
