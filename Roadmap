@@ -3,6 +3,8 @@
 ------------------------------------------------------------------------------------------ ------------------------------------------------
 1) Implementation of vehicle sights (Spandaxe has some sights he's working on - lets keep in touch)
 
+1a) Adjust stationary MG sights so that you default to a look down the sights view (instead of the current view that requires crosshairs). Also, lower every tanks top MG's so its more like Forgotten Hope's Tank MG's. Also do this for the stationary MG so the player model is a kneel'd down soldier and not a standing up man like vanilla
+
 2) Recoil, Deviation, Damage changes for all weapons/vehicles (look into how Forgotten Hope does it - Large Crosshair expantion as the player moves - then shrinks as player stops)
 
 3) Importation of Weapon Models from Forgotten Hope 
