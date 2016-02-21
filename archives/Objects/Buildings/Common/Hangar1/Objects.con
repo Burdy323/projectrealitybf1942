@@ -56,8 +56,9 @@ ObjectTemplate.create SimpleObject landrep1_supplyExterior
 ObjectTemplate.geometry landrep1_m2
 
 ObjectTemplate.create SupplyDepot AirplaneRepairpoint
-ObjectTemplate.radius 20
+ObjectTemplate.radius 15
 ObjectTemplate.team 0
+rem ------ *** Repair *** ------
 rem ObjectTemplate.addVehicleType tiger -1 2 0
 rem ObjectTemplate.addVehicleType Panzeriv -1 2 0
 rem ObjectTemplate.addVehicleType hanomag -1 2 0
@@ -88,6 +89,12 @@ rem ObjectTemplate.addVehicleType M3Grant -1 4 0
 rem ObjectTemplate.addVehicleType m11-39 -1 4 0
 ObjectTemplate.addVehicleType BF110 -1 4 0
 ObjectTemplate.addVehicleType Mosquito -1 4 0
+
+rem ------ ***Resupply *** ------
+ObjectTemplate.addAmmoType 10 -1 100 0
+ObjectTemplate.addAmmoType 9 -1 0.02 0
+ObjectTemplate.addAmmoType 8 -1 100 0
+ObjectTemplate.addAmmoType 7 -1 0.02 0
 
 ObjectTemplate.addAmmoType 0 -1 10 0
 ObjectTemplate.workOnVehicles 1
