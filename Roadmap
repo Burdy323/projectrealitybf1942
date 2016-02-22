@@ -1,49 +1,52 @@
 --------------------------------------------------------ROADMAP FOR FUTURE RELEASES--------------------------------------------------------
 ------------------------------ These are in no particular order. Preferably gameplay tweaks before visual --------------------------------- 
 ------------------------------------------------------------------------------------------ ------------------------------------------------
-1) Implementation of vehicle sights (Spandaxe has some sights he's working on - lets keep in touch)
+Initial release*
+0.2 release^
 
-1a) Adjust stationary MG sights so that you default to a look down the sights view (instead of the current view that requires crosshairs). Also, lower every tanks top MG's so its more like Forgotten Hope's Tank MG's. Also do this for the stationary MG so the player model is a kneel'd down soldier and not a standing up man like vanilla
+1)* Implementation of vehicle sights (Spandaxe has some sights he's working on - lets keep in touch)
 
-2) Recoil, Deviation, Damage changes for all weapons/vehicles (look into how Forgotten Hope does it - Large Crosshair expantion as the player moves - then shrinks as player stops)
+1a)* Adjust stationary MG sights so that you default to a look down the sights view (instead of the current view that requires crosshairs). Also, lower every tanks top MG's so its more like Forgotten Hope's Tank MG's. Also do this for the stationary MG so the player model is a kneel'd down soldier and not a standing up man like vanilla
 
-3) Importation of Weapon Models from Forgotten Hope 
+2)* Recoil, Deviation, Damage changes for all weapons/vehicles (look into how Forgotten Hope does it - Large Crosshair expantion as the player moves - then shrinks as player stops)
 
-3a) Importation of Vehicle Models from Forgotten Hope 
+3)^ Importation of Weapon Models from Forgotten Hope 
 
-4) Sound/FX Rehaul (Use other mods - Forgotten Hope has nice FX all around)
+3a)^ Importation of Vehicle Models from Forgotten Hope 
 
-5) Death bubbles on planes for all non pilot kits
+4)^ Sound/FX Rehaul (Use other mods - Forgotten Hope has nice FX all around)
 
-6) Ticket bleeds higher for vehicles (Like PR assets)
+5)* Death bubbles on planes for all non pilot kits
 
-7) 6th Class implementation - have this class be Engineers for land-centric maps, and pilots for air-centric maps
+6)* Ticket bleeds higher for vehicles (Like PR assets)
 
-8) Kit limitations (Look into how FinnWars does it. This will be important for Engineer and Pilot kit implimentation, as well as balancing out special kits for balance)
+7)* 6th Class implementation - have this class be Engineers for land-centric maps, and pilots for air-centric maps
 
-9) Kit spawning at base. What kits would spawn would vary map to map - mainly be special kits such as sniper kits and pilots on land-centric maps
+8)* Kit limitations (Look into how FinnWars does it. This will be important for Engineer and Pilot kit implimentation, as well as balancing out special kits for balance)
 
-9a) One of these specials be a mortar kit - that has a rifle and a deployable mortar
+9)* Kit spawning at base. What kits would spawn would vary map to map - mainly be special kits such as sniper kits and pilots on land-centric maps
 
-9b) To compliment this feature above, add supply trucks (or allow halftracks to resupply)
+9a)^ One of these specials be a mortar kit - that has a rifle and a deployable mortar
 
-10) Continue adding custom maps as well as maps made within our community. Focus on finding large, realistic, and well-designed maps. need larger maps mainly.
+9b)* To compliment this feature above, add supply trucks (or allow halftracks to resupply)
 
-11) Slower soldier run speed. Will help make the maps seem larger
+10)^ Continue adding custom maps as well as maps made within our community. Focus on finding large, realistic, and well-designed maps. need larger maps mainly.
 
-12) LOD and Viewdistance changes - on a per map basis.
+11)* Slower soldier run speed. Will help make the maps seem larger
 
-13) Longer vehicle spawn times - on a per map basis (as some maps will need shorter vehicle spawn times for transportation assets to make up for the large map sizes).
+12)* LOD and Viewdistance changes - on a per map basis.
 
-14) Force players to walk to different vehicle positions on larger vehicles (battleship, carrier) instead of "teleporting" to the new position.
+13)* Longer vehicle spawn times - on a per map basis (as some maps will need shorter vehicle spawn times for transportation assets to make up for the large map sizes).
 
-15) Warmup time on vehicles before they start (plane rotors, boat propellers).
+14)* Force players to walk to different vehicle positions on larger vehicles (battleship, carrier) instead of "teleporting" to the new position.
 
-16) Realistic time between firing rounds in a tank (around 15 rounds a minute, or 1 every 4 seconds(based on 75mm AT rounds)).
+15)^ Warmup time on vehicles before they start (plane rotors, boat propellers).
 
-16a) Amount of ammunition a tank can hold. E.g. Panthers could hold around 30 shells especially with all the casings laying around in the way.
+16)* Realistic time between firing rounds in a tank (around 15 rounds a minute, or 1 every 4 seconds(based on 75mm AT rounds)).
 
-16b) Weapon firing cooldown on all turrets.
+16a)* Amount of ammunition a tank can hold. E.g. Panthers could hold around 30 shells especially with all the casings laying around in the way.
+
+16b)^ Weapon firing cooldown on all turrets.
 
 
 
