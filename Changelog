@@ -19,6 +19,6 @@
 - Fixed icons for kits
 - added RTR Expansion into Mod (with all vehicles being tweaked for the mod)
 - updated custom maps and ported new ones into the mod
-- Damage tweaks for some vehicles
-
-*need to fix kit index error*
+- Damage tweaked for all tanks (FH)
+- fixed kit index error (AT now moved to index 5)
+- explored increase of LOD for vegatation *
