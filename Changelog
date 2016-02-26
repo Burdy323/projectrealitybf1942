@@ -21,7 +21,8 @@
 - updated custom maps and ported new ones into the mod
 - Damage tweaked for all vehicles/tanks (EXCEPT : Katyusha, WasserFall, bombs, Big_bombs, all ships and Greyhound)
 - fixed kit index error (AT now moved to index 5)
-- explored increase of LOD for vegatation 
+- Increased LOD's of both vegitation and building up too 8000
+- Increased LOD's of vehicles* up too 5000 (may need to check this)
 - Lowered resupply times
 - adjusted cameras for T34's
 - added crosshairs to ship defguns
