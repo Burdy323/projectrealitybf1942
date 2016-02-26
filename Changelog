@@ -23,3 +23,5 @@
 - fixed kit index error (AT now moved to index 5)
 - explored increase of LOD for vegatation 
 - Lowered resupply times
+- adjusted cameras for T34's
+- added crosshairs to ship defguns
