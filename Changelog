@@ -19,6 +19,7 @@
 - Fixed icons for kits
 - added RTR Expansion into Mod (with all vehicles being tweaked for the mod)
 - updated custom maps and ported new ones into the mod
-- Damage tweaked for all tanks (FH)
+- Damage tweaked for all vehicles/tanks (EXCEPT : Katyusha, WasserFall, bombs, Big_bombs, all ships and Greyhound)
 - fixed kit index error (AT now moved to index 5)
-- explored increase of LOD for vegatation *
+- explored increase of LOD for vegatation 
+- Lowered resupply times
