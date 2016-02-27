@@ -28,5 +28,14 @@
 - added crosshairs to ship defguns
 - Adjusted MP18 Sights
 - Tweaked Repair time as well as heal time for wrench and medpack respectivley 
+
+---.15---
+- Set map names (Within Lexiconall)
+- Removed the DRK icon
+- Added and removed some custom maps
+- Tweaked the Aircraft Carrier resupply/repair
+- Added Chute Classes for Brits & Germans
+
 KNOWN BUGS 
 - Positions out of order for the Strum, and the Tiger
+- Brits & Germans Dropped kits need to be made proper 
