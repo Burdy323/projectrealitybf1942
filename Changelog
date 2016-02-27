@@ -36,7 +36,12 @@
 - Tweaked the Aircraft Carrier resupply/repair
 - Added Chute Classes for Brits & Germans
 
----.15a-- *NEED TO DO*
+---.15a-- 
+- Raised view distance for Battle of Britian 
+- Increased LOD distances for MOVE_FILES Geometry
+
+
+*NEED TO DO*
 - proper listing of SP/Coop maps. So if the map doesnt support SP - remove it from the ingame menu
 
 KNOWN BUGS 
