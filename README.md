@@ -8,6 +8,8 @@ http://www.bfmods.com/viewtopic.php?f=6&t=1563 (Deathbubble)
 
 http://www.bfmods.com/viewtopic.php?f=6&t=829  (Serverside Mod)
 
+http://www.bfmods.com/viewtopic.php?f=6&t=2209 (6th post explains how to spawn kits)
+
 http://www.bfmods.com/viewtopic.php?f=6&t=89 (Weapon kit spawn on vehicle)
 
 http://www.bfmods.com/viewtopic.php?f=6&t=238 (Changing Soldiermovement speed)
