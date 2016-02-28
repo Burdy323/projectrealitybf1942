@@ -14,6 +14,8 @@ http://www.bfmods.com/viewtopic.php?f=6&t=89 (Weapon kit spawn on vehicle)
 
 http://www.bfmods.com/viewtopic.php?f=6&t=238 (Changing Soldiermovement speed)
 
+http://bfmods.com/viewtopic.php?f=43&t=417 (Rallypoint script)
+
 http://www.bfmods.com/viewtopic.php?f=6&t=770 (damage bubble effect on child object)
 
 http://www.bfmods.com/viewtopic.php?f=9&t=13 (View Distance and LOD Distance Change info)
