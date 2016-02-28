@@ -22,4 +22,8 @@ http://www.bfmods.com/viewtopic.php?f=6&t=1381&sid=6f1e72ae44e562b195ab67e8b9f34
 
 http://bfmods.com/mdt/scripting/ObjectTemplate/Properties/CullRadiusScale.html (Also for LOD ^^)
 
+http://bfmods.com/viewtopic.php?f=6&t=1218 (Making mobile/Enterable spawns for aircraft)
+
+http://bfmods.com/viewtopic.php?f=6&t=1614 (Tracers)
+
 http://bfmods.com/mdt/scripting/Intro.html (All scripting commands)
