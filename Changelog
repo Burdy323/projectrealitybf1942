@@ -45,7 +45,7 @@
 - Adjusted K98 Sights, Set Velocity to 800
 - Adjusted Grenade Damage
 - Removed ground AA Sights
-- Ships moved to vanilla state, with Reload times and Weapon velocity tweaked
+- Ships reverted back to vanilla state, with Reload times and Weapon velocity tweaked
 
 *NEED TO DO*
 - proper listing of SP/Coop maps. So if the map doesnt support SP - remove it from the ingame menu
