@@ -1,17 +1,17 @@
+---UP TOO .13---
 - Multicrew vehicles
-- view distance 700 on all maps
-- new kits
-- disabled mini map (game.rfa)
-- iron sights
-- deviation and weapon damage changed (FH values with some mods)
-- vehicle ammo changed
-- handweapon ammo changed
-- global disable of 3rd person (game.rfa)
-- adjusted the hanger object con's for proper weapon resupply
-- fixed weapon sway
-- fixed lib of caen and BOB custom objects
-- new mod icon
-- upped arty count on guadacanal for testing purposes 
+- view distance 700-1500 on all maps (Unless maps gameplay depends on the viewdistance too be lower)
+- Every kit Redone
+- Disabled mini map (game.rfa)
+- Iron Sights Implemented
+- Deviation and Weapon Damage Changed (FH values with some mods)
+- Vehicle Ammo Changed
+- Handweapon Ammo Changed
+- Global disable of 3rd person (game.rfa)
+- Adjusted the Hanger Object Con's for proper weapon resupply
+- Fixed Weapon Sway
+- Fixed Lib of Caen and BOB custom objects
+- Upped Artillery Count on Guadacanal for testing purposes
 
 ^^UP TOO .13^^
 
@@ -57,6 +57,7 @@
 - Adjusted Reload for M1 Garand
 - Adjusted Position Picture for Panzer IV
 - Implemented ApacheThunders experimental cloud system for Battle of Britain 
+- Ammo Resupply times lowered
 
 
 
