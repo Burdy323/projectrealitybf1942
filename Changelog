@@ -62,6 +62,7 @@
 ---.16a---
 - Fixed Kasserine Pass, Liberation of Caen, and Invasion of Crete
 - Fixed Bren Sounds (imported extra sounds into the Sound.RFA)
+- Adjusted PAK40 Camera (Within XPACK1 Object.RFA)
 
 *NEED TO DO*
 - proper listing of SP/Coop maps. So if the map doesnt support SP - remove it from the ingame menu
