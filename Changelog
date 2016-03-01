@@ -48,13 +48,11 @@
 - Ships reverted back to vanilla state, with Reload times and Weapon velocity tweaked
 
 ---.16---
-http://bfmods.com/viewtopic.php?f=37&t=506
-- All kits went from from "ObjectTemplate.setHasCollisionPhysics 1" to "ObjectTemplate.setHasMobilePhysics 0" In order
-to have them fall through the ground when a player is killed (Removed picking up kits)
+- ObjectTemplate.setHasMobilePhysics 1 added too all kits  - kits will now disappear on death
 - adjusted War in the Pacific's (Island 64) Corsair ammo, as well as removed the greyhound
 - added some custom maps
 - further tweaks to LOD's
-- Unlocked 6th kit. 6th Kit is now a medic kit
+- Unlocked 6th kit. New kit is now an Engineer.
 - Added the Bren LMG to British and Canadian Kits
 - Adjusted Reload for M1 Garand
 - Adjusted Position Picture for Panzer IV
