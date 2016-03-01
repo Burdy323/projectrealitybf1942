@@ -52,7 +52,12 @@ http://bfmods.com/viewtopic.php?f=37&t=506
 - All kits went from from "ObjectTemplate.setHasCollisionPhysics 1" to "ObjectTemplate.setHasMobilePhysics 0" In order
 to have them fall through the ground when a player is killed (Removed picking up kits)
 - adjusted War in the Pacific's (Island 64) Corsair ammo, as well as removed the greyhound
+- added some custom maps
+- further tweaks to LOD's
 - Unlocked 6th kit. 6th Kit is now a medic kit
+- Added the Bren LMG to British and Canadian Kits
+- Adjusted Reload for M1 Garand
+
 
 *NEED TO DO*
 - proper listing of SP/Coop maps. So if the map doesnt support SP - remove it from the ingame menu
