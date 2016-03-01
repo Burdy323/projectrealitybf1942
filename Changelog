@@ -57,6 +57,9 @@ to have them fall through the ground when a player is killed (Removed picking up
 - Unlocked 6th kit. 6th Kit is now a medic kit
 - Added the Bren LMG to British and Canadian Kits
 - Adjusted Reload for M1 Garand
+- Adjusted Position Picture for Panzer IV
+- Implemented ApacheThunders experimental cloud system for Battle of Britain 
+
 
 
 *NEED TO DO*
@@ -65,4 +68,4 @@ to have them fall through the ground when a player is killed (Removed picking up
 
 KNOWN BUGS 
 - Positions out of order for the Strum, and the Tiger
-- Brits & Germans Dropped kits need to be made proper 
+- Scoreboard doesnt reflect the correct kit that the play is carrying
