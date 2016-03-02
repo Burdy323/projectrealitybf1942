@@ -68,6 +68,7 @@
 - Fixed Scoreboard icons (now are empty images)
 - Raised Sherman Turret by 0.001
 - Decreased Sherman gun's max rotation (how far it can aim downwards) from 10 to 7.5
+- Tweaked Sherman Driver camera
 *need to further tweak caen*
 
 
