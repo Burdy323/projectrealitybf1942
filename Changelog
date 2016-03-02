@@ -69,6 +69,17 @@
 - Raised Sherman Turret by 0.001
 - Decreased Sherman gun's max rotation (how far it can aim downwards) from 10 to 7.5
 - Tweaked Sherman Driver camera
+- Adjusted handling for all air vehicles (FH values for now)
+- Adjusted Critical hit damage and values (FH values for now)
+- Raised health of B17 from 450 to 750
+- Raised BF109 health from 100 to 125
+- Raised Corsair health from 100 to 140
+- Raised Ilyshun health from 130 to 230
+- Raised Mustang health from 100 to 130
+- Raised SBD health from 130 to 150
+- Raised Spitfire health from 100 to 135
+- Raised YAK health from 100 to 140
+- Raised Zero health from 100 to 120
 *need to further tweak caen*
 
 
