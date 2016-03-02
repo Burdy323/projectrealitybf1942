@@ -61,10 +61,11 @@
 
 ---.16a---
 - Fixed Kasserine Pass, Liberation of Caen, and Invasion of Crete
+- Removed custom objects from Antisi, fixed coral sea and added volumetric clouds like Battle of Britain 
 - Fixed Bren Sounds (imported extra sounds into the Sound.RFA)
 - Adjusted PAK40 Camera (Within XPACK1 Object.RFA)
-*need to further tweak caen, and remove ai.con from lib of neun, and coral sea (for coral - implement vanilla version and tweak
-for PR)*
+*need to further tweak caen*
+
 
 
 
