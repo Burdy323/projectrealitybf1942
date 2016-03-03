@@ -91,7 +91,7 @@
 - Adjusted all tank slots and cameras. Now, most tank drivers are now seated in the commander slot. Most Tanks also no longer have 
 an MG on the top
 
----.16d---
+---.17---
 - Battle Of Britain JU88's Adjusted
 - AA Guns properly sighted and FX fixed
 - Lowered Rocket count to 1 for AT
@@ -102,8 +102,9 @@ an MG on the top
 - Fixed healthbar kit icon for German Engineer
 - Lowered Jump animation speed down to .05 in order to combat bunny hopping
 - Movement speed down to 75% of original value
-*NEED TO FIX BREN SIGHTS*
-*Add Spawns to Half-Tracks*
+- Bren Sights Centered
+- Increased Parachute Drag
+- Removed flag spawns, added mobile HT spawns on Guadacanal (for proper PR Gamemode)
 
 
 
