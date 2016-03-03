@@ -94,8 +94,17 @@ an MG on the top
 ---.16d---
 - Battle Of Britain JU88's Adjusted
 - AA Guns properly sighted and FX fixed
-- Lowered Rocket count to 1
+- Lowered Rocket count to 1 for AT
+- Lowered mine count to 1
+- Lowered Grenade count to 2
 - Raised wrench cooldown and raised repair time
+- Raised medpack cooldown and raised heal time
+- Fixed healthbar kit icon for German Engineer
+- Lowered Jump animation speed down to .05 in order to combat bunny hopping
+- Movement speed down to 75% of original value
+*NEED TO FIX BREN SIGHTS*
+
+
 
 
 *NEED TO DO*
