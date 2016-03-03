@@ -1,0 +1,160 @@
+1) Disable Spawning on all flags that are not the Mainbase
+1A) HOW TO DO THIS : Go into the map folder, Conquest, ControlPointTemplates, and then every spawn that is not the Mainbase 
+: ObjectTemplate.setSpawnId  From whatever number to -1
+
+2) Copy and Paste the Objects Folder from Guadacanal into the map you are editing (The folder contains the spawnable Halftracks)
+
+3) Go into the map's init.con and add the line "run objects/objects" (This run's the custom Object Folder)
+
+4) Go into Conquest, spawnPointManagerSettings.con and add 
+"
+rem ----------------------------------------- 
+rem ---  AXIS HT  ---
+rem ----------------------------------------- 
+spawnPointManager.group 101
+spawnPointManager.groupTeam 1
+spawnPointManager.groupIcon test1.tga
+
+rem ----------------------------------------- 
+rem ---  AXIS HT  ---
+rem ----------------------------------------- 
+spawnPointManager.group 102
+spawnPointManager.groupTeam 1
+spawnPointManager.groupIcon test1.tga
+
+rem ----------------------------------------- 
+rem ---  AXIS HT  ---
+rem ----------------------------------------- 
+spawnPointManager.group 103
+spawnPointManager.groupTeam 1
+spawnPointManager.groupIcon test1.tga
+
+
+rem ----------------------------------------- 
+rem ---  ALLIED HT ---
+rem ----------------------------------------- 
+spawnPointManager.group 104
+spawnPointManager.groupTeam 2
+spawnPointManager.groupIcon test1.tga
+
+rem ----------------------------------------- 
+rem ---  ALLIED HT ---
+rem ----------------------------------------- 
+spawnPointManager.group 105
+spawnPointManager.groupTeam 2
+spawnPointManager.groupIcon test1.tga
+
+rem ----------------------------------------- 
+rem ---  ALLIED HT ---
+rem ----------------------------------------- 
+spawnPointManager.group 106
+spawnPointManager.groupTeam 2
+spawnPointManager.groupIcon test1.tga
+"
+
+This will allow the spawnable vehicles to be recognized by the map
+
+5) Go to Conquest, ObjectSpawnTemplates, and find any existing APCSpawners. Delete them. Replace with this
+
+"
+rem ----------------------------------------- 
+rem ---  APCSpawner  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner APCSpawner
+ObjectTemplate.setObjectTemplate 1 Hanomag
+ObjectTemplate.setObjectTemplate 2 m3a1
+ObjectTemplate.MinSpawnDelay 35
+ObjectTemplate.MaxSpawnDelay 155
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 1
+
+rem ----------------------------------------- 
+rem ---  APCSpawner2  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner APCSpawner2
+ObjectTemplate.setObjectTemplate 1 Hanomag_2
+ObjectTemplate.setObjectTemplate 2 m3a1_2
+ObjectTemplate.MinSpawnDelay 35
+ObjectTemplate.MaxSpawnDelay 155
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 1
+
+rem ----------------------------------------- 
+rem ---  APCSpawner3  ---
+rem ----------------------------------------- 
+ObjectTemplate.create ObjectSpawner APCSpawner3
+ObjectTemplate.setObjectTemplate 1 Hanomag_3
+ObjectTemplate.setObjectTemplate 2 m3a1_3
+ObjectTemplate.MinSpawnDelay 35
+ObjectTemplate.MaxSpawnDelay 155
+ObjectTemplate.SpawnDelayAtStart 0
+ObjectTemplate.TimeToLive 45
+ObjectTemplate.Distance 40
+ObjectTemplate.DamageWhenLost 10
+ObjectTemplate.maxNrOfObjectSpawned 1
+ObjectTemplate.teamOnVehicle 1
+"
+
+This will create the APC Spawners for the map. You can customize the variables however you like (Spawn delay, TTL, Damage when lost, etc.)
+
+6) Go into conquest, ObjectSpawns. This is where the spawners are called, and the object is placed. Find any pre-existing APCSpawners.
+delete them. Place down
+"
+rem ----------------------------------------- 
+rem ---  APCSpawner Axis ---
+rem ----------------------------------------- 
+Object.create APCSpawner
+Object.absolutePosition x/x/x
+Object.rotation x/x/x
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  APCSpawner2 Axis ---
+rem ----------------------------------------- 
+Object.create APCSpawner2
+Object.absolutePosition x/x/x
+Object.rotation x/x/x
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  APCSpawner3 Axis ---
+rem ----------------------------------------- 
+Object.create APCSpawner3
+Object.absolutePosition x/x/x
+Object.rotation x/x/x
+Object.setTeam 1
+
+rem ----------------------------------------- 
+rem ---  APCSpawner Allies ---
+rem ----------------------------------------- 
+Object.create APCSpawner
+Object.absolutePosition x/x/x
+Object.rotation x/x/x
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  APCSpawner2 Allies ---
+rem ----------------------------------------- 
+Object.create APCSpawner2
+Object.absolutePosition x/x/x
+Object.rotation x/x/x
+Object.setTeam 2
+
+rem ----------------------------------------- 
+rem ---  APCSpawner3 Allies ---
+rem ----------------------------------------- 
+Object.create APCSpawner3
+Object.absolutePosition x/x/x
+Object.rotation x/x/x
+Object.setTeam 2
+"
+This will call the spawners for each Halftrack. Where the X's are, put your own coordinates - this determines where the Halftrack will 
+spawn.
