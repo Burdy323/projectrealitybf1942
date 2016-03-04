@@ -112,6 +112,8 @@ an MG on the top
 - Reverted Jumping back to default values
 - Adjusted Priest Gunner camera
 
+---.17b---
+- SetSpeed's to 0.75 0.75 0.75 for lower body turning animations
 
 
 
