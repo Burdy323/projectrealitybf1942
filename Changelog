@@ -115,9 +115,8 @@ an MG on the top
 ---.17b---
 - Increased resupply radius back to default values
 - Increased soldier drag in objects.rfa
-- set max speed for soldier camera -.25
 - tweaked lower body animation speed
-- 
+- Removed custom objects from Carentaen, Brest, and Cherbourg
 
 
 
