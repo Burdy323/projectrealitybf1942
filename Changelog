@@ -113,7 +113,11 @@ an MG on the top
 - Adjusted Priest Gunner camera
 
 ---.17b---
-- SetSpeed's to 0.75 0.75 0.75 for lower body turning animations
+- Increased resupply radius back to default values
+- Increased soldier drag in objects.rfa
+- set max speed for soldier camera -.25
+- tweaked lower body animation speed
+- 
 
 
 
