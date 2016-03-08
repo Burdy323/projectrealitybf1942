@@ -112,16 +112,25 @@ an MG on the top
 - Reverted Jumping back to default values
 - Adjusted Priest Gunner camera
 
----.17b---
+---.17b/c---
 - Increased resupply radius back to default values
 - Increased soldier drag in objects.rfa
 - Removed custom objects from Carentaen, Brest, and Cherbourg
 
+---.17d---
+- Removed Grenades from Support class
+- Fixed airfield resupply
+
+*NEXT PATCH*
+- Fix Bugs
+- Add 5 classes to each side with Rally point (Pickup-able)
+- Remove HT MG - make it a supply truck that has a fire function which dispenses Ammo Boxes (Maybe carry 3-5, 2 min cooldown)
+- Add Ammobag to Support class. Can either function like BF1942 medpack, or can be like BF2 and drop and dissapear after a short time
 
 
 *NEED TO DO*
 - proper listing of SP/Coop maps. So if the map doesnt support SP - remove it from the ingame menu
 
 KNOWN BUGS 
-- Positions out of order for the Strum, and the Tiger
-- Scoreboard doesnt reflect the correct kit that the play is carrying
+- Positions out of order for the Strum
+- need to remove shell discharge from AA
