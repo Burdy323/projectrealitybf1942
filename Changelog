@@ -122,10 +122,11 @@ an MG on the top
 - Fixed airfield resupply
 
 ---.18---
-- *NEED TO ADJUST ZOOK DAMAGE*
-- *NEED TO ADJUST HELLS HIGHWAY JU*
-- *NEED TO PUT RTR MAPS IN PR1942 MAP FOLDER*
+- Raised Bazooka Damage
+- Fixed JU88 ammo count and vehicle properties on the map Hell's Highway 
+- Placed RTR maps in proper folder
 - Fixed APC map crash bug
+- Fixed French Kit Picture and removed nade
 - adjusted MG42 camera 
 - Lowered vehicle wreck times (in order to combat server lag)
 
