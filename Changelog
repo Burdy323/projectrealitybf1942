@@ -121,6 +121,16 @@ an MG on the top
 - Removed Grenades from Support class
 - Fixed airfield resupply
 
+---.18---
+- *NEED TO ADJUST ZOOK DAMAGE*
+- *NEED TO ADJUST HELLS HIGHWAY JU*
+- *NEED TO PUT RTR MAPS IN PR1942 MAP FOLDER*
+- Fixed APC map crash bug
+- adjusted MG42 camera 
+- Lowered vehicle wreck times (in order to combat server lag)
+
+
+
 *NEXT PATCH*
 - Fix Bugs
 - Add 5 classes to each side with Rally point (Pickup-able)
